@@ -1,0 +1,74 @@
+# Where the agent looks for news.
+#
+# Tiers decide what the agent is allowed to do:
+#   official         = can be posted directly
+#   trusted_fanbase  = can be posted directly, credits always required
+#   news_media       = NEVER posted on its own, only used to confirm official news
+#
+# role: translation = this account translates posts from the members or official accounts.
+#   Never make a separate post from it if the original news is also in this run or already posted.
+#   Use it only to understand the Korean original better, and credit both accounts.
+#
+# filter = only items that mention one of these words are used (for accounts that post about many artists).
+
+instagram:
+  # Read through the Instagram Business Discovery API. This only works for public
+  # Business or Creator accounts; for other accounts the log shows an error and they are skipped.
+  - handle: bts.bighitofficial
+    tier: official
+  # Member accounts
+  - handle: rkive          # RM
+    tier: official
+  - handle: jin            # Jin
+    tier: official
+  - handle: agustd         # SUGA
+    tier: official
+  - handle: uarmyhope      # j-hope
+    tier: official
+  - handle: j.m            # Jimin
+    tier: official
+  - handle: thv            # V
+    tier: official
+  - handle: mnijungkook    # Jung Kook
+    tier: official
+
+telegram:
+  # Public Telegram channels, read from the public web preview (t.me/s/<name>).
+  # Add trusted fanbase channels like this:
+  # - handle: example_channel
+  #   tier: trusted_fanbase
+
+rss:
+  - url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLkAepWjdylmXSltofFvsYQ
+    name: BANGTANTV
+    tier: official
+  - url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA
+    name: HYBE LABELS
+    tier: official
+    filter: ["BTS", "방탄소년단", "RM", "Jin", "SUGA", "Agust D", "j-hope", "Jimin", "Jung Kook", "Jungkook", " V "]
+  - url: https://www.soompi.com/feed
+    name: Soompi
+    tier: news_media
+    filter: ["BTS", "RM", "Jin", "SUGA", "j-hope", "Jimin", " V ", "Jung Kook", "Jungkook", "BIGHIT", "Weverse"]
+
+x:
+  # Reading X needs a paid X API plan (X_BEARER_TOKEN). Turn on once you have it.
+  enabled: false
+  accounts:
+    - handle: BTS_twt          # members post here directly
+      tier: official
+    - handle: bts_bighit       # run by BIGHIT MUSIC
+      tier: official
+    - handle: HYBEOFFICIALtwt  # HYBE, posts about many artists
+      tier: official
+      filter: ["BTS", "방탄소년단", "RM", "Jin", "SUGA", "j-hope", "Jimin", "Jung Kook", "Jungkook"]
+    - handle: BTS_Trans        # English translations of BTS posts
+      tier: trusted_fanbase
+      role: translation
+    - handle: btschartsxdaily  # charts and records
+      tier: trusted_fanbase
+
+# Not collectable automatically (no public API for reading these):
+#   TikTok bts_official_bighit
+#   Weverse
+# News from them reaches the agent through the accounts above that repost it.

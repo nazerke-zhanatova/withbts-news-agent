@@ -1,0 +1,49 @@
+# withBTS.kz news agent settings
+# Edit this file on GitHub (pencil icon) to change behaviour. Changes apply on the next run.
+
+# KILL SWITCH. Set to false to stop all publishing immediately.
+enabled: true
+
+# Dry run: true = the agent does everything except actually posting (good for the first test).
+dry_run: true
+
+# Where to publish. Turn each platform on once its keys are added in GitHub Secrets.
+platforms:
+  telegram: true
+  instagram: false
+  threads: false
+  x: false
+
+# Maximum new posts per run (the schedule runs every 3 hours).
+max_posts_per_run: 3
+
+# Script for Kazakh text: "cyrillic" or "latin"
+kazakh_script: cyrillic
+
+# Credits line added right under the post text. {credits} is replaced with the source account names.
+# The "@" is always removed so no wrong account gets tagged.
+credits_template: "credits: {credits}"
+
+# Hashtags added to every post (platform rules below decide how many are used).
+hashtags:
+  instagram: ["#BTS", "#방탄소년단", "#withBTSkz", "#BTSKazakhstan", "#ARMY"]
+  threads: ["#BTS", "#withBTSkz"]
+  x: ["#BTS", "#방탄소년단"]
+  telegram: ["#BTS", "#withBTSkz"]
+
+# Instagram card design (1080x1350), withBTS.kz brand.
+design:
+  background: "#CCAAFF"     # withBTS.kz lavender
+  highlight: "#FFC91D"      # yellow for highlights (tag label, accents)
+  text: "#111111"
+  muted: "#2B1A45"
+  brand_name: "withBTS.kz"
+  logo_file: "templates/logo_heart.png"        # heart logo
+  wordmark_file: "templates/logo_wordmark.png" # "withBTS.kz KAZAKHSTAN FANBASE"
+
+# Meta Graph API version used for Instagram. Update if Meta deprecates it.
+graph_api_version: "v23.0"
+
+# GitHub repo in "owner/name" form. Needed so Instagram and Threads can load the card image.
+# Leave empty: the workflow fills it automatically from GITHUB_REPOSITORY.
+public_repo: ""
