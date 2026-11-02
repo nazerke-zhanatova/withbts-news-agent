@@ -12,8 +12,7 @@ Read these before writing anything:
 
 ## Hard rules
 
-1. Only post news whose source tier is `official` or `trusted_fanbase`.
-   A `news_media` item may be posted only if an `official` or `trusted_fanbase` candidate in this run reports the same news. Otherwise skip it.
+1. Post news from `official` and `trusted_fanbase` sources, and from established news media: real news outlets and their reporters (for example Yonhap, StarNews, Newsen, OSEN, Sports Seoul, Xportsnews, TenAsia, News1, Newsis, Korea JoongAng Daily, The Korea Times, Billboard, Rolling Stone, Soompi). Gossip blogs, anonymous accounts, forums and "insider" pages are never sources. Credit the outlet (and the reporter or photographer if named) in `credits`.
 2. Never invent anything. Every fact, date, time, place, number and quote must come from the candidate text. If a detail is unclear, leave it out.
 3. Rumors, "insiders", dating news, speculation, leaks, hate, comparisons with other artists, sasaeng content, private life: always skip.
 4. Every post must have credits: the account names of the sources you used, without "@" (for example `bts.bighitofficial`). Put them in the `credits` field. The script adds the line `credits: ...` right under the text. A post without credits is rejected and never published.
@@ -22,12 +21,13 @@ Read these before writing anything:
    a. the candidate's own `media` field
    b. another candidate in this run (official or trusted_fanbase) about the same news, its `media`
    c. `state/photo_library.json`: photos saved from official and trusted posts in the last 7 days. Use one only if its `text` is clearly about the same news, same member or same event.
-   d. The internet: use WebSearch and WebFetch to find an official photo from BIGHIT MUSIC or HYBE about the same news. News articles (for example Korea JoongAng Daily, The Korea Times, Yonhap, Soompi, Weverse Magazine) often show official photos with a caption credit like "BIGHIT MUSIC" or "Courtesy of HYBE". Use only photos whose credit says BIGHIT MUSIC, HYBE or a member, never paparazzi, fan edits or stock photos. Give the direct image address in `"image_url"` (and `"carousel_urls"` for extra photos); the script downloads them. X and Weverse need a login, so look for the same photos in news articles instead. Prefer the newest ARIRANG era photos.
+   d. The internet: use WebSearch and WebFetch to find an official photo from BIGHIT MUSIC or HYBE about the same news. News articles (for example Korea JoongAng Daily, The Korea Times, Yonhap, Soompi, Weverse Magazine) often show official photos with a caption credit like "BIGHIT MUSIC" or "Courtesy of HYBE". Photos from established news media (rule 1), for example airport or event photos by StarNews, Yonhap, Newsen or OSEN reporters, are also allowed: credit the outlet as `image_credit` (and the photographer if named, for example "STARNEWS"). Never use photos from gossip blogs, anonymous accounts, fan edits, AI images or stock photos. Give the direct image address in `"image_url"` (and `"carousel_urls"` for extra photos); the script downloads them. X and Weverse need a login, so look for the same photos in news articles instead. Prefer the newest ARIRANG era photos.
    e. If nothing about this exact news is found, use the newest official ARIRANG group photo you can find (step d), or `fallback_group_photo` in `config/settings.yaml`.
    Set `image` to the file path (or null when you use `image_url`) and `image_credit` to the photo owner (BIGHIT MUSIC, HYBE or the account the photo came from), without "@". Add that owner to `credits` too.
    Faces: never use a photo where a face is cut off at the edge. Close-ups are fine. The script never crops faces.
    Members: BTS is 7 members (RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook).
    - Group news (about BTS, a tour, an album, the group): the photo must show ALL 7 members. Never a photo with only some of them.
+   - News about several members (for example "RM, V and Jimin arrived at the airport"): use photos of exactly those members, as named in the source caption. A carousel with one photo per member is good.
    - News about one member: use a photo of only that member. Never a photo of a different member, and never confuse members. If you are not 100% sure who is in the photo (from the source caption or the file you opened with Read), do not use it.
    - Open local photos with Read and check them before choosing. For `image_url` photos, choose only if the article caption clearly says who is in it.
    - Write who is in the cover photo in `"photo_members"`: ["all"] or for example ["Jimin"].
@@ -58,7 +58,7 @@ For each post, create `queue/<candidate id>.json`:
 {
   "id": "same id as the candidate",
   "category": "news | release | concert | schedule | live | award | birthday | other",
-  "source_tier": "official | trusted_fanbase",
+  "source_tier": "official | trusted_fanbase | news_media",
   "source_urls": ["https://..."],
   "credits": ["account1", "account2"],
   "image": "media/xxx.jpg or null",
