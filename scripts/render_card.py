@@ -1,4 +1,7 @@
-"""Render the Instagram card (1080x1350 PNG) for every post in queue/.
+"""Render the cover card (1080x1350 JPG) and carousel slides for every post in queue/.
+
+Instagram only accepts JPG, and carousel images must be between 4:5 and 1.91:1,
+so every slide is fitted onto a 1080x1350 canvas without cropping the photo.
 
 Usage: python scripts/render_card.py            (all queue files without a card)
        python scripts/render_card.py queue/x.json (one file)
@@ -177,22 +180,48 @@ def render(post, out_path):
     df = _font(30, bold=False)
     draw.text((W - PAD - draw.textlength(date, font=df), fy + 42), date, font=df, fill=muted)
 
-    img.save(out_path, "PNG", optimize=True)
+    img.save(out_path, "JPEG", quality=92, optimize=True)
+    return out_path
+
+
+def render_slide(src, out_path):
+    """Fit a photo on a 1080x1350 canvas (whole photo visible) over a blurred copy of itself."""
+    from PIL import ImageFilter
+
+    photo = Image.open(src).convert("RGB")
+    bg = ImageOps.fit(photo, (W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(40))
+    bg = Image.blend(bg, Image.new("RGB", (W, H), (0, 0, 0)), 0.35)
+    fg = ImageOps.contain(photo, (W, H), Image.LANCZOS)
+    bg.paste(fg, ((W - fg.width) // 2, (H - fg.height) // 2))
+    bg.save(out_path, "JPEG", quality=92, optimize=True)
     return out_path
 
 
 def main(paths):
     files = [Path(p) for p in paths] or sorted(QUEUE.glob("*.json"))
+    MEDIA.mkdir(exist_ok=True)
     for f in files:
         post = load_json(f, None)
         if not post:
             continue
-        out = MEDIA / f"card_{post['id']}.png"
-        MEDIA.mkdir(exist_ok=True)
+        out = MEDIA / f"card_{post['id']}.jpg"
         render(post, out)
         post["card_file"] = f"media/{out.name}"
+        slides = []
+        for n, src in enumerate((post.get("carousel") or [])[:9]):
+            src_path = (ROOT / src).resolve()
+            if not str(src_path).startswith(str(MEDIA.resolve())) or not src_path.exists():
+                log(f"  carousel photo skipped (not in media/): {src}")
+                continue
+            slide = MEDIA / f"slide_{post['id']}_{n}.jpg"
+            try:
+                render_slide(src_path, slide)
+                slides.append(f"media/{slide.name}")
+            except Exception as e:  # noqa: BLE001
+                log(f"  carousel photo skipped ({e}): {src}")
+        post["carousel_files"] = slides
         save_json(f, post)
-        log(f"Card rendered: {out.name}")
+        log(f"Card rendered: {out.name}" + (f" + {len(slides)} carousel photos" if slides else ""))
     return 0
 
 
