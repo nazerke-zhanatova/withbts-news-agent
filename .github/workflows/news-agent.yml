@@ -52,6 +52,7 @@ jobs:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: |
           python scripts/collect.py
+          python scripts/gate.py
           n=$(python -c "import json;print(len(json.load(open('state/candidates.json'))))")
           echo "count=$n" >> "$GITHUB_OUTPUT"
 
@@ -92,6 +93,7 @@ jobs:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_ALERT_CHAT_ID: ${{ secrets.TELEGRAM_ALERT_CHAT_ID }}
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
@@ -102,6 +104,8 @@ jobs:
         if: always() && steps.switch.outputs.on == 'true'
         env:
           WRITER_OUTCOME: ${{ steps.writer.outcome }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_ALERT_CHAT_ID: ${{ secrets.TELEGRAM_ALERT_CHAT_ID }}
         run: |
           python scripts/finalize.py
           git add -A media queue state
