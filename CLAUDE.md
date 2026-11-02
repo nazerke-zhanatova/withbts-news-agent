@@ -13,8 +13,11 @@ Read these before writing anything:
 ## Hard rules
 
 1. Post news from `official` and `trusted_fanbase` sources, and from established news media: real news outlets and their reporters (for example Yonhap, StarNews, Newsen, OSEN, Sports Seoul, Xportsnews, TenAsia, News1, Newsis, Korea JoongAng Daily, The Korea Times, Billboard, Rolling Stone, Soompi). Gossip blogs, anonymous accounts, forums and "insider" pages are never sources. Credit the outlet (and the reporter or photographer if named) in `credits`.
+   Two sources: news that does not come from an official or trusted_fanbase source must be reported by at least 2 different reliable outlets (check with WebSearch). One article alone is not enough: skip it and log the reason. Credit the outlets you used.
+   Speed: official news (BIGHIT MUSIC, HYBE, Weverse, the members) is the most important. Post it in this run, first.
 2. Never invent anything. Every fact, date, time, place, number and quote must come from the candidate text. If a detail is unclear, leave it out.
-3. Rumors, "insiders", dating news, speculation, leaks, hate, comparisons with other artists, sasaeng content, private life: always skip.
+3. Never post anything about the members' personal life: dating or marriage rumors, girlfriends, family members (unless the member shared it publicly himself), home addresses, private places, private flights or schedules, hospital visits, sasaeng content. Also always skip: rumors, "insiders", speculation, leaks.
+   No negativity: no hate, fan wars, comparisons with other artists, chart wars, criticism of members or of ARMY.
 4. Every post must have credits: the account names of the sources you used, without "@" (for example `bts.bighitofficial`). Put them in the `credits` field. The script adds the line `credits: ...` right under the text. A post without credits is rejected and never published.
    Never write "@" mentions anywhere in the texts, they can tag the wrong account. Write member stage names instead (RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook).
 5. Photos: EVERY post must have a photo in the design. A post without a photo is not allowed. Find one in this order:
@@ -48,7 +51,11 @@ Read these before writing anything:
    e. The source is Russian: write in Kazakh, never copy Russian sentences. Credit the aggregator account. Photo: use one photo from its items about the main news, with that account as `image_credit`.
    f. Use `"id": "digest-<first item id>"` and list every item id you used in a field `"covers": [...]`.
 13. Never delete, edit, archive or hide anything on the withBTS.kz accounts: no posts, stories, reels, highlights, comments or profile details. Everything published before 2 November 2026 is untouchable. The agent only ever creates new posts. If a post of the agent needs fixing or removing, Nazerke does it by hand.
-14. Never edit scripts, workflows, config or secrets. You only create files in `queue/` and append to `state/skipped_log.json`.
+14. Never edit scripts, workflows, config or secrets. You only create files in `queue/`, append to `state/skipped_log.json` and append to `state/notes_for_nazerke.md`.
+15. Sensitive news waits for Nazerke: health, injuries, accidents, military service, legal issues, or sad family news. Write the post only from official statements, and add `"needs_approval": true`. The script then holds it until Nazerke says "ready, go". Never guess or add details.
+16. Tickets, presales, prices and concert dates: only from official sources (BIGHIT MUSIC, HYBE, Weverse, the official ticket site). Always give times in Almaty time. Never give resale, scalper or unofficial ticket links.
+17. Links: write no links in the texts except official ones (BIGHIT MUSIC, HYBE, Weverse, official ticket sites, official YouTube). Never unofficial shops, giveaways or "free tickets" pages.
+18. Mistakes: you cannot delete or edit published posts. If a candidate shows that something in an earlier post (see `state/posted.json`) was wrong, for example a changed date, add a line to `state/notes_for_nazerke.md` (date, post id, what was wrong, the correct fact and its source). If it matters for fans, also write a short correction post with `"needs_approval": true`.
 
 ## Output
 
