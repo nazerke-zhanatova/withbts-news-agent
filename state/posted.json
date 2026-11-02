@@ -15,5 +15,21 @@
     "results": {
       "telegram": "dry_run"
     }
+  },
+  {
+    "id": "arirang-latam-to-asia",
+    "time": "2026-11-03T02:04+05:00",
+    "headline": "Латын Америкасы аяқталды, енді Азия!",
+    "category": "tour",
+    "source_urls": [
+      "https://www.koreajoongangdaily.com/entertainment/bts-closes-latin-american-leg-of-arirang-world-tour-with-14-soldout-shows/12949413",
+      "https://www.koreatimes.co.kr/entertainment/k-pop/20261102/bts-draws-853000-fans-across-14-sold-out-latin-american-shows"
+    ],
+    "credits": [
+      "BIGHIT MUSIC",
+      "Korea JoongAng Daily",
+      "The Korea Times"
+    ],
+    "status": "waiting for approval"
   }
 ]
