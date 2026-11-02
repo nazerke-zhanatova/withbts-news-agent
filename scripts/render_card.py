@@ -66,6 +66,13 @@ def fit_text(draw, text, max_w, max_lines, start, minimum, bold=True):
     return f, lines
 
 
+def no_emoji(text):
+    """Card fonts have no emoji: keep letters, digits and punctuation only."""
+    import unicodedata
+    out = "".join(ch for ch in (text or "") if unicodedata.category(ch)[0] in "LNPZ" or ch in "«»+%&")
+    return " ".join(out.split())
+
+
 def _mix(a, b, t):
     return tuple(int(x * t + y * (1 - t)) for x, y in zip(a, b))
 
@@ -103,8 +110,8 @@ def render(post, out_path):
         fade = fade.resize((W, 240))
         img.paste(Image.new("RGB", (W, 240), bg), (0, PHOTO_H - 240), fade)
         # photo credit on the image, no "@" so nobody is mis-tagged
-        names = ", ".join(dict.fromkeys(c.strip().lstrip("@") for c in post.get("credits", []) if c.strip()))
-        credit = f"photo: {names}"
+        owner = (post.get("image_credit") or (post.get("credits") or [""])[0]).strip().lstrip("@")
+        credit = f"photo: {owner}"
         cf = _font(24, bold=False)
         tw = draw.textlength(credit, font=cf)
         draw.rounded_rectangle((W - PAD - tw - 24, 28, W - PAD + 4, 72), radius=20, fill=(17, 17, 17))
@@ -121,7 +128,7 @@ def render(post, out_path):
             img.paste(h, (W - h.width - 40, 110), h)
         y = 620
 
-    card = post.get("card", {})
+    card = {k: no_emoji(v) if isinstance(v, str) else v for k, v in post.get("card", {}).items()}
 
     # tag pill in the highlight yellow
     tag = (card.get("tag") or "ЖАҢАЛЫҚ").upper()
