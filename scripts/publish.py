@@ -38,6 +38,11 @@ def validate(post):
         p = (ROOT / img).resolve()
         if not str(p).startswith(str((ROOT / "media").resolve())) or not p.exists():
             return f"image not from collected media: {img}"
+        ic = (post.get("image_credit") or "").strip().lstrip("@")
+        if not ic:
+            return "photo has no image_credit"
+        if ic.lower() not in [c.strip().lstrip("@").lower() for c in credits]:
+            post["credits"].append(ic)  # photo owner always appears in the credits line
     if not post.get("card_file") or not (ROOT / post["card_file"]).exists():
         return "card image not rendered"
     for k in ("telegram", "instagram", "threads", "x"):
@@ -96,6 +101,10 @@ def post_telegram(text, card, cfg):
     if not (token and chat):
         raise RuntimeError("TELEGRAM_BOT_TOKEN or TELEGRAM_CHANNEL_ID not set")
     api = f"https://api.telegram.org/bot{token}"
+    if card is None:  # no photo: text only
+        r = requests.post(f"{api}/sendMessage", data={"chat_id": chat, "text": text, "disable_web_page_preview": True}, timeout=60)
+        r.raise_for_status()
+        return str(r.json()["result"]["message_id"])
     with open(ROOT / card, "rb") as f:
         if len(text) <= 1024:
             r = requests.post(f"{api}/sendPhoto", data={"chat_id": chat, "caption": text}, files={"photo": f}, timeout=60)
@@ -194,7 +203,12 @@ def main():
             continue
 
         results = {}
+        has_photo = bool(post.get("image"))
         for p in platforms:
+            if not has_photo and p in ("instagram", "threads"):
+                results[p] = "skipped: no photo"
+                log(f"{post['id']}: no photo, skipping {p}")
+                continue
             text = compose(post, p, cfg)
             if dry:
                 results[p] = "dry_run"
@@ -204,7 +218,7 @@ def main():
                 log(f"[dry run] {p}: {post['id']} ({len(text)} chars)")
                 continue
             try:
-                results[p] = PUBLISHERS[p](text, post["card_file"], cfg)
+                results[p] = PUBLISHERS[p](text, post["card_file"] if has_photo else None, cfg)
                 log(f"Published {post['id']} to {p}: {results[p]}")
             except Exception as e:  # noqa: BLE001
                 results[p] = f"ERROR: {e}"
