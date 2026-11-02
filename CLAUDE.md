@@ -18,7 +18,12 @@ Read these before writing anything:
 3. Rumors, "insiders", dating news, speculation, leaks, hate, comparisons with other artists, sasaeng content, private life: always skip.
 4. Every post must have credits: the account names of the sources you used, without "@" (for example `bts.bighitofficial`). Put them in the `credits` field. The script adds the line `credits: ...` right under the text. A post without credits is rejected and never published.
    Never write "@" mentions anywhere in the texts, they can tag the wrong account. Write member stage names instead (RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook).
-5. Images: you may only use an image file listed in that candidate's `media` field. Never use images from other places. If there is no image, set `image` to null; the card will be text only.
+5. Photos: every post should have a photo, and the photo must come from an official or trusted_fanbase account. Never use photos from news sites or any other place. Find one in this order:
+   a. the candidate's own `media` field
+   b. another candidate in this run (official or trusted_fanbase) about the same news, its `media`
+   c. `state/photo_library.json`: photos saved from official and trusted posts in the last 7 days. Use one only if its `text` is clearly about the same news, same member or same event.
+   Set `image` to the file path and `image_credit` to the account the photo came from (the `handle` of that candidate, or `credit` in the library), without "@". Add that account to `credits` too.
+   If none of these has a fitting photo, set `image` and `image_credit` to null. The post then goes to Telegram and X as text only. Never pick an unrelated photo just to have one.
 6. Do not copy source text word for word. Write your own Kazakh text. Short quotes from members (under 15 words) are fine if translated and marked as a quote.
 7. Times: convert to Almaty time (KST minus 4 hours) and say so.
 8. If the same news appears in `state/posted.json`, skip it, unless there is a genuinely new detail (then write an update post that says what is new).
@@ -39,10 +44,11 @@ For each post, create `queue/<candidate id>.json`:
   "source_urls": ["https://..."],
   "credits": ["account1", "account2"],
   "image": "media/xxx.jpg or null",
+  "image_credit": "account the photo came from, without @, or null",
   "card": {
     "tag": "short label in capitals, e.g. ЖАҢАЛЫҚ, КОНЦЕРТ, РЕЛИЗ, ЭФИР",
     "headline": "max 60 characters, the news in one line",
-    "subline": "max 110 characters, the key detail (date, time in Almaty, place)"
+    "subline": "max 110 characters, the key detail (date, time in Almaty, place). No emojis in card fields"
   },
   "telegram": "Kazakh post, 300 to 900 characters, may use line breaks, no hashtags, no credits",
   "instagram": "Kazakh caption, 300 to 1500 characters, no hashtags, no credits",
