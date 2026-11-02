@@ -1,8 +1,14 @@
 """After a run: mark all candidates as seen, clear the candidate list, trim logs."""
 from common import STATE, load_json, log, save_json
 
+import os
+
 candidates = load_json(STATE / "candidates.json", [])
 seen = load_json(STATE / "seen.json", [])
+if os.environ.get("WRITER_OUTCOME") == "failure":
+    # Claude did not finish: keep these items unseen so the next run tries them again.
+    log(f"Writer step failed, {len(candidates)} candidates kept for the next run.")
+    candidates = []
 known = set(seen)
 seen += [c["id"] for c in candidates if c["id"] not in known]
 save_json(STATE / "seen.json", seen[-3000:])
