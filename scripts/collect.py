@@ -206,7 +206,9 @@ def collect_rss(entries):
     out = []
     for e in entries:
         try:
-            feed = feedparser.parse(e["url"], agent=UA["User-Agent"])
+            r = requests.get(e["url"], headers={**UA, "Accept-Language": "en-US,en;q=0.9"}, timeout=30)
+            feed = feedparser.parse(r.content)
+            log(f"RSS {e.get('name')}: HTTP {r.status_code}, {len(feed.entries)} entries")
         except Exception as ex:  # noqa: BLE001
             log(f"RSS {e.get('name')} failed: {ex}")
             continue
