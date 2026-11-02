@@ -24,6 +24,9 @@ Read these before writing anything:
    c. `state/photo_library.json`: photos saved from official and trusted posts in the last 7 days. Use one only if its `text` is clearly about the same news, same member or same event.
    Set `image` to the file path and `image_credit` to the account the photo came from (the `handle` of that candidate, or `credit` in the library), without "@". Add that account to `credits` too.
    If none of these has a fitting photo, set `image` and `image_credit` to null. The post then goes to Telegram and X as text only. Never pick an unrelated photo just to have one.
+   Photo credit: look at the photo itself. If it shows a watermark or a photographer/fansite name (for example "prominses"), that name is the photo owner: use it as `image_credit` and add it to `credits`, next to the account that reposted it.
+5b. Carousel: the first slide is always the withBTS.kz card. Add the source photos as extra slides in `"carousel": ["media/...", ...]` (max 9, same rules as `image`: only from official or trusted media, in the order they appeared). Do this whenever the text mentions photos, a photo shoot, concert pictures, a poster, a schedule image or anything readers will want to see. Add the owners of all carousel photos (including watermark names) to `credits`.
+   Never write in the text that photos were published unless those photos are in the carousel. If they are not available, leave that sentence out.
 6. Do not copy source text word for word. Write your own Kazakh text. Short quotes from members (under 15 words) are fine if translated and marked as a quote.
 7. Times: convert to Almaty time (KST minus 4 hours) and say so.
 8. If the same news appears in `state/posted.json`, skip it, unless there is a genuinely new detail (then write an update post that says what is new).
@@ -53,6 +56,7 @@ For each post, create `queue/<candidate id>.json`:
   "credits": ["account1", "account2"],
   "image": "media/xxx.jpg or null",
   "image_credit": "account the photo came from, without @, or null",
+  "carousel": ["media/xxx_1.jpg", "media/xxx_2.jpg"],
   "card": {
     "tag": "short label in capitals, e.g. ЖАҢАЛЫҚ, КОНЦЕРТ, РЕЛИЗ, ЭФИР",
     "headline": "max 60 characters, the news in one line",
