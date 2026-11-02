@@ -11,9 +11,11 @@
     "Korea JoongAng Daily",
     "The Korea Times"
   ],
-  "image": null,
+  "image": "media/web_arirang-latam-to-asia_cover.jpg",
   "image_credit": "BIGHIT MUSIC",
-  "carousel": [],
+  "carousel": [
+    "media/web_arirang-latam-to-asia_0.jpg"
+  ],
   "card": {
     "tag": "ӘЛЕМДІК ТУР",
     "headline": "Латын Америкасы аяқталды, енді Азия!",
@@ -29,5 +31,9 @@
   ],
   "photo_members": [
     "all"
+  ],
+  "card_file": "media/card_arirang-latam-to-asia.jpg",
+  "carousel_files": [
+    "media/slide_arirang-latam-to-asia_0.jpg"
   ]
 }
