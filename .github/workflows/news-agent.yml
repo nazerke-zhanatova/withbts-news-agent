@@ -2,8 +2,8 @@ name: withBTS.kz news agent
 
 on:
   schedule:
-    # Every 3 hours. Times are UTC; Almaty is UTC+5.
-    - cron: "17 */3 * * *"
+    # Every 30 minutes, so official news goes out fast. Times are UTC; Almaty is UTC+5.
+    - cron: "7,37 * * * *"
   workflow_dispatch: {}   # "Run workflow" button for manual runs
 
 concurrency:
