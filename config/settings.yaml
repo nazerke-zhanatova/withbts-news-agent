@@ -65,6 +65,21 @@ photo_domains:
   - ibighit.com
   - hybecorp.com
   - soompi.io
+  - starnewskorea.com
+  - newsen.com
+  - osen.co.kr
+  - sportsseoul.com
+  - xportsnews.com
+  - tenasia.co.kr
+  - news1.kr
+  - newsis.com
+  - yna.co.kr
+  - mk.co.kr
+  - hankyung.com
+  - joongang.co.kr
+  - chosun.com
+  - billboard.com
+  - rollingstone.com
 
 # Last-resort group photo (all 7 members, official BIGHIT MUSIC, ARIRANG tour, Sao Paulo, Oct 2026).
 fallback_group_photo:
