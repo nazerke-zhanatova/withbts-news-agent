@@ -1,0 +1,29 @@
+name: Token reminder
+
+# Sends Nazerke a private Telegram reminder to renew the Instagram and Threads tokens
+# (both made on 2 Nov 2026, valid about 60 days, so they expire around 1 Jan 2027).
+# 22 Dec and 29 Dec 2026 at 09:00 Almaty time (04:00 UTC). Can also be run by hand.
+on:
+  schedule:
+    - cron: "0 4 22,29 12 *"
+  workflow_dispatch: {}
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests PyYAML
+      - name: Send reminder
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_ALERT_CHAT_ID: ${{ secrets.TELEGRAM_ALERT_CHAT_ID }}
+        run: |
+          cd scripts
+          python -c "from common import alert; alert('🔑 withBTS.kz reminder: the Instagram and Threads tokens expire around 1 January 2027. After that the agent cannot post to Instagram and Threads (Telegram keeps working). Open Claude and say: renew the Instagram and Threads tokens. It takes about 10 minutes.')"
