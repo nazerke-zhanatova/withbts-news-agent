@@ -18,7 +18,7 @@
   },
   {
     "id": "arirang-latam-to-asia",
-    "time": "2026-11-03T02:04+05:00",
+    "time": "2026-11-03T02:27+05:00",
     "headline": "Латын Америкасы аяқталды, енді Азия!",
     "category": "tour",
     "source_urls": [
@@ -30,6 +30,11 @@
       "Korea JoongAng Daily",
       "The Korea Times"
     ],
-    "status": "waiting for approval"
+    "dry_run": false,
+    "results": {
+      "telegram": "19348",
+      "instagram": "18110867662923760",
+      "threads": "18112472771176390"
+    }
   }
 ]
