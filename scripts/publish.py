@@ -296,7 +296,7 @@ def main():
             f.unlink()
             continue
 
-        if approval_mode and not approved_run:
+        if (approval_mode or post.get("needs_approval")) and not approved_run:
             # Wait for Nazerke's approval: save the post and readable previews, publish nothing.
             pending.mkdir(parents=True, exist_ok=True)
             save_json(pending / f.name, post)
