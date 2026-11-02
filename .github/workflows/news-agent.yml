@@ -56,6 +56,7 @@ jobs:
           echo "count=$n" >> "$GITHUB_OUTPUT"
 
       - name: Write posts in Kazakh (Claude Code)
+        id: writer
         if: steps.switch.outputs.on == 'true' && steps.collect.outputs.count != '0'
         uses: anthropics/claude-code-action@v1
         with:
@@ -66,7 +67,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           prompt: "Read prompts/run.md and follow it exactly."
           claude_args: |
-            --model claude-sonnet-5-5
+            --model sonnet
             --max-turns 30
             --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch"
 
@@ -99,6 +100,8 @@ jobs:
 
       - name: Finish and save state
         if: always() && steps.switch.outputs.on == 'true'
+        env:
+          WRITER_OUTCOME: ${{ steps.writer.outcome }}
         run: |
           python scripts/finalize.py
           git add -A media queue state
