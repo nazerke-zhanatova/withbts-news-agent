@@ -39,7 +39,7 @@
   },
   {
     "id": "bts-return-incheon-1103",
-    "time": "2026-11-03T02:43+05:00",
+    "time": "2026-11-03T03:01+05:00",
     "headline": "BTS мүшелері Кореяға оралды!",
     "category": "news",
     "source_urls": [
@@ -49,6 +49,11 @@
     "credits": [
       "STARNEWS"
     ],
-    "status": "waiting for approval"
+    "dry_run": false,
+    "results": {
+      "telegram": "19350",
+      "instagram": "18653546947027065",
+      "threads": "18118949012061175"
+    }
   }
 ]
