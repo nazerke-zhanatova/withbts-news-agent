@@ -7,11 +7,15 @@ enabled: true
 # Dry run: true = the agent does everything except actually posting (good for the first test).
 dry_run: true
 
+# Approval mode: true = new posts wait in state/pending until Nazerke approves them
+# ("ready, go"), then the "Publish approved posts" workflow posts them. false = posts go out automatically.
+approval_mode: true
+
 # Where to publish. Turn each platform on once its keys are added in GitHub Secrets.
 platforms:
   telegram: true
-  instagram: false
-  threads: false
+  instagram: true
+  threads: true
   x: false
 
 # Maximum new posts per run (the schedule runs every 3 hours).
