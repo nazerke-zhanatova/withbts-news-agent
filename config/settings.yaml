@@ -30,10 +30,11 @@ credits_template: "credits: {credits}"
 
 # Hashtags added to every post (platform rules below decide how many are used).
 hashtags:
-  instagram: ["#BTS", "#방탄소년단", "#withBTSkz", "#BTSKazakhstan", "#ARMY"]
-  threads: ["#BTS", "#withBTSkz"]
-  x: ["#BTS", "#방탄소년단"]
-  telegram: ["#BTS", "#withBTSkz"]
+  # Nazerke's rule: these hashtags go under every text on every platform.
+  instagram: ["#bts", "#btsarirang", "#withbtskz", "#kzarmy", "#кзарми"]
+  threads: ["#bts", "#btsarirang", "#withbtskz", "#kzarmy", "#кзарми"]
+  x: ["#bts", "#btsarirang", "#withbtskz", "#kzarmy", "#кзарми"]
+  telegram: ["#bts", "#btsarirang", "#withbtskz", "#kzarmy", "#кзарми"]
 
 # Instagram card design (1080x1350), withBTS.kz brand.
 design:
