@@ -27,6 +27,22 @@ def settings():
     return s
 
 
+def alert(text):
+    """Send a private Telegram message to Nazerke (sensitive news, errors, mistakes).
+    Needs TELEGRAM_BOT_TOKEN and TELEGRAM_ALERT_CHAT_ID. Never raises."""
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat = os.environ.get("TELEGRAM_ALERT_CHAT_ID")
+    if not token or not chat:
+        print("alert not sent (TELEGRAM_ALERT_CHAT_ID not set): " + text[:200])
+        return
+    try:
+        import requests
+        requests.post(f"https://api.telegram.org/bot{token}/sendMessage",
+                      data={"chat_id": chat, "text": text[:4000]}, timeout=20)
+    except Exception as e:  # noqa: BLE001
+        print(f"alert failed: {e}")
+
+
 def load_json(path, default):
     path = Path(path)
     if not path.exists():
