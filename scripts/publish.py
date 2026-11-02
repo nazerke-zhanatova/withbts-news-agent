@@ -56,6 +56,8 @@ def validate(post):
     if post["source_tier"] not in ("official", "trusted_fanbase"):
         return f"source tier not allowed: {post['source_tier']}"
     img = post.get("image")
+    if not img:
+        return "no photo (every post must have a photo in the design)"
     if img:
         p = (ROOT / img).resolve()
         if not str(p).startswith(str((ROOT / "media").resolve())) or not p.exists():
@@ -71,6 +73,10 @@ def validate(post):
             return f"carousel photo not from collected media: {c}"
     if not post.get("card_file") or not (ROOT / post["card_file"]).exists():
         return "card image not rendered"
+    for k in ("telegram", "instagram", "threads"):
+        tail = "\n".join(post[k].strip().splitlines()[-2:])
+        if "?" not in tail:
+            return f"{k} text does not end with a question to ARMY"
     for k in ("telegram", "instagram", "threads", "x"):
         if "credits" in post[k].lower():
             return f"{k} text contains its own credits line (script adds it)"
