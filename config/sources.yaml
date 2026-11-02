@@ -45,11 +45,12 @@ rss:
   - url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA
     name: HYBE LABELS
     tier: official
-    filter: ["BTS", "방탄소년단", "RM", "Jin", "SUGA", "Agust D", "j-hope", "Jimin", "Jung Kook", "Jungkook", " V "]
+    filter: ["BTS", "방탄소년단", "RM", "Jin", "SUGA", "Agust D", "j-hope", "Jimin", "Jung Kook", "Jungkook"]
   - url: https://www.soompi.com/feed
     name: Soompi
     tier: news_media
-    filter: ["BTS", "RM", "Jin", "SUGA", "j-hope", "Jimin", " V ", "Jung Kook", "Jungkook", "BIGHIT", "Weverse"]
+    # News sites always write "BTS's Jin" etc, so these words are enough and avoid drama news noise
+    filter: ["BTS", "방탄소년단", "BIGHIT"]
 
 x:
   # Reading X needs a paid X API plan (X_BEARER_TOKEN). Turn on once you have it.
