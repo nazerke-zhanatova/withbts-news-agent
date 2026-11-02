@@ -39,13 +39,7 @@ telegram:
   #   tier: trusted_fanbase
 
 rss:
-  - url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLkAepWjdylmXSltofFvsYQ
-    name: BANGTANTV
-    tier: official
-  - url: https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA
-    name: HYBE LABELS
-    tier: official
-    filter: ["BTS", "방탄소년단", "RM", "Jin", "SUGA", "Agust D", "j-hope", "Jimin", "Jung Kook", "Jungkook"]
+  # News feeds (RSS). Empty for now: YouTube news reaches the agent through the official accounts.
 
 x:
   # Reading X needs a paid X API plan (X_BEARER_TOKEN). Turn on once you have it.
