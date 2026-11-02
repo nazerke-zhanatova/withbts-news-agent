@@ -1,5 +1,5 @@
 """After a run: mark all candidates as seen, clear the candidate list, trim logs."""
-from common import STATE, load_json, log, save_json
+from common import STATE, alert, load_json, log, save_json
 
 import os
 
@@ -13,6 +13,16 @@ known = set(seen)
 seen += [c["id"] for c in candidates if c["id"] not in known]
 save_json(STATE / "seen.json", seen[-3000:])
 save_json(STATE / "candidates.json", [])
+
+# Mistake notes from the writer (CLAUDE.md rule 18): send new lines to Nazerke.
+notes_file = STATE / "notes_for_nazerke.md"
+if notes_file.exists():
+    lines = [l for l in notes_file.read_text(encoding="utf-8").splitlines() if l.strip()]
+    sent = load_json(STATE / "notes_sent.json", {"count": 0})
+    new_lines = lines[sent.get("count", 0):]
+    if new_lines:
+        alert("📝 withBTS.kz: the agent found a possible mistake in an earlier post.\n\n" + "\n".join(new_lines)[:3500])
+        save_json(STATE / "notes_sent.json", {"count": len(lines)})
 
 skipped = load_json(STATE / "skipped_log.json", [])
 save_json(STATE / "skipped_log.json", skipped[-500:])
