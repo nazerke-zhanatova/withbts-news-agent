@@ -37,7 +37,8 @@ Read these before writing anything:
    d. If only one item is left, write a normal post instead of a digest. If nothing is left, write nothing.
    e. The source is Russian: write in Kazakh, never copy Russian sentences. Credit the aggregator account. Photo: use one photo from its items about the main news, with that account as `image_credit`.
    f. Use `"id": "digest-<first item id>"` and list every item id you used in a field `"covers": [...]`.
-13. Never edit scripts, workflows, config or secrets. You only create files in `queue/` and append to `state/skipped_log.json`.
+13. Never delete, edit, archive or hide anything on the withBTS.kz accounts: no posts, stories, reels, highlights, comments or profile details. Everything published before 2 November 2026 is untouchable. The agent only ever creates new posts. If a post of the agent needs fixing or removing, Nazerke does it by hand.
+14. Never edit scripts, workflows, config or secrets. You only create files in `queue/` and append to `state/skipped_log.json`.
 
 ## Output
 
