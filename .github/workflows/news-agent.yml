@@ -66,7 +66,6 @@ jobs:
           # anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           prompt: "Read prompts/run.md and follow it exactly."
-          show_full_output: true
           claude_args: |
             --model sonnet
             --max-turns 30
@@ -82,7 +81,7 @@ jobs:
           git config user.name "withbts-news-agent"
           git config user.email "actions@users.noreply.github.com"
           git add media queue state
-          git diff --cached --quiet || (git commit -q -m "Cards $(date -u +%F_%H%M)" && git push -q)
+          git diff --cached --quiet || (git commit -q -m "Cards $(date -u +%F_%H%M)" && (for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 7; done))
 
       - name: Publish
         if: steps.switch.outputs.on == 'true'
@@ -106,4 +105,4 @@ jobs:
         run: |
           python scripts/finalize.py
           git add -A media queue state
-          git diff --cached --quiet || (git commit -q -m "Run $(date -u +%F_%H%M)" && git push -q)
+          git diff --cached --quiet || (git commit -q -m "Run $(date -u +%F_%H%M)" && (for i in 1 2 3 4 5; do git pull -q --rebase -X theirs && git push -q && break; sleep 7; done))
