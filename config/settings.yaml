@@ -19,6 +19,10 @@ platforms:
   threads: true
   x: false
 
+# Smart schedule: news is checked every 30 minutes. Official and trusted (non-aggregator)
+# news is written right away; news sites and aggregator channels wait for a batch every N hours.
+batch_hours: 3
+
 # Maximum new posts per run (the schedule runs every 30 minutes).
 max_posts_per_run: 3
 
