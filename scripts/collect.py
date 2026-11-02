@@ -61,6 +61,34 @@ def download(url, cid, n=0):
 
 # ---------------- Instagram (Business Discovery) ----------------
 
+def instagram_self_check(ver, token, ig_user):
+    """Check that the token can see our own Instagram account. If not, log what the token
+    CAN see, to help fix the setup. The token itself is never printed."""
+    base = f"https://graph.facebook.com/{ver}"
+    try:
+        me = requests.get(f"{base}/{ig_user}", params={"fields": "id,username", "access_token": token}, timeout=30).json()
+    except Exception as ex:  # noqa: BLE001
+        log(f"Instagram self-check failed: {ex}")
+        return False
+    if "error" not in me:
+        log(f"Instagram self-check OK: connected as @{me.get('username')}")
+        return True
+    log(f"Instagram self-check: IG_USER_ID not readable: {me['error'].get('message')}")
+    for label, path, params in [
+        ("token owner", "me", {"fields": "id,name"}),
+        ("pages and linked Instagram", "me/accounts", {"fields": "name,instagram_business_account{id,username}"}),
+        ("token permissions", "me/permissions", {}),
+    ]:
+        try:
+            r = requests.get(f"{base}/{path}", params={**params, "access_token": token}, timeout=30).json()
+            log(f"Instagram self-check, {label}: {r}")
+        except Exception as ex:  # noqa: BLE001
+            log(f"Instagram self-check, {label} failed: {ex}")
+    log("Hint: if an instagram_business_account id above is shown in clear text, that is the right "
+        "IG_USER_ID (the saved one is masked as ***).")
+    return False
+
+
 def collect_instagram(entries, cfg):
     token = os.environ.get("IG_ACCESS_TOKEN")
     ig_user = os.environ.get("IG_USER_ID")
@@ -70,6 +98,8 @@ def collect_instagram(entries, cfg):
         log("Instagram sources skipped: IG_ACCESS_TOKEN or IG_USER_ID not set")
         return []
     ver = cfg.get("graph_api_version", "v23.0")
+    if not instagram_self_check(ver, token, ig_user):
+        return []
     out = []
     for e in entries:
         handle = e["handle"]
