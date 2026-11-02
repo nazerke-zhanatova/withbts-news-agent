@@ -33,8 +33,12 @@ def recent(ts):
 
 
 def passes(entry, text):
-    words = entry.get("filter") or []
-    return not words or any(w in f" {text} " for w in words)
+    """Keyword filter, matched as whole words (so "Jin" does not match "Seo Hyun Jin" style
+    substrings like "Jinyoung", and "RM" does not match inside other words)."""
+    words = [w.strip() for w in (entry.get("filter") or []) if w.strip()]
+    if not words:
+        return True
+    return any(re.search(rf"(?<![A-Za-z0-9]){re.escape(w)}(?![A-Za-z0-9])", text) for w in words)
 
 
 def download(url, cid, n=0):
@@ -175,12 +179,10 @@ def collect_rss(entries):
         except Exception as ex:  # noqa: BLE001
             log(f"RSS {e.get('name')} failed: {ex}")
             continue
-        words = e.get("filter") or []
         for item in feed.entries[:30]:
             title = item.get("title", "")
             summary = re.sub(r"<[^>]+>", " ", item.get("summary", ""))
-            blob = f" {title} {summary} "
-            if words and not any(w in blob for w in words):
+            if not passes(e, f"{title} {summary}"):
                 continue
             ts = None
             for key in ("published", "updated"):
@@ -268,6 +270,26 @@ def collect_x(cfg_x):
     return out
 
 
+def update_photo_library(new_items):
+    """Remember photos from official and trusted posts for 7 days, so a later post
+    about the same news can reuse a photo (with that account credited)."""
+    lib = load_json(STATE / "photo_library.json", [])
+    known = {e["path"] for e in lib}
+    for item in new_items:
+        for path in item.get("media", []):
+            if path not in known:
+                lib.append({
+                    "path": path,
+                    "credit": item["handle"].lstrip("@"),
+                    "tier": item["tier"],
+                    "source_url": item.get("url"),
+                    "text": (item.get("text") or "")[:400],
+                    "timestamp": item.get("timestamp"),
+                })
+    lib = [e for e in lib if (MEDIA.parent / e["path"]).exists()][-300:]
+    save_json(STATE / "photo_library.json", lib)
+
+
 def main():
     cfg = settings()
     if not cfg.get("enabled", True):
@@ -299,6 +321,7 @@ def main():
                     item["media"].append(p)
 
     save_json(STATE / "candidates.json", new)
+    update_photo_library(new)
     log(f"Collected {len(items)} items, {len(new)} new candidates.")
     return 0
 
