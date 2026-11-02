@@ -252,6 +252,62 @@ def render_slide(src, out_path):
     return out_path
 
 
+def _allowed(url, domains):
+    from urllib.parse import urlparse
+    host = (urlparse(url).hostname or "").lower()
+    return url.startswith("https://") and any(host == d or host.endswith("." + d) for d in domains)
+
+
+def download_photo(url, out_path, domains):
+    """Download a photo the writer found on the internet (CLAUDE.md rule 5d). Returns the path or None."""
+    import io
+    import requests
+    if not url or not _allowed(url, domains):
+        log(f"  photo url not allowed or empty: {url}")
+        return None
+    try:
+        r = requests.get(url, timeout=30, headers={"User-Agent": "Mozilla/5.0 withBTS.kz news agent"})
+        r.raise_for_status()
+        if len(r.content) > 15_000_000:
+            raise ValueError("file too large")
+        img = Image.open(io.BytesIO(r.content))
+        img = ImageOps.exif_transpose(img).convert("RGB")
+        if min(img.size) < 400:
+            raise ValueError(f"photo too small {img.size}")
+        img.save(out_path, "JPEG", quality=95)
+        log(f"  photo downloaded: {url} -> {out_path.name}")
+        return out_path
+    except Exception as e:  # noqa: BLE001
+        log(f"  photo download failed ({e}): {url}")
+        return None
+
+
+def fetch_remote_photos(post):
+    """Turn image_url / carousel_urls into files in media/. Falls back to the official group photo."""
+    s = settings()
+    domains = [d.lower() for d in s.get("photo_domains", [])]
+    pid = post["id"]
+    has_local = post.get("image") and (ROOT / post["image"]).exists()
+    if not has_local and post.get("image_url"):
+        got = download_photo(post["image_url"], MEDIA / f"web_{pid}_cover.jpg", domains)
+        if got:
+            post["image"] = f"media/{got.name}"
+    if not (post.get("image") and (ROOT / post["image"]).exists()):
+        fb = s.get("fallback_group_photo") or {}
+        if fb.get("url") and (post.get("photo_members") in (None, [], ["all"])):
+            got = download_photo(fb["url"], MEDIA / f"web_{pid}_fallback.jpg", domains)
+            if got:
+                post["image"] = f"media/{got.name}"
+                post["image_credit"] = fb.get("credit", "BIGHIT MUSIC")
+                log("  no photo found, used the official fallback group photo")
+    carousel = list(post.get("carousel") or [])
+    for n, url in enumerate((post.get("carousel_urls") or [])[:9]):
+        got = download_photo(url, MEDIA / f"web_{pid}_{n}.jpg", domains)
+        if got:
+            carousel.append(f"media/{got.name}")
+    post["carousel"] = carousel[:9]
+
+
 def main(paths):
     files = [Path(p) for p in paths] or sorted(QUEUE.glob("*.json"))
     MEDIA.mkdir(exist_ok=True)
@@ -259,6 +315,7 @@ def main(paths):
         post = load_json(f, None)
         if not post:
             continue
+        fetch_remote_photos(post)
         out = MEDIA / f"card_{post['id']}.jpg"
         render(post, out)
         post["card_file"] = f"media/{out.name}"
