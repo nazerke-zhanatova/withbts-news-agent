@@ -9,7 +9,11 @@
 #   Never make a separate post from it if the original news is also in this run or already posted.
 #   Use it only to understand the Korean original better, and credit both accounts.
 #
+# role: aggregator = an account that posts many small news items. All its new items in one run
+#   are grouped into ONE digest post, without news that is already posted or covered by another source.
+#
 # filter = only items that mention one of these words are used (for accounts that post about many artists).
+# limit = how many latest posts to read per run (default 8).
 
 instagram:
   # Read through the Instagram Business Discovery API. This only works for public
@@ -31,6 +35,11 @@ instagram:
     tier: official
   - handle: mnijungkook    # Jung Kook
     tier: official
+  # Trusted fanbases
+  - handle: btsnewsru      # Russian-language BTS news, posts a lot
+    tier: trusted_fanbase
+    role: aggregator       # its news is grouped into one digest post per run
+    limit: 25              # read up to 25 latest posts per run
 
 telegram:
   # Public Telegram channels, read from the public web preview (t.me/s/<name>).
