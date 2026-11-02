@@ -38,7 +38,7 @@ def _guarded_request(self, method, url, *args, **kwargs):
 requests.delete = _no_delete
 requests.Session.request = _guarded_request
 
-from common import QUEUE, ROOT, STATE, load_json, log, now_almaty, save_json, settings
+from common import QUEUE, ROOT, STATE, alert, load_json, log, now_almaty, save_json, settings
 
 LIMITS = {"telegram": 4000, "instagram": 2200, "threads": 500, "x": 280}
 REQUIRED = ["id", "credits", "card", "telegram", "instagram", "threads", "x", "source_tier"]
@@ -310,6 +310,11 @@ def main():
             })
             f.unlink()
             log(f"Waiting for approval: {post['id']}")
+            if post.get("needs_approval"):
+                alert("⚠️ withBTS.kz: a sensitive post is waiting for your approval.\n\n"
+                      f"{post['card'].get('headline', '')}\n\n"
+                      f"{post.get('telegram', '')[:600]}\n\n"
+                      "Nothing was published. Open Claude and say \"ready, go\" to publish it, or ignore it.")
             continue
 
         results = {}
@@ -345,6 +350,12 @@ def main():
             "dry_run": dry,
             "results": results,
         }
+        errors = {p: r for p, r in results.items() if str(r).startswith("ERROR")}
+        if errors:
+            alert("❗ withBTS.kz: publishing problem.\n\n"
+                  f"Post: {post['card'].get('headline', '')}\n"
+                  + "\n".join(f"{p}: {r[:300]}" for p, r in errors.items())
+                  + "\n\nOther platforms: " + ", ".join(p for p in results if p not in errors))
         posted = [e for e in posted if e.get("id") != post["id"]] + [entry]
         save_json(archive / f.name, post)
         f.unlink()
@@ -355,6 +366,9 @@ def main():
     save_json(STATE / "posted.json", posted[-1000:])
     if not approved_run:
         leftover = sorted(QUEUE.glob("*.json"))
+        if leftover:
+            alert(f"ℹ️ withBTS.kz: {len(leftover)} extra posts were over the per-run limit and were not published: "
+                  + ", ".join(f.stem for f in leftover))
         for f in leftover:  # more than max_posts_per_run: set aside, never published later as stale news
             rejected.mkdir(parents=True, exist_ok=True)
             shutil.move(str(f), str(rejected / f.name))
