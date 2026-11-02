@@ -18,6 +18,8 @@
 instagram:
   # Read through the Instagram Business Discovery API. This only works for public
   # Business or Creator accounts; for other accounts the log shows an error and they are skipped.
+  # NOTE: reading other accounts needs Meta App Review (Advanced Access). Until then these
+  # show "(#10) Application does not have permission" in the log and are skipped.
   - handle: bts.bighitofficial
     tier: official
   # Member accounts
@@ -43,7 +45,10 @@ instagram:
 
 telegram:
   # Public Telegram channels, read from the public web preview (t.me/s/<name>).
-  # Add trusted fanbase channels like this:
+  - handle: btsnewsru0     # Russian-language BTS news channel, posts a lot
+    tier: trusted_fanbase
+    role: aggregator       # its news is grouped into one digest post per run
+  # Add more trusted channels like this:
   # - handle: example_channel
   #   tier: trusted_fanbase
 
