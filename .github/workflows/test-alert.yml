@@ -1,0 +1,25 @@
+name: Test alert
+
+# Run by hand to check that private Telegram alerts reach Nazerke.
+on:
+  workflow_dispatch: {}
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests PyYAML
+      - name: Send test alert
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_ALERT_CHAT_ID: ${{ secrets.TELEGRAM_ALERT_CHAT_ID }}
+        run: |
+          cd scripts
+          python -c "from common import alert; alert('✅ withBTS.kz agent: test alert. Alerts work! You will get a message here when a sensitive post waits for your approval, when publishing fails, or when the agent finds a mistake.')"
