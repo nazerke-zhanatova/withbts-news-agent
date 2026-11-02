@@ -145,7 +145,7 @@ def collect_instagram(entries, cfg):
                 "url": m.get("permalink"),
                 "text": m.get("caption", "") or "",
                 "timestamp": ts.isoformat(),
-                "_images": image_urls[:3],
+                "_images": image_urls[:9],
             })
     return out
 
@@ -191,7 +191,7 @@ def collect_telegram(entries):
                 "url": f"https://t.me/{post}",
                 "text": text,
                 "timestamp": ts.isoformat() if ts else None,
-                "_images": images[:3],
+                "_images": images[:9],
             })
     return out
 
@@ -296,7 +296,7 @@ def collect_x(cfg_x):
                 "url": f"https://x.com/{handle}/status/{t['id']}",
                 "text": t.get("text", ""),
                 "timestamp": ts.isoformat(),
-                "_images": images[:3],
+                "_images": images[:9],
             })
     return out
 
