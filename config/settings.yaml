@@ -51,3 +51,21 @@ graph_api_version: "v23.0"
 # GitHub repo in "owner/name" form. Needed so Instagram and Threads can load the card image.
 # Leave empty: the workflow fills it automatically from GITHUB_REPOSITORY.
 public_repo: ""
+
+# Photos the agent finds on the internet (CLAUDE.md rule 5d) are downloaded only from these sites.
+photo_domains:
+  - image.koreajoongangdaily.com
+  - newsimg.koreatimes.co.kr
+  - img.yna.co.kr
+  - pbs.twimg.com
+  - telesco.pe
+  - phinf.wevpstatic.net
+  - weverse.io
+  - ibighit.com
+  - hybecorp.com
+  - soompi.io
+
+# Last-resort group photo (all 7 members, official BIGHIT MUSIC, ARIRANG tour, Sao Paulo, Oct 2026).
+fallback_group_photo:
+  url: "https://image.koreajoongangdaily.com/12949651.jpg?imageId=12949651&width=1600"
+  credit: "BIGHIT MUSIC"
