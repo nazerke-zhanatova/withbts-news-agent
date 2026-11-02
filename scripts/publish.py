@@ -207,9 +207,10 @@ def post_instagram(text, card, cfg, slides=None):
 
 
 def post_threads(text, card, cfg, slides=None):
-    token, user = os.environ.get("THREADS_ACCESS_TOKEN"), os.environ.get("THREADS_USER_ID")
-    if not (token and user):
-        raise RuntimeError("THREADS_ACCESS_TOKEN or THREADS_USER_ID not set")
+    token = os.environ.get("THREADS_ACCESS_TOKEN")
+    user = os.environ.get("THREADS_USER_ID") or "me"   # "me" works with a Threads user token
+    if not token:
+        raise RuntimeError("THREADS_ACCESS_TOKEN not set")
     base = "https://graph.threads.net/v1.0"
     images = [card] + list(slides or [])
     if len(images) == 1:
@@ -260,16 +261,23 @@ def main():
     if not cfg.get("enabled", True):
         log("Kill switch is off (enabled: false). Nothing published.")
         return 0
-    dry = cfg.get("dry_run", True)
+    approved_run = os.environ.get("PUBLISH_PENDING") == "1"   # Nazerke said "ready, go"
+    approval_mode = bool(cfg.get("approval_mode", False))
+    dry = cfg.get("dry_run", True) and not approved_run
     platforms = [p for p, on in (cfg.get("platforms") or {}).items() if on]
     posted = load_json(STATE / "posted.json", [])
     archive = STATE / "archive"
     rejected = STATE / "rejected"
+    pending = STATE / "pending"
     limit = int(cfg.get("max_posts_per_run", 3))
 
-    files = sorted(QUEUE.glob("*.json"))[:limit]
+    if approved_run:
+        files = sorted(pending.glob("*.json"))
+        log(f"Publishing {len(files)} approved posts to: {', '.join(platforms)}")
+    else:
+        files = sorted(QUEUE.glob("*.json"))[:limit]
     if not files:
-        log("Queue is empty. Nothing to publish.")
+        log("Nothing to publish.")
     for f in files:
         post = load_json(f, None)
         if not post:
@@ -280,6 +288,22 @@ def main():
             post["rejected_reason"] = reason
             save_json(rejected / f.name, post)
             f.unlink()
+            continue
+
+        if approval_mode and not approved_run:
+            # Wait for Nazerke's approval: save the post and readable previews, publish nothing.
+            pending.mkdir(parents=True, exist_ok=True)
+            save_json(pending / f.name, post)
+            for p in platforms:
+                (pending / f"{post['id']}.{p}.txt").write_text(compose(post, p, cfg), encoding="utf-8")
+            posted.append({
+                "id": post["id"], "time": now_almaty().isoformat(timespec="minutes"),
+                "headline": post["card"].get("headline"), "category": post.get("category"),
+                "source_urls": post.get("source_urls", []), "credits": post["credits"],
+                "status": "waiting for approval",
+            })
+            f.unlink()
+            log(f"Waiting for approval: {post['id']}")
             continue
 
         results = {}
@@ -305,7 +329,7 @@ def main():
                 results[p] = f"ERROR: {e}"
                 log(f"FAILED {post['id']} on {p}: {e}")
 
-        posted.append({
+        entry = {
             "id": post["id"],
             "time": now_almaty().isoformat(timespec="minutes"),
             "headline": post["card"].get("headline"),
@@ -314,16 +338,21 @@ def main():
             "credits": post["credits"],
             "dry_run": dry,
             "results": results,
-        })
+        }
+        posted = [e for e in posted if e.get("id") != post["id"]] + [entry]
         save_json(archive / f.name, post)
         f.unlink()
+        if approved_run:
+            for txt in pending.glob(f"{post['id']}.*.txt"):
+                txt.unlink()
 
     save_json(STATE / "posted.json", posted[-1000:])
-    leftover = sorted(QUEUE.glob("*.json"))
-    for f in leftover:  # more than max_posts_per_run: set aside, never published later as stale news
-        rejected.mkdir(parents=True, exist_ok=True)
-        shutil.move(str(f), str(rejected / f.name))
-        log(f"Over the per-run limit, not published: {f.name}")
+    if not approved_run:
+        leftover = sorted(QUEUE.glob("*.json"))
+        for f in leftover:  # more than max_posts_per_run: set aside, never published later as stale news
+            rejected.mkdir(parents=True, exist_ok=True)
+            shutil.move(str(f), str(rejected / f.name))
+            log(f"Over the per-run limit, not published: {f.name}")
     return 0
 
 
