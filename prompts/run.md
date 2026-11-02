@@ -4,7 +4,7 @@ Follow CLAUDE.md exactly. Steps:
 1. Read config/glossary.md, config/settings.yaml, state/candidates.json and state/posted.json.
 2. If state/candidates.json is an empty array, stop: there is nothing to do.
 3. Decide for each candidate: post or skip, using the hard rules.
-4. Write queue/<id>.json for each post, and log every skip in state/skipped_log.json.
+4. Write queue/<id>.json for each post, and log every skip in state/skipped_log.json. You cannot run scripts or shell commands: to add skips, Read state/skipped_log.json and Write the whole updated array back with the Write tool.
 5. Finish with a one-paragraph summary in English of what you posted and skipped.
 
 Web search and web fetch: use them to check that news_media items are reported by at least 2 reliable outlets
