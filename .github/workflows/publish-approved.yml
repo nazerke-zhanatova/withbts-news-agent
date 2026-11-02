@@ -25,8 +25,18 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install tools
-        run: pip install -r requirements.txt
+      - name: Install tools and fonts
+        run: |
+          pip install -r requirements.txt
+          (sudo apt-get update -q >/dev/null && sudo apt-get install -y -q fonts-noto-core >/dev/null) || true
+
+      - name: Render cards again with the latest design rules
+        run: |
+          python scripts/render_card.py state/pending/*.json
+          git config user.name "withbts-news-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A media state
+          git diff --cached --quiet || (git commit -q -m "Cards for approved posts $(date -u +%F_%H%M)" && git push -q)
 
       - name: Publish approved posts
         env:
