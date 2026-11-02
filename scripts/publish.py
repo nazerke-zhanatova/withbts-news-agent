@@ -65,6 +65,10 @@ def validate(post):
             return "photo has no image_credit"
         if ic.lower() not in [c.strip().lstrip("@").lower() for c in credits]:
             post["credits"].append(ic)  # photo owner always appears in the credits line
+    for c in post.get("carousel") or []:
+        cp = (ROOT / c).resolve()
+        if not str(cp).startswith(str((ROOT / "media").resolve())):
+            return f"carousel photo not from collected media: {c}"
     if not post.get("card_file") or not (ROOT / post["card_file"]).exists():
         return "card image not rendered"
     for k in ("telegram", "instagram", "threads", "x"):
@@ -118,15 +122,41 @@ def public_url(rel_path, cfg):
 
 # ---------------- platforms ----------------
 
-def post_telegram(text, card, cfg):
+def post_telegram(text, card, cfg, slides=None):
     token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHANNEL_ID")
     if not (token and chat):
         raise RuntimeError("TELEGRAM_BOT_TOKEN or TELEGRAM_CHANNEL_ID not set")
     api = f"https://api.telegram.org/bot{token}"
-    if card is None:  # no photo: text only
+
+    def send_text():
         r = requests.post(f"{api}/sendMessage", data={"chat_id": chat, "text": text, "disable_web_page_preview": True}, timeout=60)
         r.raise_for_status()
         return str(r.json()["result"]["message_id"])
+
+    if card is None:  # no photo: text only
+        return send_text()
+    images = [card] + list(slides or [])
+    if len(images) > 1:  # album: cover card + photos, caption on the first one
+        import json as _json
+
+        files, media = {}, []
+        for i, path in enumerate(images[:10]):
+            key = f"photo{i}"
+            files[key] = open(ROOT / path, "rb")
+            item = {"type": "photo", "media": f"attach://{key}"}
+            if i == 0 and len(text) <= 1024:
+                item["caption"] = text
+            media.append(item)
+        try:
+            r = requests.post(f"{api}/sendMediaGroup", data={"chat_id": chat, "media": _json.dumps(media)}, files=files, timeout=120)
+            r.raise_for_status()
+            first_id = str(r.json()["result"][0]["message_id"])
+        finally:
+            for fh in files.values():
+                fh.close()
+        if len(text) > 1024:
+            send_text()
+        return first_id
     with open(ROOT / card, "rb") as f:
         if len(text) <= 1024:
             r = requests.post(f"{api}/sendPhoto", data={"chat_id": chat, "caption": text}, files={"photo": f}, timeout=60)
@@ -134,41 +164,69 @@ def post_telegram(text, card, cfg):
             return str(r.json()["result"]["message_id"])
         r = requests.post(f"{api}/sendPhoto", data={"chat_id": chat}, files={"photo": f}, timeout=60)
         r.raise_for_status()
-    r = requests.post(f"{api}/sendMessage", data={"chat_id": chat, "text": text, "disable_web_page_preview": True}, timeout=60)
-    r.raise_for_status()
-    return str(r.json()["result"]["message_id"])
+    return send_text()
 
 
-def post_instagram(text, card, cfg):
+def _ig_wait(base, cid, token):
+    for _ in range(24):
+        st = requests.get(f"{base}/{cid}", params={"fields": "status_code", "access_token": token}, timeout=30).json()
+        if st.get("status_code") == "FINISHED":
+            return
+        if st.get("status_code") == "ERROR":
+            raise RuntimeError(f"container error: {st}")
+        time.sleep(5)
+
+
+def post_instagram(text, card, cfg, slides=None):
     token, ig_user = os.environ.get("IG_ACCESS_TOKEN"), os.environ.get("IG_USER_ID")
     if not (token and ig_user):
         raise RuntimeError("IG_ACCESS_TOKEN or IG_USER_ID not set")
     base = f"https://graph.facebook.com/{cfg.get('graph_api_version', 'v23.0')}"
-    r = requests.post(f"{base}/{ig_user}/media",
-                      data={"image_url": public_url(card, cfg), "caption": text, "access_token": token}, timeout=60).json()
+    images = [card] + list(slides or [])
+    if len(images) == 1:
+        r = requests.post(f"{base}/{ig_user}/media",
+                          data={"image_url": public_url(card, cfg), "caption": text, "access_token": token}, timeout=60).json()
+    else:  # carousel: one container per image, then one carousel container
+        children = []
+        for path in images[:10]:
+            c = requests.post(f"{base}/{ig_user}/media", data={
+                "image_url": public_url(path, cfg), "is_carousel_item": "true", "access_token": token}, timeout=60).json()
+            if "id" not in c:
+                raise RuntimeError(f"carousel item failed ({path}): {c}")
+            _ig_wait(base, c["id"], token)
+            children.append(c["id"])
+        r = requests.post(f"{base}/{ig_user}/media", data={
+            "media_type": "CAROUSEL", "children": ",".join(children), "caption": text, "access_token": token}, timeout=60).json()
     if "id" not in r:
         raise RuntimeError(f"container failed: {r}")
-    cid = r["id"]
-    for _ in range(20):
-        st = requests.get(f"{base}/{cid}", params={"fields": "status_code", "access_token": token}, timeout=30).json()
-        if st.get("status_code") == "FINISHED":
-            break
-        if st.get("status_code") == "ERROR":
-            raise RuntimeError(f"container error: {st}")
-        time.sleep(5)
-    r = requests.post(f"{base}/{ig_user}/media_publish", data={"creation_id": cid, "access_token": token}, timeout=60).json()
+    _ig_wait(base, r["id"], token)
+    r = requests.post(f"{base}/{ig_user}/media_publish", data={"creation_id": r["id"], "access_token": token}, timeout=60).json()
     if "id" not in r:
         raise RuntimeError(f"publish failed: {r}")
     return r["id"]
 
 
-def post_threads(text, card, cfg):
+def post_threads(text, card, cfg, slides=None):
     token, user = os.environ.get("THREADS_ACCESS_TOKEN"), os.environ.get("THREADS_USER_ID")
     if not (token and user):
         raise RuntimeError("THREADS_ACCESS_TOKEN or THREADS_USER_ID not set")
     base = "https://graph.threads.net/v1.0"
-    r = requests.post(f"{base}/{user}/threads", data={
-        "media_type": "IMAGE", "image_url": public_url(card, cfg), "text": text, "access_token": token}, timeout=60).json()
+    images = [card] + list(slides or [])
+    if len(images) == 1:
+        r = requests.post(f"{base}/{user}/threads", data={
+            "media_type": "IMAGE", "image_url": public_url(card, cfg), "text": text, "access_token": token}, timeout=60).json()
+    else:
+        children = []
+        for path in images[:10]:
+            c = requests.post(f"{base}/{user}/threads", data={
+                "media_type": "IMAGE", "image_url": public_url(path, cfg), "is_carousel_item": "true",
+                "access_token": token}, timeout=60).json()
+            if "id" not in c:
+                raise RuntimeError(f"carousel item failed ({path}): {c}")
+            children.append(c["id"])
+        time.sleep(10)
+        r = requests.post(f"{base}/{user}/threads", data={
+            "media_type": "CAROUSEL", "children": ",".join(children), "text": text, "access_token": token}, timeout=60).json()
     if "id" not in r:
         raise RuntimeError(f"container failed: {r}")
     time.sleep(30)  # Meta recommends waiting before publishing
@@ -178,7 +236,7 @@ def post_threads(text, card, cfg):
     return r["id"]
 
 
-def post_x(text, card, cfg):
+def post_x(text, card, cfg, slides=None):
     keys = [os.environ.get(k) for k in ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET")]
     if not all(keys):
         raise RuntimeError("X API keys not set")
@@ -240,7 +298,8 @@ def main():
                 log(f"[dry run] {p}: {post['id']} ({len(text)} chars)")
                 continue
             try:
-                results[p] = PUBLISHERS[p](text, post["card_file"] if has_photo else None, cfg)
+                slides = (post.get("carousel_files") or []) if has_photo else []
+                results[p] = PUBLISHERS[p](text, post["card_file"] if has_photo else None, cfg, slides)
                 log(f"Published {post['id']} to {p}: {results[p]}")
             except Exception as e:  # noqa: BLE001
                 results[p] = f"ERROR: {e}"
