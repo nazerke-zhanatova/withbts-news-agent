@@ -16,6 +16,28 @@ from pathlib import Path
 
 import requests
 
+
+# Safety lock: this agent only CREATES posts. Any DELETE request is refused, so nothing
+# already on the withBTS.kz accounts (everything before 2 November 2026) can be removed.
+def _no_delete(*args, **kwargs):
+    raise RuntimeError("Blocked: the agent is not allowed to delete anything.")
+
+
+_original_request = requests.Session.request
+
+
+def _guarded_request(self, method, url, *args, **kwargs):
+    if str(method).upper() == "DELETE" or "method=delete" in str(url).lower():
+        _no_delete()
+    data = kwargs.get("data") or {}
+    if isinstance(data, dict) and str(data.get("method", "")).lower() == "delete":
+        _no_delete()
+    return _original_request(self, method, url, *args, **kwargs)
+
+
+requests.delete = _no_delete
+requests.Session.request = _guarded_request
+
 from common import QUEUE, ROOT, STATE, load_json, log, now_almaty, save_json, settings
 
 LIMITS = {"telegram": 4000, "instagram": 2200, "threads": 500, "x": 280}
