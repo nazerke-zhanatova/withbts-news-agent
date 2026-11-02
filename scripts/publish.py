@@ -53,7 +53,7 @@ def validate(post):
     credits = [c for c in post["credits"] if isinstance(c, str) and c.strip()]
     if not credits:
         return "no credits"
-    if post["source_tier"] not in ("official", "trusted_fanbase"):
+    if post["source_tier"] not in ("official", "trusted_fanbase", "news_media"):
         return f"source tier not allowed: {post['source_tier']}"
     img = post.get("image")
     if not img:
