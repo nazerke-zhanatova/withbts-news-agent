@@ -1,0 +1,52 @@
+name: Publish approved posts
+
+# Run this by hand (Actions tab, "Run workflow") after Nazerke approves the posts
+# waiting in state/pending. It publishes exactly those posts, nothing new.
+on:
+  workflow_dispatch: {}
+
+concurrency:
+  group: news-agent
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: pip install -r requirements.txt
+
+      - name: Publish approved posts
+        env:
+          PUBLISH_PENDING: "1"
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: python scripts/publish.py
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "withbts-news-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A state
+          git diff --cached --quiet || (git commit -q -m "Published approved posts $(date -u +%F_%H%M)" && git push -q)
