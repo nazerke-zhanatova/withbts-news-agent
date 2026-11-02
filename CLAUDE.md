@@ -18,15 +18,21 @@ Read these before writing anything:
 3. Rumors, "insiders", dating news, speculation, leaks, hate, comparisons with other artists, sasaeng content, private life: always skip.
 4. Every post must have credits: the account names of the sources you used, without "@" (for example `bts.bighitofficial`). Put them in the `credits` field. The script adds the line `credits: ...` right under the text. A post without credits is rejected and never published.
    Never write "@" mentions anywhere in the texts, they can tag the wrong account. Write member stage names instead (RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook).
-5. Photos: every post should have a photo, and the photo must come from an official or trusted_fanbase account. Never use photos from news sites or any other place. Find one in this order:
+5. Photos: EVERY post must have a photo in the design. A post without a photo is not allowed. Find one in this order:
    a. the candidate's own `media` field
    b. another candidate in this run (official or trusted_fanbase) about the same news, its `media`
    c. `state/photo_library.json`: photos saved from official and trusted posts in the last 7 days. Use one only if its `text` is clearly about the same news, same member or same event.
-   Set `image` to the file path and `image_credit` to the account the photo came from (the `handle` of that candidate, or `credit` in the library), without "@". Add that account to `credits` too.
-   If none of these has a fitting photo, set `image` and `image_credit` to null. The post then goes to Telegram and X as text only. Never pick an unrelated photo just to have one.
-   Cover photo (`image`): pick a photo where the faces are fully visible. Close-ups are fine, but never a photo where a face is cut off at the edge.
+   d. The internet: use WebSearch and WebFetch to find an official photo from BIGHIT MUSIC or HYBE about the same news. News articles (for example Korea JoongAng Daily, The Korea Times, Yonhap, Soompi, Weverse Magazine) often show official photos with a caption credit like "BIGHIT MUSIC" or "Courtesy of HYBE". Use only photos whose credit says BIGHIT MUSIC, HYBE or a member, never paparazzi, fan edits or stock photos. Give the direct image address in `"image_url"` (and `"carousel_urls"` for extra photos); the script downloads them. X and Weverse need a login, so look for the same photos in news articles instead. Prefer the newest ARIRANG era photos.
+   e. If nothing about this exact news is found, use the newest official ARIRANG group photo you can find (step d), or `fallback_group_photo` in `config/settings.yaml`.
+   Set `image` to the file path (or null when you use `image_url`) and `image_credit` to the photo owner (BIGHIT MUSIC, HYBE or the account the photo came from), without "@". Add that owner to `credits` too.
+   Faces: never use a photo where a face is cut off at the edge. Close-ups are fine. The script never crops faces.
+   Members: BTS is 7 members (RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook).
+   - Group news (about BTS, a tour, an album, the group): the photo must show ALL 7 members. Never a photo with only some of them.
+   - News about one member: use a photo of only that member. Never a photo of a different member, and never confuse members. If you are not 100% sure who is in the photo (from the source caption or the file you opened with Read), do not use it.
+   - Open local photos with Read and check them before choosing. For `image_url` photos, choose only if the article caption clearly says who is in it.
+   - Write who is in the cover photo in `"photo_members"`: ["all"] or for example ["Jimin"].
    Photo credit: look at the photo itself. If it shows a watermark or a photographer/fansite name (for example "prominses"), that name is the photo owner: use it as `image_credit` and add it to `credits`, next to the account that reposted it.
-5b. Carousel: the first slide is always the withBTS.kz card. Add the source photos as extra slides in `"carousel": ["media/...", ...]` (max 9, same rules as `image`: only from official or trusted media, in the order they appeared). Do this whenever the text mentions photos, a photo shoot, concert pictures, a poster, a schedule image or anything readers will want to see. Add the owners of all carousel photos (including watermark names) to `credits`.
+5b. Carousel: the first slide is always the withBTS.kz card. Add the source photos as extra slides in `"carousel": ["media/...", ...]` or `"carousel_urls"` (max 9, same rules as the cover photo, in the order they appeared). Do this whenever the text mentions photos, a photo shoot, concert pictures, a poster, a schedule image or anything readers will want to see. Add the owners of all carousel photos (including watermark names) to `credits`.
    Never write in the text that photos were published unless those photos are in the carousel. If they are not available, leave that sentence out.
 6. Do not copy source text word for word. Write your own Kazakh text. Short quotes from members (under 15 words) are fine if translated and marked as a quote.
 7. Times: convert to Almaty time (KST minus 4 hours) and say so.
@@ -56,8 +62,11 @@ For each post, create `queue/<candidate id>.json`:
   "source_urls": ["https://..."],
   "credits": ["account1", "account2"],
   "image": "media/xxx.jpg or null",
-  "image_credit": "account the photo came from, without @, or null",
+  "image_url": "https://... direct image address (only when the photo comes from the internet, step 5d), else null",
+  "image_credit": "photo owner without @ (BIGHIT MUSIC, HYBE or the account)",
+  "photo_members": ["all"],
   "carousel": ["media/xxx_1.jpg", "media/xxx_2.jpg"],
+  "carousel_urls": ["https://..."],
   "card": {
     "tag": "short label in capitals, e.g. ЖАҢАЛЫҚ, КОНЦЕРТ, РЕЛИЗ, ЭФИР",
     "headline": "max 60 characters, the news in one line",
@@ -66,7 +75,7 @@ For each post, create `queue/<candidate id>.json`:
   "telegram": "Kazakh post, 300 to 900 characters, may use line breaks, no hashtags, no credits",
   "instagram": "Kazakh caption, 300 to 1500 characters, no hashtags, no credits",
   "threads": "Kazakh text, max 380 characters, no hashtags, no credits",
-  "x": "Kazakh text, max 180 characters, no hashtags, no credits"
+  "x": "Kazakh text, max 180 characters, no hashtags, no credits, ends with a question"
 }
 ```
 
@@ -81,5 +90,6 @@ If there is nothing worth posting, create no queue files. That is a good outcome
 
 Start with the news itself, not with greetings. First line is the hook.
 Kazakh literary language, fan to fan, warm and respectful.
-Telegram and Instagram: hook line, 2 to 4 short paragraphs, end with a short line inviting ARMY to react or share.
+Telegram and Instagram: hook line, 2 to 4 short paragraphs.
+Every text (Telegram, Instagram, Threads, X) MUST end with a question to ARMY that invites a comment, because comments boost reach. Make it about the news, easy to answer, for example «ARMY, сіз қай қаланың концертін күтесіз?» or «Сізге қай сәт ұнады? Пікірде жазыңыз!». Vary the questions, do not repeat the same one every time.
 Use the glossary terms. Stage names stay in Latin letters.
