@@ -99,33 +99,19 @@ def find_faces(photo):
 
 
 def face_safe_fit(photo, size):
-    """Crop to `size` without cutting any detected face. If the faces do not fit in the
-    crop, show the whole photo on a blurred background instead of cropping."""
+    """Fit the photo into `size` without ever cutting a face.
+
+    Face detection misses faces with masks, sunglasses or side views, so we never trust it
+    for cropping. Only when the photo already has almost the same shape (within 6%) is a tiny
+    trim allowed. Otherwise the whole photo is shown on a blurred copy of itself.
+    """
     from PIL import ImageFilter
 
     tw, th = size
-    faces = find_faces(photo)
-    scale = max(tw / photo.width, th / photo.height)
-    big = photo.resize((round(photo.width * scale), round(photo.height * scale)), Image.LANCZOS)
-    if not faces:
-        # no face found: keep the upper part, where heads usually are
-        x0 = (big.width - tw) // 2
-        y0 = int((big.height - th) * 0.2)
-        return big.crop((x0, y0, x0 + tw, y0 + th))
-    fx0 = min(f[0] for f in faces) * scale
-    fy0 = min(f[1] for f in faces) * scale
-    fx1 = max(f[0] + f[2] for f in faces) * scale
-    fy1 = max(f[1] + f[3] for f in faces) * scale
-    pad_x, pad_y = (fx1 - fx0) * 0.25, (fy1 - fy0) * 0.6  # room for hair and chin
-    fx0, fx1 = max(0, fx0 - pad_x), min(big.width, fx1 + pad_x)
-    fy0, fy1 = max(0, fy0 - pad_y), min(big.height, fy1 + pad_y * 0.5)
-    if fx1 - fx0 <= tw and fy1 - fy0 <= th:
-        cx = (fx0 + fx1) / 2
-        x0 = int(min(max(cx - tw / 2, 0), big.width - tw))
-        y0 = int(min(max(fy0 - (th - (fy1 - fy0)) * 0.3, 0), big.height - th))
-        return big.crop((x0, y0, x0 + tw, y0 + th))
-    # faces spread too wide or tall: no crop at all
+    if abs((photo.width / photo.height) / (tw / th) - 1) <= 0.06:
+        return ImageOps.fit(photo, size, Image.LANCZOS, centering=(0.5, 0.5))
     bg = ImageOps.fit(photo, size, Image.LANCZOS).filter(ImageFilter.GaussianBlur(30))
+    bg = Image.blend(bg, Image.new("RGB", size, (0, 0, 0)), 0.25)
     fg = ImageOps.contain(photo, size, Image.LANCZOS)
     bg.paste(fg, ((tw - fg.width) // 2, (th - fg.height) // 2))
     return bg
@@ -302,6 +288,8 @@ def fetch_remote_photos(post):
                 log("  no photo found, used the official fallback group photo")
     carousel = list(post.get("carousel") or [])
     for n, url in enumerate((post.get("carousel_urls") or [])[:9]):
+        if f"media/web_{pid}_{n}.jpg" in carousel and (MEDIA / f"web_{pid}_{n}.jpg").exists():
+            continue  # already downloaded (card is being rendered again)
         got = download_photo(url, MEDIA / f"web_{pid}_{n}.jpg", domains)
         if got:
             carousel.append(f"media/{got.name}")
