@@ -5,11 +5,12 @@
 enabled: true
 
 # Dry run: true = the agent does everything except actually posting (good for the first test).
-dry_run: true
+dry_run: false
 
 # Approval mode: true = new posts wait in state/pending until Nazerke approves them
 # ("ready, go"), then the "Publish approved posts" workflow posts them. false = posts go out automatically.
-approval_mode: true
+# Sensitive news (CLAUDE.md rule 15) always waits for approval, even when this is false.
+approval_mode: false
 
 # Where to publish. Turn each platform on once its keys are added in GitHub Secrets.
 platforms:
@@ -18,7 +19,7 @@ platforms:
   threads: true
   x: false
 
-# Maximum new posts per run (the schedule runs every 3 hours).
+# Maximum new posts per run (the schedule runs every 30 minutes).
 max_posts_per_run: 3
 
 # Script for Kazakh text: "cyrillic" or "latin"
