@@ -72,7 +72,7 @@ For each post, create `queue/<candidate id>.json`:
     "headline": "max 60 characters, the news in one line",
     "subline": "max 110 characters, the key detail (date, time in Almaty, place). No emojis in card fields"
   },
-  "telegram": "Kazakh post, 300 to 900 characters, may use line breaks, no hashtags, no credits",
+  "telegram": "Kazakh post, 300 to 800 characters (with credits and hashtags it must stay under 1024 so it fits under the photo), may use line breaks, no hashtags, no credits",
   "instagram": "Kazakh caption, 300 to 1500 characters, no hashtags, no credits",
   "threads": "Kazakh text, max 380 characters, no hashtags, no credits",
   "x": "Kazakh text, max 180 characters, no hashtags, no credits, ends with a question"
