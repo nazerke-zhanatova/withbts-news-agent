@@ -46,11 +46,6 @@ rss:
     name: HYBE LABELS
     tier: official
     filter: ["BTS", "방탄소년단", "RM", "Jin", "SUGA", "Agust D", "j-hope", "Jimin", "Jung Kook", "Jungkook"]
-  - url: https://www.soompi.com/feed
-    name: Soompi
-    tier: news_media
-    # News sites always write "BTS's Jin" etc, so these words are enough and avoid drama news noise
-    filter: ["BTS", "방탄소년단", "BIGHIT"]
 
 x:
   # Reading X needs a paid X API plan (X_BEARER_TOKEN). Turn on once you have it.
