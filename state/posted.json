@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "digest-tg-btsnewsru0_82836",
+    "time": "2026-11-02T17:09+05:00",
+    "headline": "Jung Kook Сан-Паулудағы концертте тосынсый жасады",
+    "category": "concert",
+    "source_urls": [
+      "https://t.me/btsnewsru0/82850",
+      "https://t.me/btsnewsru0/82836"
+    ],
+    "credits": [
+      "btsnewsru0"
+    ],
+    "dry_run": true,
+    "results": {
+      "telegram": "dry_run"
+    }
+  }
+]

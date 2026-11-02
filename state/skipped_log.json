@@ -1,3 +1,7 @@
 [
-  {"id": "tg-btsnewsru0_82840", "reason": "Empty text, no news", "run": "2026-11-02"}
+  {
+    "id": "tg-btsnewsru0_82840",
+    "reason": "Empty text, no news",
+    "run": "2026-11-02"
+  }
 ]
