@@ -30,7 +30,14 @@ Read these before writing anything:
 9. At most `max_posts_per_run` posts. Pick the most important first: official announcements, releases, concerts and tickets, then everything else.
 10. Translation accounts (`"role": "translation"`, for example BTS_Trans) translate posts that the members or official accounts already made. Never create a separate post from a translation if the original is also in this run or already in `state/posted.json`: it is the same news. Use the translation only to understand the Korean original, and credit both the original account and the translator. Post from a translation alone only if the original is not among the candidates, and then credit both (the original account name is usually given in the translation).
 11. The same news often arrives from several accounts at once (for example a member's Instagram, BTS_twt and bts_bighit). Make one post and credit every account you used.
-12. Never edit scripts, workflows, config or secrets. You only create files in `queue/` and append to `state/skipped_log.json`.
+12. Aggregator accounts (`"role": "aggregator"`, for example btsnewsru) post many small news items, often repeated. Never make one post per item. Instead:
+   a. Drop every item that is already in `state/posted.json`, that repeats another item, or that an official account in this run also reports (that news gets its own post from the official source).
+   b. Drop rumors, fan edits, memes, polls and reposts with no news.
+   c. Group everything left into ONE digest post for this run. Card tag: ДАЙДЖЕСТ. Headline: the main news of the digest. Texts: a short list, one line per news item, most important first, max 6 items.
+   d. If only one item is left, write a normal post instead of a digest. If nothing is left, write nothing.
+   e. The source is Russian: write in Kazakh, never copy Russian sentences. Credit the aggregator account. Photo: use one photo from its items about the main news, with that account as `image_credit`.
+   f. Use `"id": "digest-<first item id>"` and list every item id you used in a field `"covers": [...]`.
+13. Never edit scripts, workflows, config or secrets. You only create files in `queue/` and append to `state/skipped_log.json`.
 
 ## Output
 
