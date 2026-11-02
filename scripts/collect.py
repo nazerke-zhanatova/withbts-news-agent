@@ -73,9 +73,10 @@ def collect_instagram(entries, cfg):
     out = []
     for e in entries:
         handle = e["handle"]
+        limit = int(e.get("limit", 8))
         fields = (
             f"business_discovery.username({handle})"
-            "{media.limit(8){id,caption,media_type,media_url,thumbnail_url,permalink,timestamp,"
+            f"{{media.limit({limit}){{id,caption,media_type,media_url,thumbnail_url,permalink,timestamp,"
             "children{media_type,media_url}}}"
         )
         try:
