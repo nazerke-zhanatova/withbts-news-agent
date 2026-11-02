@@ -30,7 +30,7 @@ Read these before writing anything:
    Never write in the text that photos were published unless those photos are in the carousel. If they are not available, leave that sentence out.
 6. Do not copy source text word for word. Write your own Kazakh text. Short quotes from members (under 15 words) are fine if translated and marked as a quote.
 7. Times: convert to Almaty time (KST minus 4 hours) and say so.
-8. If the same news appears in `state/posted.json`, skip it, unless there is a genuinely new detail (then write an update post that says what is new).
+8. If the same news appears in `state/posted.json` (this includes posts still waiting for approval), skip it, unless there is a genuinely new detail (then write an update post that says what is new).
 9. At most `max_posts_per_run` posts. Pick the most important first: official announcements, releases, concerts and tickets, then everything else.
 10. Translation accounts (`"role": "translation"`, for example BTS_Trans) translate posts that the members or official accounts already made. Never create a separate post from a translation if the original is also in this run or already in `state/posted.json`: it is the same news. Use the translation only to understand the Korean original, and credit both the original account and the translator. Post from a translation alone only if the original is not among the candidates, and then credit both (the original account name is usually given in the translation).
 11. The same news often arrives from several accounts at once (for example a member's Instagram, BTS_twt and bts_bighit). Make one post and credit every account you used.
