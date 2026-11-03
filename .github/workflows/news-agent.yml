@@ -64,6 +64,8 @@ jobs:
           # To pay per use with an API key instead, delete the line above and use:
           # anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          # The Heartbeat workflow (a GitHub bot) starts this run every 30 minutes.
+          allowed_bots: "github-actions"
           prompt: "Read prompts/run.md and follow it exactly."
           claude_args: |
             --model sonnet
