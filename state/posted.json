@@ -99,5 +99,28 @@
       "instagram": "18385527244234797",
       "threads": "18114850466167483"
     }
+  },
+  {
+    "id": "hybe-tour-2027-repost",
+    "time": "2026-11-03T17:21+05:00",
+    "headline": "BTS туры 2027 жылдың бірінші жартысына дейін",
+    "category": "news",
+    "source_urls": [
+      "https://www.koreatimes.co.kr/business/companies/20261103/hybe-posts-record-quarterly-results-as-bts-tour-lifts-revenue",
+      "https://www.yna.co.kr/view/AKR20261103165000005",
+      "https://t.me/btsnewsru0/82895"
+    ],
+    "credits": [
+      "The Korea Times",
+      "Yonhap",
+      "btsnewsru0",
+      "BIGHIT MUSIC"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19357",
+      "instagram": "18468775114187273",
+      "threads": "18121035848050228"
+    }
   }
 ]
