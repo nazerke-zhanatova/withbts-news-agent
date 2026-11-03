@@ -278,14 +278,7 @@ def fetch_remote_photos(post):
         got = download_photo(post["image_url"], MEDIA / f"web_{pid}_cover.jpg", domains)
         if got:
             post["image"] = f"media/{got.name}"
-    if not (post.get("image") and (ROOT / post["image"]).exists()):
-        fb = s.get("fallback_group_photo") or {}
-        if fb.get("url") and (post.get("photo_members") in (None, [], ["all"])):
-            got = download_photo(fb["url"], MEDIA / f"web_{pid}_fallback.jpg", domains)
-            if got:
-                post["image"] = f"media/{got.name}"
-                post["image_credit"] = fb.get("credit", "BIGHIT MUSIC")
-                log("  no photo found, used the official fallback group photo")
+    # No fallback photo: the same photo must never be used twice (Nazerke's rule).
     carousel = list(post.get("carousel") or [])
     for n, url in enumerate((post.get("carousel_urls") or [])[:9]):
         if f"media/web_{pid}_{n}.jpg" in carousel and (MEDIA / f"web_{pid}_{n}.jpg").exists():
