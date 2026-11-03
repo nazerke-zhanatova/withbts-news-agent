@@ -124,8 +124,49 @@
     }
   },
   {
+    "id": "dicon-dfesta-bts-concepts",
+    "time": "2026-11-04T02:44+05:00",
+    "headline": "DICON: BTS мүшелерінің жаңа концепттері",
+    "category": "other",
+    "source_urls": [
+      "https://t.me/koreaworld111/57161",
+      "https://t.me/koreaworld111/57167",
+      "https://x.com/Dicon_korea/status/2109532478843314672"
+    ],
+    "credits": [
+      "DICON",
+      "Dispatch",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19368",
+      "instagram": "18123332770819997",
+      "threads": "17874893547639216"
+    }
+  },
+  {
+    "id": "jhope-samsung-bts-video",
+    "time": "2026-11-04T02:47+05:00",
+    "headline": "j-hope Samsung-тың жаңа видеосында",
+    "category": "other",
+    "source_urls": [
+      "https://t.me/koreaworld111/57210"
+    ],
+    "credits": [
+      "Samsung",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19376",
+      "instagram": "18075542636750266",
+      "threads": "17894948880683071"
+    }
+  },
+  {
     "id": "mama-2026-vote-round2",
-    "time": "2026-11-04T02:20+05:00",
+    "time": "2026-11-04T02:49+05:00",
     "headline": "MAMA 2026: BTS-ке дауыс берейік!",
     "category": "award",
     "source_urls": [
@@ -142,9 +183,8 @@
     ],
     "dry_run": false,
     "results": {
-      "telegram": "19367",
-      "instagram": "ERROR: container failed: {'error': {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AwRqxhCJtEw6s1EMIOUydGq'}}",
-      "threads": "ERROR: container failed: {'error': {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AcIiCIFZRw5V6D8XszZF7nS'}}"
+      "instagram": "18137139235717024",
+      "threads": "18105952334368335"
     }
   }
 ]
