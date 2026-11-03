@@ -23,6 +23,12 @@ platforms:
 # news is written right away; news sites and aggregator channels wait for a batch every N hours.
 batch_hours: 3
 
+# Saving Claude usage: at most this many items go to Claude per run, and the cheaper
+# model writes the news-site batches. Official / trusted news always uses the stronger model.
+max_batch_items: 15
+model_fast: sonnet
+model_batch: haiku
+
 # Maximum new posts per run (the schedule runs every 30 minutes).
 max_posts_per_run: 3
 
