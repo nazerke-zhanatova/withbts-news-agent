@@ -59,9 +59,7 @@ rss:
     url: "https://news.google.com/rss/search?q=BTS+(BIGHIT+OR+HYBE+OR+ARIRANG+OR+Weverse+OR+RM+OR+Jin+OR+SUGA+OR+j-hope+OR+Jimin+OR+Jungkook)+when:1d&hl=en-US&gl=US&ceid=US:en"
     tier: news_media
     filter: ["BTS"]
-  - name: Google News KO
-    url: "https://news.google.com/rss/search?q=%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8+when:1d&hl=ko&gl=KR&ceid=KR:ko"
-    tier: news_media
+  # Korean Google News feed turned off to save Claude usage (mostly photo galleries and rankings).
 
 x:
   # Reading X needs a paid X API plan (X_BEARER_TOKEN). Turn on once you have it.
