@@ -48,6 +48,9 @@ telegram:
   - handle: btsnewsru0     # Russian-language BTS news channel, posts a lot
     tier: trusted_fanbase
     role: aggregator       # its news is grouped into one digest post per run
+  - handle: koreaworld111   # Russian-language channel, reposts the members' Instagram stories and posts
+    tier: trusted_fanbase
+    role: aggregator       # many short posts: grouped with the batch every 3 hours
   # Add more trusted channels like this:
   # - handle: example_channel
   #   tier: trusted_fanbase
