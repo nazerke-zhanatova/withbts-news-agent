@@ -50,9 +50,7 @@ jobs:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: |
           python scripts/collect.py
-          python scripts/gate.py
-          n=$(python -c "import json;print(len(json.load(open('state/candidates.json'))))")
-          echo "count=$n" >> "$GITHUB_OUTPUT"
+          python scripts/gate.py   # filters, schedules and picks the model; writes count and model
 
       - name: Write posts in Kazakh (Claude Code)
         id: writer
@@ -68,8 +66,8 @@ jobs:
           allowed_bots: "github-actions"
           prompt: "Read prompts/run.md and follow it exactly."
           claude_args: |
-            --model sonnet
-            --max-turns 30
+            --model ${{ steps.collect.outputs.model }}
+            --max-turns 15
             --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch"
 
       - name: Design Instagram cards
