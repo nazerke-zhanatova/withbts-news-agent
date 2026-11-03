@@ -390,6 +390,8 @@ def post_x(text, card, cfg, slides=None):
 
 PUBLISHERS = {"telegram": post_telegram, "instagram": post_instagram, "threads": post_threads, "x": post_x}
 VIDEO_PUBLISHERS = {"telegram": video_telegram, "instagram": video_instagram, "threads": video_threads}
+META_GAP = 130          # seconds between two Instagram (or two Threads) posts in one run
+LAST_META = {}
 
 
 # ---------------- main ----------------
@@ -402,7 +404,7 @@ def main():
     approved_run = os.environ.get("PUBLISH_PENDING") == "1"   # Nazerke said "ready, go"
     approval_mode = bool(cfg.get("approval_mode", False))
     dry = cfg.get("dry_run", True) and not approved_run
-    platforms = [p for p, on in (cfg.get("platforms") or {}).items() if on]
+    all_platforms = [p for p, on in (cfg.get("platforms") or {}).items() if on]
     posted = load_json(STATE / "posted.json", [])
     archive = STATE / "archive"
     rejected = STATE / "rejected"
@@ -411,7 +413,7 @@ def main():
 
     if approved_run:
         files = sorted(pending.glob("*.json"))
-        log(f"Publishing {len(files)} approved posts to: {', '.join(platforms)}")
+        log(f"Publishing {len(files)} approved posts to: {', '.join(all_platforms)}")
     else:
         files = sorted(QUEUE.glob("*.json"))[:limit]
     if not files:
@@ -420,6 +422,8 @@ def main():
         post = load_json(f, None)
         if not post:
             continue
+        # a post can be limited to some platforms (for example a repost on Instagram and Threads only)
+        platforms = [p for p in all_platforms if not post.get("only_platforms") or p in post["only_platforms"]]
         reason = validate(post)
         if reason:
             log(f"REJECTED {post.get('id')}: {reason}")
@@ -465,10 +469,19 @@ def main():
                 preview.write_text(text, encoding="utf-8")
                 log(f"[dry run] {p}: {post['id']} ({len(text)} chars)")
                 continue
+            if p in ("instagram", "threads"):
+                # Meta flags accounts that post in quick bursts: keep at least 2 minutes between posts
+                wait = META_GAP - (time.time() - LAST_META.get(p, 0))
+                if wait > 0:
+                    log(f"waiting {int(wait)} s before the next {p} post")
+                    time.sleep(wait)
+                LAST_META[p] = time.time()
             try:
-                video = post.get("video_file")
+                video = post.get("video_branded") or post.get("video_file")
                 if video and (ROOT / video).exists() and p in VIDEO_PUBLISHERS:
-                    results[p] = VIDEO_PUBLISHERS[p](text, video, post.get("video_url"), cfg)
+                    # branded clip: Meta loads it from the repo; plain clip: from its source link
+                    src_url = None if post.get("video_branded") else post.get("video_url")
+                    results[p] = VIDEO_PUBLISHERS[p](text, video, src_url, cfg)
                     log(f"Published {post['id']} to {p} as video: {results[p]}")
                     continue
                 slides = (post.get("carousel_files") or []) if has_photo else []
