@@ -148,5 +148,55 @@
     "id": "rss-Google_News_EN-CBMitwFBVV95cUxPeVpTMTFsT1VxR0xoRGhicjFVOW5YTkNwYUpyYUZNcDU5TVJzNnowaWVEYWk4TWE4M1JDNEI1ck5TcTZuTkpQR",
     "reason": "Concert review with a rating (opinion), not news; São Paulo concerts not new",
     "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitAFBVV95cUxNbnlSQ0UyclRId25uRWdXci1TdGRleTJrT0JzLW9WTDdIUjB5WWt1eXdLRnZOSWhkNTJwN1JkVmxla3U2LUhId",
+    "reason": "HYBE Q3 financial results only; tour news already posted in hybe-tour-2027-repost",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMic0FVX3lxTE9OU2w2LTU1UFQ1OWw1Mk9wMDUtT0xQcGRwRHlnS0Q4eE9tcEpTWjhUQWlZWklKZEQ5NHNsUC0tYjI4NXVwTlI4d",
+    "reason": "HYBE Q3 financial results only; tour news already posted in hybe-tour-2027-repost",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMijwFBVV95cUxNRDF2S1pMNHdzOXJabE5lYjBKdS1LcVpYTUhzMGZDcGRZUW5Ib3hfRWlITnRRVkk1em5ZVFEtd2xIV2hSR1Fvd",
+    "reason": "Tour date expansion and 2027 group/solo plans already covered in hybe-tour-2027-repost; WebSearch found no new verified HYBE statement on solo projects or new music",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiqgFBVV95cUxNc19fYjl4bkV0cG5sdzBwYmk4ZGtzRDFHcHVUX2l0ZkZFX1JYYUlNR3hlUXozOFJ1el9hMjZER2loWVl4N0tUW",
+    "reason": "Tour date expansion and 2027 plans (Billboard) already covered in hybe-tour-2027-repost; no new verified detail",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMimwFBVV95cUxQQW5sRmdCZm5rX2FfNXZRTzBUUTJXNDlPWi1ldjVEd3pYRnU4a1BEcUdhXzMxRUpZSVF1bzhHY01aMWJ3QW1lY",
+    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiV0FVX3lxTE1idldOajJUWnBnYnV5Qzh5OHhVOW1qVzJ4blhxQkl2Mko4cFFnZ0M5dmlYZEFyS0dFbW11MmVybHpGbUdkVWFuR",
+    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMinwFBVV95cUxPejVEbEMwU3pVYUd0eW1rSmQ1U2t3MUJNOXFhR3BWM3hkR1Z4VkFSUWI3WDRDZGRERjdweXpTZXdabDJYemVmW",
+    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiswFBVV95cUxOTEVYYlVFQ2xLNnBSLXdzQTZlSVlsOHFraVFuZHNHNWZjWXYzT0FWN2ctTHlvQjhtWU9mTGhzQ3RuTlBDTXkwb",
+    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiggFBVV95cUxOOGh1R0JUbUs4WVBXMzRpSVphWkc3QXVWX0FSREYxUGNrYjRkNFlHRlVQNEJLN2Fta1VrOVBGOWdKRjNxSTJMR",
+    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi3AFBVV95cUxPNlFOcVd5MmptSHRSS3BPS01uM01NTF9sUXRFdm9seUVCb1MtYkVUd1pKNlFEai1qV1lWbWFaZUJHbmRtcVItb",
+    "reason": "Taiwan/Indonesia concerts in cinemas: same news as rss-bts-live-viewing-kaohsiung-jakarta, already posted",
+    "run": "2026-11-03"
   }
 ]
