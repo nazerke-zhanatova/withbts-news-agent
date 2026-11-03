@@ -28,7 +28,7 @@ jobs:
       - name: Install tools and fonts
         run: |
           pip install -r requirements.txt
-          (sudo apt-get update -q >/dev/null && sudo apt-get install -y -q fonts-noto-core >/dev/null) || true
+          (sudo apt-get update -q >/dev/null && sudo apt-get install -y -q fonts-noto-core ffmpeg >/dev/null) || true
 
       - name: Render cards again with the latest design rules
         run: |
