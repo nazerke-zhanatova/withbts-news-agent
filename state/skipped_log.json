@@ -233,5 +233,80 @@
     "id": "tg-koreaworld111_57216",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE1hWC0yNUFacUJEdkpKRG4wQlgzT3UzV1lFSHlVMFRpS1NyMjVaR2gyNm5JbmNoWHJxaUp1eVZISUJlcGVtN095e",
+    "reason": "Single-outlet photo feature (STARNEWS headline), no second outlet, no new news",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9TTlNLQ2NMdDlFSV92N3BsV0Q4cmxUcHJyMzRyaHRNSGhrN0IwRFl4MXY0X3FoX21tZEp1OGtnX1oweFBQT1VIZ",
+    "reason": "Arrival at Incheon already posted (bts-return-incheon-1103); video feature only",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "tg-btsnewsru0_82903",
+    "reason": "Personal comment between members, no news (aggregator)",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "tg-btsnewsru0_82901",
+    "reason": "Minor social post by a member; aggregator only; photo frame cannot be identified, so no photo for a post",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "tg-koreaworld111_57214",
+    "reason": "Livestream announcement of the Incheon arrival already covered by bts-return-incheon-1103",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "tg-koreaworld111_57212",
+    "reason": "Sponsor promo content (CazeTV), no BTS news",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMickFVX3lxTE03bzRjeTdQUmdsNTNEdEdmUVB3bG90dzFuRUQ2UlNBY3Q1SUxGRjR0MFlvSE90Q0pvOHRWcXUzSElfUDJ0MWJoW",
+    "reason": "HYBE quarterly financial results only; tour news already posted in hybe-tour-2027-repost",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikwFBVV95cUxNbHU1VF94SU8zclJjZU94Rm9SdDdLbDE1ZmMwOWVJSGhvcWN4bVBkQi1sUl81elNFUm9pZlYzZ1Vxc2dNOFRkW",
+    "reason": "HYBE CEO 2027 plans: single outlet (iHeart Canada), no second source found, plans not confirmed",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiVEFVX3lxTE8zOVcySjQ5di1vM3lnV2VZNU9Pa254OG5jSkxaVFdYejc3TzNMX1gyZ0RLeW00d2FWSHN6SktEMTVKZlZUbnl6c",
+    "reason": "Rolling Stone cover feature from April 2026, not new news",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "tg-koreaworld111_57210",
+    "reason": "Samsung brand clip with J-hope: no photo from a permitted source for this news, so no post possible this run (see notes)",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "tg-koreaworld111_57208",
+    "reason": "Stories link with no text, no news",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "tg-koreaworld111_57207",
+    "reason": "MAMA voting instructions; stated deadline (8.11) conflicts with reported second-round end (18 Nov KST); no photo (see notes)",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi5gFBVV95cUxORFdXelV2NnBhQmJ5Sk9NT095c05NWDFRbHdQOHMtRkwtV1NNZkxNQktXaV9NLUdmdUdkZlYwVGY0UUhQN0k2c",
+    "reason": "Family member (Jimin's father, cafe closure), private life",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "tg-koreaworld111_57201",
+    "reason": "Return to Korea already posted (bts-return-incheon-1103)",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "tg-koreaworld111_57199",
+    "reason": "Personal story quote, no news",
+    "run": "2026-11-03"
   }
 ]
