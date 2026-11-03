@@ -1,9 +1,7 @@
 name: withBTS.kz news agent
 
 on:
-  schedule:
-    # Every 30 minutes, so official news goes out fast. Times are UTC; Almaty is UTC+5.
-    - cron: "7,37 * * * *"
+  # Started every 30 minutes by the "Heartbeat" workflow (GitHub's own timer skips runs).
   workflow_dispatch: {}   # "Run workflow" button for manual runs
 
 concurrency:
