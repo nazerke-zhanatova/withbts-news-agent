@@ -21,7 +21,7 @@ platforms:
 
 # Smart schedule: news is checked every 30 minutes. Official and trusted (non-aggregator)
 # news is written right away; news sites and aggregator channels wait for a batch every N hours.
-batch_hours: 3
+batch_hours: 6
 
 # Saving Claude usage: at most this many items go to Claude per run, and the cheaper
 # model writes the news-site batches. Official / trusted news always uses the stronger model.
