@@ -225,6 +225,88 @@ def render(post, out_path):
     return out_path
 
 
+VW, VH = 1080, 1920          # Reels / Stories size
+V_TOP, V_BOTTOM = 330, 1740  # the clip sits between the header and the footer
+
+
+def video_overlay(post, out_path):
+    """withBTS.kz frame for a video: header with tag and headline, footer with logo, date
+    and the video credit. The middle stays transparent so the clip shows through."""
+    s = settings()
+    d = s.get("design", {})
+    bg = _hex(d.get("background", "#CCAAFF"))
+    hl = _hex(d.get("highlight", "#FFC91D"))
+    fg = _hex(d.get("text", "#111111"))
+    heart = _load_logo(d.get("logo_file"))
+    wordmark = _load_logo(d.get("wordmark_file"))
+    img = Image.new("RGBA", (VW, VH), bg + (255,))
+    draw = ImageDraw.Draw(img)
+    draw.rectangle((0, V_TOP, VW, V_BOTTOM), fill=(0, 0, 0, 0))  # window for the clip
+    card = {k: no_emoji(v) if isinstance(v, str) else v for k, v in post.get("card", {}).items()}
+    tag = (card.get("tag") or "ВИДЕО").upper()
+    tf = _font(30)
+    tw = draw.textlength(tag, font=tf)
+    draw.rounded_rectangle((PAD, 60, PAD + tw + 48, 118), radius=29, fill=hl, outline=fg, width=3)
+    draw.text((PAD + 24, 71), tag, font=tf, fill=fg)
+    hf, lines = fit_text(draw, card.get("headline", ""), VW - 2 * PAD, 2, 64, 40)
+    y = 140
+    for line in lines:
+        draw.text((PAD, y), line, font=hf, fill=fg)
+        y += int(hf.size * 1.15)
+    owner = (post.get("image_credit") or (post.get("credits") or [""])[0]).strip().lstrip("@")
+    cf = _font(24, bold=False)
+    label = f"video: {owner}"
+    lw = draw.textlength(label, font=cf)
+    draw.rounded_rectangle((VW - PAD - lw - 24, V_TOP + 20, VW - PAD + 4, V_TOP + 64), radius=20, fill=(17, 17, 17, 255))
+    draw.text((VW - PAD - lw - 10, V_TOP + 28), label, font=cf, fill=(255, 255, 255))
+    fy = V_BOTTOM + 40
+    bx = PAD
+    if heart:
+        h = heart.copy()
+        h.thumbnail((80, 80))
+        img.alpha_composite(h, (bx, fy + 10))
+        bx += h.width + 20
+    if wordmark:
+        wm = wordmark.copy()
+        wm.thumbnail((380, 80))
+        img.alpha_composite(wm, (bx, fy + 10 + (80 - wm.height) // 2))
+    date = now_almaty().strftime("%d.%m.%Y")
+    df = _font(30, bold=False)
+    draw.text((VW - PAD - draw.textlength(date, font=df), fy + 32), date, font=df, fill=fg)
+    img.save(out_path, "PNG")
+    return out_path
+
+
+def brand_video(post, out_path):
+    """Put the clip into the withBTS.kz frame (whole clip visible, nothing cropped) with ffmpeg."""
+    import shutil
+    import subprocess
+    src = ROOT / post["video_file"]
+    if not shutil.which("ffmpeg"):
+        log("  ffmpeg missing, the video is posted without the withBTS.kz frame")
+        return None
+    overlay = MEDIA / f"overlay_{post['id']}.png"
+    video_overlay(post, overlay)
+    bgc = settings().get("design", {}).get("background", "#CCAAFF").lstrip("#")
+    h = V_BOTTOM - V_TOP
+    fc = (f"color=c=0x{bgc}:s={VW}x{VH}:r=30[bg];"
+          f"[0:v]scale={VW}:{h}:force_original_aspect_ratio=decrease,setsar=1[v];"
+          f"[bg][v]overlay=(W-w)/2:{V_TOP}+({h}-h)/2:shortest=1[b];"
+          f"[b][1:v]overlay=0:0,format=yuv420p[out]")
+    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-i", str(overlay),
+           "-filter_complex", fc, "-map", "[out]", "-map", "0:a?", "-t", "90",
+           "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-r", "30",
+           "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", str(out_path)]
+    try:
+        subprocess.run(cmd, check=True, timeout=600)
+        overlay.unlink()
+        log(f"  branded video made: {out_path.name}")
+        return out_path
+    except Exception as e:  # noqa: BLE001
+        log(f"  branding the video failed ({e}), posting the plain video")
+        return None
+
+
 def render_slide(src, out_path):
     """Fit a photo on a 1080x1350 canvas (whole photo visible) over a blurred copy of itself."""
     from PIL import ImageFilter
@@ -417,6 +499,10 @@ def main(paths):
         out = MEDIA / f"card_{post['id']}.jpg"
         render(post, out)
         post["card_file"] = f"media/{out.name}"
+        if post.get("video_file") and (ROOT / post["video_file"]).exists() and not post.get("video_branded"):
+            bv = brand_video(post, MEDIA / f"branded_{post['id']}.mp4")
+            if bv:
+                post["video_branded"] = f"media/{bv.name}"
         slides = []
         for n, src in enumerate((post.get("carousel") or [])[:9]):
             src_path = (ROOT / src).resolve()
