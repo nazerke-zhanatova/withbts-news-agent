@@ -12,7 +12,7 @@
     "Dispatch",
     "koreaworld111"
   ],
-  "image": null,
+  "image": "media/web_dicon-dfesta-bts-concepts_collage.jpg",
   "image_credit": "DICON",
   "photo_members": [
     "all"
@@ -27,7 +27,15 @@
     "https://t.me/koreaworld111/57167"
   ],
   "cover_collage": true,
-  "carousel": [],
+  "carousel": [
+    "media/web_dicon-dfesta-bts-concepts_f0.jpg",
+    "media/web_dicon-dfesta-bts-concepts_f1.jpg",
+    "media/web_dicon-dfesta-bts-concepts_f2.jpg",
+    "media/web_dicon-dfesta-bts-concepts_f3.jpg",
+    "media/web_dicon-dfesta-bts-concepts_f4.jpg",
+    "media/web_dicon-dfesta-bts-concepts_f5.jpg",
+    "media/web_dicon-dfesta-bts-concepts_f6.jpg"
+  ],
   "card": {
     "tag": "ФОТОСЕССИЯ",
     "headline": "DICON: BTS мүшелерінің жаңа концепттері",
@@ -36,5 +44,15 @@
   "telegram": "DICON D'FESTA: BTS мүшелерінің жаңа концепт-видеолары 💜\n\nDispatch-тың DICON жобасы Сеулдегі «D'FESTA THE ORIGIN» көрмесі аясында BTS-тің әр мүшесінің жеке концепт-видеосын жариялады:\n\nRM: «Game Changer»\nJin: «The Slice of Light»\nSUGA: «Quiet Waves»\nj-hope: «Rhythm of Assurance»\nJimin: «Aesthetics of Movement»\nV: жеке концепт\nJung Kook: «Non-stop Speed»\n\nКөрме Сеулдің Ёыйдо ауданындағы MPX GALLERY-де 30 қарашаға дейін жалғасады. Оған 48 K-pop әртісі қатысып отыр.\n\nARMY, сізге қай мүшенің концепті көбірек ұнады? Пікірде жазыңыз!",
   "threads": "DICON «D'FESTA THE ORIGIN» көрмесі үшін BTS-тің әр мүшесінің жеке концепт-видеосын жариялады 💜 Көрме Сеулде 30 қарашаға дейін өтеді. ARMY, қай мүшенің концепті ұнады?",
   "x": "DICON BTS мүшелерінің жеке концепт-видеоларын жариялады 💜 Қай мүшенің концепті ұнады?",
-  "instagram": "DICON D'FESTA: BTS мүшелерінің жаңа концепт-видеолары 💜\n\nDispatch-тың DICON жобасы Сеулдегі «D'FESTA THE ORIGIN» көрмесі аясында BTS-тің әр мүшесінің жеке концепт-видеосын жариялады:\n\nRM: «Game Changer»\nJin: «The Slice of Light»\nSUGA: «Quiet Waves»\nj-hope: «Rhythm of Assurance»\nJimin: «Aesthetics of Movement»\nV: жеке концепт\nJung Kook: «Non-stop Speed»\n\nКөрме Сеулдің Ёыйдо ауданындағы MPX GALLERY-де 30 қарашаға дейін жалғасады. Оған 48 K-pop әртісі қатысып отыр.\n\nARMY, сізге қай мүшенің концепті көбірек ұнады? Пікірде жазыңыз!"
+  "instagram": "DICON D'FESTA: BTS мүшелерінің жаңа концепт-видеолары 💜\n\nDispatch-тың DICON жобасы Сеулдегі «D'FESTA THE ORIGIN» көрмесі аясында BTS-тің әр мүшесінің жеке концепт-видеосын жариялады:\n\nRM: «Game Changer»\nJin: «The Slice of Light»\nSUGA: «Quiet Waves»\nj-hope: «Rhythm of Assurance»\nJimin: «Aesthetics of Movement»\nV: жеке концепт\nJung Kook: «Non-stop Speed»\n\nКөрме Сеулдің Ёыйдо ауданындағы MPX GALLERY-де 30 қарашаға дейін жалғасады. Оған 48 K-pop әртісі қатысып отыр.\n\nARMY, сізге қай мүшенің концепті көбірек ұнады? Пікірде жазыңыз!",
+  "card_file": "media/card_dicon-dfesta-bts-concepts.jpg",
+  "carousel_files": [
+    "media/slide_dicon-dfesta-bts-concepts_0.jpg",
+    "media/slide_dicon-dfesta-bts-concepts_1.jpg",
+    "media/slide_dicon-dfesta-bts-concepts_2.jpg",
+    "media/slide_dicon-dfesta-bts-concepts_3.jpg",
+    "media/slide_dicon-dfesta-bts-concepts_4.jpg",
+    "media/slide_dicon-dfesta-bts-concepts_5.jpg",
+    "media/slide_dicon-dfesta-bts-concepts_6.jpg"
+  ]
 }
