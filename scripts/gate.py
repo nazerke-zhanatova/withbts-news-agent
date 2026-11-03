@@ -63,7 +63,8 @@ def prefilter(cands, posted, recent_titles):
     for c in cands:
         reason = None
         words = body(c)
-        if c.get("platform") == "telegram" and len(words) < 25:
+        short_member_post = bool(c.get("media")) and BTS_WORDS.search(c.get("text") or "")
+        if c.get("platform") == "telegram" and len(words) < 25 and not short_member_post:
             reason = "no text (photo or video only)"
         elif not is_fast(c) and not BTS_WORDS.search(c.get("text") or ""):
             reason = "not about BTS"
