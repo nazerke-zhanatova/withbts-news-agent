@@ -268,17 +268,94 @@ def download_photo(url, out_path, domains):
         return None
 
 
+def download_video(url, out_path, domains, max_mb=48):
+    """Download a video clip (CLAUDE.md rule 5c). Telegram bots can send up to 50 MB."""
+    import requests
+    if not url or not _allowed(url, domains):
+        log(f"  video url not allowed or empty: {url}")
+        return None
+    try:
+        with requests.get(url, timeout=120, stream=True, headers={"User-Agent": "Mozilla/5.0 withBTS.kz news agent"}) as r:
+            r.raise_for_status()
+            size = 0
+            with open(out_path, "wb") as f:
+                for chunk in r.iter_content(1 << 20):
+                    size += len(chunk)
+                    if size > max_mb * 1024 * 1024:
+                        raise ValueError(f"video larger than {max_mb} MB")
+                    f.write(chunk)
+        log(f"  video downloaded: {out_path.name} ({size // 1024} KB)")
+        return out_path
+    except Exception as e:  # noqa: BLE001
+        log(f"  video download failed ({e}): {url}")
+        if out_path.exists():
+            out_path.unlink()
+        return None
+
+
+def telegram_media(url):
+    """Photos, video still frames and video links of one public Telegram post (t.me/<channel>/<id>)."""
+    import requests
+    try:
+        r = requests.get(url.split("?")[0] + "?embed=1&mode=tme", timeout=30,
+                         headers={"User-Agent": "Mozilla/5.0 withBTS.kz news agent"})
+        r.raise_for_status()
+    except Exception as e:  # noqa: BLE001
+        log(f"  telegram post not readable ({e}): {url}")
+        return [], []
+    html = r.text
+    import re as _re
+    images = _re.findall(r"(?:tgme_widget_message_photo_wrap|tgme_widget_message_video_thumb)[^>]*background-image:url\('([^']+)'\)", html)
+    videos = _re.findall(r"<video[^>]+src=\"(https://[^\"]+)\"", html)
+    return images, videos
+
+
+def make_collage(paths, out_path):
+    """One cover from several photos (for example one photo per member), nothing cropped away badly:
+    each photo is fitted into its own tile."""
+    imgs = [Image.open(ROOT / p).convert("RGB") for p in paths]
+    n = len(imgs)
+    cols = 4 if n > 6 else 3 if n > 4 else n
+    rows = (n + cols - 1) // cols
+    tw, th = 1080 // cols, 1350 // rows
+    canvas = Image.new("RGB", (tw * cols, th * rows), (20, 12, 30))
+    for i, im in enumerate(imgs):
+        r, c = divmod(i, cols)
+        offset = (cols - (n - r * cols)) * tw // 2 if r == rows - 1 and n % cols else 0
+        tile = ImageOps.fit(im, (tw - 6, th - 6), Image.LANCZOS, centering=(0.5, 0.3))
+        canvas.paste(tile, (c * tw + 3 + offset, r * th + 3))
+    canvas.save(out_path, "JPEG", quality=92)
+    return out_path
+
+
 def fetch_remote_photos(post):
     """Turn image_url / carousel_urls into files in media/. Falls back to the official group photo."""
     s = settings()
     domains = [d.lower() for d in s.get("photo_domains", [])]
     pid = post["id"]
+    # Telegram posts given by link: take their video and still frames (CLAUDE.md rule 5c)
+    if post.get("tg_video_from") and not post.get("video_url"):
+        imgs, vids = telegram_media(post["tg_video_from"])
+        if vids:
+            post["video_url"] = vids[0]
+        if imgs and not post.get("image_url") and not post.get("image"):
+            post["image_url"] = imgs[0]
+    if post.get("tg_photos_from") and not post.get("carousel_urls"):
+        urls = []
+        for link in post["tg_photos_from"][:9]:
+            imgs, _ = telegram_media(link)
+            urls += imgs[:1]
+        post["carousel_urls"] = urls
     has_local = post.get("image") and (ROOT / post["image"]).exists()
     if not has_local and post.get("image_url"):
         got = download_photo(post["image_url"], MEDIA / f"web_{pid}_cover.jpg", domains)
         if got:
             post["image"] = f"media/{got.name}"
     # No fallback photo: the same photo must never be used twice (Nazerke's rule).
+    if post.get("video_url") and not (post.get("video_file") and (ROOT / post["video_file"]).exists()):
+        got = download_video(post["video_url"], MEDIA / f"video_{pid}.mp4", domains)
+        if got:
+            post["video_file"] = f"media/{got.name}"
     carousel = list(post.get("carousel") or [])
     for n, url in enumerate((post.get("carousel_urls") or [])[:9]):
         if f"media/web_{pid}_{n}.jpg" in carousel and (MEDIA / f"web_{pid}_{n}.jpg").exists():
@@ -287,6 +364,10 @@ def fetch_remote_photos(post):
         if got:
             carousel.append(f"media/{got.name}")
     post["carousel"] = carousel[:9]
+    if post.get("cover_collage") and len(post["carousel"]) >= 2 and not (post.get("image") and (ROOT / post["image"]).exists()):
+        out = make_collage(post["carousel"], MEDIA / f"web_{pid}_collage.jpg")
+        post["image"] = f"media/{out.name}"
+        log(f"  cover collage made from {len(post['carousel'])} photos")
 
 
 def main(paths):
