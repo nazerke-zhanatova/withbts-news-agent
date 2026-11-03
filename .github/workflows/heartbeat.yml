@@ -1,0 +1,44 @@
+name: Heartbeat
+
+# GitHub's own timer often skips frequent schedules, so this workflow keeps the agent on time:
+# it starts "withBTS.kz news agent" every 30 minutes for about 5.5 hours, then starts the next
+# heartbeat. The schedule below only restarts the chain if it ever stops.
+on:
+  schedule:
+    - cron: "11 */2 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: heartbeat
+  cancel-in-progress: false
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  beat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Start the news agent every 30 minutes
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          end=$(( $(date +%s) + 5*3600 + 20*60 ))
+          while [ "$(date +%s)" -lt "$end" ]; do
+            if grep -qE '^enabled:\s*false' <(gh api "repos/$REPO/contents/config/settings.yaml" --jq .content | base64 -d); then
+              echo "Kill switch is off, not starting the agent."
+            else
+              gh workflow run news-agent.yml -R "$REPO" --ref main && echo "Agent started at $(date -u +%H:%M) UTC" || echo "Could not start the agent"
+            fi
+            sleep 1800
+          done
+
+      - name: Hand over to the next heartbeat
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: gh workflow run heartbeat.yml -R "$REPO" --ref main
