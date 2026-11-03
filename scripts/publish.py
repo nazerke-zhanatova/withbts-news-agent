@@ -46,6 +46,66 @@ REQUIRED = ["id", "credits", "card", "telegram", "instagram", "threads", "x", "s
 
 # ---------------- validation and composing ----------------
 
+# ---------------- photo memory: never use the same photo twice ----------------
+
+USED_PHOTOS = STATE / "used_photos.json"
+
+
+def photo_hash(path):
+    """Small "difference hash": the same photo gives (almost) the same hash even after
+    resizing or recompressing, so a photo downloaded again from another site is still caught."""
+    from PIL import Image
+    img = Image.open(path).convert("L").resize((17, 16))
+    px = list(img.getdata())
+    bits = [px[r * 17 + c] > px[r * 17 + c + 1] for r in range(16) for c in range(16)]
+    return f"{int(''.join('1' if b else '0' for b in bits), 2):064x}"
+
+
+def same_photo(h1, h2, limit=40):
+    return bin(int(h1, 16) ^ int(h2, 16)).count("1") <= limit
+
+
+def used_photos():
+    used = load_json(USED_PHOTOS, [])
+    known = {u["hash"] for u in used}
+    # also learn from earlier posts whose photos are still in media/
+    for a in sorted((STATE / "archive").glob("*.json")):
+        old = load_json(a, {})
+        for rel in [old.get("image")] + list(old.get("carousel") or []):
+            p = ROOT / rel if rel else None
+            if p and p.exists():
+                try:
+                    h = photo_hash(p)
+                except Exception:  # noqa: BLE001
+                    continue
+                if h not in known:
+                    used.append({"hash": h, "post": old.get("id"), "file": rel, "url": old.get("image_url")})
+                    known.add(h)
+    return used
+
+
+def photo_reused(post, used):
+    paths = [post.get("image")] + list(post.get("carousel") or [])
+    for rel in paths:
+        if not rel or not (ROOT / rel).exists():
+            continue
+        h = photo_hash(ROOT / rel)
+        for u in used:
+            if u.get("post") != post.get("id") and same_photo(h, u["hash"]):
+                return f"photo {rel} was already used in post {u.get('post')}"
+    return None
+
+
+def remember_photos(post):
+    used = used_photos()
+    for rel in [post.get("image")] + list(post.get("carousel") or []):
+        if rel and (ROOT / rel).exists():
+            used.append({"hash": photo_hash(ROOT / rel), "post": post.get("id"), "file": rel,
+                         "url": post.get("image_url") if rel == post.get("image") else None,
+                         "date": now_almaty().isoformat(timespec="minutes")})
+    save_json(USED_PHOTOS, used[-3000:])
+
+
 def validate(post):
     for key in REQUIRED:
         if not post.get(key):
@@ -67,6 +127,9 @@ def validate(post):
             return "photo has no image_credit"
         if ic.lower() not in [c.strip().lstrip("@").lower() for c in credits]:
             post["credits"].append(ic)  # photo owner always appears in the credits line
+        reused = photo_reused(post, used_photos())
+        if reused:
+            return reused + " (never use the same photo twice)"
     for c in post.get("carousel") or []:
         cp = (ROOT / c).resolve()
         if not str(cp).startswith(str((ROOT / "media").resolve())):
@@ -291,6 +354,7 @@ def main():
         reason = validate(post)
         if reason:
             log(f"REJECTED {post.get('id')}: {reason}")
+            alert(f"🚫 withBTS.kz: a post was not published.\n\n{post.get('card', {}).get('headline', post.get('id'))}\n\nReason: {reason}")
             post["rejected_reason"] = reason
             save_json(rejected / f.name, post)
             f.unlink()
@@ -350,6 +414,8 @@ def main():
             "dry_run": dry,
             "results": results,
         }
+        if not dry and any(not str(r).startswith(("ERROR", "skipped")) for r in results.values()):
+            remember_photos(post)
         errors = {p: r for p, r in results.items() if str(r).startswith("ERROR")}
         if errors:
             alert("❗ withBTS.kz: publishing problem.\n\n"
