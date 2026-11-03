@@ -30,5 +30,6 @@
   "image_url": "https://cdn4.telesco.pe/file/BF5ricXzP4Y6zKO7Z0x-cH9hGYQBsGz69nn9-zeDSCfPqXFZ7p4vmi0S3kXDxRrUVilvl8cUQ9yajfxKv-oySBG6Ra-bg9H49h7ckgRMjU4JhOnRBnkIkOHUATALdwCqbCCA4W7s1UVInYB9bSfuXozWqjA_rMU0qzjkNkNiuJ8mWxFQujNNriytKUMZmfCxHLpC4o41QpakimfEKgtCoYXRLiA8rt3vj2uE6omIw-e8Epr-vYiidgGk_2zHSnS42mUCQ0pWFMfaz6tANpkJADyfWvO5kCKQjbQHOzRxRNMHcsqUTr6Fb-ThQiFbkc-1GAiDZVFLlgbEdJSsMPbPxQ",
   "video_file": "media/video_jhope-samsung-bts-video.mp4",
   "card_file": "media/card_jhope-samsung-bts-video.jpg",
-  "carousel_files": []
+  "carousel_files": [],
+  "rejected_reason": "no photo (every post must have a photo in the design)"
 }

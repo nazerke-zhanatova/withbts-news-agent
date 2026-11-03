@@ -122,5 +122,29 @@
       "instagram": "18468775114187273",
       "threads": "18121035848050228"
     }
+  },
+  {
+    "id": "mama-2026-vote-round2",
+    "time": "2026-11-04T02:20+05:00",
+    "headline": "MAMA 2026: BTS-ке дауыс берейік!",
+    "category": "award",
+    "source_urls": [
+      "https://x.com/MnetMAMA/status/2115367975079551320",
+      "https://x.com/MnetMAMA/status/2109586627228213418",
+      "https://www.soompi.com/article/1877350wpp/2026-mama-awards-announces-nominees-fans-choice-voting-begins",
+      "https://t.me/koreaworld111/57207"
+    ],
+    "credits": [
+      "MAMA AWARDS",
+      "Soompi",
+      "koreaworld111",
+      "BIGHIT MUSIC"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19367",
+      "instagram": "ERROR: container failed: {'error': {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AwRqxhCJtEw6s1EMIOUydGq'}}",
+      "threads": "ERROR: container failed: {'error': {'message': 'API access blocked.', 'type': 'OAuthException', 'code': 200, 'fbtrace_id': 'AcIiCIFZRw5V6D8XszZF7nS'}}"
+    }
   }
 ]
