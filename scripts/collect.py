@@ -178,10 +178,11 @@ def collect_telegram(entries):
             if not passes(e, text):
                 continue
             images = []
-            for a in msg.select("a.tgme_widget_message_photo_wrap"):
+            for a in msg.select("a.tgme_widget_message_photo_wrap, i.tgme_widget_message_video_thumb"):
                 m = re.search(r"url\('([^']+)'\)", a.get("style", ""))
                 if m:
-                    images.append(m.group(1))
+                    images.append(m.group(1))  # photos, and the still frame of each video
+            videos = [v["src"] for v in msg.select("video[src]") if v.get("src", "").startswith("https://")]
             out.append({
                 "id": safe_id("tg", post),
                 "platform": "telegram",
@@ -192,6 +193,7 @@ def collect_telegram(entries):
                 "text": text,
                 "timestamp": ts.isoformat() if ts else None,
                 "_images": images[:9],
+                "videos": videos[:3],
             })
     return out
 
