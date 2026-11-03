@@ -21,7 +21,7 @@ if notes_file.exists():
     sent = load_json(STATE / "notes_sent.json", {"count": 0})
     new_lines = lines[sent.get("count", 0):]
     if new_lines:
-        alert("📝 withBTS.kz: the agent found a possible mistake in an earlier post.\n\n" + "\n".join(new_lines)[:3500])
+        alert("📝 withBTS.kz: a note from the agent (a possible mistake, or news it could not post).\n\n" + "\n".join(new_lines)[:3500])
         save_json(STATE / "notes_sent.json", {"count": len(lines)})
 
 skipped = load_json(STATE / "skipped_log.json", [])
