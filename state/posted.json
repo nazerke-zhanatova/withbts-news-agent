@@ -55,5 +55,49 @@
       "instagram": "18653546947027065",
       "threads": "18118949012061175"
     }
+  },
+  {
+    "id": "rss-bts-live-viewing-kaohsiung-jakarta",
+    "time": "2026-11-03T16:41+05:00",
+    "headline": "Гаосюн мен Джакарта концерттері кинотеатрларда",
+    "category": "concert",
+    "source_urls": [
+      "https://x.com/bts_bighit/status/2117240312015749233",
+      "https://www.starnewskorea.com/en/music/2026/11/03/2026110307023398340",
+      "https://www.koreajoongangdaily.com/entertainment/bts-to-screen-kaohsiung-jakarta-arirang-concerts-in-thousands-of-theaters-worldwide/12951807"
+    ],
+    "credits": [
+      "bts_bighit",
+      "STARNEWS",
+      "Korea JoongAng Daily",
+      "BIGHIT MUSIC"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19355",
+      "instagram": "18119586959005085",
+      "threads": "18107132474359051"
+    }
+  },
+  {
+    "id": "tg-btsnewsru0_82895",
+    "time": "2026-11-03T16:42+05:00",
+    "headline": "BTS туры 2027 жылдың бірінші жартысына дейін",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/btsnewsru0/82895",
+      "https://t.me/btsnewsru0/82900"
+    ],
+    "credits": [
+      "Yonhap",
+      "btsnewsru0",
+      "BIGHIT MUSIC"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19356",
+      "instagram": "18385527244234797",
+      "threads": "18114850466167483"
+    }
   }
 ]
