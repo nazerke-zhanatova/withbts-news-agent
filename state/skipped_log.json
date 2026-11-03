@@ -308,5 +308,15 @@
     "id": "tg-koreaworld111_57199",
     "reason": "Personal story quote, no news",
     "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi5gFBVV95cUxORFdXelV2NnBhQmJ5Sk9NT095c05NWDFRbHdQOHMtRkwtV1NNZkxNQktXaV9NLUdmdUdkZlYwVGY0UUhQN0k2c",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-03"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMickFVX3lxTE03bzRjeTdQUmdsNTNEdEdmUVB3bG90dzFuRUQ2UlNBY3Q1SUxGRjR0MFlvSE90Q0pvOHRWcXUzSElfUDJ0MWJoW",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-03"
   }
 ]
