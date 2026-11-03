@@ -1,57 +1,20 @@
 [
-  {
-    "id": "tg-btsnewsru0_82840",
-    "reason": "Empty text, no news",
-    "run": "2026-11-02"
-  },
-  {
-    "id": "tg-btsnewsru0_82857",
-    "reason": "Empty text, photos only, no news",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-btsnewsru0_82867",
-    "reason": "Return to Korea already posted (bts-return-incheon-1103)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMisAFBVV95cUxOZ0FnNGFjbjFnTXlSdFU4ZmctMnFOY3g5THhaeXVLN2RLbDRZQm9GeHYzRzNFSXdhSHNhT2NhLXdMZjdlalM3Y",
-    "reason": "Family member (Jimin's father), private life",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiVkFVX3lxTE9kZlFLSlVXVEExZEtCbFNJalZ1NTNGajFXR1dkWGFwazRGX1ppZlNFZ3VTRjFtV2dnR2syUU5WYnBNYUpXbzFxa",
-    "reason": "Family member (Jimin's father), private life; duplicate",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi_gFBVV95cUxNcW1UUzZfSTFRMjlzUUxaRmV1VFBCMHVBeHZFTmtxNElCRjZfc1JFOW1YU0N3blBiODRva25QOHp4VFBwSFQ0Z",
-    "reason": "Legal news, only headline available, no official statement",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_KO-CBMiW0FVX3lxTE9MVmN4VEtwLWNyeDlRdGx0dXFKQTZ3YUVaY2gzRmhhQkNtMGFXVHE5X3RXWVNVNUxJRnlmVWxVMVRCclM1VUEtd",
-    "reason": "Legal news duplicate, no official statement",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi7wFBVV95cUxNSTBTV094YjZDV0VkWnJ2aU1Fa3ZxMWc2WW1pQlEwUElpZzdOSnJpa0RNUDF5Y0FxMi1MNkhoMUYzZ1N4RWMzY",
-    "reason": "Kaohsiung/Jakarta cinema live viewing: reported by several outlets but only headlines readable, full details and a matching photo could not be verified; will retry when article text is available",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_KO-CBMiZEFVX3lxTFB5X3VRR29mZ2FPS1hmaFlVdDNLdGw0a25nZ0FqSmRaU09BNkkwYUNKMkFIYnUyWDRsRHMwX0VXRXQwZUY3X3FsM",
-    "reason": "Same live viewing news, details unverified",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_KO-CBMiW0FVX3lxTE5YU3NBZXBNZmFuR3RvdmV4V3VFaGpjUVREaEVSTXIxcU1NQnprNV9Lc3hCRV9ySFlhY3JZdTE0YUQ0b2luRTJQV",
-    "reason": "Same live viewing news (Yonhap), details unverified",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-all-other-2026-11-03",
-    "reason": "Remaining RSS items skipped: MC drop video, Cineplex listings, ticketing dispute, Starnews photo/fan-ranking/stage-outfit pieces, concert review, return-home items already posted, headline-only",
-    "run": "2026-11-03"
-  }
+  {"id": "tg-btsnewsru0_82840", "reason": "Empty text, no news", "run": "2026-11-02"},
+  {"id": "tg-btsnewsru0_82857", "reason": "Empty text, photos only, no news", "run": "2026-11-03"},
+  {"id": "tg-btsnewsru0_82867", "reason": "Return to Korea already posted (bts-return-incheon-1103)", "run": "2026-11-03"},
+  {"id": "rss-Google_News_EN-CBMisAFBVV95cUxOZ0FnNGFjbjFnTXlSdFU4ZmctMnFOY3g5THhaeXVLN2RLbDRZQm9GeHYzRzNFSXdhSHNhT2NhLXdMZjdlalM3Y", "reason": "Family member (Jimin's father), private life", "run": "2026-11-03"},
+  {"id": "rss-Google_News_EN-CBMiVkFVX3lxTE9kZlFLSlVXVEExZEtCbFNJalZ1NTNGajFXR1dkWGFwazRGX1ppZlNFZ3VTRjFtV2dnR2syUU5WYnBNYUpXbzFxa", "reason": "Family member (Jimin's father), private life; duplicate", "run": "2026-11-03"},
+  {"id": "rss-Google_News_EN-CBMi_gFBVV95cUxNcW1UUzZfSTFRMjlzUUxaRmV1VFBCMHVBeHZFTmtxNElCRjZfc1JFOW1YU0N3blBiODRva25QOHp4VFBwSFQ0Z", "reason": "Legal news, only headline available, no official statement", "run": "2026-11-03"},
+  {"id": "rss-Google_News_KO-CBMiW0FVX3lxTE9MVmN4VEtwLWNyeDlRdGx0dXFKQTZ3YUVaY2gzRmhhQkNtMGFXVHE5X3RXWVNVNUxJRnlmVWxVMVRCclM1VUEtd", "reason": "Legal news duplicate, no official statement", "run": "2026-11-03"},
+  {"id": "rss-Google_News_EN-CBMi7wFBVV95cUxNSTBTV094YjZDV0VkWnJ2aU1Fa3ZxMWc2WW1pQlEwUElpZzdOSnJpa0RNUDF5Y0FxMi1MNkhoMUYzZ1N4RWMzY", "reason": "Kaohsiung/Jakarta cinema live viewing: reported by several outlets but only headlines readable, full details and a matching photo could not be verified; will retry when article text is available", "run": "2026-11-03"},
+  {"id": "rss-Google_News_KO-CBMiZEFVX3lxTFB5X3VRR29mZ2FPS1hmaFlVdDNLdGw0a25nZ0FqSmRaU09BNkkwYUNKMkFIYnUyWDRsRHMwX0VXRXQwZUY3X3FsM", "reason": "Same live viewing news, details unverified", "run": "2026-11-03"},
+  {"id": "rss-Google_News_KO-CBMiW0FVX3lxTE5YU3NBZXBNZmFuR3RvdmV4V3VFaGpjUVREaEVSTXIxcU1NQnprNV9Lc3hCRV9ySFlhY3JZdTE0YUQ0b2luRTJQV", "reason": "Same live viewing news (Yonhap), details unverified", "run": "2026-11-03"},
+  {"id": "rss-all-other-2026-11-03", "reason": "Remaining RSS items skipped: MC drop video, Cineplex listings, ticketing dispute, Starnews photo/fan-ranking/stage-outfit pieces, concert review, return-home items already posted, headline-only", "run": "2026-11-03"},
+  {"id": "tg-btsnewsru0_82880", "reason": "Empty text, photos only, no news", "run": "2026-11-03"},
+  {"id": "tg-btsnewsru0_82890", "reason": "Dispatch exhibition coverage, mostly not about BTS, only aggregator source", "run": "2026-11-03"},
+  {"id": "tg-btsnewsru0_82900", "reason": "Same news as 82895 (HYBE Q3 results and tour); covered in that post", "run": "2026-11-03"},
+  {"id": "rss-jimin-cafe-closure-2026-11-03", "reason": "Family member (Jimin's father), private life", "run": "2026-11-03"},
+  {"id": "rss-swim-lawsuit-2026-11-03", "reason": "Legal news, no official statement read", "run": "2026-11-03"},
+  {"id": "rss-hybe-q3-business-2026-11-03", "reason": "Financial results; tour news covered in tg-btsnewsru0_82895", "run": "2026-11-03"},
+  {"id": "rss-other-2026-11-03b", "reason": "Skipped: Jimin birthday flowers (old), illegal goods warning, game theme update, 85만 Americas tour (already posted), cinema duplicates (covered in live viewing post)", "run": "2026-11-03"}
 ]
