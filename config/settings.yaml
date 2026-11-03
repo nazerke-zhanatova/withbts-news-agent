@@ -15,10 +15,8 @@ approval_mode: false
 # Where to publish. Turn each platform on once its keys are added in GitHub Secrets.
 platforms:
   telegram: true
-  # Instagram and Threads paused on 4 Nov 2026: Meta asked Nazerke to confirm her developer account.
-  # Turn back to true after the account is confirmed.
-  instagram: false
-  threads: false
+  instagram: true
+  threads: true
   x: false
 
 # Smart schedule: news is checked every 30 minutes. Official and trusted (non-aggregator)
