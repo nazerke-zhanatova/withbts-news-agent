@@ -393,18 +393,36 @@ def telegram_media(url):
 
 
 def video_frame(video_path, out_path, at=0.35):
-    """Save one sharp frame of a video as a JPG (Telegram's own still frames are tiny)."""
+    """Save the best frame of a video as a JPG (Telegram's own still frames are tiny).
+    Looks at many moments, never takes a black or blank frame, and prefers a frame
+    where a face is visible, then the brightest and sharpest one."""
     try:
         import cv2
         cap = cv2.VideoCapture(str(video_path))
         n = int(cap.get(cv2.CAP_PROP_FRAME_COUNT) or 0)
-        if n > 0:
-            cap.set(cv2.CAP_PROP_POS_FRAMES, int(n * at))
-        ok, frame = cap.read()
+        spots = [0.15, 0.25, at, 0.45, 0.55, 0.65, 0.75, 0.85] if n > 0 else [0]
+        cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+        best, best_score = None, -1.0
+        for f in spots:
+            if n > 0:
+                cap.set(cv2.CAP_PROP_POS_FRAMES, int(n * f))
+            ok, frame = cap.read()
+            if not ok:
+                continue
+            gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+            mean, std = float(gray.mean()), float(gray.std())
+            if mean < 12 or std < 10:  # black or blank frame
+                continue
+            sharp = float(cv2.Laplacian(gray, cv2.CV_64F).var())
+            faces = len(cascade.detectMultiScale(gray, 1.1, 6, minSize=(60, 60)))
+            score = (1000.0 if faces else 0.0) + min(mean, 140) + min(sharp, 500) / 5
+            if score > best_score:
+                best, best_score = frame, score
         cap.release()
-        if not ok:
+        if best is None:
+            log("  video has no usable frame (all dark or blank), skipping it")
             return None
-        cv2.imwrite(str(out_path), frame, [int(cv2.IMWRITE_JPEG_QUALITY), 95])
+        cv2.imwrite(str(out_path), best, [int(cv2.IMWRITE_JPEG_QUALITY), 95])
         log(f"  frame taken from video: {out_path.name}")
         return out_path
     except Exception as e:  # noqa: BLE001
