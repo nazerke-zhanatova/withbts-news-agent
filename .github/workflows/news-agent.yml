@@ -30,7 +30,7 @@ jobs:
         run: |
           pip install -r requirements.txt
           mkdir -p media queue state && touch media/.gitkeep queue/.gitkeep
-          (sudo apt-get update -q >/dev/null && sudo apt-get install -y -q fonts-noto-core >/dev/null) || true
+          (sudo apt-get update -q >/dev/null && sudo apt-get install -y -q fonts-noto-core ffmpeg >/dev/null) || true
 
       - name: Check kill switch
         id: switch
