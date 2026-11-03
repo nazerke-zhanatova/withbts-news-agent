@@ -85,8 +85,9 @@ photo_domains:
   - chosun.com
   - billboard.com
   - rollingstone.com
+  - koreaherald.com
+  - asiae.co.kr
+  - sedaily.com
+  - khan.co.kr
 
-# Last-resort group photo (all 7 members, official BIGHIT MUSIC, ARIRANG tour, Sao Paulo, Oct 2026).
-fallback_group_photo:
-  url: "https://image.koreajoongangdaily.com/12949651.jpg?imageId=12949651&width=1600"
-  credit: "BIGHIT MUSIC"
+# No fallback photo: Nazerke's rule is that the same photo is never used twice.
