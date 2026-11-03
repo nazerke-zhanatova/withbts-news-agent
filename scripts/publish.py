@@ -306,6 +306,74 @@ def post_threads(text, card, cfg, slides=None):
     return r["id"]
 
 
+# ---------------- video posts (CLAUDE.md rule 5c) ----------------
+
+def video_telegram(text, video, video_url, cfg):
+    token, chat = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHANNEL_ID")
+    if not (token and chat):
+        raise RuntimeError("TELEGRAM_BOT_TOKEN or TELEGRAM_CHANNEL_ID not set")
+    api = f"https://api.telegram.org/bot{token}"
+    data = {"chat_id": chat, "supports_streaming": "true"}
+    if len(text) <= 1024:
+        data["caption"] = text
+    with open(ROOT / video, "rb") as f:
+        r = requests.post(f"{api}/sendVideo", data=data, files={"video": f}, timeout=300)
+    r.raise_for_status()
+    first = str(r.json()["result"]["message_id"])
+    if len(text) > 1024:
+        requests.post(f"{api}/sendMessage", data={"chat_id": chat, "text": text, "disable_web_page_preview": True},
+                      timeout=60).raise_for_status()
+    return first
+
+
+def video_instagram(text, video, video_url, cfg):
+    token, ig_user = os.environ.get("IG_ACCESS_TOKEN"), os.environ.get("IG_USER_ID")
+    if not (token and ig_user):
+        raise RuntimeError("IG_ACCESS_TOKEN or IG_USER_ID not set")
+    base = f"https://graph.facebook.com/{cfg.get('graph_api_version', 'v23.0')}"
+    url = video_url or public_url(video, cfg)
+    r = requests.post(f"{base}/{ig_user}/media", data={
+        "media_type": "REELS", "video_url": url, "caption": text, "share_to_feed": "true",
+        "access_token": token}, timeout=60).json()
+    if "id" not in r:
+        raise RuntimeError(f"reel container failed: {r}")
+    for _ in range(60):  # videos take a few minutes to process
+        st = requests.get(f"{base}/{r['id']}", params={"fields": "status_code,status", "access_token": token}, timeout=30).json()
+        if st.get("status_code") == "FINISHED":
+            break
+        if st.get("status_code") == "ERROR":
+            raise RuntimeError(f"reel processing error: {st}")
+        time.sleep(10)
+    p = requests.post(f"{base}/{ig_user}/media_publish", data={"creation_id": r["id"], "access_token": token}, timeout=60).json()
+    if "id" not in p:
+        raise RuntimeError(f"reel publish failed: {p}")
+    return p["id"]
+
+
+def video_threads(text, video, video_url, cfg):
+    token = os.environ.get("THREADS_ACCESS_TOKEN")
+    user = os.environ.get("THREADS_USER_ID") or "me"
+    if not token:
+        raise RuntimeError("THREADS_ACCESS_TOKEN not set")
+    base = "https://graph.threads.net/v1.0"
+    url = video_url or public_url(video, cfg)
+    r = requests.post(f"{base}/{user}/threads", data={
+        "media_type": "VIDEO", "video_url": url, "text": text, "access_token": token}, timeout=60).json()
+    if "id" not in r:
+        raise RuntimeError(f"video container failed: {r}")
+    for _ in range(60):
+        st = requests.get(f"{base}/{r['id']}", params={"fields": "status,error_message", "access_token": token}, timeout=30).json()
+        if st.get("status") == "FINISHED":
+            break
+        if st.get("status") == "ERROR":
+            raise RuntimeError(f"video processing error: {st}")
+        time.sleep(10)
+    p = requests.post(f"{base}/{user}/threads_publish", data={"creation_id": r["id"], "access_token": token}, timeout=60).json()
+    if "id" not in p:
+        raise RuntimeError(f"video publish failed: {p}")
+    return p["id"]
+
+
 def post_x(text, card, cfg, slides=None):
     keys = [os.environ.get(k) for k in ("X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_SECRET")]
     if not all(keys):
@@ -321,6 +389,7 @@ def post_x(text, card, cfg, slides=None):
 
 
 PUBLISHERS = {"telegram": post_telegram, "instagram": post_instagram, "threads": post_threads, "x": post_x}
+VIDEO_PUBLISHERS = {"telegram": video_telegram, "instagram": video_instagram, "threads": video_threads}
 
 
 # ---------------- main ----------------
@@ -397,6 +466,11 @@ def main():
                 log(f"[dry run] {p}: {post['id']} ({len(text)} chars)")
                 continue
             try:
+                video = post.get("video_file")
+                if video and (ROOT / video).exists() and p in VIDEO_PUBLISHERS:
+                    results[p] = VIDEO_PUBLISHERS[p](text, video, post.get("video_url"), cfg)
+                    log(f"Published {post['id']} to {p} as video: {results[p]}")
+                    continue
                 slides = (post.get("carousel_files") or []) if has_photo else []
                 results[p] = PUBLISHERS[p](text, post["card_file"] if has_photo else None, cfg, slides)
                 log(f"Published {post['id']} to {p}: {results[p]}")
