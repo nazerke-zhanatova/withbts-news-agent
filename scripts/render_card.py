@@ -310,6 +310,26 @@ def telegram_media(url):
     return images, videos
 
 
+def video_frame(video_path, out_path, at=0.35):
+    """Save one sharp frame of a video as a JPG (Telegram's own still frames are tiny)."""
+    try:
+        import cv2
+        cap = cv2.VideoCapture(str(video_path))
+        n = int(cap.get(cv2.CAP_PROP_FRAME_COUNT) or 0)
+        if n > 0:
+            cap.set(cv2.CAP_PROP_POS_FRAMES, int(n * at))
+        ok, frame = cap.read()
+        cap.release()
+        if not ok:
+            return None
+        cv2.imwrite(str(out_path), frame, [int(cv2.IMWRITE_JPEG_QUALITY), 95])
+        log(f"  frame taken from video: {out_path.name}")
+        return out_path
+    except Exception as e:  # noqa: BLE001
+        log(f"  could not take a frame from the video ({e})")
+        return None
+
+
 def make_collage(paths, out_path):
     """One cover from several photos (for example one photo per member), nothing cropped away badly:
     each photo is fitted into its own tile."""
@@ -340,12 +360,24 @@ def fetch_remote_photos(post):
             post["video_url"] = vids[0]
         if imgs and not post.get("image_url") and not post.get("image"):
             post["image_url"] = imgs[0]
-    if post.get("tg_photos_from") and not post.get("carousel_urls"):
-        urls = []
-        for link in post["tg_photos_from"][:9]:
-            imgs, _ = telegram_media(link)
+    if post.get("tg_photos_from") and not post.get("carousel"):
+        s0 = settings()
+        doms = [d.lower() for d in s0.get("photo_domains", [])]
+        frames, urls = [], []
+        for n, link in enumerate(post["tg_photos_from"][:9]):
+            imgs, vids = telegram_media(link)
+            if vids:  # a clip: take a full-size frame from the video itself
+                tmp = download_video(vids[0], MEDIA / f"tmp_{pid}_{n}.mp4", doms)
+                if tmp:
+                    fr = video_frame(tmp, MEDIA / f"web_{pid}_f{n}.jpg")
+                    tmp.unlink()
+                    if fr:
+                        frames.append(f"media/{fr.name}")
+                        continue
             urls += imgs[:1]
-        post["carousel_urls"] = urls
+        post["carousel"] = frames
+        if urls:
+            post["carousel_urls"] = urls
     has_local = post.get("image") and (ROOT / post["image"]).exists()
     if not has_local and post.get("image_url"):
         got = download_photo(post["image_url"], MEDIA / f"web_{pid}_cover.jpg", domains)
@@ -356,6 +388,10 @@ def fetch_remote_photos(post):
         got = download_video(post["video_url"], MEDIA / f"video_{pid}.mp4", domains)
         if got:
             post["video_file"] = f"media/{got.name}"
+    if post.get("video_file") and (ROOT / post["video_file"]).exists() and not (post.get("image") and (ROOT / post["image"]).exists()):
+        fr = video_frame(ROOT / post["video_file"], MEDIA / f"web_{pid}_frame.jpg")
+        if fr:
+            post["image"] = f"media/{fr.name}"
     carousel = list(post.get("carousel") or [])
     for n, url in enumerate((post.get("carousel_urls") or [])[:9]):
         if f"media/web_{pid}_{n}.jpg" in carousel and (MEDIA / f"web_{pid}_{n}.jpg").exists():
