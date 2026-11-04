@@ -578,5 +578,15 @@
     "id": "rss-Google_News_EN-CBMiwAFBVV95cUxPMGJWaHFLSWRTeXNNTzBWenluTGxOZjI0SjMyZDNOLWp6Zkc0clFlN3NHaTZyTThyc2N1U3FQRDV5NTg2c2x4U",
     "reason": "filter: same story already looked at",
     "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57300",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57310",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-04"
   }
 ]
