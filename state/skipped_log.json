@@ -723,5 +723,55 @@
     "id": "rss-Google_News_EN-CBMiVEFVX3lxTE9hcmhTMTZaM2FYUVBqNlFjXy02M01HUGg1eTRXdEF0VVR2UEZEdlpPN0pqSVRwc2hnNmxVZ0FCalhvYTJaNENJe",
     "reason": "ARIRANG Italy platinum claim conflicts with search (April reports say Gold in Italy); held, see notes_for_nazerke.md",
     "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57320",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57322",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiW0FVX3lxTE1lX2xhS2xMRFdJa3lFSElPYnp6QmdORTNFRTNnMjBYczd3LVltQmRXMl9VTEpmaTdNUmp5bThXeFotYmpub0J1U",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitAFBVV95cUxQX3djX2gyVVJXdEUtU3R0d3pYWXFXOGdSZ3FuaVZ2S1ZRUjBIQWtZTEIwZkNoeTIwZVRPYjdtRy1qRGJDLWQ2N",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE9mVV9aUkVaNXBUSjBjY0VrZDlUdTNMdnRpSzd2bVNJRkpwRWpKRXRoX014cnQ2bmF1RzhjdFJaSEUycElERlBxS",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMixAFBVV95cUxNV0I2N2V5N2NBUDJncEE2SHdTTkpkbnVUaUZ6RkVILU1sbjdkdU9SVlpqX2JUVkRsQTRBYkFkVG5rV3VYYU9qc",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiVEFVX3lxTE8zOVcySjQ5di1vM3lnV2VZNU9Pa254OG5jSkxaVFdYejc3TzNMX1gyZ0RLeW00d2FWSHN6SktEMTVKZlZUbnl6c",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikAFBVV95cUxQbWEtb3VKcVhwS2p3cXRYTG83TVNUN2JsVGYyT1BPRThnNllDYk1OSS1sbzgzbGZqVGhvbGJOTVVBMXVhdkFLM",
+    "reason": "Fashion feature (stage shoes by HARDWORKUP), not a news event; single outlet",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikAFBVV95cUxOcHdwUFdwYVIySWFKdmxSOU1oa3RIVlhKeTJtSWlnbVZkSDFNbUtuZFhlbmdsZHZpUXdOWkgzSEVmUlpkYnhUZ",
+    "reason": "Singapore police ticket-scam report: single outlet (TicketNews), no second source found, general scam warning not a BTS news event",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMic0FVX3lxTE1MUWpSaW1RTHppSzNUT0paSG1BR3hTV3BqSmhWMmZaaE5aa3Rpbm9seWFtcmxFVkFPZmZmbWJROVJqd3ctY2N3c",
+    "reason": "Fashion feature (Jin as Gucci ambassador looks), not a news event; single outlet",
+    "run": "2026-11-04"
   }
 ]
