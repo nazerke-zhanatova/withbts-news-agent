@@ -118,6 +118,8 @@ def main():
 
     if rest and due:
         rest.sort(key=lambda c: c.get("timestamp") or "", reverse=True)
+        # fan channels first (few items), so news-site links never crowd them out of the batch
+        rest.sort(key=lambda c: 0 if c.get("tier") == "trusted_fanbase" else 1)
         chosen = fast + rest[: max(0, cap - len(fast))]
         gate["last_batch"] = now.isoformat(timespec="minutes")
         log(f"Gate: batch time, writing {len(fast)} fast + {len(chosen) - len(fast)} other items.")
