@@ -448,5 +448,10 @@
     "id": "rss-Google_News_EN-CBMijgFBVV95cUxNWi1JTTN1Y3lYMVJQSmNJdkNtZXZrSEp1QTYyRXZwdklvTmNua3l3WkV5cVJkRDQ4YlcwNzZVZ3pSVTFGWEhxZ",
     "reason": "filter: same story already looked at",
     "run": "2026-11-04"
+  },
+  {
+    "id": "tg-btsnewsru0_82942",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-04"
   }
 ]
