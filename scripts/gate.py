@@ -117,9 +117,9 @@ def main():
             due = True
 
     if rest and due:
-        rest.sort(key=lambda c: c.get("timestamp") or "", reverse=True)
-        # fan channels first (few items), so news-site links never crowd them out of the batch
-        rest.sort(key=lambda c: 0 if c.get("tier") == "trusted_fanbase" else 1)
+        # fan channels first, then the items that have waited longest (no date = waited longest),
+        # so nothing is pushed out batch after batch until it is too old
+        rest.sort(key=lambda c: (0 if c.get("tier") == "trusted_fanbase" else 1, c.get("timestamp") or ""))
         chosen = fast + rest[: max(0, cap - len(fast))]
         gate["last_batch"] = now.isoformat(timespec="minutes")
         log(f"Gate: batch time, writing {len(fast)} fast + {len(chosen) - len(fast)} other items.")
