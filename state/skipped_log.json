@@ -463,5 +463,10 @@
     "id": "tg-koreaworld111_57281",
     "reason": "filter: not about BTS",
     "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiiAFBVV95cUxNUXpiUnVsT1ZITEE2N2NucXVvMEZwc1FJUjlZQmdlTm9BcDZEX0JuTGVXdmpiRENhTGxYc1h6bzRHdVlMMWQzc",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
   }
 ]
