@@ -67,7 +67,7 @@ jobs:
           prompt: "Read prompts/run.md and follow it exactly."
           claude_args: |
             --model ${{ steps.collect.outputs.model }}
-            --max-turns 15
+            --max-turns 25
             --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch"
 
       - name: Design Instagram cards
