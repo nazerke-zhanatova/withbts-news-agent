@@ -773,5 +773,105 @@
     "id": "rss-Google_News_EN-CBMic0FVX3lxTE1MUWpSaW1RTHppSzNUT0paSG1BR3hTV3BqSmhWMmZaaE5aa3Rpbm9seWFtcmxFVkFPZmZmbWJROVJqd3ctY2N3c",
     "reason": "Fashion feature (Jin as Gucci ambassador looks), not a news event; single outlet",
     "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57199",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57208",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57265",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57271",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-btsnewsru0_82924",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57201",
+    "reason": "BTS back in Korea: arrival already posted (bts-return-incheon-1103)",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57214",
+    "reason": "Live stream of Jin and SUGA arrival: arrival already posted",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57261",
+    "reason": "Live stream of Jin and SUGA arrival: arrival already posted",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-btsnewsru0_82914",
+    "reason": "Jin and Yoongi return to Korea: already posted (bts-return-incheon-1103)",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-btsnewsru0_82875",
+    "reason": "V Instagram stories update: only a story title, no content to verify",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57237",
+    "reason": "J-hope and V Instagram story links only, no content to verify",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57212",
+    "reason": "CazeTV promo post, no concrete news (aggregator, vague)",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57217",
+    "reason": "j-hope Instagram post (Sao Paulo): caption does not name who is pictured, photo not verifiable; held, see notes",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57227",
+    "reason": "Same j-hope Instagram post as 57217 (duplicate); held, see notes",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-btsnewsru0_82901",
+    "reason": "Jung Kook Instagram video with V: frames do not verify who is shown; held, see notes",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-btsnewsru0_82903",
+    "reason": "V comment on Jung Kook post: trivial, no verified member photo",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57260",
+    "reason": "DICON THE ORIGIN feature: repeats DICON concept post already published",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57264",
+    "reason": "CazeTV five-member interview: only teaser out, full interview not confirmed; held, see notes",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57270",
+    "reason": "ARIRANG platinum in Italy: FIMI upgrade unverified (earlier reports say Gold); held, see notes",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57279",
+    "reason": "CazeTV interview clip: still frame cuts off a face; held, see notes",
+    "run": "2026-11-04"
   }
 ]
