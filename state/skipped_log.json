@@ -553,5 +553,30 @@
     "id": "rss-Google_News_EN-CBMijwFBVV95cUxOUzI3bk4xTElKUmJBbFdnQVQ5NE9YX2pEMUQ1eWZpbVJVSk5tR0VCMU5xM2ZVdXZFRHEtTmhJb1E1d3NjdmZrS",
     "reason": "HYBE teases group and solo plans for 2027 from investor-facing statements; not an official announcement",
     "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57280",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57284",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57294",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57299",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiwAFBVV95cUxPMGJWaHFLSWRTeXNNTzBWenluTGxOZjI0SjMyZDNOLWp6Zkc0clFlN3NHaTZyTThyc2N1U3FQRDV5NTg2c2x4U",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
   }
 ]
