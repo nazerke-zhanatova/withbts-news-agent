@@ -648,5 +648,45 @@
     "id": "rss-Google_News_EN-CBMiV0FVX3lxTE5SaDdOYk9PYUltWV9teVpIZHZVOTlYYkVOQTRpb3BSWXUwdDM0aVNLdlBOUG9BMlBXZHpncWJwaHVsbkhGN2R1b",
     "reason": "Same ARIRANG Italy platinum claim (Aju Press): held, see notes_for_nazerke.md",
     "run": "2026-11-04"
+  },
+  {
+    "id": "tg-btsnewsru0_82979",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57321",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57330",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi1wFBVV95cUxNQlJOd3JUZ1k5dW9zSERtbDRpOE9ab0VJRnNtSUVoR0NzNUdkMl9QUkpDSzN4YVFQOVd6OF9WbmhXbEZlQTROO",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMihAFBVV95cUxQVDNHdDBwMEhUOUFwWWU5UXV1ZkVRWkM4MC0ycmVWRmZEX3Z2TkNuRUV2WVZlZ1hVVk9KQjRUUGZUbU5fUzNxO",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYkFVX3lxTFA5UHMzQTJFSnNWMzJza3BTM3lMZW9TSFc4dEdFUkc4eUhrcjZCWUpaUDZlWmdxTmNtSUNCLVVQTFoyb1dmR1lVO",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMirgFBVV95cUxPM2I2NnlGY0RLazJCRjNtNE40MGszRHFydGM3NGItSE9TZ0RSNXM2dGNXcU1rLXhkczNWZm1RenV4U0lVdjRpZ",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiogFBVV95cUxQZmFSMFM1bS13SXZhWnZDYWJ6RzhMNmJPVEhUWkhzUW10T3FuaDY0MGR1VE5BRFFLLWtoN01JZUtfT0xkbGRaR",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
   }
 ]
