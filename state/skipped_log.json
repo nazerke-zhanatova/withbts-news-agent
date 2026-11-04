@@ -433,5 +433,20 @@
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE1hWC0yNUFacUJEdkpKRG4wQlgzT3UzV1lFSHlVMFRpS1NyMjVaR2gyNm5JbmNoWHJxaUp1eVZISUJlcGVtN095e",
     "reason": "photo caption feature (Jin statue-like gaze), no news",
     "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9TTlNLQ2NMdDlFSV92N3BsV0Q4cmxUcHJyMzRyaHRNSGhrN0IwRFl4MXY0X3FoX21tZEp1OGtnX1oweFBQT1VIZ",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMinAFBVV95cUxNQk1MQmRybFlvajBRZEFWWGlRb1FXaDZIeG9sNVBUWjI1OHVmdDBhUExWa0l4NGh6RVZBelRrSGlQQ01DVXdpS",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMijgFBVV95cUxNWi1JTTN1Y3lYMVJQSmNJdkNtZXZrSEp1QTYyRXZwdklvTmNua3l3WkV5cVJkRDQ4YlcwNzZVZ3pSVTFGWEhxZ",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-04"
   }
 ]
