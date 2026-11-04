@@ -160,14 +160,31 @@ def collect_telegram(entries):
     out = []
     for e in entries:
         handle = e["handle"].lstrip("@")
-        try:
-            r = requests.get(f"https://t.me/s/{handle}", headers=UA, timeout=30)
-            r.raise_for_status()
-        except Exception as ex:  # noqa: BLE001
-            log(f"Telegram {handle} failed: {ex}")
-            continue
-        soup = BeautifulSoup(r.text, "html.parser")
-        for msg in soup.select("div.tgme_widget_message[data-post]"):
+        # One page shows only the last ~20 message ids, and a photo album uses one id per photo,
+        # so a page can hold just 3 posts. Read older pages too, back to MAX_AGE (max 8 pages).
+        msgs, before = [], None
+        for _page in range(8):
+            url = f"https://t.me/s/{handle}" + (f"?before={before}" if before else "")
+            try:
+                r = requests.get(url, headers=UA, timeout=30)
+                r.raise_for_status()
+            except Exception as ex:  # noqa: BLE001
+                log(f"Telegram {handle} failed: {ex}")
+                break
+            page = BeautifulSoup(r.text, "html.parser").select("div.tgme_widget_message[data-post]")
+            if not page:
+                break
+            msgs += page
+            ids = [int(m["data-post"].split("/")[-1]) for m in page if m["data-post"].split("/")[-1].isdigit()]
+            times = [datetime.fromisoformat(t["datetime"]) for m in page for t in m.select("time[datetime]")]
+            if not ids or (times and not recent(min(times))) or (before and min(ids) >= before):
+                break
+            before = min(ids)
+        seen_posts = set()
+        for msg in msgs:
+            if msg["data-post"] in seen_posts:
+                continue
+            seen_posts.add(msg["data-post"])
             post = msg["data-post"]
             t = msg.select_one("time[datetime]")
             ts = datetime.fromisoformat(t["datetime"]) if t else None
