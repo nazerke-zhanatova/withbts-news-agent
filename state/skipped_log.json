@@ -688,5 +688,40 @@
     "id": "rss-Google_News_EN-CBMiogFBVV95cUxQZmFSMFM1bS13SXZhWnZDYWJ6RzhMNmJPVEhUWkhzUW10T3FuaDY0MGR1VE5BRFFLLWtoN01JZUtfT0xkbGRaR",
     "reason": "filter: same story already looked at",
     "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57320",
+    "reason": "MMA 2026 Global TOP10: BTS nomination now confirmed (Soompi), but no permitted all-7 photo: candidate graphic shows no members; Korea Herald photo is on a non-allowed host and its caption names no member. Held, see notes_for_nazerke.md",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMif0FVX3lxTE4talc4S1hCWUVPbEJKVm15cmJuWG9ic2xwWE1LVFVIQmJIdmNvNHdnMlZjUUJJZ1FOU0RQdkI4WVdfVnZ6dGc4e",
+    "reason": "Legal news (Swim copyright lawsuit dropped): rule 15 needs an official statement, none read; no post",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiigFBVV95cUxQTzcwd0RFY3VGdmQ1VkpsU2Jod0NmM0lXdG93dXd0V2pIbjZXUG13RnBKUldxekxRSE5SSVZ5R0l0R1Yxak9jb",
+    "reason": "Business: HYBE quarterly results and revenue (rule 3)",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikgFBVV95cUxNb2g4OG81NWtSY2xkeExoc292VnZyWnRWRmlCZjR1TnMzYU9fQS1DbXdpbDVHX3VKX19jeTUzc1BRdHg4LTd2Z",
+    "reason": "Tour extension into 2027 already posted (hybe-tour-2027-repost); repeat, no new verified detail",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitAFBVV95cUxOTGIxcUNHWkpCclVZZUFZbC01dDg5dVlaa1RIdnJtcFFPVHpNRFRGcjhqdzdjMFVYQmFYWlFpVi1hU21ycG13e",
+    "reason": "Business: HYBE Q3 revenue and earnings (rule 3)",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi2gFBVV95cUxNMEl1NFdXRFkzVXF1VC15UVBjc2hQWUg3S0EzbVVjdTNqQkhlZWduamkyOHRwU0oySm9VLUdiaVRiYkZFQ3R0O",
+    "reason": "SUGA Sao Paulo Instagram: content unverifiable, Latin American leg already posted; no news",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiVEFVX3lxTE9hcmhTMTZaM2FYUVBqNlFjXy02M01HUGg1eTRXdEF0VVR2UEZEdlpPN0pqSVRwc2hnNmxVZ0FCalhvYTJaNENJe",
+    "reason": "ARIRANG Italy platinum claim conflicts with search (April reports say Gold in Italy); held, see notes_for_nazerke.md",
+    "run": "2026-11-04"
   }
 ]
