@@ -21,3 +21,9 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 2. **CazéTV interview with five members (candidate tg-koreaworld111_57279).** Billboard Brasil and POPLine name RM, j-hope, V, Jimin and Jung Kook. So far only a teaser from 30 Oct is out, and Billboard Brasil says the full video airs later. The candidate's still frame cuts off a face at the left edge, so it cannot be used. Post once the full interview is out, with a photo of those five, or with the video.
 3. **DICON D'FESTA THE ORIGIN pre-order (candidate tg-btsnewsru0_82989).** The candidate says pre-order runs 4 to 15 Nov 2026. A retailer listing found by search shows a 30 Nov 2026 date and shipping from January 2027. The dates conflict and there is no permitted photo, so no post.
 4. **SUGA Instagram from São Paulo (tg-koreaworld111_57294).** The candidate has only a location caption. Not posted.
+
+## 2026-11-04 run (third run): no posts queued
+
+1. **ARIRANG Italy certification: the "platinum" claim does not match search.** Searches for the Italian certification found reports from late April 2026 (Starnews, Khan) that FIMI gave ARIRANG Gold (over 25,000 units), not Platinum. The Platinum certification found in April was from France (SNEP). I found no report of an Italian upgrade. Please check the FIMI site before any post about Italy. The candidates (Aju Press, JKN) are held.
+2. **MMA 2026 Global Top10 (candidate tg-koreaworld111_57320).** The fan channel says BTS is nominated in Global Top10 and voting runs to 13 Nov. Search did not confirm BTS as a nominee. Korea Daily and Korea Herald give different vote dates. Not posted until the official MMA / Berriz page confirms the nomination and the close date.
+3. **DICON D'FESTA pre-order (tg-btsnewsru0_82989).** Same conflict as in the previous run (4 to 15 Nov vs 30 Nov). Not posted.

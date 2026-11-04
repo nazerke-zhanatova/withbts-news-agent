@@ -588,5 +588,65 @@
     "id": "tg-koreaworld111_57310",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMixAFBVV95cUxNV0I2N2V5N2NBUDJncEE2SHdTTkpkbnVUaUZ6RkVILU1sbjdkdU9SVlpqX2JUVkRsQTRBYkFkVG5rV3VYYU9qc",
+    "reason": "HYBE record quarterly revenue: business and earnings news, excluded by rule 3",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57330",
+    "reason": "MAMA 2026 second-round vote reminder: already posted as mama-2026-vote-round2, no new detail",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57322",
+    "reason": "Jung Kook Instagram repost with photos only, no verifiable text or event; personal social content",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57321",
+    "reason": "Namjoon Instagram stories link with emojis only, no verifiable news; personal content",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-koreaworld111_57320",
+    "reason": "MMA 2026 Global Top10 nomination claim not confirmed by search; sources give conflicting vote dates; see notes_for_nazerke.md",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-btsnewsru0_82979",
+    "reason": "DICON D'FESTA THE ORIGIN magazine: already posted as dicon-dfesta-bts-concepts, no new detail",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "tg-btsnewsru0_82989",
+    "reason": "DICON D'FESTA pre-order: product and pricing info, dates conflict with retailer listing, no permitted photo; see notes_for_nazerke.md",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiogFBVV95cUxQZmFSMFM1bS13SXZhWnZDYWJ6RzhMNmJPVEhUWkhzUW10T3FuaDY0MGR1VE5BRFFLLWtoN01JZUtfT0xkbGRaR",
+    "reason": "HYBE record quarterly revenue from tour: business and earnings news, excluded by rule 3",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitAFBVV95cUxQX3djX2gyVVJXdEUtU3R0d3pYWXFXOGdSZ3FuaVZ2S1ZRUjBIQWtZTEIwZkNoeTIwZVRPYjdtRy1qRGJDLWQ2N",
+    "reason": "Fan-gush feature on Jung Kook and V photo chemistry, single outlet, not a news event",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMirgFBVV95cUxPM2I2NnlGY0RLazJCRjNtNE40MGszRHFydGM3NGItSE9TZ0RSNXM2dGNXcU1rLXhkczNWZm1RenV4U0lVdjRpZ",
+    "reason": "Report on group and solo plans after tour: plans from unofficial reporting, speculation, excluded",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYkFVX3lxTFA5UHMzQTJFSnNWMzJza3BTM3lMZW9TSFc4dEdFUkc4eUhrcjZCWUpaUDZlWmdxTmNtSUNCLVVQTFoyb1dmR1lVO",
+    "reason": "ARIRANG Italy platinum claim: search finds Italian certification reported as Gold in April 2026, no platinum confirmed; held, see notes_for_nazerke.md",
+    "run": "2026-11-04"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiV0FVX3lxTE5SaDdOYk9PYUltWV9teVpIZHZVOTlYYkVOQTRpb3BSWXUwdDM0aVNLdlBOUG9BMlBXZHpncWJwaHVsbkhGN2R1b",
+    "reason": "Same ARIRANG Italy platinum claim (Aju Press): held, see notes_for_nazerke.md",
+    "run": "2026-11-04"
   }
 ]
