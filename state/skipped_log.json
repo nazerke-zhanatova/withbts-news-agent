@@ -1063,5 +1063,55 @@
     "id": "rss-Google_News_EN-CBMif0FVX3lxTE4talc4S1hCWUVPbEJKVm15cmJuWG9ic2xwWE1LVFVIQmJIdmNvNHdnMlZjUUJJZ1FOU0RQdkI4WVdfVnZ6dGc4e",
     "reason": "Copyright lawsuit over 'Swim' (legal news): no official statement, only Billboard headline; not posted",
     "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57361",
+    "reason": "Graff x Jung Kook ad: campaign already posted (digest-tg-btsnewsru0_82934); the YouTube link is not verified as an official channel, no video file to post; no new verified detail",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57362",
+    "reason": "ARIA Awards fan vote: aggregator-only; WebSearch found no official nominee list confirming BTS in Most Popular International Artist; not verified",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57363",
+    "reason": "Streamer's Halloween costume of Jimin: fan-culture gossip, includes a streamer's private relationship; not BTS news; Asia tour dates already covered",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMirgFBVV95cUxQSUYxNzh1Uk5icElSZWlfM3d4MWRpQWE4UHcyaHJUOUVFaWt1SGRoSzVwOVJxQjM0NlktcjZMOUo5c3VLMDEwV",
+    "reason": "Suga in Call of Duty: Warzone (Digital Music News headline only); WebSearch found no confirmation from Activision or a second outlet",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMid0FVX3lxTE1ZZkNOU01jWDYtWHFaVVhTU1ZPakJtOGRJZkpNYjZBRlhEYU8xb2VibDJscm8xZEs1Tmh0aGFuUkNUZlpENjNfW",
+    "reason": "Jimin Halloween costume by a Brazilian streamer (Starnews headline): fan-culture gossip, not BTS news",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE1JdXNvQ0hGaDRiZzB5NTJNc3NzSDdKdjZmWXREOUFYNFhKbXBkV3VhTUgxZm0ydUJwOHdybjZQa0FmNnJaendja",
+    "reason": "Jungkook GOLDEN 155 weeks on Spotify: single outlet (Starnews); WebSearch found only 154 weeks confirmed (Oct 16-22 chart); not verified",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE0zR0JRbW14NDktQkVhclRuQVlwM1ZlQnNVeXluSm94d0NuNmExTEt4RmdGb1lVa2ZQMERVZ3NtMG94Y2hJNUY2b",
+    "reason": "Jin MyOnePick app ranking (Starnews only): fan-vote app ranking, low news value, single outlet",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE1GdE1FektkS0lmT1dhQjVKVXhYYm1lNkJBazg3cDdLUzQxdlhRWHFYOWF5M1lWQkYydWVwVkdMSkc3WmkwOERJQ",
+    "reason": "Throwback 'Dynamite' press conference clip (SBS): old content, not news",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiZkFVX3lxTE1vSGdKTW5xcXN6MjJtMlNUbkM0Y0QwakVqWjN5NTl1d045MzI3UTJGYlA2Z1JLeVZ3dUlEV2c5MFhxSlJvZWJWZ",
+    "reason": "Throwback 'Dynamite' press conference clip (SBS): old content, not news",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMisgFBVV95cUxOcFZWeVdUTDNBc0hxQkJFOTZFdEU1aFdSOGZVUUJkRUJqQUdEYzh5Z21HTkpEeGFiTUlKaWl4NWJnX3RmOUpwQ",
+    "reason": "Tour extension and 2027 projects (Philstar): HYBE plans, investor-style reporting; already covered in hybe-tour-2027-repost",
+    "run": "2026-11-05"
   }
 ]
