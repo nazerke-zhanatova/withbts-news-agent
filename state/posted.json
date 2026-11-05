@@ -206,5 +206,29 @@
       "instagram": "18107084498202450",
       "threads": "18451169953132358"
     }
+  },
+  {
+    "id": "digest-tg-btsnewsru0_82934",
+    "time": "2026-11-05T14:35+05:00",
+    "headline": "Чонгук Graff жарнамасында түсті",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/btsnewsru0/82934",
+      "https://t.me/btsnewsru0/82952",
+      "https://t.me/btsnewsru0/82962",
+      "https://t.me/koreaworld111/57350",
+      "https://t.me/koreaworld111/57358",
+      "https://t.me/koreaworld111/57359"
+    ],
+    "credits": [
+      "koreaworld111",
+      "btsnewsru0"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19386",
+      "instagram": "17973933672171282",
+      "threads": "18339561619260054"
+    }
   }
 ]
