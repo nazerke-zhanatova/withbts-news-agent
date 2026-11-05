@@ -1043,5 +1043,25 @@
     "id": "tg-koreaworld111_57356",
     "reason": "filter: same story already looked at",
     "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikgFBVV95cUxNb2g4OG81NWtSY2xkeExoc292VnZyWnRWRmlCZjR1TnMzYU9fQS1DbXdpbDVHX3VKX19jeTUzc1BRdHg4LTd2Z",
+    "reason": "Tour extension into 2027: same news already posted (hybe-tour-2027-repost, tg-btsnewsru0_82895)",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMisAFBVV95cUxQcTFQT19QSmRrNXRkRXF2Rm4ycDBHR2hMVjZlcmhYYUt6dmZiTzdCMnMxUzQ1ZFRaVVRWN3ZjYnZoTjkwYjQyY",
+    "reason": "Asia tour dates and cinema tickets from unofficial site (koreaportal); ticket info only from official sources; live viewing already covered",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiigFBVV95cUxQTzcwd0RFY3VGdmQ1VkpsU2Jod0NmM0lXdG93dXd0V2pIbjZXUG13RnBKUldxekxRSE5SSVZ5R0l0R1Yxak9jb",
+    "reason": "HYBE quarterly results and revenue: business/earnings news, not posted",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMif0FVX3lxTE4talc4S1hCWUVPbEJKVm15cmJuWG9ic2xwWE1LVFVIQmJIdmNvNHdnMlZjUUJJZ1FOU0RQdkI4WVdfVnZ6dGc4e",
+    "reason": "Copyright lawsuit over 'Swim' (legal news): no official statement, only Billboard headline; not posted",
+    "run": "2026-11-05"
   }
 ]
