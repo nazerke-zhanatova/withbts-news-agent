@@ -186,5 +186,25 @@
       "instagram": "18137139235717024",
       "threads": "18105952334368335"
     }
+  },
+  {
+    "id": "tg-koreaworld111_57331",
+    "time": "2026-11-05T09:04+05:00",
+    "headline": "Джин Instagram-да жаңа суреттерін бөлісті",
+    "category": "news",
+    "source_urls": [
+      "https://www.instagram.com/p/DfWAplqgT1z/",
+      "https://t.me/koreaworld111/57331"
+    ],
+    "credits": [
+      "jin",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19381",
+      "instagram": "18107084498202450",
+      "threads": "18451169953132358"
+    }
   }
 ]
