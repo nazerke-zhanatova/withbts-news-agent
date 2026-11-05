@@ -1113,5 +1113,60 @@
     "id": "rss-Google_News_EN-CBMisgFBVV95cUxOcFZWeVdUTDNBc0hxQkJFOTZFdEU1aFdSOGZVUUJkRUJqQUdEYzh5Z21HTkpEeGFiTUlKaWl4NWJnX3RmOUpwQ",
     "reason": "Tour extension and 2027 projects (Philstar): HYBE plans, investor-style reporting; already covered in hybe-tour-2027-repost",
     "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57365",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiakFVX3lxTFBfTUZQTzVuc0lEMGZiclo1Qjd6WXA5SnNaV0dVN09sZTdlUEZQOXhucVhzWXpqN3draUpBSnAyZE1NdDJNVkhJN",
+    "reason": "Old throwback (j-hope Dynamite press conference, SBS), not new news",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi7gFBVV95cUxPOXQ1T3FhekZBTUpwNERTdE11d2JLd3RpRlpWaFI4aVVqN1diM2J1WmZqRlpqYW9COU5zX2RLckFqcHFMa3hFT",
+    "reason": "Jungkook GOLDEN Spotify record: candidate says 155th week, but Starnews (29 Oct) and search give 154 weeks; figure unverified and no photo with a caption naming Jungkook; held",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiV0FVX3lxTE9PeWFHTU1xWS12c3VnRllRa09BaDBHRUtSbVZNXzd1MjA0aXoxMEFSXzlBMFFvTFFrRWtpNnU1UWNNdEFUX0F4R",
+    "reason": "Same Jungkook Spotify record story (Korea Herald); same unverified week count and no permitted photo; held",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi2AFBVV95cUxPYkZOd1A2SlpoV2hLOGJmSmIzd3BuMWd0NnU5dGNreG1jM1FkMVh6LXhSMEVKdUJxOXNlYTIxYnhCdndmYjVrM",
+    "reason": "Kaohsiung/Jakarta ARIRANG tickets: cinema live viewing already posted (rss-bts-live-viewing-kaohsiung-jakarta); ticket scarcity is not an official ticket notice",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMijgFBVV95cUxPb2hPMmhtZ0RUQndjRldQTEpLUXNoUkRvYVFJN3YwbUg2TVh0SjUxUkk4dktETTk1SHo0WDUzcllrVXA1ZWt0c",
+    "reason": "Legal news (BTS plagiarism lawsuits concluded): rule 15 needs an official statement; none read; no post",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMisgFBVV95cUxOZXdnU1FOMC1PN21KYkl2M1haV3ZhWVIxQVE4ZnlmUmdrR0JKcDRCUk55ZHFZLWdSdWRmTVZDUHY3OEtoMldyN",
+    "reason": "Legal news ('Swim' copyright suit dropped, Korea Times): rule 15, no official statement; no post",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMisgFBVV95cUxNZHRBVm5hVENJVFdSMFhaVUxWcm01ODlHcXUwTTZrV1gxZ0tFSVM5VWM2aXllMlVjdFRmeE5vUEpMOUpPdTVid",
+    "reason": "Legal news ('Swim' copyright suit, JoongAng Daily): rule 15, no official statement; no post",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiiAFBVV95cUxNTlhROFVmWEVVemFzMDByOGxDYVdVUlRJWHhjbng5dk80Yzl1Z1VnaUhqX0R1WTBfdWVzM3lBbk1RNDU2SXlwU",
+    "reason": "Jin visiting an escape room with TXT Beomgyu: private outing framed as a 'date' in coverage; no official source; not posted",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMijgFBVV95cUxNVlBEdURSRHpfZG9WN21ldEVHQjFOMXlXdFBPSmM0WHhMQ3J5c1cydS14MEk1VUctUFhhRHpyNUQ1a3o2SVVBW",
+    "reason": "Same Jin escape room story (Chosunbiz); private outing, not posted",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTFA5VEJLNHc1M1M1bDRheGlJdm1iWUp6TE9yei1HdFZILTVxMTc2SjEtVWhmRDUzMXQ4QXV4cnRaSVhaaE9NU3d5d",
+    "reason": "Same Jin escape room story (The Korea Daily, 'date' framing); private outing, not posted",
+    "run": "2026-11-05"
   }
 ]

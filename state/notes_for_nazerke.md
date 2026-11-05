@@ -49,3 +49,9 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 3. **ARIRANG Italy platinum (tg-koreaworld111_57270).** Still held. Searches again found the April 2026 Italian certification reported as Gold, not Platinum.
 4. **J-hope São Paulo Instagram (tg-btsnewsru0_82952)** is the same post as the held 57217 and 57227. Still held on the photo rule.
 5. **RM photos (tg-btsnewsru0_82962)**: no caption and the person in the photos cannot be identified as RM. Not posted.
+
+## 2026-11-05 run (Google News batch): no posts queued
+
+1. **Jungkook GOLDEN Spotify record (Starnews 4 Nov, Korea Herald).** The record is real: Starnews (29 Oct) reports GOLDEN at 154 consecutive weeks, the longest run by an Asian solo album. The candidate says 155 weeks; I found no report of 155 for the album (155 appears only for the single "Seven" in a July report that conflicts with a later 154). Starnews's two article photos have no captions or credits, so none names Jungkook. Not posted. If you want it, a Jungkook photo from an allowed source with a caption naming him, plus confirmation of the week count, would let a post go out.
+2. **Jin escape room with TXT Beomgyu (Chosunbiz, Korea Daily).** Coverage frames it as a "date". It is a private outing, so not posted. No official source was found.
+3. **BTS plagiarism / "Swim" copyright suit dropped (Korea Times, JoongAng Daily, Billboard, Chosun).** Legal news. Rule 15 needs an official statement; none found, so no post. Check BIGHIT MUSIC's statement if one exists.
