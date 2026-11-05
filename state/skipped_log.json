@@ -938,5 +938,55 @@
     "id": "rss-Google_News_EN-CBMipgFBVV95cUxQdVVkcU1fUTZSS2xJY0JQanNrT29mVHFFNTZHQzhGTXk3dzk1MG5RY1VDR29UWm9aazY1cUtQdXJ0ME1hWlE5c",
     "reason": "filter: same story already looked at",
     "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57349",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57338",
+    "reason": "Duplicate of tg-koreaworld111_57331 (same Jin Instagram post); covered by the queued post",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57261",
+    "reason": "Jin and SUGA Incheon arrival livestream: arrival already posted (bts-return-incheon-1103)",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57282",
+    "reason": "HYBE tour extension into H1 2027 already posted (tg-btsnewsru0_82895 / hybe-tour-2027-repost); repeat",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57270",
+    "reason": "ARIRANG Italy platinum: search finds Italian certification reported as Gold (April 2026); no all-7 photo from a permitted source; held, see notes_for_nazerke.md",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-btsnewsru0_82934",
+    "reason": "CazeTV five-member interview: release not confirmed (CazeTV says videos will air later); no permitted photo naming all five; held, see notes_for_nazerke.md",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-btsnewsru0_82952",
+    "reason": "j-hope Instagram Sao Paulo post: same post as held 57217/57227; caption does not name who is pictured; held, see notes",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-btsnewsru0_82962",
+    "reason": "RM Instagram post with photos only and no caption; the person in the photos cannot be verified as RM, no news text",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-btsnewsru0_82875",
+    "reason": "V Instagram stories with airport-style photos of several people; cannot verify who is shown and private travel content, no news",
+    "run": "2026-11-05"
+  },
+  {
+    "id": "tg-koreaworld111_57237",
+    "reason": "J-hope and V Instagram stories links only; stories expire, no caption or content to verify",
+    "run": "2026-11-05"
   }
 ]

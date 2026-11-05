@@ -41,3 +41,11 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 3. **ARIRANG platinum in Italy (tg-koreaworld111_57270).** Still held, same as the earlier runs. The Gold/Platinum conflict is not resolved; please check the FIMI site.
 4. **CazéTV five-member interview (tg-koreaworld111_57264 and _57279).** Only a teaser is confirmed; the full interview is not confirmed. The 57279 still frame cuts off a face. Post once the full interview is out with an allowed photo of the five.
 5. **Repeats:** Jin and SUGA arrival (57201, 57214, 57261, 82914) and DICON "THE ORIGIN" (57260) repeat posts already published today. Logged as skipped.
+
+## 2026-11-05 run: one post queued
+
+1. **Queued: Jin Instagram post (tg-koreaworld111_57331, duplicate 57338).** The post is on the verified account @jin (dated 4 Nov 2026). The caption could not be read, so the post says only that Jin shared new photos. The carousel uses frames _1, _4, _5, _6, all of Jin; frames _2 and _3 were left out because the person is not clearly identifiable. Please check the Instagram caption before approving if you want more detail.
+2. **CazéTV five-member interview (tg-btsnewsru0_82934).** The fan channel says the video is out, but CazéTV's own announcement (via NC News) says the videos will air later. Not confirmed, so not posted. Still held, same as 57264 and 57279.
+3. **ARIRANG Italy platinum (tg-koreaworld111_57270).** Still held. Searches again found the April 2026 Italian certification reported as Gold, not Platinum.
+4. **J-hope São Paulo Instagram (tg-btsnewsru0_82952)** is the same post as the held 57217 and 57227. Still held on the photo rule.
+5. **RM photos (tg-btsnewsru0_82962)**: no caption and the person in the photos cannot be identified as RM. Not posted.
