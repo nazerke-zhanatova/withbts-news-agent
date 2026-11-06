@@ -1248,5 +1248,30 @@
     "id": "tg-btsnewsru0_83063",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83000",
+    "reason": "V Instagram update: photos only, caption is a single emoji; no news content to report",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83010",
+    "reason": "Namjoon Instagram story: emojis only, no news content (aggregator)",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83012",
+    "reason": "Jung Kook Instagram update: one emoji caption, no news content (aggregator)",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83034",
+    "reason": "Jin Instagram update: photos only, no caption text; no news content (aggregator)",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83073",
+    "reason": "Repeat: Jung Kook GRAFF ad campaign already posted (digest-tg-btsnewsru0_82934, 2026-11-05)",
+    "run": "2026-11-06"
   }
 ]
