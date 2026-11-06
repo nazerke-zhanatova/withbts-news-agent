@@ -1353,5 +1353,55 @@
     "id": "tg-koreaworld111_57376",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-06"
+  },
+  {
+    "id": "tg-koreaworld111_57371",
+    "reason": "SWIM stage CAM from the iHeartRadio festival (performance was in September): fan-shared video, uploader not verifiable (YouTube page unreadable), official X and Weverse links not readable; no official clip confirmed",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9CU0ZhWENRZ1JDU19SZWdZSlo4LXQ2YnNpbTY1V1JkY3pWaWJQVklYRTBZenAta1QzMjNsajNlYVQ4QllvV0dEe",
+    "reason": "Popularity ranking that compares BTS with other artists (rule 3), headline only",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMid0FVX3lxTFBwQkJ3dG4xOHQyX0VpM0xfOHl3NUVnSW5HVXFUU3BySE1KTjlEdFNWT01VZkIwNDMzMFEyWHJYNE9RaDdMYlBnU",
+    "reason": "Jin outing with a friend (escape room): private life, rule 3",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMid0FVX3lxTFBYNHhPeGpiQ2tkWkw3SnpIMFZzLWotMFpDdUtrOFFjNGpEcWZhOS1pUWRleENKREFKcmVHY3dySXRmZEdMSDFJe",
+    "reason": "Instagram influence ranking against other artists (comparison, rule 3); single outlet headline",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiugFBVV95cUxPOXVyYklfdXZ6WXlkQTVSS2VlYjJOWXpGcFM3bUJDejVDNjRWeDRQdVV4OXhiYmFhc1RDVFdoU095aUlNenpxY",
+    "reason": "Arirang Kaohsiung/Jakarta live viewing trailer: already covered by rss-bts-live-viewing-kaohsiung-jakarta",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi8gFBVV95cUxOZzJxV1NXX1hPTHl3VFI2dE45TGhsN0lRVFk4LUlJdUJKTWVTanVxNHdpVjJZeGtsWFREWm9FZEp3aFFNeHVqc",
+    "reason": "Calcutta ARMY fan screening at PVR INOX: single outlet (t2ONLINE); WebSearch found no second source or fan event listing",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMifkFVX3lxTFA2RVlIQXU2dmh0ZWJ3VHZYRTVSWW1POFVTQ2JrYWtIMWJseWZEZUlyRTdLdVZpd2dfZ2k5amFtM0x0VXhCR3hUS",
+    "reason": "Legal news (Swim copyright lawsuit dropped): rule 15 needs an official statement, none read",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiogFBVV95cUxQVURfaGtsNUl2WmZ2VHNBZXFVTzFfTjZfSDhPVklLZzJOTnpyNm9DZjZvOTAyY3k2ZEZfNmVDSXQ5TV91dXd5M",
+    "reason": "HYBE Q3 earnings (business, rule 3)",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiqgFBVV95cUxOMkh0WG1vbVZHRV9RU2VycG9BNkdCOFVTSU5UeDhscGFZYnpId3pSVmJTNVRueVRIbEhnbWJyNHAyek96endGN",
+    "reason": "MAMA 2026 nominations/vote: already posted as mama-2026-vote-round2; headline-only, no new detail",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9FMXRkZGo2b3J6RXU3SE5NUmZVaGJsVHZPNHNNanV5RExjY19oQklzcUJtLUhXMXU5dTFQUE5EeV9CY0FLWm1xZ",
+    "reason": "Jungkook 'Two Faces' holiday photoshoot (K-EYES): single headline, WebSearch could not confirm the shoot or a second outlet; no permitted photo",
+    "run": "2026-11-06"
   }
 ]
