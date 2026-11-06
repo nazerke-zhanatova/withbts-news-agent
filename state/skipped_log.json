@@ -1348,5 +1348,10 @@
     "id": "tg-koreaworld111_57372",
     "reason": "filter: link already used in a post",
     "run": "2026-11-06"
+  },
+  {
+    "id": "tg-koreaworld111_57376",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-06"
   }
 ]
