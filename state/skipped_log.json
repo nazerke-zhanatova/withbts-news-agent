@@ -1228,5 +1228,10 @@
     "id": "rss-Google_News_EN-CBMifkFVX3lxTE9rdGNTWGdEOFIxTkhud3k2TUs2am5XQ0ctOWRFWWdjd3JlRGZhY1k5d3FuWHlKU1BCc2N2Wl9WRUNfQV9SMmpfNDZueS0zeTFOY2tqaURGRDNILVpsN1YzMmFTaEVmeHRicW9CQUotWGoyM3BxdWdFa3VaMmlwdw",
     "reason": "Jungkook 'unrecognizable visuals' (Koreaboo): appearance commentary from a non-listed blog, no official source (rules 1 and 3)",
     "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_82990",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-06"
   }
 ]
