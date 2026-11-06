@@ -1233,5 +1233,20 @@
     "id": "tg-btsnewsru0_82990",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83024",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83057",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83063",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-06"
   }
 ]
