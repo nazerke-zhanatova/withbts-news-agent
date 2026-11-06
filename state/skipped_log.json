@@ -1283,5 +1283,50 @@
     "id": "tg-koreaworld111_57377",
     "reason": "filter: not about BTS",
     "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83085",
+    "reason": "Same Calvin Klein news as tg-btsnewsru0_83075 (one post); its photos are in that post's carousel",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-koreaworld111_57372",
+    "reason": "Same Calvin Klein news as tg-btsnewsru0_83075; photos duplicate the carousel set",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-koreaworld111_57371",
+    "reason": "SWIM stage cam (iHeartRadio, Sept 2026): Weverse link confirmed but no direct video address, and no photo showing identifiable members that passes the photo rules",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-koreaworld111_57376",
+    "reason": "Text only 'PARADISE CITY x TAEHYUNG'; no event or detail found in search, unclear news",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMipAFBVV95cUxNMW1xT0h6dzhMN05IRExldFpVb2c3eWtsaXhScmRrbDd4QWdIRDZmdGZpSlhYcmhTRWUzQlZoMDlLaEJuelpxQ",
+    "reason": "ARIRANG Italy FIMI platinum: confirmed by Daily Sports and STARNEWS (Nov 4), but no usable all-members photo: source photos are on domains not in photo_domains, and members in the STARNEWS photo cannot be confirmed. Retry if a photo turns up",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMijAJBVV95cUxOUXNJOTVTY2tQOWFWY25fS0s1X2F6aXRlWDNHa3JvMTdkODdOTW96M05YdXVPY0VhQ0FYZV8wYS1GcHFwWjduM",
+    "reason": "Duplicate: Kaohsiung and Jakarta live viewing already posted (rss-bts-live-viewing-kaohsiung-jakarta, 2026-11-03)",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi7gFBVV95cUxQNmVYc3NFaDNJYWg1WU9TMk1lNTlQVjhVOFlEbHhJd1UxbmtINHlKVnVSd1RMWDhvc19zZXFqRnJYblZGVDhjR",
+    "reason": "Jungkook 'ring' TVC (Times Now): could not confirm with a second outlet; no matching campaign found",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9CU0ZhWENRZ1JDU19SZWdZSlo4LXQ2YnNpbTY1V1JkY3pWaWJQVklYRTBZenAta1QzMjNsajNlYVQ4QllvV0dEeTRsVVFGOC1WU2RSV3NMVHlZTHhEWVRoQkM4d0ZZWUFneUVZalppRF9KQUlReV9DbA",
+    "reason": "Headline only (Star News ranking '1st Rescene, 2nd BTS, 3rd Im Young-woong'), no context to verify or write from",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMid0FVX3lxTFBwQkJ3dG4xOHQyX0VpM0xfOHl3NUVnSW5HVXFUU3BySE1KTjlEdFNWT01VZkIwNDMzMFEyWHJYNE9RaDdMYlBnU",
+    "reason": "Jin spending time with Beomgyu (private outing): personal life, not posted",
+    "run": "2026-11-06"
   }
 ]
