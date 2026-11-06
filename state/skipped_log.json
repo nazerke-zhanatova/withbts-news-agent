@@ -1278,5 +1278,10 @@
     "id": "tg-koreaworld111_57375",
     "reason": "filter: same story already looked at",
     "run": "2026-11-06"
+  },
+  {
+    "id": "tg-koreaworld111_57377",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-06"
   }
 ]
