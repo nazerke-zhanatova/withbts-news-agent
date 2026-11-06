@@ -1178,5 +1178,55 @@
     "id": "rss-Google_News_EN-CBMipAFBVV95cUxNMHQ0YWE1SGR5ZFFnZXJzV3c5OFV4VkU2Y3FBT0xTZXRWVzhOM0VmUHpET2FIQTdobEdtTzhuUHFUeFRjXzVBR",
     "reason": "filter: same story already looked at",
     "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiswFBVV95cUxNQm9oeW0zeXRlbXRyb1FVZ1Jtc3R5MEtaVktTMmxLWDlNcnF1MkhSZVhKMkMxTDZtem45Sy1Sc0xWYlVSaWhrVFk2aFhaNjZ2M3lwalZEVE5MLUtIMzZ5QTRKMHpqR3MxaThVdUs3dEVHaHM5bWt5bmNaZDFiRjdrUURKcVQzRl9Ucy1oQnhrTE9NRGhIY2MyLURhcU9UMUlNaExWcVBWX0JHMTdZLXBzVU91aw",
+    "reason": "BTS 'SWIM' copyright suit dropped (allkpop): legal news, no official statement (rule 15); already skipped 2026-11-05",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiY0FVX3lxTE9Lb01md1FJSTdEQWlMZzl1NDEwSi0tTkMweGluUUxQR1pFRWprUHpjeG00bXNWM2toZ2RkZ191X2NuWWJoekxlVkpOQTVxQ3NKclpaQzkyTmZsUUJ4ZnZQYXFGOA",
+    "reason": "BTS 'SWIM' lawsuit (The Korea Daily): legal news, no official statement (rule 15); already skipped 2026-11-05",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMivgFBVV95cUxQbXFKYnhhdXhHc3pUbTZnYUh1dXhZbmZGczJ5a3JXcHVYZmZfbmdUZGxCU05hdHVJcVFzQnl6ODU0NzZhbUJuMEgtRkZSRFlENlF1TkpManZ0cGZfQ1Rxc2xVZ1JtQU1ocWlRRjhfVFlSRXktQWJCODc0QnBtZ0x3M21USmhsY2hzdVN2TVFwWTlJWEtPR3hCSDF1MzFqQlE1Vm5SY091cW9fR1pDbFVoWHlDR1ZCYktzRWhYQnBR",
+    "reason": "BTS 'SWIM' lawsuit (International Business Times): legal news, no official statement (rule 15); already skipped 2026-11-05",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiywFBVV95cUxOSGZjMHNra1BwZ0RGYXlDSFI2dFBlNnhIaV90YXkxaTVYOGN6dXFUME5abV9QSTB1cXh4M05OV2R2b3g1X3hfY2lZS1hlM0hXTTM2bkJWZTFKeVE2eDFjSnF3N2RaaV9kZXpBWUJVdkhqTjYzZTM1YXZ3SVFVNnZfM2Z0X1prU1ZYdFRGa1puV1RHX1dabXUxRlZXd2VJaGRFUWpoemxqX1VLOUEyY1BoamY5UmI0c3Zuckh1ZzRQdGsxaV9BWFpxX25VY9IB0AFBVV95cUxQVWJhMTk2OHNVM3lFVXRjWkM4UHZDVUtVQlRSSC1GTzBwMDhvajM4YlRXVUNCNzQ2N051SXFPWEtRVlhud1VET2ZoQU9IM015eFVCOU1NMENjczZGUnhvOFZSb3N5dEpnZ2RLd0hwWThscEw0RF9Pa01aRW01bVdpY1ROYVBXa3ROQXRUQWgxYkhXY0hjYy1qSXNBM1Mtam5EMVpmdXlQS3lya0dwMzZuZVZMZnRPSHZqNklRX3JlNm9TSjF0SW4tOVNNYXc5MENB",
+    "reason": "BTS 'SWIM' lawsuit (WION): legal news, no official statement (rule 15); already skipped 2026-11-05",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiqAFBVV95cUxQeWJzbzZMSk1lTXkycUVwZ2VEN3JlZUtUbk5zWHZPX2E4Y2F5cEJSNExWNG1WSVZOenJ5R3N6U2pVOEFnbDFLa3pvaDF6VlRoUnY0ZFVudWRrYWpfSkYzaU5NeEw2S3R1UU80ODV2cU0zeGp6N2xpQ2hucTh4Z3RnRGhFd2pxcHZOLVprUHFXdVI5Rm9FTnk0dDJvV1pzZEhNREtvWXM5NF8",
+    "reason": "BTS 'SWIM' lawsuit (Female First): legal news, no official statement (rule 15); already skipped 2026-11-05",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi0wFBVV95cUxOVGQ1RWQ0cWdwTmF2OUxHWTJiSWxNd2FpbTVEUzdqSnVSYS1GMXRQaWtacTYtVWlySEd5VWYxTXA1MC1FRkxKUW5CWFQ1MlhSSmpfbTZnSlJhVzVMcU5oWVQxWXAwUXZMbmIweW5WZENFOURJVV9YelJjMGR4YU9jMG43V1VYVlpPUDhENDNSR0I2WDZMejh6SURvM19sUU5BeWwzX3JsTTJjbDVNcldrS2VmRk9LNUozejVIRmgtLXdlUWEtOHFNOUdPQVZzRmFqTVBn",
+    "reason": "BTS 'SWIM' lawsuit (Music Business Worldwide): legal news, no official statement (rule 15); already skipped 2026-11-05",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE1zZ2xKUGU0LU5za2VJM3RBLVE4WjFQeDU4QjRvZEdjSFE1dDZtRFE0X1NCUzBGakxJaV9YRm10OFJtcTNWazJwUEM1WnpCTjFHaklkMDlzV0hOWHpr",
+    "reason": "ARIRANG Kaohsiung/Jakarta live viewing trailer (YouTube): same event as post rss-bts-live-viewing-kaohsiung-jakarta (2026-11-03); no verified new detail, no official trailer found for this event",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi2wFBVV95cUxNek1PSlZPR2owc0wzQkNpMVJQak03bDF3XzJWdFFYalBFdTdXT0MtS3lHUFdOcHpUbnUxOEV1ZDJLZ1JYSHYzYzJNWThXcm5ETzBnM3dvakNJYW9FOTlCTHB1NEItVzA2RmxNN3l3TTNORWRjbkxIX2tfcXdMNDlQenBiM0ctWjNxNVhBSWtZXzVWSEt3d1ZXdWpxMjQzalZSV3RPNHJuYVpzcHdPZDVBV19xYmphT2l3LS04MzFyd0tvRVZTeHdlbzR2WExsS29WMzRPVW9YdTcxRjQ",
+    "reason": "ARIRANG Kaohsiung/Jakarta cinema dates (BroadwayWorld, Nov 21 and Dec 29): same news as post rss-bts-live-viewing-kaohsiung-jakarta (2026-11-03); no new detail",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi_AFBVV95cUxOMUw4c0ZoOXd4b01LMkdjbjVJeGhHU1AzWnNGcHVMcWppeTBMMllVOG1EelU4dWhGUTEyUTZBV2tybkZBMTVXd3VxTmV6d1lrMndPOUxKcTVxUUtiSmRkclJ3ZjF2MDA3VnFBdWdaVUo2X3NFZXRBN1IzVDVhY21SOHYxa2ZLVkhPR0o3LWRWaFRldlhLdUUzQkZaUlR2YVZ1dWMwZ0ZmWmYxLW0yM1l3SXVuSkZKcFUyc0liVmVnbUlwWEZQREwzQy1KdTh0Z0EwOFhOS2xIWW5pUUVsM0RFVFBOU0tmSnlOdVdjUVd1T2pTXzVmT21iMEdUc0fSAYICQVVfeXFMTlVIMjlpMWFZTlFEMTNBRjBGOTl4a2JuTEUxaW5obUpvdVUxWUxfSGhOMFJtRmVRNEZ3aElrVUxYejRaRVFGUTJHN3B2RF9DYkY2Y3NyTlQyZmFpczhReHhxSXJFd1VpRFFaV29VbzY4Mkt2WmhVeFUwOUMyalRTeVNtdU5mRlhOQXUzTWFjZmRBRDZEektoUDVwbjNvWjc5djVVY0NmMzhtS2dmVzJDeFdGUm9PRms5dVlhX003UFAxWnRQelpJNU9VQWhfbEhlSzBQVnRZTWwwTlBUQnZQOXdWNTRab1ZmT3lpTGsxVTVTOW1IRkhtZkVKUkw1YkJOQ0VR",
+    "reason": "ARIRANG Kaohsiung/Jakarta teaser (Times Now): same event as post rss-bts-live-viewing-kaohsiung-jakarta (2026-11-03); no verified new detail, no official teaser found for this event",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMifkFVX3lxTE9rdGNTWGdEOFIxTkhud3k2TUs2am5XQ0ctOWRFWWdjd3JlRGZhY1k5d3FuWHlKU1BCc2N2Wl9WRUNfQV9SMmpfNDZueS0zeTFOY2tqaURGRDNILVpsN1YzMmFTaEVmeHRicW9CQUotWGoyM3BxdWdFa3VaMmlwdw",
+    "reason": "Jungkook 'unrecognizable visuals' (Koreaboo): appearance commentary from a non-listed blog, no official source (rules 1 and 3)",
+    "run": "2026-11-06"
   }
 ]
