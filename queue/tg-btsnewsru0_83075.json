@@ -7,12 +7,21 @@
     "https://t.me/btsnewsru0/83085",
     "https://t.me/koreaworld111/57372"
   ],
-  "credits": ["btsnewsru0", "koreaworld111", "Calvin Klein"],
+  "credits": [
+    "btsnewsru0",
+    "koreaworld111",
+    "Calvin Klein"
+  ],
   "image": "media/tg-btsnewsru0_83085_1.jpg",
   "image_url": null,
   "image_credit": "Calvin Klein",
-  "photo_members": ["Jung Kook"],
-  "carousel": ["media/tg-btsnewsru0_83085_0.jpg", "media/tg-btsnewsru0_83085_2.jpg"],
+  "photo_members": [
+    "Jung Kook"
+  ],
+  "carousel": [
+    "media/tg-btsnewsru0_83085_0.jpg",
+    "media/tg-btsnewsru0_83085_2.jpg"
+  ],
   "carousel_urls": [],
   "card": {
     "tag": "ЖАҢАЛЫҚ",
@@ -22,5 +31,10 @@
   "telegram": "Calvin Klein жаңа жарнамалық науқанын жариялауға дайындалып жатыр, ал Jung Kook — бренд елшісі, науқанның басты бейнесі!\n\nБренд мереке маусымында Jung Kook-пен бірге классикалық образдарды ұсынатынын айтты. Сонымен қатар Jung Kook-тің Calvin Klein үшін жаңа фотосуреттері жарияланды. Олар карусельде.\n\nНақты жарияланым күні мен арналары ресми Calvin Klein арнасында көрсетіледі.\n\n💜 ARMY, Jung Kook-тің қай образы сізге ұнады?",
   "instagram": "Calvin Klein жаңа жарнамалық науқанын жариялауға дайындалып жатыр, ал Jung Kook — бренд елшісі, науқанның басты бейнесі!\n\nБренд мереке маусымында Jung Kook-пен бірге классикалық образдарды ұсынатынын айтты. Сонымен қатар Jung Kook-тің Calvin Klein үшін жаңа фотосуреттері жарияланды. Олар карусельде, бірінші суреттің артында.\n\nНақты жарияланым күні мен арналары ресми Calvin Klein арнасында көрсетіледі. Жаңалықтарды осы жерден бақылап отырыңыз.\n\n💜 ARMY, Jung Kook-тің қай образы сізге ұнады? Пікірде жазыңыз!",
   "threads": "Calvin Klein жаңа науқанын жариялайды, Jung Kook — бренд елшісі. Мереке маусымында Jung Kook-пен образдар ұсынылады, жаңа фотосуреттер де жарияланды. ARMY, қай кадр ұнады? 💜",
-  "x": "Calvin Klein жаңа науқанын жариялайды, Jung Kook — бренд елшісі. Жаңа фотосуреттер карусельде. ARMY, қай образ ұнады? 💜"
+  "x": "Calvin Klein жаңа науқанын жариялайды, Jung Kook — бренд елшісі. Жаңа фотосуреттер карусельде. ARMY, қай образ ұнады? 💜",
+  "card_file": "media/card_tg-btsnewsru0_83075.jpg",
+  "carousel_files": [
+    "media/slide_tg-btsnewsru0_83075_0.jpg",
+    "media/slide_tg-btsnewsru0_83075_1.jpg"
+  ]
 }
