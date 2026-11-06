@@ -255,5 +255,27 @@
       "instagram": "18094643540504461",
       "threads": "18486918886119140"
     }
+  },
+  {
+    "id": "tg-btsnewsru0_83075",
+    "time": "2026-11-06T21:05+05:00",
+    "headline": "Jung Kook Calvin Klein жаңа науқанында",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/btsnewsru0/83075",
+      "https://t.me/btsnewsru0/83085",
+      "https://t.me/koreaworld111/57372"
+    ],
+    "credits": [
+      "btsnewsru0",
+      "koreaworld111",
+      "Calvin Klein"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19389",
+      "instagram": "18390367585227138",
+      "threads": "18132352994504867"
+    }
   }
 ]
