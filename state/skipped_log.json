@@ -1333,5 +1333,20 @@
     "id": "rss-Google_News_EN-CBMipAFBVV95cUxNMW1xT0h6dzhMN05IRExldFpVb2c3eWtsaXhScmRrbDd4QWdIRDZmdGZpSlhYcmhTRWUzQlZoMDlLaEJuelpxQ",
     "reason": "filter: same story already looked at",
     "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83075",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-btsnewsru0_83085",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-06"
+  },
+  {
+    "id": "tg-koreaworld111_57372",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-06"
   }
 ]
