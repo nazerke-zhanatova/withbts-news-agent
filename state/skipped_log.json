@@ -1273,5 +1273,10 @@
     "id": "tg-btsnewsru0_83073",
     "reason": "Repeat: Jung Kook GRAFF ad campaign already posted (digest-tg-btsnewsru0_82934, 2026-11-05)",
     "run": "2026-11-06"
+  },
+  {
+    "id": "tg-koreaworld111_57375",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-06"
   }
 ]
