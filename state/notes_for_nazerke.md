@@ -62,3 +62,12 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 2. **BTS brand reputation #1 for November 2026 (tg-koreaworld111_57379).** Only the fan channel reports it; search did not find the November 2026 ranking. Not posted until a second outlet or the institute's announcement confirms it.
 3. **Weverse "countdown to P" post and "#dear_jungkook_from_army" post (Google News items).** Only headlines are readable and no search result confirms what is coming. Not posted.
 4. **Repeats and old items:** MAMA round-2 vote (already posted), London stadium clip (July shows).
+
+## 2026-11-07 run (Google News batch, second run): no posts queued
+
+1. **Jimin "Kpop King" 8-year claim (Laodong.vn, International Business Times).** Search finds conflicting poll counts: DABEME reports eight years for its dancer vote, King Choice reports seven. The headline claims do not reconcile, and fan polls are close to the comparison rule. Not posted. If you want it, check the poll's own site first.
+2. **Weverse "[PREVIEW] BTS WORLD TOUR 'ARIRANG' IN LONDON SPOT" (and its Spanish duplicate).** Only headlines are readable. Search finds the London citywide project notice (weverse.io notice 37081) but no content for this preview, and no video or photo I could verify. Not posted.
+3. **allkpop brand reputation ranking.** Puts BTS above ATEEZ and CORTIS. Comparison with other artists, excluded.
+4. **V Peruvian poncho sales story (Indiatimes).** Merchandise sales, one outlet headline. Not posted.
+5. **Fan posts (Jimin album, #dear_jungkook_from_army).** Fan-authored posts; the #dear_ hashtags come from an older official explainer (weverse.io notice 17261), not a new announcement. Not posted.
+6. **Kim You Jung drama "100 Days of Deception" (MyDramaList).** The drama stars Park Jinyoung of GOT7, with no BTS link found. Not BTS news.
