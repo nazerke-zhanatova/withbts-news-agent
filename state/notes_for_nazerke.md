@@ -55,3 +55,10 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 1. **Jungkook GOLDEN Spotify record (Starnews 4 Nov, Korea Herald).** The record is real: Starnews (29 Oct) reports GOLDEN at 154 consecutive weeks, the longest run by an Asian solo album. The candidate says 155 weeks; I found no report of 155 for the album (155 appears only for the single "Seven" in a July report that conflicts with a later 154). Starnews's two article photos have no captions or credits, so none names Jungkook. Not posted. If you want it, a Jungkook photo from an allowed source with a caption naming him, plus confirmation of the week count, would let a post go out.
 2. **Jin escape room with TXT Beomgyu (Chosunbiz, Korea Daily).** Coverage frames it as a "date". It is a private outing, so not posted. No official source was found.
 3. **BTS plagiarism / "Swim" copyright suit dropped (Korea Times, JoongAng Daily, Billboard, Chosun).** Legal news. Rule 15 needs an official statement; none found, so no post. Check BIGHIT MUSIC's statement if one exists.
+
+## 2026-11-07 run: no posts queued
+
+1. **Jimin Instagram repost (tg-koreaworld111_57383 / _57393).** Member's own post, but the only caption is "Jimin post inst" with an emoji, so the post's content is unknown, and the photos do not name who is pictured. Not posted. If you can read the caption (or confirm the pictured member), a short post could go out.
+2. **BTS brand reputation #1 for November 2026 (tg-koreaworld111_57379).** Only the fan channel reports it; search did not find the November 2026 ranking. Not posted until a second outlet or the institute's announcement confirms it.
+3. **Weverse "countdown to P" post and "#dear_jungkook_from_army" post (Google News items).** Only headlines are readable and no search result confirms what is coming. Not posted.
+4. **Repeats and old items:** MAMA round-2 vote (already posted), London stadium clip (July shows).

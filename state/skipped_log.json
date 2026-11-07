@@ -1483,5 +1483,55 @@
     "id": "rss-Google_News_EN-CBMiZEFVX3lxTE9jWDJ3WF9UcEwwY2JDNjVoX0NrOW9BSUVoeTBvUVhfMXNWR2VOSG85eFVQYmx4MTU5XzZxU00wekNBeU5ERFh2T0FEVmNyMzVOdk5VRnY2QlVTVXhaZlV3bkxkV3Q",
     "reason": "Tide Newsroom headline: no connection between Tide and BTS found in search, source unclear; no post",
     "run": "2026-11-07"
+  },
+  {
+    "id": "tg-koreaworld111_57379",
+    "reason": "Brand reputation ranking (#1 among male groups for November 2026) reported only by the fan channel; no second outlet found, and the November 2026 ranking itself was not found in search; no post",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "tg-koreaworld111_57381",
+    "reason": "MAMA 2026 second-round voting instructions: already posted as mama-2026-vote-round2, repeat",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "tg-koreaworld111_57382",
+    "reason": "Promo of London stadium video: the London shows were in July 2026 and the video source is unverifiable; no new news",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "tg-koreaworld111_57383",
+    "reason": "Jimin Instagram repost: caption is only 'Jimin post inst' with an emoji, no readable text of the post, and the photos do not name who is pictured; no verifiable news, so no post",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "tg-koreaworld111_57393",
+    "reason": "Duplicate of tg-koreaworld111_57383 (same Jimin Instagram post)",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "tg-koreaworld111_57400",
+    "reason": "Fan-organized stadium heart campaign request, not official news",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMid0FVX3lxTE8xLVBFaGNSMGp0VVpmbFpaRGtfa05ueVhrQUpoUVV6dXVsY1J6UnNHZEZlNjJRQWltV0dvMXRsbmNyeXJTa29BQ",
+    "reason": "Sales-gossip headline from one outlet (KbizoOm); no official or second reliable source, not BTS news",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE9hdkxiUnpRNFBFc0xzeW1hcGFjQ1dYR2Nzb2xFVm5QRl9oQ0U2LVBRcFFPVUNMMHNxd2tTd3FCVmhCM1lobXhzc",
+    "reason": "Weverse community post headline 'As we begin the countdown to P': full text not readable and no search result found the announcement; cannot verify what is coming, no post",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE80eU5ucWFsSUlrMEJIOVNjSldMR1hpOHVUT2w3RzVISkhsRTBiSmJwQ0RCbURHRGlzbG5TVVJxd2M5eGVwMGFEU",
+    "reason": "Weverse fan letter headline only, no content readable; no news event verified",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE85WC1pZnJudlpSX1FhaVRHTGtQaS05U0Z5akJmcXpqeDBfQkJnbzdlLUdnZmp0SFBkcjVYYWlEQjJVcjBVNTl5Q",
+    "reason": "Weverse community post with #dear_jungkook_from_army fan hashtag: a fan message convention, no official announcement found; no post",
+    "run": "2026-11-07"
   }
 ]
