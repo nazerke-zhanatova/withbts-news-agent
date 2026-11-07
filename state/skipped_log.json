@@ -1458,5 +1458,10 @@
     "id": "tg-koreaworld111_57378",
     "reason": "filter: same story already looked at",
     "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE9iQWhNRktUcG52bFZqd3NMb2VqTzlrR3dobldsT0tyNFh6MjEzbVZnVGtXYXhSVFYzVnd5UVdDX2pYTDgtVVZfb",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-07"
   }
 ]
