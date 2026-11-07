@@ -1403,5 +1403,55 @@
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE9FMXRkZGo2b3J6RXU3SE5NUmZVaGJsVHZPNHNNanV5RExjY19oQklzcUJtLUhXMXU5dTFQUE5EeV9CY0FLWm1xZ",
     "reason": "Jungkook 'Two Faces' holiday photoshoot (K-EYES): single headline, WebSearch could not confirm the shoot or a second outlet; no permitted photo",
     "run": "2026-11-06"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikwFBVV95cUxPVm5iVm1FQ18yZF91OTJtVGwxWnQ1VWRwUzVNdERMRkM5eF96SG40N3JUSVgtS1VxMXBhbHIxUFZTdmFMQVFtb",
+    "reason": "Negativity: hate aimed at a member after a photo with another idol (Koreaboo); gossip, not news",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiuAFBVV95cUxPMHlPaWM1bE5tQ0NIVE9IbFVYLXVqQnZLdE9pQWpVanJpRDJ4LXZfS1BBM3ZiVVRqSk45Y01wdnpmRzVDY2luU",
+    "reason": "Kaohsiung/Jakarta cinema screenings: same news as rss-bts-live-viewing-kaohsiung-jakarta, already posted 2026-11-03",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikgFBVV95cUxQNjFMME9EdzBrdjRxY0hneUs5UjlacXJudklXSzRqMlBpOEpCa3RabG15YnNaWDF4bWticFg3cWhxc2xMRnN0Y",
+    "reason": "Gossip: member's height debated after a photo with another idol; comparison with other artists, not news",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiO0FVX3lxTE9KTTN6T3dBZ2tMTUJZOV9jZ0lZN21TVjljc3F3dXhIenJzdHRMTG5kQUg0amFpVHlXTmtR",
+    "reason": "Duplicate of the height gossip item (Howl.Link copy); gossip, not news",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTFA4b1owcE5QeG5zOVB2YWR0YnR4dnc3R05ZOHVORk9vVXMwMTZSRVdidnZRQ1pvMm9ic3E0dk1pSXVLMl9mbXpTdW03Y0I2NXJpRlJzb2lCYm5FNFpPdkpzWg",
+    "reason": "Weverse Jimin post: headline text only, post content unreadable and no matching Weverse post found by WebSearch; cannot verify",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5Wd3FaNTN3U19wNFM0cWJhdWpDNFZOUnlmYzJBUEVLVUVhMDhremljRDZlZU5lMXV5QnRXVEpCcDFKSm1pZFFZd",
+    "reason": "Jin 'Brazil AMA' headline (Starnews only): single outlet, WebSearch found no matching event; not verified",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMid0FVX3lxTE5hYjZ0X2Z1RXRfcVZkUGh4am8zYnkyaEhiY0s1ZHd0em9LTmVObUpHdjNGNlQwSldlTzRnVG9VbnNfZ2RkV1pwe",
+    "reason": "Jung Kook Graff campaign: same news as digest-tg-btsnewsru0_82934 already posted 2026-11-05",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5EYndydFVIdVQxZDlWdW5CVkE2NnZaWUV6cVI2bU5BWTNBZ1dHTzRCSnZ0dFIweVc2Zjd3bmNTUmtkRUNKcGlTTjh4MGh4WUhrUGpBcmlQRnpBMHNHYVIwVGgtaFhrQUd1b0ZveTNWV09Fd1dNX09JdQ",
+    "reason": "Jimin 'K-pop King 8th year': only one outlet; WebSearch found no 2026 'K-pop King' result, only dance/other polls; not verified",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiiwFBVV95cUxQSElnNC1YTWtFUUM1b1p3VEVkeE9YbldvLWVtWU0wRWhNYzUzQnBXSFJZeXlUeTI3dDZYY3NNdjdHcFNwV0QyR",
+    "reason": "Dating rumor (Jin and TXT's Beomgyu date): personal life, rule 3",
+    "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE11a1NZcjl5aWltV1RrYWxpbmR5b2RQUUgwWnl1TUcwYzJfdVppRkpNaEY5Rm9HQzBRVDdXZzB3c2U3SXhWc1BnTE42MEs0QlhmUjdVdFdRVzRFdFczcXF5Yi1rVmYtQkhFQUxreEdsdjV6cFB2cV9WaA",
+    "reason": "Chart/ranking list placing BTS against ATEEZ and CORTIS: comparison with other artists, rule 3",
+    "run": "2026-11-07"
   }
 ]
