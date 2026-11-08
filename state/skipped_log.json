@@ -1623,5 +1623,10 @@
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE9GLVl0aWZqazRJdjlKWFNLN1pLeW5XUmpUeUhhbkp1MW5mVWNDanVIVDQ4cjlqNW16LU5MNUcwYVVjUzVoeWlPa",
     "reason": "Gulf News 'Jin deserves a Grammy for white shirt performance': article not found by search, no second outlet, opinion quote; not posted",
     "run": "2026-11-08"
+  },
+  {
+    "id": "tg-koreaworld111_57441",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-08"
   }
 ]
