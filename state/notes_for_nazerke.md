@@ -80,3 +80,7 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 4. **Jimin "King of K-pop" (OtakuKart).** The same unverified poll claim as on 2026-11-07. Not posted.
 5. **Jimin GMA "daily dose" roundup.** No specific event or date, single outlet. Not posted.
 6. **BTS brand reputation ranking (IBTimes).** Puts BTS above ATEEZ and CORTIS: comparison with other artists, excluded by rule 3.
+
+## 2026-11-08 run (second pass): no posts queued
+
+1. **koreaworld111 Weverse chat batch (tg-koreaworld111_57420 to _57431, 10 items).** All are V's replies to fan posts on Weverse: personal chit-chat (hobbies, what he's listening to, a Diwali greeting). Not news, so none posted and no digest made. Logged as skipped.
