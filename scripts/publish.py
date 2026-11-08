@@ -125,7 +125,7 @@ def validate(post):
         ic = (post.get("image_credit") or "").strip().lstrip("@")
         if not ic:
             return "photo has no image_credit"
-        if ic.lower() not in [c.strip().lstrip("@").lower() for c in credits]:
+        if ic.lower() not in ("-", "none") and ic.lower() not in [c.strip().lstrip("@").lower() for c in credits]:
             post["credits"].append(ic)  # photo owner always appears in the credits line
         reused = photo_reused(post, used_photos())
         if reused:
