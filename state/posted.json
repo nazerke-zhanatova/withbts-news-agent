@@ -277,5 +277,31 @@
       "instagram": "18390367585227138",
       "threads": "18132352994504867"
     }
+  },
+  {
+    "id": "digest-tg-koreaworld111_57439",
+    "time": "2026-11-08T21:11+05:00",
+    "headline": "V Weverse-те фанаттарымен сөйлесті",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/koreaworld111/57439",
+      "https://weverse.io/bts/artist/3-243578094",
+      "https://t.me/btsnewsru0/83127",
+      "https://t.me/btsnewsru0/83129",
+      "https://t.me/btsnewsru0/83132",
+      "https://t.me/btsnewsru0/83135",
+      "https://t.me/btsnewsru0/83136"
+    ],
+    "credits": [
+      "Weverse",
+      "koreaworld111",
+      "btsnewsru0"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19392",
+      "instagram": "18000621986826954",
+      "threads": "18033367010681224"
+    }
   }
 ]
