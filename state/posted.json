@@ -303,5 +303,25 @@
       "instagram": "18000621986826954",
       "threads": "18033367010681224"
     }
+  },
+  {
+    "id": "rm-stanford-namjooning-course",
+    "time": "2026-11-08T22:58+05:00",
+    "headline": "Стэнфордта Namjooning курсы ашылды",
+    "category": "news",
+    "source_urls": [
+      "https://explorecourses.stanford.edu/search?view=catalog&q=Namjooning",
+      "https://www.instagram.com/p/DfcIRILm6Wa/"
+    ],
+    "credits": [
+      "stanford",
+      "rm_btsworld"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19394",
+      "instagram": "18341222281256103",
+      "threads": "18220532764347727"
+    }
   }
 ]
