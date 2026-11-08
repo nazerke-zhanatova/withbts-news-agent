@@ -1768,5 +1768,25 @@
     "id": "tg-btsnewsru0_83141",
     "reason": "filter: not about BTS",
     "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83125",
+    "reason": "Fan meme-style bait post, no news (aggregator)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-koreaworld111_57442",
+    "reason": "MAMA 2026 second-round vote: already posted as mama-2026-vote-round2; only the closing date is new and it comes from a repost, not verified",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83130",
+    "reason": "Fan Diwali greeting, no news; only a question from V",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-koreaworld111_57443",
+    "reason": "SUGA Instagram story link with no caption; photo shows a TV screen with a sports game, content unverifiable and not a member photo",
+    "run": "2026-11-08"
   }
 ]
