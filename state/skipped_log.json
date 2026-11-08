@@ -1583,5 +1583,10 @@
     "id": "rss-Google_News_EN-CBMivgFBVV95cUxQeGh4ZDRhZkpISGVyeEJKczlXZ2hQRnYxalFPRG9CRnRxZ3N2ZWNlcFdTVEhqWkxVTG0xOUEzY3hWUEdzSTdHR",
     "reason": "Same unverified Kpop King poll claim (Jimin, IBTimes): conflicting poll counts found; not posted",
     "run": "2026-11-07"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE1MOFFFS29nTnRIelBYdmN4YllXOE10YTVBNlVpZ3JBT0piR2pOWWtJSGZCNHNWYm02RnkzWlVSRFF2cUlESzdZc",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-08"
   }
 ]
