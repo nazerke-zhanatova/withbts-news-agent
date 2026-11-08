@@ -1,1 +1,100 @@
-[]
+[
+  {
+    "id": "tg-koreaworld111_57402",
+    "platform": "telegram",
+    "handle": "@koreaworld111",
+    "tier": "trusted_fanbase",
+    "role": "aggregator",
+    "url": "https://t.me/koreaworld111/57402",
+    "text": "J-HOPE post inst\n🌐\nTour fit.\nhttps://www.instagram.com/p/DfdfCx1mfqw/?xtok=djdvZnc4aWhpNTBo",
+    "timestamp": "2026-11-08T01:42:58+00:00",
+    "videos": [],
+    "media": [
+      "media/tg-koreaworld111_57402_0.jpg",
+      "media/tg-koreaworld111_57402_1.jpg",
+      "media/tg-koreaworld111_57402_2.jpg",
+      "media/tg-koreaworld111_57402_3.jpg",
+      "media/tg-koreaworld111_57402_4.jpg",
+      "media/tg-koreaworld111_57402_5.jpg",
+      "media/tg-koreaworld111_57402_6.jpg",
+      "media/tg-koreaworld111_57402_7.jpg",
+      "media/tg-koreaworld111_57402_8.jpg"
+    ]
+  },
+  {
+    "id": "tg-koreaworld111_57412",
+    "platform": "telegram",
+    "handle": "@koreaworld111",
+    "tier": "trusted_fanbase",
+    "role": "aggregator",
+    "url": "https://t.me/koreaworld111/57412",
+    "text": "J-HOPE post inst\n🌐\nTour fit.\nhttps://www.instagram.com/p/DfdfCx1mfqw/?xtok=djdvZnc4aWhpNTBo",
+    "timestamp": "2026-11-08T01:43:44+00:00",
+    "videos": [],
+    "media": [
+      "media/tg-koreaworld111_57412_0.jpg",
+      "media/tg-koreaworld111_57412_1.jpg",
+      "media/tg-koreaworld111_57412_2.jpg",
+      "media/tg-koreaworld111_57412_3.jpg",
+      "media/tg-koreaworld111_57412_4.jpg",
+      "media/tg-koreaworld111_57412_5.jpg",
+      "media/tg-koreaworld111_57412_6.jpg",
+      "media/tg-koreaworld111_57412_7.jpg"
+    ]
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiswFBVV95cUxQc1MzMlFaUl9FRm5jMGpJZS1FVU1ncXRCckpQb0JHc0poVWh2dmxvOUpuVEFYQzZRZlRKcFgxbDlJU0dpM3dRM",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1MzMlFaUl9FRm5jMGpJZS1FVU1ncXRCckpQb0JHc0poVWh2dmxvOUpuVEFYQzZRZlRKcFgxbDlJU0dpM3dRME0ySUVyWUQtTXpva1NfU09ZMW9zcVhHenFEUklkOGVlZVA2RC01UnZ0Umk2VzZYU29FNnVHNWhJWGlGVHVBdHQ1X0Z6b3ljQ0lyUUFBSEpHZTFYZjNQUE5uYUk3NGMwVDc0NzZ3T2JKNzVpWQ?oc=5",
+    "text": "BTS Tops November 2026 K-Pop Boy Group Brand Reputation Rankings, ATEEZ and CORTIS Follow - International Business Times, Singapore Edition\n\nBTS Tops November 2026 K-Pop Boy Group Brand Reputation Rankings, ATEEZ and CORTIS Follow &nbsp;&nbsp; International Business Times, Singapore Edition",
+    "timestamp": "2026-11-07T15:45:01+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMipAFBVV95cUxNQ0FOa0FxbFFxU3dONkRPLUNyZkRCdlRSMzNEQlZFcVRxRFpEUlBqVUxqd0NXamNwVi15WldFeEl6YnE2MlEtY",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0FOa0FxbFFxU3dONkRPLUNyZkRCdlRSMzNEQlZFcVRxRFpEUlBqVUxqd0NXamNwVi15WldFeEl6YnE2MlEtYkJ3UlZ3UmRneVp6RWxkekl0Z1pxLW1tak1nNGM0eVFCZHM0SWdwc0duNWotM29OV1dsSjl6c0xFQTlGOEowM2FueXRscHV6QVplYVNSYUc3RFR2RU1ERmJmajgtOA?oc=5",
+    "text": "BTS’s Jimin Crowned ‘King of K-pop’ on King Choice for the Eighth Consecutive Year - OtakuKart\n\nBTS’s Jimin Crowned ‘King of K-pop’ on King Choice for the Eighth Consecutive Year &nbsp;&nbsp; OtakuKart",
+    "timestamp": "2026-11-07T16:01:51+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi0wFBVV95cUxPRU5rX1lNOVJaWmFsOW5nMDZWcEdET2hfNWYzWXQwazZnX2JJYUZ3Q3BFR0FndEh3Zm5GSTRZUkxTVHc4Q0hfR",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRU5rX1lNOVJaWmFsOW5nMDZWcEdET2hfNWYzWXQwazZnX2JJYUZ3Q3BFR0FndEh3Zm5GSTRZUkxTVHc4Q0hfRFExREpEVXkzVzdmQks4bWVBU0ZlcWtLNDFUZV91bGFBMEQ4alMxc0ExTE9mY180R1QwYVI1djBuNmlrVFBxQklVd2czTUd5d3RFQ0E0cXVuQUw1RjRyM09XX1BKLUdzQ2NIdE83X0N2SUtTcDRzMkRFc0tjY05HQU5DNUJMX1F6RlB4SVJUTHFESjZ3?oc=5",
+    "text": "DAILY DOSE OF JIMIN 💜😍 BTS member Jimin gave fans a glimpse into his recent activities through a series of photos shared on social media. COURTESY: Jimin/Instagram Visit gmanetwork.com/news for more updates. - Facebook\n\nDAILY DOSE OF JIMIN 💜😍 BTS member Jimin gave fans a glimpse into his recent activities through a series of photos shared on social media. COURTESY: Jimin/Instagram Visit gmanetwork.com/news for more updates. &nbsp;&nbsp; Facebook",
+    "timestamp": "2026-11-07T17:11:43+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikgFBVV95cUxOVkUzRGFQdjJmY2RRMEVBM3d2N0tWekVVQVFPWHVBUFZMalhQenpvU2k0ek5tLXJCZVUyX1RvVFNGdkFROVRuX",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkUzRGFQdjJmY2RRMEVBM3d2N0tWekVVQVFPWHVBUFZMalhQenpvU2k0ek5tLXJCZVUyX1RvVFNGdkFROVRuX1FRRXk4R2pRMDJfTnJvUWxyRWFpampuZmRvaUNnWjNmQUZ5QkVHNFFHSWtvdzNKZl9Qazc3UTVYb08yOVd0TEFoMmpUazU5Y2tLQQ?oc=5",
+    "text": "BTS' Arirang becomes the best-selling k-pop album in history - Music Mundial\n\nBTS' Arirang becomes the best-selling k-pop album in history &nbsp;&nbsp; Music Mundial",
+    "timestamp": "2026-11-07T22:09:00+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9GLVl0aWZqazRJdjlKWFNLN1pLeW5XUmpUeUhhbkp1MW5mVWNDanVIVDQ4cjlqNW16LU5MNUcwYVVjUzVoeWlPa",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GLVl0aWZqazRJdjlKWFNLN1pLeW5XUmpUeUhhbkp1MW5mVWNDanVIVDQ4cjlqNW16LU5MNUcwYVVjUzVoeWlPaGNpLXk5Y09TcFRTUGJObDdleHhJMnZvcFozc3EwNzBISnlqOWhKcjU2WGdoUERodA?oc=5",
+    "text": "\"BTS's Jin Deserves a Grammy for His White Shirt Performance,\" Says Gulf News - 스타뉴스\n\n\"BTS's Jin Deserves a Grammy for His White Shirt Performance,\" Says Gulf News &nbsp;&nbsp; 스타뉴스",
+    "timestamp": "2026-11-07T22:11:08+00:00",
+    "media": []
+  }
+]

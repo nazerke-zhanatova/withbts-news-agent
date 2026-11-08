@@ -1588,5 +1588,40 @@
     "id": "rss-Google_News_EN-CBMiXEFVX3lxTE1MOFFFS29nTnRIelBYdmN4YllXOE10YTVBNlVpZ3JBT0piR2pOWWtJSGZCNHNWYm02RnkzWlVSRFF2cUlESzdZc",
     "reason": "filter: same story already looked at",
     "run": "2026-11-08"
+  },
+  {
+    "id": "tg-koreaworld111_57402",
+    "reason": "J-hope Instagram post with only the caption 'Tour fit.' and mirror photos; content and account handle cannot be verified from a source read, caption is too thin for a news post; the same post again as 57412",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-koreaworld111_57412",
+    "reason": "Duplicate of tg-koreaworld111_57402 (same J-hope post); see reason there",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiswFBVV95cUxQc1MzMlFaUl9FRm5jMGpJZS1FVU1ncXRCckpQb0JHc0poVWh2dmxvOUpuVEFYQzZRZlRKcFgxbDlJU0dpM3dRM",
+    "reason": "Brand reputation ranking that puts BTS above ATEEZ and CORTIS: comparison with other artists (rule 3)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMipAFBVV95cUxNQ0FOa0FxbFFxU3dONkRPLUNyZkRCdlRSMzNEQlZFcVRxRFpEUlBqVUxqd0NXamNwVi15WldFeEl6YnE2MlEtY",
+    "reason": "Same unverified Jimin 'King of K-pop' poll claim (OtakuKart): conflicting poll counts, fan poll close to comparison rule; not posted",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi0wFBVV95cUxPRU5rX1lNOVJaWmFsOW5nMDZWcEdET2hfNWYzWXQwazZnX2JJYUZ3Q3BFR0FndEh3Zm5GSTRZUkxTVHc4Q0hfR",
+    "reason": "Vague social-media roundup (GMA): 'daily dose' of Jimin photos with no specific event or date; single outlet, nothing verifiable to post",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikgFBVV95cUxOVkUzRGFQdjJmY2RRMEVBM3d2N0tWekVVQVFPWHVBUFZMalhQenpvU2k0ek5tLXJCZVUyX1RvVFNGdkFROVRuX",
+    "reason": "Claim 'best-selling K-pop album in history' not confirmed: searches show Arirang is BTS's best first-week album but Seventeen's records rank higher; single outlet (Music Mundial)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9GLVl0aWZqazRJdjlKWFNLN1pLeW5XUmpUeUhhbkp1MW5mVWNDanVIVDQ4cjlqNW16LU5MNUcwYVVjUzVoeWlPa",
+    "reason": "Gulf News 'Jin deserves a Grammy for white shirt performance': article not found by search, no second outlet, opinion quote; not posted",
+    "run": "2026-11-08"
   }
 ]

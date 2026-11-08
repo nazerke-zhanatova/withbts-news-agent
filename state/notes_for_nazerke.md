@@ -71,3 +71,12 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 4. **V Peruvian poncho sales story (Indiatimes).** Merchandise sales, one outlet headline. Not posted.
 5. **Fan posts (Jimin album, #dear_jungkook_from_army).** Fan-authored posts; the #dear_ hashtags come from an older official explainer (weverse.io notice 17261), not a new announcement. Not posted.
 6. **Kim You Jung drama "100 Days of Deception" (MyDramaList).** The drama stars Park Jinyoung of GOT7, with no BTS link found. Not BTS news.
+
+## 2026-11-08 run: no posts queued
+
+1. **J-hope Instagram "Tour fit." (tg-koreaworld111_57402 / _57412).** Two Telegram copies of one post. The only caption is "Tour fit." and the photos are mirror selfies. The channel labels it J-HOPE, but the Instagram account handle is not in the candidate and a search found only a fan-community copy, so credits and the photo owner could not be confirmed. Not posted. If you confirm the handle, a short post with the mirror photos (J-hope only) could go out.
+2. **Arirang as "best-selling K-pop album in history" (Music Mundial).** Searches confirm Arirang's records as BTS's best first-week album and its Billboard and Spotify results, but Seventeen's albums rank higher on all-time first-week sales. The claim is not confirmed. Not posted.
+3. **Jin "white shirt" Grammy praise (Gulf News via Starnews headline).** The Gulf News article was not found and no second outlet confirmed it. Not posted.
+4. **Jimin "King of K-pop" (OtakuKart).** The same unverified poll claim as on 2026-11-07. Not posted.
+5. **Jimin GMA "daily dose" roundup.** No specific event or date, single outlet. Not posted.
+6. **BTS brand reputation ranking (IBTimes).** Puts BTS above ATEEZ and CORTIS: comparison with other artists, excluded by rule 3.
