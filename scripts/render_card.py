@@ -155,11 +155,12 @@ def render(post, out_path):
         img.paste(Image.new("RGB", (W, 240), bg), (0, PHOTO_H - 240), fade)
         # photo credit on the image, no "@" so nobody is mis-tagged
         owner = (post.get("image_credit") or (post.get("credits") or [""])[0]).strip().lstrip("@")
-        credit = f"photo: {owner}"
-        cf = _font(24, bold=False)
-        tw = draw.textlength(credit, font=cf)
-        draw.rounded_rectangle((W - PAD - tw - 24, 28, W - PAD + 4, 72), radius=20, fill=(17, 17, 17))
-        draw.text((W - PAD - tw - 10, 36), credit, font=cf, fill=(255, 255, 255))
+        if owner.lower() not in ("-", "none"):  # "none" = owner unknown, no label (credits line still added)
+            credit = f"photo: {owner}"
+            cf = _font(24, bold=False)
+            tw = draw.textlength(credit, font=cf)
+            draw.rounded_rectangle((W - PAD - tw - 24, 28, W - PAD + 4, 72), radius=20, fill=(17, 17, 17))
+            draw.text((W - PAD - tw - 10, 36), credit, font=cf, fill=(255, 255, 255))
         y = PHOTO_H - 30
     else:
         # text only card: yellow sun, soft lavender circle and the heart logo
