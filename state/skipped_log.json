@@ -1658,5 +1658,10 @@
     "id": "tg-btsnewsru0_83133",
     "reason": "filter: not about BTS",
     "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83134",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-08"
   }
 ]
