@@ -1788,5 +1788,50 @@
     "id": "tg-koreaworld111_57443",
     "reason": "SUGA Instagram story link with no caption; photo shows a TV screen with a sports game, content unverifiable and not a member photo",
     "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83137",
+    "reason": "Fan-made Q&A joke format with a 'Summer' sign-off, not BTS news (fan edit/meme)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83138",
+    "reason": "Fan-made Q&A joke/trivia format, no news (aggregator)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83139",
+    "reason": "Fan-made Q&A joke format (Hogwarts banter), no news (aggregator)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83142",
+    "reason": "Fan-made Q&A joke format (drama recommendation banter), no news (aggregator)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83143",
+    "reason": "Fan-made Q&A joke format (Cypher banter), no news (aggregator)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83144",
+    "reason": "Fan-made Q&A joke format, meme-style bait, no news (aggregator)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83145",
+    "reason": "Fan-made Q&A joke format (volleyball banter), no news (aggregator)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-btsnewsru0_83146",
+    "reason": "Fan-made Q&A joke format (shopping banter), no news (aggregator)",
+    "run": "2026-11-08"
+  },
+  {
+    "id": "tg-koreaworld111_57444",
+    "reason": "Graff x Jung Kook campaign behind-the-scenes photos: same campaign already posted (digest-tg-btsnewsru0_82934, 2026-11-05); caption adds no new fact, brand post relayed by fanbase, not a new event",
+    "run": "2026-11-08"
   }
 ]
