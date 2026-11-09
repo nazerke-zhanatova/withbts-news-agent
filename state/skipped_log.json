@@ -1973,5 +1973,45 @@
     "id": "tg-btsnewsru0_83169",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57451",
+    "reason": "DICON D'FESTA x BTS: text contains only links, no readable news detail",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57479",
+    "reason": "MMA 2026 Global TOP10 vote: 13 Nov deadline not confirmed by search (reports give other voting dates); held, not in digest",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57480",
+    "reason": "Jung Kook Instagram story: link only, content not readable, personal social content",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-btsnewsru0_83162",
+    "reason": "V reply to a fan on Weverse: personal exchange, no news",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-btsnewsru0_83164",
+    "reason": "V reply to a fan on Weverse: personal exchange, no news",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-btsnewsru0_83165",
+    "reason": "V started a Weverse live: announcement of a personal live stream, low news value, covered by 83166 decision",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-btsnewsru0_83166",
+    "reason": "V Weverse live while eating dinner: private daily-life content, skipped under rule 3",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-btsnewsru0_83179",
+    "reason": "Calvin Klein holiday campaign with Jung Kook: no second source found (searches show spring and fall denim campaigns only); held",
+    "run": "2026-11-09"
   }
 ]
