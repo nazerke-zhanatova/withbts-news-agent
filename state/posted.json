@@ -323,5 +323,47 @@
       "instagram": "18341222281256103",
       "threads": "18220532764347727"
     }
+  },
+  {
+    "id": "tg-btsnewsru0_83150",
+    "time": "2026-11-09T15:41+05:00",
+    "headline": "SUGA туған қаласының командасын қолдады",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/btsnewsru0/83150",
+      "https://sports.khan.co.kr/en/article/202611090856007/"
+    ],
+    "credits": [
+      "btsnewsru0",
+      "agustd",
+      "Sports Kyunghyang"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19395",
+      "instagram": "18123622972938265",
+      "threads": "18108617291203004"
+    }
+  },
+  {
+    "id": "tg-koreaworld111_57452",
+    "time": "2026-11-09T15:43+05:00",
+    "headline": "ARIRANG IN LONDON: жаңа релиз",
+    "category": "release",
+    "source_urls": [
+      "https://weverse.io/bts/notice/40761",
+      "https://t.me/koreaworld111/57452"
+    ],
+    "credits": [
+      "Weverse",
+      "BIGHIT MUSIC",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19396",
+      "instagram": "18121356406953997",
+      "threads": "18156851014530058"
+    }
   }
 ]
