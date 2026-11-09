@@ -365,5 +365,27 @@
       "instagram": "18121356406953997",
       "threads": "18156851014530058"
     }
+  },
+  {
+    "id": "digest-tg-btsnewsru0_83158",
+    "time": "2026-11-09T21:13+05:00",
+    "headline": "V Harper's Bazaar Korea мұқабасында",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/btsnewsru0/83158",
+      "https://t.me/koreaworld111/57455",
+      "https://au.variety.com/2026/music/news/2026-aria-nominations-revealed-40627/"
+    ],
+    "credits": [
+      "btsnewsru0",
+      "koreaworld111",
+      "Harper's Bazaar Korea"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19398",
+      "instagram": "17990189940091401",
+      "threads": "18655501882029298"
+    }
   }
 ]
