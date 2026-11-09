@@ -91,3 +91,9 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 2. **V Diwali greeting on Weverse (three Google News items).** A personal reply to fans, and search found no Diwali message. Not posted. If BIGHIT or V's Weverse post confirms it as a public message, a short post with an allowed V photo could go out.
 3. **Weverse "As we begin the countdown" (Google News item).** Title only, and search found no November 2026 announcement behind it. Not posted.
 4. **SWIM copyright suit dropped.** Legal news with no official statement (rule 15). Still held.
+
+## 2026-11-09 run (third pass): 2 posts queued
+
+1. **London "MEMBER ver." release (tg-koreaworld111_57452), queued as release.** The Weverse notice (weverse.io/bts/notice/40761) announces the release. Pre-order opens 10 Nov 2026, 11:00 KST, which is 07:00 Almaty time. The post gives only the pre-order time, not prices or release dates, which differ by channel. Photos: the two product images from the notice (seven member spines, and the standard box), credited BIGHIT MUSIC. These are product shots, not press photos of the members, so please check this choice before approving.
+2. **SUGA and Samsung Lions (tg-btsnewsru0_83150), queued as news.** The win is confirmed by Sports Kyunghyang (game 5, 12-1, 8 Nov, Daegu). The Instagram story photo is credited to agustd (watermark). The 2014 Twitter image and the studio photo in the candidate were not used: they are old. Only one news outlet confirms the story, and the source is a trusted fanbase channel, so rule 1 is met.
+3. **Skipped:** DICON D'FESTA x BTS (57451), engagement call with no news; ARIA vote (57455), same unverified item as the 2026-11-05 skip.
