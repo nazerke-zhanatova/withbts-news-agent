@@ -1968,5 +1968,10 @@
     "id": "tg-koreaworld111_57475",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-09"
+  },
+  {
+    "id": "tg-btsnewsru0_83169",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-09"
   }
 ]
