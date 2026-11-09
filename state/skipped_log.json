@@ -2063,5 +2063,15 @@
     "id": "rss-Google_News_EN-CBMigwJBVV95cUxQUjUzS1hKUmVMVWJqU21jZWxTOUdsMW40TVZOLTJsVGRBaDFkcGZ4UnpZbU80Z28tUW9VNG5hNEpKOGs3Y0E5OHhmSUNHMGNQQ2drNmlYdmxmOUh0MV9NdzJLT2xkeVF2by11ZzA1c1IxeWZDRUhvZkw2ay1OTmtreGpBRUZCUUVVdW56d2Y3TjNjQmd6YlpwQTVhdVliY1pzVEtZbXdCUDdLSDlRdXRiaE01cng4ZnNfZUZpblNqSWxrUHVPSzV4U3VZWFNaNE9scnk2Ql9nVjd1b213T1laN09tVUp2V1VzaFBGTlNhVEJCY2p4U25RZ25iM0VBdHFpQ1A40gGIAkFVX3lxTE9kUDVaVkJiT1JYbTc0R1dvU2RCbi14dUdhRWdCX1gzX2JEbjNrNXJ5TjRSMUQxdE1lOXEyMDdOaWM5V1UxYk1pWFFST0lobWJoc3diNUhSQ1E0bjZGeHBLdk41ZVZJNU5VWm9hbUlXRHN6aEpmU1Q4TTRGam9SZ1ZNeHRLOGlRa0IwZHJ0dkp5b2VBbGVnbmplSWxHRms1LUVNV2lfWnZUSlg3eEJENXBwSFRMOWNfNVlOS3l4OFBvOWU2YTM0WmFOQkU2dk93QURWeDFITTZjY0lSYk1maHYyUnZJQWNzWGFhMVpGVzRxV3NwcmhiUkp2ZmIxQ3hScTlKdTdacTFpRQ",
     "reason": "Duplicate: Stanford 'Namjooning' course (Indiatimes), already posted as rm-stanford-namjooning-course",
     "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiwgFBVV95cUxQenVZYUJvSW9nYnB2Zkp2Ry1sSld1U1gtTnlOQzQ5YkFjTzNMWkQ5T0xzeDJNQTM1bV93UzAzanVqSTRST001b",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMirAFBVV95cUxPWEtITC1HQVg3akdsTTBEckVKbUJuZV9BT0t4amZlTGhEZFkxTGFMMzZUT0syLWZsV1Z6WEppRmYtM3doeFBpb",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-09"
   }
 ]
