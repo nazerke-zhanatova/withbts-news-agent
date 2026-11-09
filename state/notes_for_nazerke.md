@@ -84,3 +84,10 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 ## 2026-11-08 run (second pass): no posts queued
 
 1. **koreaworld111 Weverse chat batch (tg-koreaworld111_57420 to _57431, 10 items).** All are V's replies to fan posts on Weverse: personal chit-chat (hobbies, what he's listening to, a Diwali greeting). Not news, so none posted and no digest made. Logged as skipped.
+
+## 2026-11-09 run: no posts queued
+
+1. **London ARIRANG clip (tg-koreaworld111_57448).** WebSearch shows the London shows were 6-7 July 2026 at Tottenham Hotspur Stadium, so the clip is old footage. Not posted.
+2. **V Diwali greeting on Weverse (three Google News items).** A personal reply to fans, and search found no Diwali message. Not posted. If BIGHIT or V's Weverse post confirms it as a public message, a short post with an allowed V photo could go out.
+3. **Weverse "As we begin the countdown" (Google News item).** Title only, and search found no November 2026 announcement behind it. Not posted.
+4. **SWIM copyright suit dropped.** Legal news with no official statement (rule 15). Still held.

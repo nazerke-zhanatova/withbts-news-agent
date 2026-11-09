@@ -1833,5 +1833,50 @@
     "id": "tg-koreaworld111_57444",
     "reason": "Graff x Jung Kook campaign behind-the-scenes photos: same campaign already posted (digest-tg-btsnewsru0_82934, 2026-11-05); caption adds no new fact, brand post relayed by fanbase, not a new event",
     "run": "2026-11-08"
+  },
+  {
+    "id": "tg-koreaworld111_57448",
+    "reason": "London ARIRANG stadium clip: the London shows were 6-7 July 2026 (WebSearch: Tottenham Hotspur Stadium), so this is old footage, not new news; aggregator with one item left after drops",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57449",
+    "reason": "MAMA 2026 round-2 vote instructions: already posted as mama-2026-vote-round2; repeat",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitAFBVV95cUxPcUtVTWg5NXJTNlJjQl9WYXpwUFgwdUNBdXpIWE5xZERLMmxQR2VuaGFuVnoxYjlTMGxmcElta19CWTJ1SDRkU",
+    "reason": "V Diwali Hindi greeting: a personal reply to fans on Weverse, same kind as the 2026-11-08 Weverse chat batch judged not news; WebSearch found no Diwali message",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMinAFBVV95cUxPUGI0TWVuQ3RsTkZyZzMtMzZEcVF3U1hiT1JteFozQm9RNWNJYVJ5RDF0ekJMLVhWZ0Y4aW5yYU4wc3NwbVRoe",
+    "reason": "SWIM copyright lawsuit dropped: legal news, no official statement (rule 15); repeat of earlier skip",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi6wFBVV95cUxPU0RXaTBiZ0E1RXJWOE5jNDJrZkRoTXRZaUtFQTgzTmRxc2haejVXQXVnUFNxdExyQ0ZldVRNZ2REclhPekdQV",
+    "reason": "V Diwali greeting (Times Now headline): same as the Weverse reply batch; personal fan reply, not an announcement; no second-source confirmation found",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE13SU9vWEhDbDUyNDcyVWRUMFJ1Q3Y0OGViRngwNU9KRW44WEJtcW55SWhIbk5kTDdUbWNLbWJBY2xDS0RVczBVd",
+    "reason": "Weverse community post with a title only ('As we begin the countdown'); no content readable, WebSearch found no confirming November 2026 announcement",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE5lLWlqc0JfN0lKRmhGZzdxbjZKLS12aXpfd29zSmk2UHNma3JIR0xaZ3l3eXhMZy1Wc2VkOWlKLTFNbVBVNEVsR",
+    "reason": "Weverse member goodnight-style post ('rest well Bangtan'), personal, no news event",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMigwJBVV95cUxQTE1jd3VreUh1TE1NSnJrZXUtLTZsMGxmQV80Tko4Z3FCX1B4SXRxTVRaNk9rNUx0WnBDa1ZxUDRaaU91TmdrV",
+    "reason": "Jungkook 'dig at footballers' speculation (fan reading of a military-exemption controversy): speculation, sensitive military topic; excluded",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE81dmVoY2Y3Mk5aQW9mMDZBOHdncVZZMldPSko0RnEzQ3FCMHNIakpublI2c21naFVHaGhKUU5hN25HWkFPNGlIZ",
+    "reason": "Weverse community post with hashtag-only title ('#dear_jungkook_from_army'): fan-campaign post, no news; repeat of earlier skip",
+    "run": "2026-11-09"
   }
 ]
