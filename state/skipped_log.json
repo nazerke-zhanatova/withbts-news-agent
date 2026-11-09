@@ -1913,5 +1913,25 @@
     "id": "tg-koreaworld111_57455",
     "reason": "ARIA Awards 'Most Popular International Artist' vote: fan hashtag voting only, no official nominee list found (same unverified item as the 2026-11-05 skip); not posted",
     "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57448",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57449",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57460",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiWkFVX3lxTE9IaFR5RjdPMFlhTVBOZUhOTE1BS2tYWjhxbFE1LURvU0FoREpIYV95c1dlaXRmaDQtNVR6Z0hYTVBZVkNySVMtS",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-09"
   }
 ]
