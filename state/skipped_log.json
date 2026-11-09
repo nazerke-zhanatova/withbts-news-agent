@@ -1953,5 +1953,20 @@
     "id": "tg-koreaworld111_57464",
     "reason": "filter: not about BTS",
     "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57465",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57471",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-09"
+  },
+  {
+    "id": "tg-koreaworld111_57475",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-09"
   }
 ]
