@@ -2078,5 +2078,55 @@
     "id": "rss-Google_News_EN-CBMiV0FVX3lxTE5idS1Dd2dtcVhZY0FNLUxGYXI3WUhjT2g5ZTZVMFAzXzFaWTZjUlRfUFlUVGNxanZfRVNkNmtZb1N3NUtueDlHd",
     "reason": "filter: same story already looked at",
     "run": "2026-11-10"
+  },
+  {
+    "id": "tg-koreaworld111_57481",
+    "reason": "Harper's Bazaar Korea V covers: same shoot already posted as digest-tg-btsnewsru0_83158 on 2026-11-09; remaining covers are photos only, no new fact",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "tg-koreaworld111_57484",
+    "reason": "Weverse ARIRANG IN LONDON preview cuts (7 photos): official content, but the photos carry no caption naming who is pictured, so rule 5 member check fails; held, see notes_for_nazerke.md",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMilAFBVV95cUxQa3poZlVFcndPSlo5WWRDWUdvdU5MbWp5dk9hVWdfdzAyb1E3MFRpUzV2dS1NZEUtTU00Q3F4eV9xMVVZYXk2U",
+    "reason": "Duplicate: Stanford 'Namjooning' course (ZAPZEE), already posted as rm-stanford-namjooning-course",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiqAFBVV95cUxQaWJseG55SGVmTTBjaHhQckc5MWZaam9McE13MTRxMklpRllmVkliUHVfRjRVZkE1OGwtQzlxUmNiZUpoM1Mye",
+    "reason": "Duplicate: Stanford 'Namjooning' course, already posted as rm-stanford-namjooning-course",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTFA2aFlTc1BweUdETmNyZ2xLMmQ4QkdoVjJIZGRpbFpiWjNBcnZhQ2xpS2k3Z1RDb0VUaVhpNmhXRl9lNnB3NnpMO",
+    "reason": "Duplicate: Stanford 'Namjooning' course, already posted as rm-stanford-namjooning-course",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi1wFBVV95cUxNU2NYM1pCMkM1YXFfNXQ3QjdTQmVvcGktV0xkaElDZGxYcnZacnh0TEZicXk5dEEyVEgtc1lKSjM0M0EydUM2Y",
+    "reason": "Duplicate: Stanford 'Namjooning' course (WION), already posted as rm-stanford-namjooning-course",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMivAFBVV95cUxQcFI3Y1lzd2Z2NDRURzd5YUI2eF9MQnZuTEd2NnZBTWM4d3BscmRqTEpxVEtNUHpsMXBXMzM5NGlvZ1F3dm5kS",
+    "reason": "Jungkook military exemption debate: speculation and social media debate, sensitive (rule 3 and 15), no official statement",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE9ZN3JmQ0JMVDFPZmc2YWdQcGd5TjU5UlJ5REJnalJLRlZNakdibHlRQ0xMRGJScjVkWjdyX2xjRnduQ1QtOFdHd",
+    "reason": "Fan post on Weverse community (#my_favorite_face_of_Jimin), fan-authored, no news",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiywFBVV95cUxORGk1YkZaNmdDZVotNUdUTk05TEtrLVRzellFUjJmODY4UWhxVV9KcURtaTR3SGJXbEZXbUREaGVPN0lSaHlJT",
+    "reason": "V Diwali greeting: personal Weverse reply, no announcement; already skipped on 2026-11-09",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE4yRzJoSUJobXNLcWw5MHhHU0MyVUxCSzdZa3VSd2JRSWZJUXBhSUNXR1N0TGkyQkQ2MWE4MDFSVTlvNjV3ejdyd",
+    "reason": "Fan post on Weverse community (ARMY-made song), fan-authored, no official news",
+    "run": "2026-11-10"
   }
 ]
