@@ -2293,5 +2293,15 @@
     "id": "rss-Google_News_EN-CBMilgFBVV95cUxNb3prQkpZaWJfd1N1b3hNU1dqWVNYM1gwTHJZX2V0ODJwczZqZ3cySy1CZnF3bGs2YlR6RnVfRFFvTnZrNlJST",
     "reason": "Stanford RM Namjooning course: already posted (rm-stanford-namjooning-course, 2026-11-08)",
     "run": "2026-11-10"
+  },
+  {
+    "id": "tg-koreaworld111_57492",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "tg-koreaworld111_57513",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-10"
   }
 ]
