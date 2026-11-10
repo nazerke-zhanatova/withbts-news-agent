@@ -2303,5 +2303,55 @@
     "id": "tg-koreaworld111_57513",
     "reason": "filter: same story already looked at",
     "run": "2026-11-10"
+  },
+  {
+    "id": "tg-koreaworld111_57514",
+    "reason": "Calvin Klein holiday clip from the same campaign already posted (tg-btsnewsru0_83075, 2026-11-06); aggregator reel, no new verified fact",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "tg-koreaworld111_57515",
+    "reason": "Calvin Klein behind-the-scenes photos from the same campaign already posted (tg-btsnewsru0_83075); repeat",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE45dEhXUXZ3QnZqekVIbEtVVU5MSm5sS3A2dFY2eXF2TTFtei1seGpiQUJZU2ZGamJqVFRna2tYem1SODJlNlZUL",
+    "reason": "Weverse post known only by its title ('DID YOU KNOW? THERE IS'); content not readable and WebSearch found no matching post; not posted",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTFByYlowUEtRY2RNMTBxSGktdDJUOVI3dmkyb0QzS2VkQkwyTXcxTTM2SVlUUy1YNmp1VmppVDhBSmQzOW1menVzc",
+    "reason": "Same Weverse community post as the English-titled item (title only, content not readable); not posted",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitgFBVV95cUxOQmM2cWx2UEo4X1hDZm1hTms0Z3VPTExwTkRqdk4zNnExRDhSaXFVQk5IZlFtYldqS19PVW4zV2Q1S09JajZ1Y",
+    "reason": "BTS The City Arirang Singapore: same news as the held item (see notes_for_nazerke.md); Orchard Central and Clarke Quay not confirmed; no all-7 photo from a permitted source",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitgFBVV95cUxQNG1nMkVWdFZaeXV5T2g4MEpPdDJablhxaWxYTkpQaEo0cEhUczVYMUF3M2RFNkRpQnZFWGpOckh5QTVhMGRMM",
+    "reason": "BTS The City Arirang Singapore (CNA Lifestyle): same held news, see notes_for_nazerke.md; no all-7 photo from a permitted source",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitwFBVV95cUxPN2E0dFZqSnF0ODZvelN1QjY2cTl6XzhkdFpmUGFOY0hud3RMZ3NIcXZJTkxwRkdmRVhlWVV2dDJmRkNXSUpwQ",
+    "reason": "BTS The City Arirang Singapore (Korea JoongAng Daily): same held news, see notes_for_nazerke.md; no all-7 photo from a permitted source",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMilgFBVV95cUxNb3prQkpZaWJfd1N1b3hNU1dqWVNYM1gwTHJZX2V0ODJwczZqZ3cySy1CZnF3bGs2YlR6RnVfRFFvTnZrNlJST",
+    "reason": "Stanford RM course: already posted as rm-stanford-namjooning-course (2026-11-08); repeat",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMipAFBVV95cUxPMjR4TmxnbEdYZTJ3V0IxYURHcWV0UDhuU3pZSFJ0ekdnWjREQW9lQ0puZkJ1SXVpSm5rWFdsbVo2RDhnMmoxX",
+    "reason": "Jimin military return: private schedule (rule 3) and military service news without an official statement (rule 15); not posted",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiwwJBVV95cUxOYnhSVVNVLTVpcDBFbUo0RkY2aEhoRXd2eDc2QzI5RVFfQ2t4cmNQZXFWclQ2TnNoVjBTMjROanBXcjVxQzU2M",
+    "reason": "Spam/piracy listing ('free full movie download'), no BTS news",
+    "run": "2026-11-10"
   }
 ]

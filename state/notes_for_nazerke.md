@@ -112,3 +112,12 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 2. **Harper's Bazaar Korea / Cartier item (tg-btsnewsru0_83189), not posted.** The aggregator says V is the Cartier ambassador in the December 2026 Harper's Bazaar Korea issue. Search found no such deal (V's known brand ambassador is Celine) and no 2026 December cover. Please check the source before any post.
 
 3. **MMA 2026 Global TOP10 vote (tg-koreaworld111_57513), time-sensitive, held.** BTS is confirmed as a Global TOP10 nominee (Soompi, 2026-10-30), and the ceremony is 14-15 Nov at Gocheok Sky Dome. The candidate's "voting ends 13 Nov" could not be confirmed, so it was left out. The candidate photo is a voting how-to graphic, not a member photo. A post needs a verified photo of all seven members with a credit, and it should go out before 13 Nov.
+
+## 2026-11-10 run (fourth batch): no posts queued
+
+1. **BTS THE CITY ARIRANG Singapore, again (three Google News copies: Korea JoongAng Daily, CNA Lifestyle, Great Deals Singapore).** Still held, same as item 1 of the previous batch. WebSearch confirms 1-31 December 2026 and the National Stadium concert dates, but found no Orchard Central venue and did not name Clarke Quay as an activation site. Those two venue claims were left out of any draft. Photo needed: all seven, verified, from a permitted source.
+2. **Weverse "DID YOU KNOW? THERE IS" (two Google News copies, English and Korean titles).** Only the title is readable. WebSearch found no matching post, so the content is unknown. Not posted.
+3. **Calvin Klein holiday clip and behind-the-scenes photos (tg-koreaworld111_57514, 57515).** Same campaign as the Calvin Klein post already published (tg-btsnewsru0_83075, 2026-11-06). Not posted as repeats.
+4. **Stanford RM course (Philstar copy).** Repeat of rm-stanford-namjooning-course (2026-11-08).
+5. **Jimin military return (Geo News).** Private schedule and military service news with no official statement (rules 3 and 15). Not posted.
+6. **São Paulo "free full movie" listing.** Piracy spam, not news.
