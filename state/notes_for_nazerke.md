@@ -105,3 +105,8 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 3. **Jungkook and the military exemption debate (Google News, International Business Times).** Speculation about social media activity and a public debate, with no official statement. Sensitive (rules 3 and 15). Not posted.
 4. **Stanford "Namjooning" course (5 Google News copies).** Already posted as rm-stanford-namjooning-course on 2026-11-08. Duplicates, not posted.
 5. **Fan posts on Weverse community (Jimin #my_favorite_face, ARMY-made song).** Fan-authored, no news. Not posted.
+
+## 2026-11-10 run (candidates batch with Singapore and Cartier items): no posts queued
+
+1. **BTS THE CITY ARIRANG Singapore (rss-Google_News_EN-CBMiyAFBVV95cUxQYS1rYUc4ZHVKUkZ3bm93MHhVZVM4NmVINEN1M3dKUTRIRXZVOWM0VnR3NHZmQWM0WW52aG9aX0YzTENKenk4N), held.** Facts check out: Dec 1-31, 2026 citywide programme, BTS concerts at National Stadium on Dec 17, 19, 20 and 22, all sold out. Sources: Korea JoongAng Daily (koreajoongangdaily.com/entertainment/bts-to-end-this-years-the-city-arirang-project-in-singapore/12927024) and Her World. No photo about this news from a permitted source: the JoongAng photo is a Sept 18 Las Vegas concert shot (Reuters/Yonhap) whose caption does not confirm all seven members, and I could not open the image to check. Her World's photo is Getty and not a permitted domain. A post can go out once a photo of all seven, verified, is supplied.
+2. **Harper's Bazaar Korea / Cartier item (tg-btsnewsru0_83189), not posted.** The aggregator says V is the Cartier ambassador in the December 2026 Harper's Bazaar Korea issue. Search found no such deal (V's known brand ambassador is Celine) and no 2026 December cover. Please check the source before any post.

@@ -2153,5 +2153,55 @@
     "id": "rss-Google_News_EN-CBMi1gFBVV95cUxPU1kzVHRXbmdQLUdGWV9LZGRNYlJrYk9WZktMZGk2Qk1TdG5fMDI3SncwdkxxVnpLLVJrU2p6RGFyQmtfQldJS",
     "reason": "filter: same story already looked at",
     "run": "2026-11-10"
+  },
+  {
+    "id": "tg-btsnewsru0_83189",
+    "reason": "Aggregator-only claim: Harper's Bazaar Korea December cover with Cartier ambassador not confirmed by search (search showed Celine, no 2026 Cartier deal)",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "tg-btsnewsru0_83205",
+    "reason": "Aggregator-only minor item (V Weverse live watching a drama); no official or 2-outlet confirmation, low news value",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMihwFBVV95cUxNZS1HNzRyX3dWOW5OV0VKS1pOaWRYcDlfMldBSWpBMW9zY05rODI5LWZiLXd2MWJpOUtQUlJEQlh3dUFPbnNsW",
+    "reason": "Stanford Namjooning course already posted as rm-stanford-namjooning-course",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE9aMEpUUjFiUHpuS09FRGFxVTZDdUhDel9CWVBVRW5SWkRFc1ZlamgxUmR3TGpFN25MQVAxd2p3cE1yRzg3MHl0S",
+    "reason": "Weverse community post (ARMY Colombia song) with garbled text; content unclear, no verifiable news",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5VUGNCSHRBeWF3NWxhY2E2YVBEZFNlNC04MXVBaWNqdG9iNE9NZ3Fia2RkQW9NSGw3c3NEcU16bWF4eEVHNzdze",
+    "reason": "Idol Pick male idol popularity ranking: comparison with other artists, excluded by rule 3",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiyAFBVV95cUxQYS1rYUc4ZHVKUkZ3bm93MHhVZVM4NmVINEN1M3dKUTRIRXZVOWM0VnR3NHZmQWM0WW52aG9aX0YzTENKenk4N",
+    "reason": "BTS The City Arirang Singapore (Dec 1-31): facts confirmed by Korea JoongAng Daily and Her World, but no photo about this news verifiable from a permitted source (JoongAng photo is a Sept Las Vegas shot, caption does not confirm all seven members, and it could not be opened to check); held, see notes_for_nazerke.md",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE5LSUhSWmh6a0t6WUNhbmF4REtZLU40d1c5c0U3YmhqTERaRXlkTV9EN0VSczZROEw2MkhJdUV3QjJqRTBqOVd1Y",
+    "reason": "Weverse image headline only, no content or event detail",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi_AFBVV95cUxNdlhjUHhzOWQ4ZFpDZHRPcXF2aVZKSERkdFhUQzh1SE9vNllKRFRXN1lNSkdnU1A2TkFhV29VaDQ1eXBZamRib",
+    "reason": "Singapore Tourism Board Visa partner item: same Singapore programme as the held item; no photo verified; see notes_for_nazerke.md",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE1NTlVFYlZiSUMwS2RrOURwcU9RTVZfaHhYMExXbW9Tc1JXcXpPb1NraDR1U0dPaEdPTXRPWXZvNks2RlBTenlvU",
+    "reason": "Weverse community post (#to_jungkook) with truncated text; content and birthday context unclear",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE1DQ0FMeThVeWtvTUE1NGlfVmFtVzFjRk41VlNHTWhfVHVKNGtzaGQwTHUxUFZYSjB5Y0gyUXVYcEJNNW1idXNkU",
+    "reason": "Weverse fan letter headline only, no content or event detail",
+    "run": "2026-11-10"
   }
 ]
