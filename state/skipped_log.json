@@ -2203,5 +2203,15 @@
     "id": "rss-Google_News_EN-CBMiX0FVX3lxTE1DQ0FMeThVeWtvTUE1NGlfVmFtVzFjRk41VlNHTWhfVHVKNGtzaGQwTHUxUFZYSjB5Y0gyUXVYcEJNNW1idXNkU",
     "reason": "Weverse fan letter headline only, no content or event detail",
     "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE4weE1FQXNqbWc0a2JkRlduelkxSm10bXdQMG40NWFFZ054eVk0Vm5lMTdONlpqWDNpTk80MEFyNGkwVzQwMUJWU",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5kb0IzRUVwWmxaVVFIN2I0ZWwySUphLUZQcFJfenpKaG1YV2o1dkpjclFKWlI5YXpLVGxaMnI1eFloS1pvTmVFN",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-10"
   }
 ]
