@@ -2243,5 +2243,55 @@
     "id": "tg-koreaworld111_57508",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-10"
+  },
+  {
+    "id": "tg-koreaworld111_57492",
+    "reason": "Harper's Bazaar Korea V quote reel: same V magazine shoot already posted (digest-tg-btsnewsru0_83158, 2026-11-09), no new news",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "tg-koreaworld111_57513",
+    "reason": "MMA 2026 Global TOP10 vote (BTS nominee confirmed by Soompi); no verifiable photo of all 7 members with credit (candidate media is a voting how-to graphic); vote deadline 13 Nov not confirmed, so left out; time-sensitive, ceremony 14-15 Nov",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "tg-koreaworld111_57514",
+    "reason": "Calvin Klein holiday teaser reel: same Jung Kook Calvin Klein campaign already posted (tg-btsnewsru0_83075, 2026-11-06), no new facts in text",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYkFVX3lxTE8zZkNFX0RHY1lOUi1MSFpXNnhuVTNWWk9GMlRVN24xNlZYME42N0EwMjFwWnBRdEVMM3RTYWNOeFBaSGx2Q2RmM",
+    "reason": "Calvin Klein holiday looks, same campaign as already posted tg-btsnewsru0_83075 and tg-koreaworld111_57514",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE45dEhXUXZ3QnZqekVIbEtVVU5MSm5sS3A2dFY2eXF2TTFtei1seGpiQUJZU2ZGamJqVFRna2tYem1SODJlNlZUL",
+    "reason": "Weverse post 'ARMY, DID YOU KNOW? THERE IS...' - headline truncated, full content could not be read or verified; no photo",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTFByYlowUEtRY2RNMTBxSGktdDJUOVI3dmkyb0QzS2VkQkwyTXcxTTM2SVlUUy1YNmp1VmppVDhBSmQzOW1menVzcmxsWWpuS2plTTFFUXg1TTRYRVlS",
+    "reason": "Same Weverse post in Korean headline; content not readable or verified; no photo",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitgFBVV95cUxOQmM2cWx2UEo4X1hDZm1hTms0Z3VPTExwTkRqdk4zNnExRDhSaXFVQk5IZlFtYldqS19PVW4zV2Q1S09JajZ1YVhGQ0tIQTdCNUFHUFJGbTMtY29ZZ0RQZGhWcm5ZMTVDaFNLZmM2YWFYVGRjNV9SUllPTzlRcU5ESEtLN216bHIxR3p3NlRrUUtrMnhPVVBidzVCZlMyY3VWNGQtZjJnU2ZMVzZxWTJHY0x4TFVGdw",
+    "reason": "Singapore Arirang pop-ups at Orchard Central / Clarke Quay: venues not confirmed by any reliable source; Great Deals Singapore is not an established outlet; no member photo",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitgFBVV95cUxQNG1nMkVWdFZaeXV5T2g4MEpPdDJablhxaWxYTkpQaEo0cEhUczVYMUF3M2RFNkRpQnZFWGpOckh5QTVhMGRMM",
+    "reason": "BTS The City Arirang Singapore (Dec 1-31): official BIGHIT announcement and 2 outlets (KJD, CNA), but no photo of all 7 members with a permitted credit; held, same as earlier held item in notes_for_nazerke.md",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitwFBVV95cUxPN2E0dFZqSnF0ODZvelN1QjY2cTl6XzhkdFpmUGFOY0hud3RMZ3NIcXZJTkxwRkdmRVhlWVV2dDJmRkNXSUpwQVdSSHkwLVhoVXc3VnJoYXVteUxqWVByeW1PR3c5Z215MXE1ZGZwcGxzVHVtdnVQRFlHVkpGcXBXMHlIYU1wUjZ2VWJzQXA1X1lCb1JJVDA5UjJDMnhlUTk1MmhCb3dUbnltNHpRcFVVOV9CMG93bFU",
+    "reason": "Singapore The City Arirang, KJD article (Oct 19 BIGHIT announcement): no photo of all 7 members with a permitted credit; held, see notes_for_nazerke.md",
+    "run": "2026-11-10"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMilgFBVV95cUxNb3prQkpZaWJfd1N1b3hNU1dqWVNYM1gwTHJZX2V0ODJwczZqZ3cySy1CZnF3bGs2YlR6RnVfRFFvTnZrNlJST",
+    "reason": "Stanford RM Namjooning course: already posted (rm-stanford-namjooning-course, 2026-11-08)",
+    "run": "2026-11-10"
   }
 ]
