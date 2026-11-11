@@ -121,3 +121,11 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 4. **Stanford RM course (Philstar copy).** Repeat of rm-stanford-namjooning-course (2026-11-08).
 5. **Jimin military return (Geo News).** Private schedule and military service news with no official statement (rules 3 and 15). Not posted.
 6. **São Paulo "free full movie" listing.** Piracy spam, not news.
+
+## 2026-11-11 run: no posts queued
+
+1. **Apple Music "SWIM" best-songs claim (candidates rss-Google_News_EN-CBMinAFB..., CBMijgFB..., CBMieEFV... for Chosunbiz, Chosun Ilbo, Starnews).** The three Google News copies agree on the headline, but WebSearch (English and Korean) found no Apple Music 2026 best-songs list at all. The SWIM records that were found (Spotify 1 billion, Billboard Global No. 1, AMA and MTV VMA wins) are real but are not this news. No second reliable outlet confirmed the claim, and no all-7 photo was found. Held. If you can check the Apple Music page or a Chosun Ilbo / Starnews article, a short post with an all-7 photo can go out.
+2. **Third Melbourne show (ARIRANG tour, candidate ...CBMijwFB...).** The announcement is from 2 June 2026, so it is not new. The February 2027 date comes from TicketNews, Asiae and Live Nation listings. No official BIGHIT MUSIC or btsworldtourofficial.com page was read this run, so it is not posted (rule 16).
+3. **Jin MyOnePick weekly ranking (Starnews, 140th week).** Fan-vote ranking reported by one outlet. Not posted.
+4. **Jin Weverse community post and Jimin anime remark (Times of India).** A fan-authored Weverse post title and a minor interview remark from one outlet. Not posted.
+5. **Stanford RM course (3 copies) and the São Paulo spam item.** Repeat and spam. Logged as skipped.

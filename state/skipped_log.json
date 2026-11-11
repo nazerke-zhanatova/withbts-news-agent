@@ -2363,5 +2363,55 @@
     "id": "rss-Google_News_EN-CBMikwFBVV95cUxONEp0ekdIMUZTMnhKR05PM1phQzB6dGxLck9yN0J6cEZnSFBSUjZQdmlMLWlvTFZxSnNkbkRTM1Y3a3BiM3ZVN",
     "reason": "filter: same story already looked at",
     "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiwwJBVV95cUxNdjZHTlYtTHBPUzhMRXV0bWlnRHZ3cno2MlRZcVFodENjU1d3X1ptV1pQTEVWVVl1THV6ajFscU4xdktCRzJBM",
+    "reason": "Spam listing (fake 'full movie online' text), not BTS news",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiuAFBVV95cUxQbFVmYWRZS05IR0ZJV1RQNDNIREFmdEwxemhkMFl2VU5QMWU2R21XeG0yelJXbUdpVXE4WnlLTEYwVEFqY2hTW",
+    "reason": "Repeat: RM Stanford Namjooning course already posted (rm-stanford-namjooning-course, 2026-11-08)",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitAJBVV95cUxNdWdxNlJYOFNsNVJRam93NmJSVmVrMmNRVjJpS3pIQ212Sm1YQzJkU2pZeXlrX0h1eklkdEFBYkhXb2ZHQmM2N",
+    "reason": "Minor interview remark (favourite anime) from one outlet (Times of India); no second outlet, low news value",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE9WRGo5UG1aWmxsRWowLWJBRW0wbEpjcHBvdVQ5dHRfQ1g5RTM5bE9OeWswZ2hvbTZTZEpPcnktejF5bEJzcmpPN",
+    "reason": "Fan-authored Weverse community post title, not an official or member announcement; no verifiable news",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMijwFBVV95cUxQNDV6a2Q4Q29DSnQxRWJ3WHBFclVINnc5YngyMWVfMEJfQlY0VUZlVXZXR2c1S2ZiMWNDcThXNzZSUmV2Z1VhQ",
+    "reason": "Melbourne third-show announcement dates from June 2026 (ticketnews, Asiae); not new, and no official BIGHIT/HYBE or ticket page read this run",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMic0FVX3lxTE9wbUhoVkV1SnZ4MEExQVJic19xMGZNbGtlTHM4SVVBSm9JbVdzTVVfUkIxSW54ZDJnMFM3UGh1TVBDU1RRX2M1U",
+    "reason": "Repeat: RM Stanford course already posted (rm-stanford-namjooning-course, 2026-11-08)",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMinAFBVV95cUxPbmlHR01lZXJtb0w2Vl9QYXl5RlpVMzNRb2tpc0kxenRrQTRuTXVKUElkNU93U1NBZlNjTlJxTjhpdF9JdGdHO",
+    "reason": "Apple Music 2026 best-songs claim: second outlet not confirmed by WebSearch (English and Korean searches found no Apple Music list); no verified all-7 photo; held",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMijgFBVV95cUxQa2E5bDFzZDBZY0pBR1Uxd1BYTm50ZWFqMHEzY19IeEpYNG1RdEVHLS1HV3JuREVQV0JSQjhrckZRelVfczNwc",
+    "reason": "Same Apple Music best-songs claim as the held item; second outlet not confirmed; no verified all-7 photo; held",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE8yaDZzVUtXOUtmZnphZGlaUUJkX0VmN0pwQTJTVlV0bHRQUXBUMDlsQnFPRWkwc29aMDhVdDNYZzZEazlmVUtmW",
+    "reason": "Same Apple Music best-songs claim as the held item; second outlet not confirmed; no verified all-7 photo; held",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5uYUh0dlVrbnlrSmJmUDVzM3pyTWhzLVBCRFlIZWRYV3dZS3VvVk4zR2FCMWRIQUdTTXEtZE8zaXdpWC1xdmR4V",
+    "reason": "Fan-vote weekly ranking (MyOnePick) reported by one outlet; ranking-type item, low news value",
+    "run": "2026-11-11"
   }
 ]
