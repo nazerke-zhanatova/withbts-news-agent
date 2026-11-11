@@ -1,30 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_82857",
-    "reason": "Empty text, photos only, no news",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-btsnewsru0_82867",
-    "reason": "Return to Korea already posted (bts-return-incheon-1103)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMisAFBVV95cUxOZ0FnNGFjbjFnTXlSdFU4ZmctMnFOY3g5THhaeXVLN2RLbDRZQm9GeHYzRzNFSXdhSHNhT2NhLXdMZjdlalM3Y",
-    "reason": "Family member (Jimin's father), private life",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiVkFVX3lxTE9kZlFLSlVXVEExZEtCbFNJalZ1NTNGajFXR1dkWGFwazRGX1ppZlNFZ3VTRjFtV2dnR2syUU5WYnBNYUpXbzFxa",
-    "reason": "Family member (Jimin's father), private life; duplicate",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi_gFBVV95cUxNcW1UUzZfSTFRMjlzUUxaRmV1VFBCMHVBeHZFTmtxNElCRjZfc1JFOW1YU0N3blBiODRva25QOHp4VFBwSFQ0Z",
-    "reason": "Legal news, only headline available, no official statement",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_KO-CBMiW0FVX3lxTE9MVmN4VEtwLWNyeDlRdGx0dXFKQTZ3YUVaY2gzRmhhQkNtMGFXVHE5X3RXWVNVNUxJRnlmVWxVMVRCclM1VUEtd",
     "reason": "Legal news duplicate, no official statement",
     "run": "2026-11-03"
@@ -2497,6 +2472,31 @@
   {
     "id": "tg-btsnewsru0_83237",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "tg-koreaworld111_57524",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "tg-koreaworld111_57530",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "tg-btsnewsru0_83243",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "tg-btsnewsru0_83254",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "tg-btsnewsru0_83268",
+    "reason": "filter: link already used in a post",
     "run": "2026-11-11"
   }
 ]
