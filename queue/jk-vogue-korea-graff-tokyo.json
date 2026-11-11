@@ -45,5 +45,16 @@
     "telegram",
     "instagram",
     "threads"
+  ],
+  "card_file": "media/card_jk-vogue-korea-graff-tokyo.jpg",
+  "carousel_files": [
+    "media/slide_jk-vogue-korea-graff-tokyo_0.jpg",
+    "media/slide_jk-vogue-korea-graff-tokyo_1.jpg",
+    "media/slide_jk-vogue-korea-graff-tokyo_2.jpg",
+    "media/slide_jk-vogue-korea-graff-tokyo_3.jpg",
+    "media/slide_jk-vogue-korea-graff-tokyo_4.jpg",
+    "media/slide_jk-vogue-korea-graff-tokyo_5.jpg",
+    "media/slide_jk-vogue-korea-graff-tokyo_6.jpg",
+    "media/slide_jk-vogue-korea-graff-tokyo_7.jpg"
   ]
 }
