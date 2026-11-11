@@ -2443,5 +2443,10 @@
     "id": "tg-btsnewsru0_83244",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-11"
+  },
+  {
+    "id": "tg-btsnewsru0_83258",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-11"
   }
 ]
