@@ -129,3 +129,10 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 3. **Jin MyOnePick weekly ranking (Starnews, 140th week).** Fan-vote ranking reported by one outlet. Not posted.
 4. **Jin Weverse community post and Jimin anime remark (Times of India).** A fan-authored Weverse post title and a minor interview remark from one outlet. Not posted.
 5. **Stanford RM course (3 copies) and the São Paulo spam item.** Repeat and spam. Logged as skipped.
+
+## 2026-11-11 run (second pass): 2 posts queued
+
+1. **Vogue Korea December cover, Jung Kook (queue/tg-koreaworld111_57530.json).** Source is fan-channel reposts (koreaworld111, btsnewsru0) linking to VogueKorea's own X and Instagram posts. WebSearch did not find the December issue listing, so please check the Vogue Korea page before it goes out. Photos show only Jung Kook. The Chanel Beauty ambassador role matches earlier reporting.
+2. **GRAFF Tokyo event, Jung Kook (queue/tg-btsnewsru0_83268.json).** Only fan-channel reposts citing ELLE Japan, WWD Japan and Vogue Japan. WebSearch did not find the 65th-anniversary exhibition in Tokyo. The GRAFF global ambassador deal is confirmed (Starnews, July 2026). Please check a Japanese magazine report before this goes out, if you want an outside source.
+3. **Apple Music "SWIM best song of 2026" (tg-koreaworld111_57536).** Still held. WebSearch finds no Apple Music 2026 list, same as the earlier run.
+4. **V "jealous of ARMY conversations" (K-Jewel 99.3 FM).** Not posted. Single radio outlet, no corroboration found.
