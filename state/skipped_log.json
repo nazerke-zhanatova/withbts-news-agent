@@ -2358,5 +2358,10 @@
     "id": "rss-Google_News_EN-CBMisAFBVV95cUxQMDg3Yk9VTS1PSld2UUpfRURHeTRjNG02cTBSbl9COFNVcThVRDN6V3ZidFVwMWJfOGdFZUxlSjc5c0hUMDhoQ",
     "reason": "filter: same story already looked at",
     "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikwFBVV95cUxONEp0ekdIMUZTMnhKR05PM1phQzB6dGxLck9yN0J6cEZnSFBSUjZQdmlMLWlvTFZxSnNkbkRTM1Y3a3BiM3ZVN",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-11"
   }
 ]
