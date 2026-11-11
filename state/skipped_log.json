@@ -2418,5 +2418,10 @@
     "id": "tg-koreaworld111_57523",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-11"
+  },
+  {
+    "id": "tg-koreaworld111_57526",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-11"
   }
 ]
