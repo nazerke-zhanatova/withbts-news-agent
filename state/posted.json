@@ -387,5 +387,30 @@
       "instagram": "17990189940091401",
       "threads": "18655501882029298"
     }
+  },
+  {
+    "id": "jk-vogue-korea-graff-tokyo",
+    "time": "2026-11-11T15:26+05:00",
+    "headline": "Jung Kook: Vogue Korea және GRAFF",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/koreaworld111/57530",
+      "https://t.me/btsnewsru0/83254",
+      "https://x.com/VogueKorea/status/2120397107375013900",
+      "https://t.me/btsnewsru0/83268",
+      "https://t.me/koreaworld111/57524",
+      "https://t.me/btsnewsru0/83243"
+    ],
+    "credits": [
+      "VogueKorea",
+      "btsnewsru0",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19400",
+      "instagram": "17983868229128157",
+      "threads": "18100941512400161"
+    }
   }
 ]
