@@ -1,20 +1,5 @@
 [
   {
-    "id": "rss-Google_News_KO-CBMiW0FVX3lxTE9MVmN4VEtwLWNyeDlRdGx0dXFKQTZ3YUVaY2gzRmhhQkNtMGFXVHE5X3RXWVNVNUxJRnlmVWxVMVRCclM1VUEtd",
-    "reason": "Legal news duplicate, no official statement",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi7wFBVV95cUxNSTBTV094YjZDV0VkWnJ2aU1Fa3ZxMWc2WW1pQlEwUElpZzdOSnJpa0RNUDF5Y0FxMi1MNkhoMUYzZ1N4RWMzY",
-    "reason": "Kaohsiung/Jakarta cinema live viewing: reported by several outlets but only headlines readable, full details and a matching photo could not be verified; will retry when article text is available",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_KO-CBMiZEFVX3lxTFB5X3VRR29mZ2FPS1hmaFlVdDNLdGw0a25nZ0FqSmRaU09BNkkwYUNKMkFIYnUyWDRsRHMwX0VXRXQwZUY3X3FsM",
-    "reason": "Same live viewing news, details unverified",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_KO-CBMiW0FVX3lxTE5YU3NBZXBNZmFuR3RvdmV4V3VFaGpjUVREaEVSTXIxcU1NQnprNV9Lc3hCRV9ySFlhY3JZdTE0YUQ0b2luRTJQV",
     "reason": "Same live viewing news (Yonhap), details unverified",
     "run": "2026-11-03"
