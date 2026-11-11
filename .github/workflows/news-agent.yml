@@ -55,6 +55,8 @@ jobs:
       - name: Write posts in Kazakh (Claude Code)
         id: writer
         if: steps.switch.outputs.on == 'true' && steps.collect.outputs.count != '0'
+        # if the writer runs out of steps, still design and publish the posts it already wrote
+        continue-on-error: true
         uses: anthropics/claude-code-action@v1
         with:
           # Uses your Claude Pro subscription (token from "claude setup-token").
