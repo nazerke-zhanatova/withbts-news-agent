@@ -2498,5 +2498,55 @@
     "id": "rss-Google_News_EN-CBMi6gFBVV95cUxPaWpVeDJaWnFDRlh2bVhXZnMtOGF1Mjk3WXZzOUlhNDA4QU1vaWt4ZnJIaWlrOS0ya1ExZ1B5N09EMVVMNmd4ZnVhXzJzNFV5UC1LLTkzZVp0ajRRX0JnMjlubThCX0paSmY5WGJHQTlfd0k4Tjg4Qmg5VGdwUEhZWWd2LW83b0FkeWE0QmpUVnEzNVF4QlNIZzAtQTJLMHhJVmRVX2JVaDJHaFRHbzl5TWFnS0tiTXNYU0tHaUw5c1pNdWJuWXppYmZoTzRVTE5aMS1RNWpGZl9jUzNmNGRPc1FBcmpiZFhGWkE",
     "reason": "Singapore ARIRANG December activation (Straits Times): same Singapore event held, no all-7 verified photo found",
     "run": "2026-11-11"
+  },
+  {
+    "id": "tg-koreaworld111_57538",
+    "reason": "RM Instagram stories via fan channel: caption only 'stories inst', content unreadable, aggregator, no verifiable photo",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMirgFBVV95cUxQRV9qYlc4b1BFeUpaSk02X0ZYSXI5a3dTSW91SDJwYzhpZnBhbm1Xd0J2cWZ5Z295a0JTaVN2SFZRXzR2X1ExS",
+    "reason": "Far East Malls ARIRANG retail experience: marketing piece, single outlet, not BTS news",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMicEFVX3lxTE5rRGdPTUw5NHBuUlZUQ2NfUG01TnhpTmVtUjBFTU90VW5ib0Q0Z2h4OEY1VXpOTkdTaTQtVXByQXVQVEp5dERPc",
+    "reason": "SFMOMA exhibition: RM x SFMOMA confirmed by outlets, but hangeul/US students detail not found; no permitted photo of RM found",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiWkFVX3lxTE4wTEtNMVdVMHNYM2x3ZTJfY2RCMURJQ0pQU2czNnFudFROejhoYzU4MTJpc2FDXzR1ckNiRGlkbERvR0tNZldwT",
+    "reason": "Swim on Apple Music best songs 2026 (Yonhap copy): list not found by search, held in earlier runs; group news needs all-7 photo, none found",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiV0FVX3lxTE1wWmRrazMyMTV4bGk1VkRIUDNhaDU3UTJCQVBSRnRpUWdsYlZzdElwbGRiZDhOYkY0VEozNTNvN2t6cWU5aENXR",
+    "reason": "Singapore ARIRANG December concerts (Korea Herald): no official BIGHIT/HYBE notice found for dates (rule 16); no verified all-7 photo",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiV0FVX3lxTFBUcWtFWFNyWkFUVml2aDhoQ0hyQU9UTE5IYWhGZnRsRWt4am5RcWhBRHVPSmxET3paVHNOb0RTUjc5dE4zd0tYV",
+    "reason": "Swim on Apple Music best songs 2026 (Korea Herald copy): same unconfirmed list claim, duplicate of Yonhap item",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiywFBVV95cUxPNERJMS1WdlhGY2lMRVA2MGxSSk5aLU1OQUJ0a3ljbEY1SnFpUW9sVWlpcXdkRUk2R2ZuVmlOZ0JLdUJXZDlRV",
+    "reason": "Stanford BTS courses (Gulf News): repeat of rm-stanford-namjooning-course; Berkeley detail unverified",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi5gFBVV95cUxPdzdERVZ3bWdNT0Q4ZWlyQUl1SDBOODVFVHAwLS1JTWxHSUtfNkg2MVVlaW1NNTgzM1BxZllSaDljazZ3X0Y1c",
+    "reason": "SFMOMA exhibition (JoongAng copy): duplicate of the SFMOMA item, same unverified hangeul detail and no permitted RM photo",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiVEFVX3lxTE5YVXZ1TWpKdmlseDUybm04NHpsVUp3b012M1hhc0w5TzhTSl9KeTJIdmRseDQ0a1ZlTjRmbTlHOThObjhGamJlM",
+    "reason": "Swim year-end list (Maeil Business copy): same unconfirmed list claim, duplicate",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitgFBVV95cUxOSTUtZ2xKdWhxSDBJeW1wNHAyLUk4VEFvSW5rRFJXdXU0SVI0bTJkbFJSMzZTV3k1RG1UdzlKV3ZHTENMbWdae",
+    "reason": "Calvin Klein Jungkook holiday campaign (PTI): already posted as tg-btsnewsru0_83075 on 2026-11-06",
+    "run": "2026-11-11"
   }
 ]

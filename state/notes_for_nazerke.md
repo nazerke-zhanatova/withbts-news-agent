@@ -141,3 +141,11 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 
 1. **Apple Music "SWIM best song of 2026" (tg-koreaworld111_57536, Laodong.vn copy).** Rechecked with WebSearch. Apple's A-List Pop playlist features SWIM and Billboard Global 200 lists it, but no Apple Music "best songs of 2026" list was found. Still held. Confirmation needed: the Apple Music page for the 7 Nov list, or a second outlet.
 2. **BTS THE CITY ARIRANG Singapore (Korea Times, Straits Times copies).** WebSearch confirms 1-31 December 2026 and the National Stadium dates (17, 19, 20, 22 Dec). Still held for the photo rule: no verified photo of all seven from a permitted source. A post can go out once that is supplied.
+
+## 2026-11-11 run (candidates batch, 10 items): no posts queued
+
+1. **Swim on Apple Music "best songs of 2026" (Yonhap, Korea Herald, Maeil Business copies).** Fourth check. WebSearch still finds no Apple Music year-end list and no Yonhap ranking article. The copies agree only with each other. Group news also needs an all-7 photo, and none was found in the photo library or on allowed sites. Held.
+2. **Singapore ARIRANG concerts, 17, 19, 20, 22 Dec (Korea Herald copy).** Dates are confirmed by ticketing and news sites only. WebSearch found no BIGHIT MUSIC or HYBE notice (rule 16), and a Kristal Media piece says tickets sold out while the Live Nation listing still says "on sale soon". Not posted: please check the official notice or Weverse post.
+3. **SFMOMA "RM x SFMOMA: Between You and Me" (Korea Daily and JoongAng copies).** The exhibition is real (search confirms it runs to 7 Feb 2027), but the hangeul / US high-school-students detail was not found. No permitted photo of RM found. Not posted.
+4. **Calvin Klein with Jung Kook (PTI).** Already posted on 2026-11-06 (tg-btsnewsru0_83075). Repeat.
+5. **Stanford BTS courses (Gulf News), Far East Malls ARIRANG (marketech), RM Instagram stories (tg-koreaworld111_57538).** Repeat, single marketing outlet, and unreadable content respectively. Logged as skipped.
