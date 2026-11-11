@@ -2413,5 +2413,10 @@
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE5uYUh0dlVrbnlrSmJmUDVzM3pyTWhzLVBCRFlIZWRYV3dZS3VvVk4zR2FCMWRIQUdTTXEtZE8zaXdpWC1xdmR4V",
     "reason": "Fan-vote weekly ranking (MyOnePick) reported by one outlet; ranking-type item, low news value",
     "run": "2026-11-11"
+  },
+  {
+    "id": "tg-koreaworld111_57523",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-11"
   }
 ]
