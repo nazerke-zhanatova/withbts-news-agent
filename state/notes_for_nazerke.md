@@ -136,3 +136,8 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 2. **GRAFF Tokyo event, Jung Kook (queue/tg-btsnewsru0_83268.json).** Only fan-channel reposts citing ELLE Japan, WWD Japan and Vogue Japan. WebSearch did not find the 65th-anniversary exhibition in Tokyo. The GRAFF global ambassador deal is confirmed (Starnews, July 2026). Please check a Japanese magazine report before this goes out, if you want an outside source.
 3. **Apple Music "SWIM best song of 2026" (tg-koreaworld111_57536).** Still held. WebSearch finds no Apple Music 2026 list, same as the earlier run.
 4. **V "jealous of ARMY conversations" (K-Jewel 99.3 FM).** Not posted. Single radio outlet, no corroboration found.
+
+## 2026-11-11 run (third pass): no posts queued
+
+1. **Apple Music "SWIM best song of 2026" (tg-koreaworld111_57536, Laodong.vn copy).** Rechecked with WebSearch. Apple's A-List Pop playlist features SWIM and Billboard Global 200 lists it, but no Apple Music "best songs of 2026" list was found. Still held. Confirmation needed: the Apple Music page for the 7 Nov list, or a second outlet.
+2. **BTS THE CITY ARIRANG Singapore (Korea Times, Straits Times copies).** WebSearch confirms 1-31 December 2026 and the National Stadium dates (17, 19, 20, 22 Dec). Still held for the photo rule: no verified photo of all seven from a permitted source. A post can go out once that is supplied.

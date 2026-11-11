@@ -2498,5 +2498,20 @@
     "id": "tg-btsnewsru0_83268",
     "reason": "filter: link already used in a post",
     "run": "2026-11-11"
+  },
+  {
+    "id": "tg-koreaworld111_57525",
+    "reason": "WWD JAPAN Jungkook x GRAFF reel: same GRAFF news already posted as jk-vogue-korea-graff-tokyo; repeat",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiuwFBVV95cUxQVEozN0VvWXZPandDQlNJRGxHeVpZT0kzUEd2N2x1dTNlazdjb0dDSGtVRmVDZy1mWXBjYV9PeVFNT2ZmV1VidHdaZEtkU3U5T18zLWN1Ym5Sc0wzRS1BdXNKY3FHSlctNXZYT2lFbzdtSjJHUU5IWmd2NlRNVWZGdVNrTnNYc2tWUF9LUUtTYWZYaWppdkFXcGlYYy1lekhZeWFMTFJaak5fZm9xaVFJZjEzTnE3b25JY2E0",
+    "reason": "Stanford RM well-being course (VnExpress copy): repeat of rm-stanford-namjooning-course",
+    "run": "2026-11-11"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi6gFBVV95cUxPaWpVeDJaWnFDRlh2bVhXZnMtOGF1Mjk3WXZzOUlhNDA4QU1vaWt4ZnJIaWlrOS0ya1ExZ1B5N09EMVVMNmd4ZnVhXzJzNFV5UC1LLTkzZVp0ajRRX0JnMjlubThCX0paSmY5WGJHQTlfd0k4Tjg4Qmg5VGdwUEhZWWd2LW83b0FkeWE0QmpUVnEzNVF4QlNIZzAtQTJLMHhJVmRVX2JVaDJHaFRHbzl5TWFnS0tiTXNYU0tHaUw5c1pNdWJuWXppYmZoTzRVTE5aMS1RNWpGZl9jUzNmNGRPc1FBcmpiZFhGWkE",
+    "reason": "Singapore ARIRANG December activation (Straits Times): same Singapore event held, no all-7 verified photo found",
+    "run": "2026-11-11"
   }
 ]
