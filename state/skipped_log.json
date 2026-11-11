@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss-Google_News_KO-CBMiW0FVX3lxTE5YU3NBZXBNZmFuR3RvdmV4V3VFaGpjUVREaEVSTXIxcU1NQnprNV9Lc3hCRV9ySFlhY3JZdTE0YUQ0b2luRTJQV",
-    "reason": "Same live viewing news (Yonhap), details unverified",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-all-other-2026-11-03",
-    "reason": "Remaining RSS items skipped: MC drop video, Cineplex listings, ticketing dispute, Starnews photo/fan-ranking/stage-outfit pieces, concert review, return-home items already posted, headline-only",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-btsnewsru0_82880",
-    "reason": "Empty text, photos only, no news",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-btsnewsru0_82890",
-    "reason": "Dispatch exhibition coverage, mostly not about BTS, only aggregator source",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-btsnewsru0_82900",
-    "reason": "Same news as 82895 (HYBE Q3 results and tour); covered in that post",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-jimin-cafe-closure-2026-11-03",
-    "reason": "Family member (Jimin's father), private life",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-swim-lawsuit-2026-11-03",
-    "reason": "Legal news, no official statement read",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-hybe-q3-business-2026-11-03",
-    "reason": "Financial results; tour news covered in tg-btsnewsru0_82895",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-other-2026-11-03b",
-    "reason": "Skipped: Jimin birthday flowers (old), illegal goods warning, game theme update, 85만 Americas tour (already posted), cinema duplicates (covered in live viewing post)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiakFVX3lxTFBJczhpaHE5TlJFWWZ5MjBIV0JSOURrWjliVHlXc0V0UHFGcWJScFJlTlBXWmlGRTc1emc2SEJhaldpMlhTV0E3Q",
-    "reason": "Jimin birthday flowers in Brazil: single headline from one outlet, no second outlet found by WebSearch; fan-event story about an October birthday",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_EN-CBMid0FVX3lxTE0yZU8yNXNnQzUxUk1VZlRVMlRVaEdOem1PNldQQkI0ZGtZZ1drVXJhR2NzTEtpLWoxXzRiMGdpSkZSOE8za2FVb",
     "reason": "Family member (Jimin's father, cafe closure), private life",
     "run": "2026-11-03"
