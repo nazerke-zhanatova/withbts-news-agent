@@ -1,25 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57210",
-    "reason": "filter: link already used in a post",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-btsnewsru0_82904",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57239",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57242",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57245",
     "reason": "filter: not about BTS",
     "run": "2026-11-04"
