@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57207",
-    "reason": "filter: link already used in a post",
-    "run": "2026-11-03"
-  },
-  {
     "id": "tg-koreaworld111_57210",
     "reason": "filter: link already used in a post",
     "run": "2026-11-03"
@@ -2497,6 +2492,11 @@
   {
     "id": "rss-Google_News_EN-CBMi0AFBVV95cUxNR01pb0gyX3RhM3dkMV80dVRwMm9pb2FHMW9NamtxaWtwYno0X1lnMHBkdUVVUlA5QVVtOXM3MWhzaXhOcWV4c",
     "reason": "V military service claim (returns to military training after discharge): sensitive rule 15, single outlet (Indian Express), no official statement; search finds no support, V was discharged June 2025",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE1nVkhVc1lXUklwZ3hGVkNPcTJ1VUZld1ZZUDk2WXZHQkF3SjE0S25ZWjUtWVpnaU9LYXVSM1VsbTN0Yzlpcm5ic",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-12"
   }
 ]
