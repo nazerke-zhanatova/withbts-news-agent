@@ -2498,5 +2498,50 @@
     "id": "tg-koreaworld111_57571",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-12"
+  },
+  {
+    "id": "tg-koreaworld111_57572",
+    "reason": "Repeat: V Weverse post with 9 photos is the same post as v-weverse-photos-1112 already published (same 9 photos in used_photos); caption is only a weather remark",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXkFVX3lxTE8temFfMDIxdzlnUGhjR0lSbzM1dzU1OW9DQWk5ZFQ1TUMyUGwwei0wMmF2WVJyczQwR2V2U0NnUGpDRmNLV0h1Z",
+    "reason": "Fake romance scam involving Jimin's name (Latination): fraud story built on a dating fantasy, personal life and scam content, not BTS news",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMisgFBVV95cUxNTkhwNF9mOXp3UmFjS2xzRWdvWGpEaG9WSEpxTk5XUldwa3lQRmNqR0ZjY0NVanhfSVFMNnF4c2ZEWEN5d191d",
+    "reason": "Repeat: Stanford Namjooning course already posted (rm-stanford-namjooning-course, 2026-11-08)",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMitwFBVV95cUxOWjBVRFUxZUxrcl81amMxeVZudmtSX3l1Z1NzQTVBelRTaDcwT01EZC1yTjI1NXRmOGo2Q0dzY0k0S3FNZlJQQ",
+    "reason": "Fake BTS Jimin romance scam (Gulf News): fraud story about a dating fantasy, personal life and scam content",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMigwFBVV95cUxPWS1pY3VWUzZxZEZYUE5pbzF0T0ZpUjR1RWg4V21UU1FKa3FlMUZuREZoeV9WejB2NVFvUFhHMUtwZmlxVFdlY",
+    "reason": "Jin real estate purchase (Hannam-dong building, price, owner family): private finances and private property, rule 3",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9TTlNLQ2NMdDlFSV92N3BsV0Q4cmxUcHJyMzRyaHRNSGhrN0IwRFl4MXY0X3FoX21tZEp1OGtnX1oweFBQT1VIZ",
+    "reason": "Jin star ranking among male idols: comparison with other artists, rule 3 (not a news event)",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiVkFVX3lxTE84ZnptQ3VJTjlZejAzZDlKTkVPclVYenZ1bEYxbFN2ak9ncV9UWEUyZ1hDaDlsN0M2S0dPaDRlNC1FQlpzS0dMZ",
+    "reason": "Jin real estate purchase (Hannam-dong, Maeil Business): private finances and property, rule 3; same story as other Jin building items",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiVkFVX3lxTE9rQzBrb0pFdVh6Q0JxcXJaUlA5Mk9OZ2lfVXlrMHFxS2Z2V0lRbFlYdm9YUmJZdEdWbTB0OXBITXdDbzd0R2s4",
+    "reason": "Jin real estate purchase (Hannam-dong, 9.6 billion won): private finances and property, rule 3; same story as other Jin building items",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi0AFBVV95cUxNR01pb0gyX3RhM3dkMV80dVRwMm9pb2FHMW9NamtxaWtwYno0X1lnMHBkdUVVUlA5QVVtOXM3MWhzaXhOcWV4c",
+    "reason": "V military service claim (returns to military training after discharge): sensitive rule 15, single outlet (Indian Express), no official statement; search finds no support, V was discharged June 2025",
+    "run": "2026-11-12"
   }
 ]
