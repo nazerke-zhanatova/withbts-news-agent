@@ -51,5 +51,6 @@
     "media/slide_v-weverse-photos-1112_6.jpg",
     "media/slide_v-weverse-photos-1112_7.jpg",
     "media/slide_v-weverse-photos-1112_8.jpg"
-  ]
+  ],
+  "rejected_reason": "photo media/v1112/0/image.jpg was already used in post dicon-dfesta-bts-concepts (never use the same photo twice)"
 }
