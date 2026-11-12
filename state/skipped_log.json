@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiggFBVV95cUxOOGh1R0JUbUs4WVBXMzRpSVphWkc3QXVWX0FSREYxUGNrYjRkNFlHRlVQNEJLN2Fta1VrOVBGOWdKRjNxSTJMR",
-    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi3AFBVV95cUxPNlFOcVd5MmptSHRSS3BPS01uM01NTF9sUXRFdm9seUVCb1MtYkVUd1pKNlFEai1qV1lWbWFaZUJHbmRtcVItb",
-    "reason": "Taiwan/Indonesia concerts in cinemas: same news as rss-bts-live-viewing-kaohsiung-jakarta, already posted",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57196",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57197",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57200",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57206",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57211",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57215",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57216",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE1hWC0yNUFacUJEdkpKRG4wQlgzT3UzV1lFSHlVMFRpS1NyMjVaR2gyNm5JbmNoWHJxaUp1eVZISUJlcGVtN095e",
-    "reason": "Single-outlet photo feature (STARNEWS headline), no second outlet, no new news",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE9TTlNLQ2NMdDlFSV92N3BsV0Q4cmxUcHJyMzRyaHRNSGhrN0IwRFl4MXY0X3FoX21tZEp1OGtnX1oweFBQT1VIZ",
     "reason": "Arrival at Incheon already posted (bts-return-incheon-1103); video feature only",
     "run": "2026-11-03"
