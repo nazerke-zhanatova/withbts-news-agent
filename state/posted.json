@@ -412,5 +412,23 @@
       "instagram": "17983868229128157",
       "threads": "18100941512400161"
     }
+  },
+  {
+    "id": "v-weverse-photos-1112",
+    "time": "2026-11-12T19:24+05:00",
+    "headline": "V Weverse-те жаңа суреттер бөлісті",
+    "category": "news",
+    "source_urls": [
+      "https://weverse.io/bts"
+    ],
+    "credits": [
+      "V Weverse"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19409",
+      "instagram": "18114458876617297",
+      "threads": "18105054161368159"
+    }
   }
 ]
