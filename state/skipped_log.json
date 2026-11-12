@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMijwFBVV95cUxNRDF2S1pMNHdzOXJabE5lYjBKdS1LcVpYTUhzMGZDcGRZUW5Ib3hfRWlITnRRVkk1em5ZVFEtd2xIV2hSR1Fvd",
-    "reason": "Tour date expansion and 2027 group/solo plans already covered in hybe-tour-2027-repost; WebSearch found no new verified HYBE statement on solo projects or new music",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiqgFBVV95cUxNc19fYjl4bkV0cG5sdzBwYmk4ZGtzRDFHcHVUX2l0ZkZFX1JYYUlNR3hlUXozOFJ1el9hMjZER2loWVl4N0tUW",
     "reason": "Tour date expansion and 2027 plans (Billboard) already covered in hybe-tour-2027-repost; no new verified detail",
     "run": "2026-11-03"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-koreaworld111_57547",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5McjAwSzA0U0d1aHlQd2NWZU9WODJkcHBWVkJhRnYySTk4RFBDakprT3pKUTRTek5ubzlZZ2pPUzdLcWJxT3ZXd",
     "reason": "filter: same story already looked at",
     "run": "2026-11-12"
   }
