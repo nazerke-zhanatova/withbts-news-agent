@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiswFBVV95cUxOTEVYYlVFQ2xLNnBSLXdzQTZlSVlsOHFraVFuZHNHNWZjWXYzT0FWN2ctTHlvQjhtWU9mTGhzQ3RuTlBDTXkwb",
-    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiggFBVV95cUxOOGh1R0JUbUs4WVBXMzRpSVphWkc3QXVWX0FSREYxUGNrYjRkNFlHRlVQNEJLN2Fta1VrOVBGOWdKRjNxSTJMR",
     "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
     "run": "2026-11-03"
@@ -2497,6 +2492,61 @@
   {
     "id": "tg-koreaworld111_57560",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "tg-koreaworld111_57570",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "tg-btsnewsru0_83288",
+    "reason": "repeat: GRAFF 65th Tokyo exhibition with Jung Kook already posted as jk-vogue-korea-graff-tokyo on 2026-11-11; Russian aggregator, no new fact",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "tg-btsnewsru0_83298",
+    "reason": "repeat: Jung Kook GRAFF interviews, same story as jk-vogue-korea-graff-tokyo already posted; Russian aggregator",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUkFVX3lxTFBtSDBJbGV4QTM0RUx2ZjVhZjFnSE9rbDRtTV9HaXZqWi1zbURJek9SSllaMFV3WkNjYVJjWldCSk9PSHRSOS0ya",
+    "reason": "Weverse BTS Media '2.0' preview: headline only, title truncated, no readable article; WebSearch could not verify content",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE92aU0xOHJKbUVqV2RZUVJBalpQVC0waGM0ZXNlZjNKNk1HYkxIcVM5bkwyTDJtOE42cDZCRlRPUUVwbDZWU09KM",
+    "reason": "Weverse BTS Media '2.0' preview: headline only, title truncated, no readable article; WebSearch could not verify content",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE9tVjQ1dEhaMGhhelF0eVk3bElWcEt3Xy1oNU41MjF1ZWRpam4zTVgxNExQaTNxTkNjZ3JVVEtwdFF1eUdSVHllV",
+    "reason": "Weverse BTS Media '2.0' preview: headline only, title truncated, no readable article; WebSearch could not verify content",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE9nZ1lwZlJ0S1ZnN0p2R2VhNjlQY2M5cVhZcUVnOV9XZmhjal9LSjh4ZkhKOEVLQUw0VDdEdE10OU1LZXBwRFU3V",
+    "reason": "Weverse BTS Media '2.0' preview: headline only, title truncated, no readable article; WebSearch could not verify content",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiWkFVX3lxTE40S29rVFhKclMwR0sycnloS1hLNkJVYVVDNjk1UF9VTEdYMmo1aHdmLWdhSDc0bUtmSDliYVdiSzY4aWYyRU5FZ",
+    "reason": "Weverse media preview in Spanish: headline only, no readable article; content unknown",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiWkFVX3lxTFB2MFF0N0ZNWDVrR2R5VzdRdmlINGRqMVVxWmRhNVk0bUZ5OGZvRE8wMDdPR1llVmlOQkN5N2RqTUhOSlUtaUdyR",
+    "reason": "Weverse media preview in Spanish: headline only, no readable article; content unknown",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiWkFVX3lxTFB4U3RFWUJTbGpia1VGMjdHN29YZnNtdVhBemUzRk5EcC1WYU9nV2p4RHJfalpRbFhBaFVQVklfRkl2T0ZFaC1pY",
+    "reason": "Weverse media preview in Spanish: headline only, no readable article; content unknown",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiWkFVX3lxTFBza1g3Z1prRVJpY3U0UzhmQ1htbTRhZ2tkdFNsXzNpNG9ySk9FbE1DR2pjRTdzTFZDMzN3NGFwMG5jaEU3TzhzM",
+    "reason": "Weverse media preview in Spanish: headline only, no readable article; content unknown",
     "run": "2026-11-12"
   }
 ]

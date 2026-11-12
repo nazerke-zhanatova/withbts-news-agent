@@ -158,3 +158,8 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 3. **SFMOMA "RM x SFMOMA: Between You and Me" (Korea Daily and JoongAng copies).** The exhibition is real (search confirms it runs to 7 Feb 2027), but the hangeul / US high-school-students detail was not found. No permitted photo of RM found. Not posted.
 4. **Calvin Klein with Jung Kook (PTI).** Already posted on 2026-11-06 (tg-btsnewsru0_83075). Repeat.
 5. **Stanford BTS courses (Gulf News), Far East Malls ARIRANG (marketech), RM Instagram stories (tg-koreaworld111_57538).** Repeat, single marketing outlet, and unreadable content respectively. Logged as skipped.
+
+## 2026-11-12 run (candidates batch, 9 items): no posts queued
+
+1. **Weverse BTS Media "[PREVIEW] '2.0' Dire..." (4 Google News items) and "Multimedia de BTS de Weverse - [PREVIEW]" (4 Google News items, Spanish headlines).** Only headlines came through, with no article text, and the titles are cut off. WebSearch found no matching Weverse post dated November 2026. Content unknown, so not posted. If you want this covered, please check the Weverse BTS media tab directly.
+2. **GRAFF 65th Tokyo exhibition with Jung Kook (btsnewsru0 83288 and 83298).** Same story as the jk-vogue-korea-graff-tokyo post of 2026-11-11. Repeat, no new fact.
