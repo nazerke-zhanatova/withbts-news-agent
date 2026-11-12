@@ -1,0 +1,42 @@
+{
+  "id": "v-weverse-photos-1112",
+  "category": "news",
+  "source_tier": "official",
+  "source_urls": [
+    "https://weverse.io/bts"
+  ],
+  "credits": [
+    "V Weverse"
+  ],
+  "image": "media/v1112/8/image.jpg",
+  "image_url": null,
+  "image_credit": "V Weverse",
+  "photo_members": [
+    "V"
+  ],
+  "carousel": [
+    "media/v1112/1/image.jpg",
+    "media/v1112/2/image.jpg",
+    "media/v1112/3/image.jpg",
+    "media/v1112/4/image.jpg",
+    "media/v1112/5/image.jpg",
+    "media/v1112/6/image.jpg",
+    "media/v1112/7/image.jpg",
+    "media/v1112/9/image.jpg"
+  ],
+  "carousel_urls": [],
+  "card": {
+    "tag": "WEVERSE",
+    "headline": "V Weverse-те жаңа суреттер бөлісті",
+    "subline": "«Күн суық. Жылы киініп жүрейік, бәріміз»"
+  },
+  "telegram": "V Weverse-те жаңа суреттер бөлісті 🐻💜\n\n12 қараша күні V Weverse-ке тоғыз сурет жариялап, ARMY-ге қамқор сөз қалдырды:\n«Күн суық. Жылы киініп жүрейік, бәріміз»\n\nСуреттерде тост жеп отырған сәт, итпен және мысықпен кездесу, кешкі ас, автобустағы Jimin-нің LADOR жарнамасы және тағы басқа күнделікті кадрлар бар 📸\n\nARMY, сіз де жылы киініп жүрсіз бе? Қай сурет көбірек ұнады?",
+  "instagram": "V Weverse-те жаңа суреттер бөлісті 🐻💜\n\n12 қараша күні V Weverse-ке тоғыз сурет жариялап, ARMY-ге қамқор сөз қалдырды:\n«Күн суық. Жылы киініп жүрейік, бәріміз»\n\nСуреттерде:\n🍞 тост жеп отырған сәт\n🐶 итпен және 🐱 мысықпен кездесу\n🔥 кешкі ас\n🚌 автобустағы Jimin-нің LADOR жарнамасы\n😎 және тағы басқа күнделікті кадрлар\n\nКарусельде V бөліскен суреттер 📸\n\nARMY, сіз де жылы киініп жүрсіз бе? Қай сурет көбірек ұнады? Пікірде жазыңыз!",
+  "threads": "V Weverse-те тоғыз сурет бөлісіп, ARMY-ге «Күн суық. Жылы киініп жүрейік, бәріміз» деп жазды 🐻💜 Тост, ит пен мысық, кешкі ас және автобустағы Jimin жарнамасы бар. ARMY, сіз де жылы киініп жүрсіз бе?",
+  "x": "V Weverse-те жаңа суреттер бөлісті 🐻💜 ARMY, қай сурет ұнады?",
+  "only_platforms": [
+    "telegram",
+    "instagram",
+    "threads"
+  ]
+}
