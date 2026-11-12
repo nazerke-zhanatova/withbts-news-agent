@@ -39,5 +39,17 @@
     "telegram",
     "instagram",
     "threads"
+  ],
+  "card_file": "media/card_v-weverse-photos-1112.jpg",
+  "carousel_files": [
+    "media/slide_v-weverse-photos-1112_0.jpg",
+    "media/slide_v-weverse-photos-1112_1.jpg",
+    "media/slide_v-weverse-photos-1112_2.jpg",
+    "media/slide_v-weverse-photos-1112_3.jpg",
+    "media/slide_v-weverse-photos-1112_4.jpg",
+    "media/slide_v-weverse-photos-1112_5.jpg",
+    "media/slide_v-weverse-photos-1112_6.jpg",
+    "media/slide_v-weverse-photos-1112_7.jpg",
+    "media/slide_v-weverse-photos-1112_8.jpg"
   ]
 }
