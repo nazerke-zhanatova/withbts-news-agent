@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMitAFBVV95cUxNbnlSQ0UyclRId25uRWdXci1TdGRleTJrT0JzLW9WTDdIUjB5WWt1eXdLRnZOSWhkNTJwN1JkVmxla3U2LUhId",
-    "reason": "HYBE Q3 financial results only; tour news already posted in hybe-tour-2027-repost",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMic0FVX3lxTE9OU2w2LTU1UFQ1OWw1Mk9wMDUtT0xQcGRwRHlnS0Q4eE9tcEpTWjhUQWlZWklKZEQ5NHNsUC0tYjI4NXVwTlI4d",
-    "reason": "HYBE Q3 financial results only; tour news already posted in hybe-tour-2027-repost",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_EN-CBMijwFBVV95cUxNRDF2S1pMNHdzOXJabE5lYjBKdS1LcVpYTUhzMGZDcGRZUW5Ib3hfRWlITnRRVkk1em5ZVFEtd2xIV2hSR1Fvd",
     "reason": "Tour date expansion and 2027 group/solo plans already covered in hybe-tour-2027-repost; WebSearch found no new verified HYBE statement on solo projects or new music",
     "run": "2026-11-03"
@@ -2497,6 +2487,16 @@
   {
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE5sUVA3X1M1Z2tqX2hxQ3BjdzFlVTNjTVJMRXlYQXBGN0R1TTMyR0xxR2V1YjNNQlY2c2NPN1AycWpaYmd0U1hFc",
     "reason": "Jin KDOL ranking (Starnews): minor chart item, no second outlet found, no photo of Jin from a permitted source",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "tg-btsnewsru0_83278",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "tg-koreaworld111_57547",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-12"
   }
 ]
