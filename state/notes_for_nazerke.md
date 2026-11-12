@@ -106,6 +106,15 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 4. **Stanford "Namjooning" course (5 Google News copies).** Already posted as rm-stanford-namjooning-course on 2026-11-08. Duplicates, not posted.
 5. **Fan posts on Weverse community (Jimin #my_favorite_face, ARMY-made song).** Fan-authored, no news. Not posted.
 
+## 2026-11-12 run (10 candidates): no posts queued
+
+1. **BTS THE CITY ARIRANG Singapore, 1–31 Dec (Google News: The Music Universe; JoongAng, TheSmartLocal and Bandwagon also cover it).** The BigHit announcement is real (JoongAng, 19 Oct 2026) and the city program is co-hosted with the Singapore Tourism Board. No post because there is no photo of all 7 members from a permitted source. The BIGHIT poster (image.koreajoongangdaily.com/12927040) shows no members. The sethlui.com member photos are credited HYBE but that domain is not on the photo list. Please supply an all-seven photo, or approve a poster-only version.
+2. **Jungkook GOLDEN, Spotify record (Google News, Starnews).** The candidate says 156 weeks. Starnews (5 Nov) and Korea Herald report 155. Not posted because the number conflicts and no Jungkook photo was found.
+3. **Vogue Korea reel of Jung Kook (koreaworld111 repost of the Vogue Instagram reel).** The still frame is a Chanel bottle, not a member. The news overlaps jk-vogue-korea-graff-tokyo (posted 11 Nov). Not posted.
+4. **Stanford / Berkeley / Korea Daily / SF Chronicle copies on BTS courses.** Repeats of rm-stanford-namjooning-course (8 Nov). Not posted.
+5. **Jimin "Who" in a Spotify Japan 10th-anniversary playlist (Starnews).** No source found for this playlist. Not posted.
+6. **Jin Weverse post "Jinnie-ah, my Seokjinnie!" and the Weverse fan-letter headline.** Content and author are unclear. Not posted.
+
 ## 2026-11-10 run (candidates batch with Singapore and Cartier items): no posts queued
 
 1. **BTS THE CITY ARIRANG Singapore (rss-Google_News_EN-CBMiyAFBVV95cUxQYS1rYUc4ZHVKUkZ3bm93MHhVZVM4NmVINEN1M3dKUTRIRXZVOWM0VnR3NHZmQWM0WW52aG9aX0YzTENKenk4N), held.** Facts check out: Dec 1-31, 2026 citywide programme, BTS concerts at National Stadium on Dec 17, 19, 20 and 22, all sold out. Sources: Korea JoongAng Daily (koreajoongangdaily.com/entertainment/bts-to-end-this-years-the-city-arirang-project-in-singapore/12927024) and Her World. No photo about this news from a permitted source: the JoongAng photo is a Sept 18 Las Vegas concert shot (Reuters/Yonhap) whose caption does not confirm all seven members, and I could not open the image to check. Her World's photo is Getty and not a permitted domain. A post can go out once a photo of all seven, verified, is supplied.
