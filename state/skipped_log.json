@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiV0FVX3lxTE1idldOajJUWnBnYnV5Qzh5OHhVOW1qVzJ4blhxQkl2Mko4cFFnZ0M5dmlYZEFyS0dFbW11MmVybHpGbUdkVWFuR",
-    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMinwFBVV95cUxPejVEbEMwU3pVYUd0eW1rSmQ1U2t3MUJNOXFhR3BWM3hkR1Z4VkFSUWI3WDRDZGRERjdweXpTZXdabDJYemVmW",
-    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiswFBVV95cUxOTEVYYlVFQ2xLNnBSLXdzQTZlSVlsOHFraVFuZHNHNWZjWXYzT0FWN2ctTHlvQjhtWU9mTGhzQ3RuTlBDTXkwb",
     "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
     "run": "2026-11-03"
@@ -2496,6 +2486,16 @@
   },
   {
     "id": "tg-koreaworld111_57549",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "tg-koreaworld111_57550",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "tg-koreaworld111_57560",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-12"
   }
