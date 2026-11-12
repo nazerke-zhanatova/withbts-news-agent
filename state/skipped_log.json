@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMickFVX3lxTE03bzRjeTdQUmdsNTNEdEdmUVB3bG90dzFuRUQ2UlNBY3Q1SUxGRjR0MFlvSE90Q0pvOHRWcXUzSElfUDJ0MWJoW",
-    "reason": "HYBE quarterly financial results only; tour news already posted in hybe-tour-2027-repost",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_EN-CBMikwFBVV95cUxNbHU1VF94SU8zclJjZU94Rm9SdDdLbDE1ZmMwOWVJSGhvcWN4bVBkQi1sUl81elNFUm9pZlYzZ1Vxc2dNOFRkW",
     "reason": "HYBE CEO 2027 plans: single outlet (iHeart Canada), no second source found, plans not confirmed",
     "run": "2026-11-03"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "rss-Google_News_EN-CBMiWkFVX3lxTFBSUFJJbElYamdlT0ktMHV0NGJzVTVzLTdfRDFOUjVuSTNTUXFzWkl0OFUxSVdJZi1GaWRDOGRZM3FYN1F3UUdvd",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5GYVBCaTJLZjZBLWRqYkdZVTB4dGdrMTlTNEZYWmtsNTlQZkI3NHlMQVBLMzNEQTBKRmVHMWNCSkM3RzZRd2p2e",
     "reason": "filter: same story already looked at",
     "run": "2026-11-12"
   }
