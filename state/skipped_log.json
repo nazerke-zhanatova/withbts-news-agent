@@ -1,30 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9TTlNLQ2NMdDlFSV92N3BsV0Q4cmxUcHJyMzRyaHRNSGhrN0IwRFl4MXY0X3FoX21tZEp1OGtnX1oweFBQT1VIZ",
-    "reason": "Arrival at Incheon already posted (bts-return-incheon-1103); video feature only",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-btsnewsru0_82903",
-    "reason": "Personal comment between members, no news (aggregator)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-btsnewsru0_82901",
-    "reason": "Minor social post by a member; aggregator only; photo frame cannot be identified, so no photo for a post",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57214",
-    "reason": "Livestream announcement of the Incheon arrival already covered by bts-return-incheon-1103",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57212",
-    "reason": "Sponsor promo content (CazeTV), no BTS news",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_EN-CBMickFVX3lxTE03bzRjeTdQUmdsNTNEdEdmUVB3bG90dzFuRUQ2UlNBY3Q1SUxGRjR0MFlvSE90Q0pvOHRWcXUzSElfUDJ0MWJoW",
     "reason": "HYBE quarterly financial results only; tour news already posted in hybe-tour-2027-repost",
     "run": "2026-11-03"
@@ -2497,6 +2472,31 @@
   {
     "id": "rss-Google_News_EN-CBMiWkFVX3lxTFBza1g3Z1prRVJpY3U0UzhmQ1htbTRhZ2tkdFNsXzNpNG9ySk9FbE1DR2pjRTdzTFZDMzN3NGFwMG5jaEU3TzhzM",
     "reason": "Weverse media preview in Spanish: headline only, no readable article; content unknown",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE1RelNaeUl1WlFPbTFMcHpxSUFpdzhwaTFmVk5SajRQVEgzaEJadDRucDI5cDFRTkdiNVdYdG1rYlJjMzdKbjNQe",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUkFVX3lxTFA0c0oxRUtwdDF6Z3otSlc5a29yNGpJRnl5ZUIwX29UWno0SkxzclJZbVR0UmllMVBBN0JraFRuMlotMm4wX25BT",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE5lU0U4SnRrc0FmYVBqSXAyTkhNR0UyY0FMa3B1bC1YLVk4WkNwNmJnSWVhcWozME4wOXNHRTBXaWo0YzFJX2RFN",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiWkFVX3lxTFBBRzA4TTVNUzNqeFQ5cTkzbWtabzdqNDBQb0JWajNlMzhZVkpOUUlfeXpSMXdtX2VmMlJ4cjlEZVFZZEZCekZTb",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiWkFVX3lxTFBSUFJJbElYamdlT0ktMHV0NGJzVTVzLTdfRDFOUjVuSTNTUXFzWkl0OFUxSVdJZi1GaWRDOGRZM3FYN1F3UUdvd",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-12"
   }
 ]
