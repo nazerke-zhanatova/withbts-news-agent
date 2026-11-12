@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiqgFBVV95cUxNc19fYjl4bkV0cG5sdzBwYmk4ZGtzRDFHcHVUX2l0ZkZFX1JYYUlNR3hlUXozOFJ1el9hMjZER2loWVl4N0tUW",
-    "reason": "Tour date expansion and 2027 plans (Billboard) already covered in hybe-tour-2027-repost; no new verified detail",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMimwFBVV95cUxQQW5sRmdCZm5rX2FfNXZRTzBUUTJXNDlPWi1ldjVEd3pYRnU4a1BEcUdhXzMxRUpZSVF1bzhHY01aMWJ3QW1lY",
-    "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
-    "run": "2026-11-03"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiV0FVX3lxTE1idldOajJUWnBnYnV5Qzh5OHhVOW1qVzJ4blhxQkl2Mko4cFFnZ0M5dmlYZEFyS0dFbW11MmVybHpGbUdkVWFuR",
     "reason": "HYBE Q3 financial results only (same news as hybe-tour-2027-repost)",
     "run": "2026-11-03"
@@ -2497,6 +2487,16 @@
   {
     "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5McjAwSzA0U0d1aHlQd2NWZU9WODJkcHBWVkJhRnYySTk4RFBDakprT3pKUTRTek5ubzlZZ2pPUzdLcWJxT3ZXd",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "tg-koreaworld111_57548",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "tg-koreaworld111_57549",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-12"
   }
 ]
