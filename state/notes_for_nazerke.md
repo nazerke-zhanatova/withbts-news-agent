@@ -163,3 +163,9 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 
 1. **Weverse BTS Media "[PREVIEW] '2.0' Dire..." (4 Google News items) and "Multimedia de BTS de Weverse - [PREVIEW]" (4 Google News items, Spanish headlines).** Only headlines came through, with no article text, and the titles are cut off. WebSearch found no matching Weverse post dated November 2026. Content unknown, so not posted. If you want this covered, please check the Weverse BTS media tab directly.
 2. **GRAFF 65th Tokyo exhibition with Jung Kook (btsnewsru0 83288 and 83298).** Same story as the jk-vogue-korea-graff-tokyo post of 2026-11-11. Repeat, no new fact.
+
+## 2026-11-12 run 2 (candidates batch, 4 Google News items): no posts queued
+1. **Stanford Namjooning course (t2ONLINE).** Repeat of rm-stanford-namjooning-course (2026-11-08).
+2. **Jin Weverse post "Jinnie-ah, my Seokjinnie!".** Title only; WebSearch finds no matching post or coverage. Not posted, same as earlier run.
+3. **BTS boycott of the 2027 Grammys (NPR copy).** Confirmed by several outlets (NPR, AFP, Euronews, Hypebeast), but the news dates from 30 July 2026 and is a category dispute. Not posted. If you want it covered, say so and it can be written as a short news post.
+4. **BTS THE CITY ARIRANG Singapore (That Eric Alper copy).** Same held Singapore item (see the 2026-11-10 and 2026-11-11 entries). Still no all-7 photo from a permitted source.

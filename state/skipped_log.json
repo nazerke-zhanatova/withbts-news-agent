@@ -2498,5 +2498,25 @@
     "id": "rss-Google_News_EN-CBMiX0FVX3lxTE1nVkhVc1lXUklwZ3hGVkNPcTJ1VUZld1ZZUDk2WXZHQkF3SjE0S25ZWjUtWVpnaU9LYXVSM1VsbTN0Yzlpcm5ic",
     "reason": "filter: same story already looked at",
     "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiygFBVV95cUxNdU9xLXBUYzlKN2JhTF9uZFRZTmxiZS1nb3pMeTZWWGxNVzJ4RlZaeWViQ2dVZDQ2cnhWVXFtSW1jbHJIMTVWV",
+    "reason": "Duplicate: Stanford Namjooning course (t2ONLINE copy), already posted as rm-stanford-namjooning-course on 2026-11-08",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE10RkNKeE0wc1VYd1JGU1NkSFE4aTBGNUJWNWstMGo2Vms3YVdKV0VIbVRBdmx3azVjX2xwVWdzUk9LQlNMMEllZ",
+    "reason": "Jin Weverse post 'Jinnie-ah, my Seokjinnie!': title only, no content, author and meaning unclear, no outlet or search match; possibly personal; not posted",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMimgFBVV95cUxPRHByckpGZTlIZkZXSHhFTUE0M2NkelhReGIwYWhMUmZiQ3dOTGNzUDVXMno5aENya2xwTHFxT1ZoWm5YNnR4d",
+    "reason": "Grammy boycott (NPR copy): real and confirmed by several outlets, but the news dates from 30 July 2026, not new; the story is a category dispute with reasons unstated, so not posted",
+    "run": "2026-11-12"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMizAFBVV95cUxQN2FlaWF2dHR2Y1J0dzNsU0FqbnMxcXNyeGFxZFp6MVpQblQyWVZ1cEdrWWhseGVXdVUzUHRiblBGOU5lZVpFW",
+    "reason": "BTS THE CITY ARIRANG Singapore (That Eric Alper copy, single blog source): same held Singapore news, no all-7 photo from a permitted source; see notes_for_nazerke.md",
+    "run": "2026-11-12"
   }
 ]
