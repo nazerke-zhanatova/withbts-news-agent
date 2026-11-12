@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiVEFVX3lxTE8zOVcySjQ5di1vM3lnV2VZNU9Pa254OG5jSkxaVFdYejc3TzNMX1gyZ0RLeW00d2FWSHN6SktEMTVKZlZUbnl6c",
-    "reason": "Rolling Stone cover feature from April 2026, not new news",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57210",
-    "reason": "Samsung brand clip with J-hope: no photo from a permitted source for this news, so no post possible this run (see notes)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57208",
-    "reason": "Stories link with no text, no news",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57207",
-    "reason": "MAMA voting instructions; stated deadline (8.11) conflicts with reported second-round end (18 Nov KST); no photo (see notes)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi5gFBVV95cUxORFdXelV2NnBhQmJ5Sk9NT095c05NWDFRbHdQOHMtRkwtV1NNZkxNQktXaV9NLUdmdUdkZlYwVGY0UUhQN0k2c",
-    "reason": "Family member (Jimin's father, cafe closure), private life",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57201",
-    "reason": "Return to Korea already posted (bts-return-incheon-1103)",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "tg-koreaworld111_57199",
-    "reason": "Personal story quote, no news",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi5gFBVV95cUxORFdXelV2NnBhQmJ5Sk9NT095c05NWDFRbHdQOHMtRkwtV1NNZkxNQktXaV9NLUdmdUdkZlYwVGY0UUhQN0k2c",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-03"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMickFVX3lxTE03bzRjeTdQUmdsNTNEdEdmUVB3bG90dzFuRUQ2UlNBY3Q1SUxGRjR0MFlvSE90Q0pvOHRWcXUzSElfUDJ0MWJoW",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-03"
-  },
-  {
     "id": "tg-koreaworld111_57207",
     "reason": "filter: link already used in a post",
     "run": "2026-11-03"
