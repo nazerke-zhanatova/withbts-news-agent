@@ -16,8 +16,8 @@
   ],
   "tg_video_from": "https://t.me/btsnewsru0/83302",
   "video_keep_ratio": true,
-  "image": null,
-  "image_url": null,
+  "image": "media/web_jk-weverse-video-graff-1113_frame.jpg",
+  "image_url": "https://cdn4.telesco.pe/file/C_D8sMPKfqO1RE3QyRTpMiViPBNYFCUMQan2omJxeUPPSO0XOhuEQHM3m_iIeuFFWqcZm-hXKKl7Goic19NspO_OV6aUZOpRJmSGineWLEqHok4oRr0-W_2QVkbsYszwJe0SCNH7mVIyVnYDnnwmWcQYS4srRbCBZ0mUDT5pbKWXUrHXstzZePb4Am9sLVxIBB0OJklK5JV7sDclqdU5exn8rvK0pyQ-riGreBlw1IupLBd6GOj1ooRMb3jpfKK1ljcykPYPWdpIgeLc-5wtQmAwypWcCl0BEYqBfn4efeTEhM9V0E1_F1OurXbW44Nk3lZinrFDXsG83_N3nt2nJw",
   "image_credit": "Jung Kook Weverse",
   "photo_members": [
     "Jung Kook"
@@ -37,5 +37,9 @@
     "telegram",
     "instagram",
     "threads"
-  ]
+  ],
+  "video_url": "https://cdn4.telesco.pe/file/b60ea369a0.mp4?token=WSaTvEnp6rrIthI4iQufLBTrPoUyYYZTO4Kn-0wOYF1vRXkhkdnkIwsEHHGe-KYwiaOvh5U2zwIaPF7MEA7wfy-pttYwN2dk_4PDA3Yq7RhgWLvMh5m0NEb94M-Iy8PCz_xYemnfMITFGnhdxj4Q8-EaLPz3iUl5JM8a2wP3l3v3J6NCJTSIUdoo14cuvceUCbESH42EVYXJajs9FpNfGJiTcP55JS4a-DwiSs-7U2aMHeILYHd34991vhfb_0Izety49eKNklcefxduCEg2ZCZRGgqj_1YaJLbtI5a1PK7roGYD3sI-AdHR5okWOFWHklQ4q4eLgTEFry1mr0RSkw",
+  "video_file": "media/video_jk-weverse-video-graff-1113.mp4",
+  "card_file": "media/card_jk-weverse-video-graff-1113.jpg",
+  "carousel_files": []
 }

@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57283",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-btsnewsru0_82969",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57294",
-    "reason": "SUGA Instagram repost with only a location caption (São Paulo); content of the post cannot be verified, no news text",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57284",
     "reason": "Duplicate of tg-koreaworld111_57294 (same SUGA Instagram caption)",
     "run": "2026-11-04"
@@ -2497,6 +2482,21 @@
   {
     "id": "rss-Google_News_EN-CBMiiAFBVV95cUxQSFBhQU52MUlZMGVZdi1sMUcxZzBGQ3VxcXlwWWNET1BIcGJIbEp1OVhsbmtuQWZyQ19WLS1Bak1jX3BZU1AwT",
     "reason": "Jung Kook Chanel behind-the-scenes shoot (Chosunbiz): same story, no permitted photo, not corroborated by WebSearch; held",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-koreaworld111_57587",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-koreaworld111_57588",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-koreaworld111_57589",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-13"
   }
 ]
