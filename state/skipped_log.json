@@ -1,20 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5UVkRYSUctd21JVlVRZl8yRG9TUlVndW82d3BTSnJ0aldzZEJDMVp4T21DdktoY0kzR0RvNDFqNGtlTldSUVQzcDBDU2ZMVGhnM2UxWDVBMXM0UHU5MjEwZVFoS2pLSmF2UzBEUWdoYzRIak9JSW5hZw",
-    "reason": "minor: Jin named Idol Pick Best Artist, single outlet, low news value",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9TTlNLQ2NMdDlFSV92N3BsV0Q4cmxUcHJyMzRyaHRNSGhrN0IwRFl4MXY0X3FoX21tZEp1OGtnX1oweFBQT1VIZ",
-    "reason": "repeat: Jin and Suga return video, same news as bts-return-incheon-1103",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTFBPMmJuNjR6SndmNG5BVzEzZlFBY1JUa2RLNDZnc3UwdEtnejZlcmgwS1Fxa0hBRDJaLTdsNmpMYzNRYndIVTJWb",
-    "reason": "ARIRANG Italy platinum (FIMI): verified by 3+ outlets but no all-7 photo verifiable from a permitted source; held, see notes_for_nazerke.md",
-    "run": "2026-11-04"
-  },
-  {
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE9NeURnSkFhS1l6SWc3aHJPaXpnZUFGMUREekZicFJqb2NBVTROYnhkS3V5TmwyZmhZdWdlWE5Xa2pNNW5iV0xDd",
     "reason": "feature piece (six years of savings, bus ride), not a news event",
     "run": "2026-11-04"
@@ -2496,6 +2481,21 @@
   },
   {
     "id": "tg-btsnewsru0_83321",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83331",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83342",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83343",
     "reason": "filter: same story already looked at",
     "run": "2026-11-13"
   }
