@@ -1,56 +1,6 @@
 [
   {
     "id": "tg-koreaworld111_57280",
-    "reason": "Jung Kook Instagram story with one word caption, no news",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57279",
-    "reason": "CazéTV interview (5 members): only a teaser so far, full interview not yet released per Billboard Brasil; the still frame has a face cut off at the edge and no photo naming all five members; held, see notes_for_nazerke.md",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiogFBVV95cUxQcUxPZmFSMFM1bS13SXZhWnZDYWJ6RzhMNmJPVEhUWkhzUW10T3FuaDY0MGR1VE5BRFFLLWtoN01JZUtfT0xkbGRaR",
-    "reason": "Business: HYBE record quarter revenue (earnings), business news not posted",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMirgFBVV95cUxPM2I2NnlGY0RLazJCRjNtNE40MGszRHFydGM3NGItSE9TZ0RSNXM2dGNXcU1rLXhkczNWZm1RenV4U0lVdjRpZ",
-    "reason": "Plans for group and solo projects reported from HYBE statements (investor-style), not official announcement; no new verified detail",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiYkFVX3lxTFA5UHMzQTJFSnNWMzJza3BTM3lMZW9TSFc4dEdFUkc4eUhrcjZCWUpaUDZlWmdxTmNtSUNCLVVQTFoyb1dmR1lVO",
-    "reason": "ARIRANG platinum in Italy (FIMI): verified by several outlets, but no photo naming all seven members from a permitted source; held, see notes_for_nazerke.md",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMihAFBVV95cUxQVDNHdDBwMEhUOUFwWWU5UXV1ZkVRWkM4MC0ycmVWRmZEX3Z2TkNuRUV2WVZlZ1hVVk9KQjRUUGZUbU5fUzNxO",
-    "reason": "Feature piece on charities, not a news event",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi1wFBVV95cUxNQlJOd3JUZ1k5dW9zSERtbDRpOE9ab0VJRnNtSUVoR0NzNUdkMl9QUkpDSzN4YVFQOVd6OF9WbmhXbEZlQTROO",
-    "reason": "RM personal snaps shared between tour stops: private travel content, no news event",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiqwFBVV95cUxOUVdpcEdXOUV4LWtQVVNTLVdSd2VzRFljemx6aV9YeUhkc3ZrR1dpVGZYeDBDOUtDMmdhTFlvc2lJUXY4ekJXS",
-    "reason": "Same ARIRANG Italy platinum news as the held item (Korea Times); see notes_for_nazerke.md",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMingFBVV95cUxQZVpJWFA2SmhnNHVPS2ZWTFgwSjlWRzlVaVZFZ3M5NTQyUGxFTnpPemRJZUc5cnJLeG56NmhCc0tOdDJiVnAxc",
-    "reason": "Same ARIRANG Italy platinum news as the held item (Koreabizwire); see notes_for_nazerke.md",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMijwFBVV95cUxOUzI3bk4xTElKUmJBbFdnQVQ5NE9YX2pEMUQ1eWZpbVJVSk5tR0VCMU5xM2ZVdXZFRHEtTmhJb1E1d3NjdmZrS",
-    "reason": "HYBE teases group and solo plans for 2027 from investor-facing statements; not an official announcement",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57280",
     "reason": "filter: same story already looked at",
     "run": "2026-11-04"
   },
