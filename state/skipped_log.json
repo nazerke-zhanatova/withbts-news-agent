@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57248",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57251",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57254",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57257",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57260",
-    "reason": "repeat: DICON concept news already posted (dicon-dfesta-bts-concepts)",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-btsnewsru0_82914",
-    "reason": "repeat: Jin and Suga return to Korea already posted (bts-return-incheon-1103)",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMigAFBVV95cUxNS2dnVHhYa2R4UTF4aDhic0cwekQ0ZjBzR2FNenAzWXM1WXVuVF9vV1ZHQUZ2REk0LXNrQnBzNFJyZ3k2akxtX",
-    "reason": "business: HYBE earnings and net profit",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiWEFVX3lxTE9XUVRXT29xUzR5NmJqcndwa2pLdjZUZGJ5UTBRYUhQQk1xRENoX2Q5T0w3ZmxWcE01Vmp6NlIxdHNSRm1XelFxZ",
-    "reason": "business: HYBE cumulative revenue",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMigwFBVV95cUxOMFlOTm82ZE9rY2pXZVljOTFmREdJT05iRm9YazdORnhCWGg4VUZmMnN3dGJlbnptT2ZZRklFczhjOE95MXQxV",
-    "reason": "business: HYBE Q3 revenue and profit",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMitAFBVV95cUxNYkpvWHU5SUJFckFKd2hqdUtXM0VvY1ZYZXNoaVBTQmVsMHl5VmJWeHFkRzVneWtIR2poMUZraHQ0YXk5ZDIxY",
-    "reason": "business: new music and tour dates framed as HYBE plans (investor-style), not verified as official news",
-    "run": "2026-11-04"
-  },
-  {
     "id": "rss-Google_News_EN-CBMinAFBVV95cUxNQk1MQmRybFlvajBRZEFWWGlRb1FXaDZIeG9sNVBUWjI1OHVmdDBhUExWa0l4NGh6RVZBelRrSGlQQ01DVXdpS",
     "reason": "unverified: BTS-branded coffee tie-up, single outlet (Digital Music News), commercial",
     "run": "2026-11-04"
