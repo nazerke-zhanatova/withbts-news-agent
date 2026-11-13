@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMinAFBVV95cUxNQk1MQmRybFlvajBRZEFWWGlRb1FXaDZIeG9sNVBUWjI1OHVmdDBhUExWa0l4NGh6RVZBelRrSGlQQ01DVXdpS",
-    "reason": "unverified: BTS-branded coffee tie-up, single outlet (Digital Music News), commercial",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5UVkRYSUctd21JVlVRZl8yRG9TUlVndW82d3BTSnJ0aldzZEJDMVp4T21DdktoY0kzR0RvNDFqNGtlTldSUVQzc",
-    "reason": "unverified record claim: Jungkook GOLDEN Spotify record, only one outlet (Starnews) with 2026 figure unconfirmed by a second reliable outlet; kept for review",
-    "run": "2026-11-04"
-  },
-  {
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE5UVkRYSUctd21JVlVRZl8yRG9TUlVndW82d3BTSnJ0aldzZEJDMVp4T21DdktoY0kzR0RvNDFqNGtlTldSUVQzcDBDU2ZMVGhnM2UxWDVBMXM0UHU5MjEwZVFoS2pLSmF2UzBEUWdoYzRIak9JSW5hZw",
     "reason": "minor: Jin named Idol Pick Best Artist, single outlet, low news value",
     "run": "2026-11-04"
@@ -2497,6 +2487,16 @@
   {
     "id": "rss-Google_News_EN-CBMiVkFVX3lxTFB0Q094aW14aHdCdlh6czUzRVZzQWRMUlRHbUlqbWdabEVfNGYtT3p6cHNZWG8zcjFHb3pEUjZfc2tfWTVib05CV",
     "reason": "Tablo Stanford visit: not BTS news",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83311",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83321",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-13"
   }
 ]
