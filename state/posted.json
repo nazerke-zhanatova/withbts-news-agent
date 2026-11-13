@@ -467,5 +467,29 @@
       "instagram": "17930235333426436",
       "threads": "18118248326028264"
     }
+  },
+  {
+    "id": "jk-weverse-video-graff-1113",
+    "time": "2026-11-13T16:30+05:00",
+    "headline": "Jung Kook: 39 сағаттан кейінгі ас",
+    "category": "news",
+    "source_urls": [
+      "https://weverse.io/bts",
+      "https://t.me/btsnewsru0/83302",
+      "https://www.starnewskorea.com/en/music/2026/11/13/2026111317340326547",
+      "https://sports.khan.co.kr/en/article/202611131737007/"
+    ],
+    "credits": [
+      "Jung Kook Weverse",
+      "StarNews",
+      "Sports Kyunghyang",
+      "btsnewsru0"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19421",
+      "instagram": "18108090587301627",
+      "threads": "18291467029289819"
+    }
   }
 ]
