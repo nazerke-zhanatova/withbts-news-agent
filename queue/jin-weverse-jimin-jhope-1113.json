@@ -34,5 +34,9 @@
     "instagram",
     "threads"
   ],
-  "needs_approval": false
+  "needs_approval": false,
+  "card_file": "media/card_jin-weverse-jimin-jhope-1113.jpg",
+  "carousel_files": [
+    "media/slide_jin-weverse-jimin-jhope-1113_0.jpg"
+  ]
 }
