@@ -1,50 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9NeURnSkFhS1l6SWc3aHJPaXpnZUFGMUREekZicFJqb2NBVTROYnhkS3V5TmwyZmhZdWdlWE5Xa2pNNW5iV0xDd",
-    "reason": "feature piece (six years of savings, bus ride), not a news event",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE1hWC0yNUFacUJEdkpKRG4wQlgzT3UzV1lFSHlVMFRpS1NyMjVaR2gyNm5JbmNoWHJxaUp1eVZISUJlcGVtN095e",
-    "reason": "photo caption feature (Jin statue-like gaze), no news",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9TTlNLQ2NMdDlFSV92N3BsV0Q4cmxUcHJyMzRyaHRNSGhrN0IwRFl4MXY0X3FoX21tZEp1OGtnX1oweFBQT1VIZ",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMinAFBVV95cUxNQk1MQmRybFlvajBRZEFWWGlRb1FXaDZIeG9sNVBUWjI1OHVmdDBhUExWa0l4NGh6RVZBelRrSGlQQ01DVXdpS",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMijgFBVV95cUxNWi1JTTN1Y3lYMVJQSmNJdkNtZXZrSEp1QTYyRXZwdklvTmNua3l3WkV5cVJkRDQ4YlcwNzZVZ3pSVTFGWEhxZ",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-btsnewsru0_82942",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE1hWC0yNUFacUJEdkpKRG4wQlgzT3UzV1lFSHlVMFRpS1NyMjVaR2gyNm5JbmNoWHJxaUp1eVZISUJlcGVtN095e",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57281",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiiAFBVV95cUxNUXpiUnVsT1ZITEE2N2NucXVvMEZwc1FJUjlZQmdlTm9BcDZEX0JuTGVXdmpiRENhTGxYc1h6bzRHdVlMMWQzc",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57283",
     "reason": "filter: not about BTS",
     "run": "2026-11-04"

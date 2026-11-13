@@ -448,5 +448,24 @@
       "instagram": "18360796018223133",
       "threads": "18117105161464201"
     }
+  },
+  {
+    "id": "tg-koreaworld111_57587",
+    "time": "2026-11-13T16:24+05:00",
+    "headline": "Чонгук Weverse-те жаңа видео жариялады",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/koreaworld111/57587",
+      "https://weverse.io/bts/artist/3-243748459"
+    ],
+    "credits": [
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19420",
+      "instagram": "17930235333426436",
+      "threads": "18118248326028264"
+    }
   }
 ]
