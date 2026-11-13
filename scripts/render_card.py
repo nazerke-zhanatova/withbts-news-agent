@@ -518,7 +518,8 @@ def main(paths):
         out = MEDIA / f"card_{post['id']}.jpg"
         render(post, out)
         post["card_file"] = f"media/{out.name}"
-        if post.get("video_file") and (ROOT / post["video_file"]).exists() and not post.get("video_branded"):
+        # "video_keep_ratio": true = post the clip in its own size, no 9:16 withBTS.kz frame
+        if post.get("video_file") and (ROOT / post["video_file"]).exists() and not post.get("video_branded") and not post.get("video_keep_ratio"):
             bv = brand_video(post, MEDIA / f"branded_{post['id']}.mp4")
             if bv:
                 post["video_branded"] = f"media/{bv.name}"
