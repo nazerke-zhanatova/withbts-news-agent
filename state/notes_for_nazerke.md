@@ -191,3 +191,9 @@ Held or skipped in this run:
 3. **Jin military-uniform photo post (tg-btsnewsru0_83299, 83301).** The photo shows Jin, j-hope and Jimin in military uniform. Military service needs an official statement (rule 15). Dropped.
 4. **Jung Kook GRAFF snacks video (tg-btsnewsru0_83302).** Trivial unboxing content. Skipped.
 5. **V New Year message reel (tg-koreaworld111_57589).** The local photo is a film title card with no member. No usable member photo or clip. Held.
+
+## 2026-11-13 run (Google News batch, 10 items): no posts queued
+
+1. **BTS reserve-forces training (Korea Times, Korea Daily, Chosunbiz, Chosun, Inquirer, NDTV, Maeil Business copies).** Jin, j-hope, Jimin and V are reported in reserve training. Rule 15 needs an official statement, and a search found none for this training (only the 2022-23 enlistment statements). Not posted. If BIGHIT MUSIC publishes a statement, a post with an allowed photo can be written and held for your approval.
+2. **BTS The City Arirang Singapore (Lifestyle Asia, Alvinology, Sentosa copies).** Still held: no verified all-7 photo from a permitted source. The Weverse notice 40721 mentioned in the 2026-11-13 run 2 entry would be a usable official source if you can confirm it.
+3. **Jung Kook 39-hour fast (Starnews).** Repeat of jk-weverse-video-graff-1113 posted today.
