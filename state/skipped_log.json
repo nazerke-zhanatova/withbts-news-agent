@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57245",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57248",
     "reason": "filter: not about BTS",
     "run": "2026-11-04"
@@ -2498,5 +2493,60 @@
     "id": "rss-Google_News_EN-CBMizAFBVV95cUxQN2FlaWF2dHR2Y1J0dzNsU0FqbnMxcXNyeGFxZFp6MVpQblQyWVZ1cEdrWWhseGVXdVUzUHRiblBGOU5lZVpFW",
     "reason": "BTS THE CITY ARIRANG Singapore (That Eric Alper copy, single blog source): same held Singapore news, no all-7 photo from a permitted source; see notes_for_nazerke.md",
     "run": "2026-11-12"
+  },
+  {
+    "id": "tg-koreaworld111_57584",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-koreaworld111_57581",
+    "reason": "Jin 1 billion streams plaque (bts.bighitofficial story): milestone confirmed in press from Aug 2026, but the only photo is a 179x320 plaque with no member pictured; held, see notes",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-koreaworld111_57582",
+    "reason": "Jin Weverse post with photos and a one-line caption: content unclear, nothing to verify",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiggFBVV95cUxOY1hDYWlIQUhackdSR3FFcm10OEVYQUJTVWxCamJTYk4xeV9pTlVyb1ZwdEhFaVdjNXNnRnFMV1NBSTAwMjFWa",
+    "reason": "Jin property purchase in Hannam (ZAPZEE copy): private life and money, not posted",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMigAFBVV95cUxQX0NnOFJjTXBlTEJkOGstSjBaTEpuX1VyUmpWeHpMQnZpcmU0cll2MzFDeHMtZVdGTC1YbnN1TGo3RHh0QXhEe",
+    "reason": "BTS THE CITY ARIRANG Sentosa events: event details confirmed, but no all-7 photo from a permitted source; held, see notes",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMihAFBVV95cUxOVVVmSFBhaVFwX29qZHQ5S1gxdEZ4Y2RFYVFzUzBvUE5iYjJXVUhxcHBMNlZ0OEZtRzNaS0N1VGF6RlJrN21oS",
+    "reason": "Vogue Korea December covers (KbizoOm copy): repeat of jk-vogue-korea-graff-tokyo, photos already used",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiuAFBVV95cUxQQWp6bl9lSEUwZXlISjRRaXpjN0p0TTJZNnpUdnJKYk5WNnlpbXA3Yl9BZzlWYUhZZy1XRGhjbVZJOENrT3h6T",
+    "reason": "National Gallery Singapore art trail: single outlet in candidate, no member photo; held, see notes",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMifEFVX3lxTFBMQ29kZmRGUWlYdWZocDZxaGpHbDJLaWlTZHQtdzZVRWEwSmhBVE1sZ3g0Rk5UZWw3UEx2REZXSDRMdkFtajV0b",
+    "reason": "Jin property purchase (Koreaboo copy): private life and money, not posted",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMirAFBVV95cUxOSWRkZDdwemU1dHc5aXlUZk9sZzV0UkEtTlNEWFBYdTU1LU1Fa3dNSkxUWU5pcGtwV3plVlhKM3BldkQwa3lES",
+    "reason": "V military statement via Geo News: military service news without an official statement (rules 3 and 15)",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9rN0xCMXVEZ0lVNU5SSEtLMVFUdkhUSzhqQWUtanlkTmQ3YlV5aGRzcHRiSWlxZEc3QkFUc3JFdXhpQ3ltN0ZFd",
+    "reason": "Jin fan-vote weekly chart position (Starnews only): minor ranking, single outlet",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiVkFVX3lxTFB0Q094aW14aHdCdlh6czUzRVZzQWRMUlRHbUlqbWdabEVfNGYtT3p6cHNZWG8zcjFHb3pEUjZfc2tfWTVib05CV",
+    "reason": "Tablo Stanford visit: not BTS news",
+    "run": "2026-11-13"
   }
 ]

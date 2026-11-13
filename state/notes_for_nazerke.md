@@ -169,3 +169,14 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 2. **Jin Weverse post "Jinnie-ah, my Seokjinnie!".** Title only; WebSearch finds no matching post or coverage. Not posted, same as earlier run.
 3. **BTS boycott of the 2027 Grammys (NPR copy).** Confirmed by several outlets (NPR, AFP, Euronews, Hypebeast), but the news dates from 30 July 2026 and is a category dispute. Not posted. If you want it covered, say so and it can be written as a short news post.
 4. **BTS THE CITY ARIRANG Singapore (That Eric Alper copy).** Same held Singapore item (see the 2026-11-10 and 2026-11-11 entries). Still no all-7 photo from a permitted source.
+
+## 2026-11-13 run: no posts queued
+
+1. **Jin "Don't Say You Love Me" 1 billion streams (tg-koreaworld111_57581, plaque from the bts.bighitofficial Instagram story).** The milestone is real: press from August 2026 (Khan, Korea Herald) reports it, and the plaque post is an official BIGHIT MUSIC post. Held on the photo: the only image is the plaque itself, 179x320 px (too small for the 1080x1350 card), and no member is pictured. If you approve the plaque image, or send a larger official Jin photo with a BIGHIT MUSIC credit, the post can go out. The plaque says "Thank you, ARMY, for all the love and support".
+2. **BTS THE CITY ARIRANG Singapore: Sentosa drone show, ARIRANG RUN and Resorts World Sentosa fan village (rss copy, CBMigAFB...).** Search confirms the drone show (18-20 Dec), the 12 Dec run (Weverse notice) and the fan village (16-22 Dec). Still no all-7 photo from a permitted source, so held like the other Singapore items. Weverse notice 40721 appears in search results and may be a usable official source.
+3. **National Gallery Singapore "Pop after Pop" art trail (The Star copy).** Single outlet in the candidate; the dates (11-31 Dec) come from a listing. No member photo. Not posted.
+4. **Vogue Korea December covers (KbizoOm copy).** Same news as jk-vogue-korea-graff-tokyo (posted 11 Nov); the photos for that post are already used. Repeat.
+5. **Jin property purchase in Hannam (ZAPZEE and Koreaboo copies).** Private property and money, not posted.
+6. **V military statement (Geo News).** Military service news with no official statement (rules 3 and 15). Not posted.
+7. **Jin Podoal weekly ranking (Starnews).** Fan-ranking, one outlet, low news value. Not posted.
+8. **Tablo visits Stanford (Maeil Business).** Not BTS news.
