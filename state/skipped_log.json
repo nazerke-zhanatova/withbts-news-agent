@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57284",
-    "reason": "Duplicate of tg-koreaworld111_57294 (same SUGA Instagram caption)",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-btsnewsru0_82989",
     "reason": "DICON D'FESTA pre-order details: order window (4-15 Nov) conflicts with retailer listing (Nov 30 deadline, shipping Jan 2027); no photo from a permitted source; product already covered by dicon-dfesta-bts-concepts",
     "run": "2026-11-04"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-koreaworld111_57589",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83302",
+    "reason": "filter: link already used in a post",
     "run": "2026-11-13"
   }
 ]
