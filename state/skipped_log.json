@@ -2498,5 +2498,50 @@
     "id": "tg-btsnewsru0_83343",
     "reason": "filter: same story already looked at",
     "run": "2026-11-13"
+  },
+  {
+    "id": "tg-koreaworld111_57588",
+    "reason": "MMA 2026 Global TOP10 vote (BTS nominee confirmed by Soompi, voting closes 13 Nov): no permitted photo of all seven members found (candidate graphic has no members, WebSearch found no official all-7 photo); held, see notes_for_nazerke.md",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83299",
+    "reason": "Jin Weverse thanks message: photo is a military-uniform group picture (rule 15, military service needs official statement); reserve-duty explainer is not news about the member; dropped",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83301",
+    "reason": "Jung Kook reply to Jin Weverse post: only a short comment; the photo shows Jin, j-hope and Jimin in military uniform (rule 15), cannot use",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83302",
+    "reason": "Jung Kook Weverse video of snacks from a GRAFF gift box: trivial content, no news; GRAFF campaign already posted; local photo is an unrelated Harper's Bazaar title card",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-btsnewsru0_83341",
+    "reason": "Jin buying a private building in Hannam-dong: private property and finances, not BTS news (rules 3, business); same story as rss Google News item",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "tg-koreaworld111_57589",
+    "reason": "V New Year message reposted from Harper's Bazaar Korea reel: local photo is a film title card with no member; no permitted member photo or clip verified; held",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiWEFVX3lxTE05YjN3VU1scFpZQ3A3LTRQX2J1MGxnQUdfTmNWWmxZNU9fODNiOFI2ZTJJTUpGb21pQW5rMVhwVHdPczVvODJhS",
+    "reason": "Jin Hannam-dong building purchase (Financial News via Google News): private property and finances, not posted",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMif0FVX3lxTFBkdWYtSUV6WEoyT29WQ1l4NUJON1pyemM2YnctR0NuVXRWYUFMNHhKajJxQXVjaVZpMm11QzctX0FjZjNpU01wS",
+    "reason": "Jung Kook Chanel behind-the-scenes pictorial (The Korea Daily): no permitted photo for this news, WebSearch found no corroborating Chanel release; held",
+    "run": "2026-11-13"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiiAFBVV95cUxQSFBhQU52MUlZMGVZdi1sMUcxZzBGQ3VxcXlwWWNET1BIcGJIbEp1OVhsbmtuQWZyQ19WLS1Bak1jX3BZU1AwT",
+    "reason": "Jung Kook Chanel behind-the-scenes shoot (Chosunbiz): same story, no permitted photo, not corroborated by WebSearch; held",
+    "run": "2026-11-13"
   }
 ]

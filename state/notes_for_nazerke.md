@@ -180,3 +180,14 @@ Also not verified: HYBE CEO's 2027 group and solo plans (iHeart Canada only, no 
 6. **V military statement (Geo News).** Military service news with no official statement (rules 3 and 15). Not posted.
 7. **Jin Podoal weekly ranking (Starnews).** Fan-ranking, one outlet, low news value. Not posted.
 8. **Tablo visits Stanford (Maeil Business).** Not BTS news.
+
+## 2026-11-13 run (second run today): one post queued
+
+Queued: `queue/tg-koreaworld111_57587.json`. Jung Kook posted a video on Weverse (trusted_fanbase repost, koreaworld111). The still shows his face fully in frame, so it is used as the photo with a video link. The text stays general because the source gives no caption.
+
+Held or skipped in this run:
+1. **MMA 2026 Global TOP10 vote (tg-koreaworld111_57588, voting closes 13 Nov).** Soompi lists BTS among the Global TOP10 nominees. No permitted photo of all seven members was found: the candidate graphic has no members, and the search found no all-7 MMA photo. Held. If you can send an official all-7 photo, the post can go out today, but voting ends 13 Nov.
+2. **Chanel Jung Kook behind-the-scenes pictorial (The Korea Daily and Chosunbiz copies).** Two outlets, but the search found no corroborating release, and no permitted photo exists for this news. Held.
+3. **Jin military-uniform photo post (tg-btsnewsru0_83299, 83301).** The photo shows Jin, j-hope and Jimin in military uniform. Military service needs an official statement (rule 15). Dropped.
+4. **Jung Kook GRAFF snacks video (tg-btsnewsru0_83302).** Trivial unboxing content. Skipped.
+5. **V New Year message reel (tg-koreaworld111_57589).** The local photo is a film title card with no member. No usable member photo or clip. Held.
