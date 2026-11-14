@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57280",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57284",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57294",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57299",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiwAFBVV95cUxPMGJWaHFLSWRTeXNNTzBWenluTGxOZjI0SjMyZDNOLWp6Zkc0clFlN3NHaTZyTThyc2N1U3FQRDV5NTg2c2x4U",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57300",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57310",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMixAFBVV95cUxNV0I2N2V5N2NBUDJncEE2SHdTTkpkbnVUaUZ6RkVILU1sbjdkdU9SVlpqX2JUVkRsQTRBYkFkVG5rV3VYYU9qc",
-    "reason": "HYBE record quarterly revenue: business and earnings news, excluded by rule 3",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57330",
-    "reason": "MAMA 2026 second-round vote reminder: already posted as mama-2026-vote-round2, no new detail",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57322",
-    "reason": "Jung Kook Instagram repost with photos only, no verifiable text or event; personal social content",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57321",
     "reason": "Namjoon Instagram stories link with emojis only, no verifiable news; personal content",
     "run": "2026-11-04"
