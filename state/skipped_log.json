@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiVEFVX3lxTE9hcmhTMTZaM2FYUVBqNlFjXy02M01HUGg1eTRXdEF0VVR2UEZEdlpPN0pqSVRwc2hnNmxVZ0FCalhvYTJaNENJe",
-    "reason": "ARIRANG Italy platinum claim conflicts with search (April reports say Gold in Italy); held, see notes_for_nazerke.md",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-koreaworld111_57320",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57322",
     "reason": "filter: same story already looked at",
     "run": "2026-11-04"
@@ -2497,6 +2487,16 @@
   {
     "id": "rss-Google_News_EN-CBMihAFBVV95cUxNeTZfLVJ4R2d2Um4wMG1IX2w4TVNpbWkwbjJHaXVrcVJBNFlJcTFIakFOLVQxMDJVb1ltbW1xRXRWN1pEMk9aa",
     "reason": "Vietnam.vn MMA absent / awards item: same unverified Album of the Year story; held",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "tg-koreaworld111_57595",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "tg-koreaworld111_57597",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-14"
   }
 ]
