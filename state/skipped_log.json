@@ -2498,5 +2498,50 @@
     "id": "rss-Google_News_EN-CBMingFBVV95cUxPQlpCa3g4d0g5NEVKaUgxSzJJZmtTQzhhdVlBZVpMX0ZHNG42Sk5ESFpaZl9BM1NiaDlCTzduRnNqVm5pblhWY",
     "reason": "filter: same story already looked at",
     "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYEFVX3lxTFBQYTZENmNfU1lCV3pFRnJfTGdMMFRqVXdTRXF6LVMyQlBVVGszclBOUWw2QldBanRiWlFSZUJoQ0xDSU4wR0cwZ",
+    "reason": "Weverse fan artwork community post (#My_favorite_FA), fan content, no member news",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi2wFBVV95cUxOQnVERENCSW5nMFNjTnBDa2RhQjNhU3dpa2QyWkFhNEhLcEFUZjdBNGlJdkhVWlZuTDZBcVkwOXd1OFpHbldEe",
+    "reason": "Member's personal property purchase (Times Now, single outlet): private finances and private place, rule 3; not posted",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMid0FVX3lxTE5BSGlsTUNfbEx6SFJZLXFFSElocVlvV1RLRFJ2SUljYndmWVo0ejNrOVNHeTJpaHVHZldDTkRqMnlpQ0dCNEJub",
+    "reason": "Jin reserve training photos with J-Hope and Jimin (Starnews): military service, rule 15; Jin's Weverse post counts as official, but candidate has no media, the article photo names only 3 members (not V), so the all-4 photo rule cannot be met; held",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMid0FVX3lxTE91dEFScEJEVUNKWkhQMGtnUDF2Wl9VVGJ6VUxSajhVOHJkdTZrbEI4cHMwYm9wZjRDQy0yTVhyQWFDQjh0b18tU",
+    "reason": "Jung Kook jewelry and Tokyo appearance (Starnews): value and details not verifiable from the candidate, GRAFF Tokyo story already posted; not posted",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE1yRWVQTEVfMW1nZ2NRQzhERU5WNjJLbzdEdTBLcnNLRno0aHZ0b3pyb1F2MnAyUGRiOGVzNjVUa2M3WU1ZRG1lS",
+    "reason": "Popularity ranking placing BTS members against other artists (Starnews): comparison with other artists, rule 3; not posted",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiugFBVV95cUxNVFJvdVpLNWxyc2dDQ3NtZzRsVW9oeG1UOW80RGd3Z2ZYdGZJT1F6RDlPejIxQ1hJYjZTME1uTTU1M19jcXdFV",
+    "reason": "BTS art trail and rave nights at National Gallery Singapore (DANAMIC): single outlet, no all-7 photo from a permitted source; held like other Singapore items",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMivwFBVV95cUxQN2FLaDExTGplLVNQdjl0WGNjQ2JGaGFDaWNCUzBuVlA0NmlVbDRaYlpodC1rdFVHcmNUS2pKZFY2TFZ1ZmZCT",
+    "reason": "Reserve army training photos of Jin, J-Hope, Jimin and V (Music Mundial): military service, rule 15; no all-4 photo from a permitted source; held",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5mZWx1V09zQjNJV3JSOVN2eFVrVTluRmVHWnEyOVhyWDRiaThpWGtneEl6VmQtX3NyMjBRRHpEZjFGTXdTd1IxR",
+    "reason": "BTS Weverse fan letter (Google News title only, no content read): cannot verify what was posted; not posted",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiywFBVV95cUxQVmE1R201QWo5NVdXaFV3RnM1ZXZaNXJsU1U1ckpPTlFWMXpxRmU1aG1mY3YtSThSOUlxM0dGRkprTHFKV3c0V",
+    "reason": "Reserve training of Jin, J-Hope, Jimin and V (GMA Network): military service, rule 15; no official statement with all-4 photo found; held",
+    "run": "2026-11-14"
   }
 ]

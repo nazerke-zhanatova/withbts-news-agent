@@ -206,3 +206,13 @@ Held or skipped in this run:
 4. **Reserve training items (K-EYES, Chosunbiz, Chosun, News9live, Korea Daily).** Military service with no official statement (rule 15). Still held, same as the 2026-11-13 entries.
 5. **Singapore city events (Her World copy).** Same held Singapore item. No all-7 photo from a permitted source.
 6. **Weverse community post (Japanese title only).** Content unknown. Not posted.
+
+## 2026-11-14 run (second run, 10 candidates): one post queued
+
+1. **Queued: MMA 2026 award (tg-koreaworld111_57593, source x.com/melon).** Stage of the Year and Global TOP10. The post comes from melon's own account, which is the event itself, so it counts as confirmed. The only independent report found was JazmineMedia (Day 1 winners), so please check melon.com/mma before approving if you want a second outlet. Photo: the MMA 2026 card with all seven members (image_credit melon). The second candidate frame shows only two members partly, so it was left out. The "Главные Дэсаны еще впереди" line is fan speculation and was not used.
+2. **Jin, J-Hope, Jimin and V reserve training (Starnews, Korea Times, Music Mundial, GMA and others).** The members posted their own photos on Weverse and Instagram, so the statements are official. Held for the photo rule: the candidate has no media, and the Starnews article photo names only Jin, J-Hope and Jimin, not V. If you want this post, send a permitted photo of all four in the reserve training, and it can go out with needs_approval.
+3. **Jin building purchase (Times Now).** A member's private property and finances, single outlet. Not posted.
+4. **Jungkook Tokyo diamond (Starnews).** The jewellery value and the details are not in the candidate, and the Tokyo appearance is the GRAFF story already posted. Not posted.
+5. **Singapore National Gallery art trail (DANAMIC).** Same held Singapore item, no all-7 photo. Not posted.
+6. **Jimin ranking against GOT7 and ATEEZ members (Starnews).** Comparison with other artists. Not posted.
+7. **Weverse fan letter (Google News title only).** No readable content, so it cannot be verified. Not posted.
