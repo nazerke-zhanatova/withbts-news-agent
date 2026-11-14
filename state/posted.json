@@ -511,5 +511,26 @@
       "instagram": "18089859062301134",
       "threads": "18509887192098264"
     }
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikwFBVV95cUxQYmNXam8zQnlHMFNPSUV1S0VZMU1NcWFJcmdsdUxEdG1nWnJuOHVhQ0xnMm1PYVk2TlctZUd3aGppbHZHWjBaY",
+    "time": "2026-11-15T04:25+05:00",
+    "headline": "BTS: ARIRANG — жылдың үздік альбомы",
+    "category": "award",
+    "source_urls": [
+      "https://www.soompi.com/article/1886965wpp/winners-of-melon-music-awards-2026-day-1",
+      "https://t.me/koreaworld111/57597"
+    ],
+    "credits": [
+      "Soompi",
+      "koreaworld111",
+      "melon"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19423",
+      "instagram": "18123983549080046",
+      "threads": "17916618813506486"
+    }
   }
 ]
