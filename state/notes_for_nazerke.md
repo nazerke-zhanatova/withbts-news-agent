@@ -197,3 +197,12 @@ Held or skipped in this run:
 1. **BTS reserve-forces training (Korea Times, Korea Daily, Chosunbiz, Chosun, Inquirer, NDTV, Maeil Business copies).** Jin, j-hope, Jimin and V are reported in reserve training. Rule 15 needs an official statement, and a search found none for this training (only the 2022-23 enlistment statements). Not posted. If BIGHIT MUSIC publishes a statement, a post with an allowed photo can be written and held for your approval.
 2. **BTS The City Arirang Singapore (Lifestyle Asia, Alvinology, Sentosa copies).** Still held: no verified all-7 photo from a permitted source. The Weverse notice 40721 mentioned in the 2026-11-13 run 2 entry would be a usable official source if you can confirm it.
 3. **Jung Kook 39-hour fast (Starnews).** Repeat of jk-weverse-video-graff-1113 posted today.
+
+## 2026-11-14 run (10 candidates): no posts queued
+
+1. **Jung Kook Instagram stories (tg-koreaworld111_57591, two screenshots).** The candidate has no caption or text, and stories expire, so the content cannot be stated. Not posted. If you can confirm what the stories say, a short post with these two photos (Jung Kook only) can go out.
+2. **Graff x Jung Kook Tokyo red carpet (tg-koreaworld111_57590).** Same GRAFF Tokyo story as jk-vogue-korea-graff-tokyo (posted 11 Nov). Repeat.
+3. **Jakarta purple city decorations for ARIRANG (Tempo copy).** The Jakarta concert dates are real and official (BIGHIT MUSIC via Weverse, June 2026). This item is only about city decorations, with no all-7 photo. Not posted.
+4. **Reserve training items (K-EYES, Chosunbiz, Chosun, News9live, Korea Daily).** Military service with no official statement (rule 15). Still held, same as the 2026-11-13 entries.
+5. **Singapore city events (Her World copy).** Same held Singapore item. No all-7 photo from a permitted source.
+6. **Weverse community post (Japanese title only).** Content unknown. Not posted.
