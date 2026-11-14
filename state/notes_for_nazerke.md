@@ -223,3 +223,9 @@ Held or skipped in this run:
 2. **Jin building purchase (Times Now).** Member's private property and finances. Not posted.
 3. **Weverse community post (Japanese title only).** Content unknown. Not posted.
 4. **Jimin reputation rankings (allkpop, Laodong.vn).** Comparison with other artists. Not posted.
+
+## 2026-11-14 run (fourth run, 10 candidates): one post queued
+
+1. **Queued: MMA 2026 Album of the Year for ARIRANG (candidate rss-Google_News_EN-CBMikwFB..., allkpop headline).** Confirmed this time. Soompi's Day 1 winners article (read in full, dated 14 Nov, Gocheok Sky Dome) lists "Album of the Year: BTS, ARIRANG". Soompi is the second outlet I read; allkpop and StarNews headlines are in the candidates but their bodies could not be read. The melon-channel photo card with the album title and seven members (tg-koreaworld111_57597, media/tg-koreaworld111_57597_0.jpg, "올해의 앨범" card, image_credit melon) is used as the cover. It has not been used before. Please check the post before approving if you want a second body source.
+2. **Not posted, same as the earlier runs:** Jin building (private property), Jimin rankings (comparison), aespa couple-tattoo story (personal life), Weverse community post (content unreadable).
+3. **Note on "MMA":** MMA here is the Melon Music Awards (Soompi: "Melon Music Awards 2026"), not MAMA. The earlier searches that returned MAMA results were wrong for this story.
