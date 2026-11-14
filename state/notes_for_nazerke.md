@@ -216,3 +216,10 @@ Held or skipped in this run:
 5. **Singapore National Gallery art trail (DANAMIC).** Same held Singapore item, no all-7 photo. Not posted.
 6. **Jimin ranking against GOT7 and ATEEZ members (Starnews).** Comparison with other artists. Not posted.
 7. **Weverse fan letter (Google News title only).** No readable content, so it cannot be verified. Not posted.
+
+## 2026-11-14 run (third run, 10 candidates): no posts queued
+
+1. **MMA 2026 Album of the Year for ARIRANG (tg-koreaworld111_57595, tg-koreaworld111_57597; Google News items from allkpop, StarNews, Times Now, Vietnam.vn).** Held: the claim is in the candidates, but WebSearch found no MMA 2026 results, and WebFetch of the Google News links returned no article text, so two outlets could not be confirmed. The melon account's post (already posted as tg-koreaworld111_57593) covers Stage of the Year and Global TOP10 only, not Album of the Year, so this would be a new award if confirmed. Photo ready if confirmed: tg-koreaworld111_57597 card (ARIRANG, all seven members, "올해의 앨범" MMA 2026 card, credit koreaworld111). To post, please check melon.com/mma or a named outlet; if that confirms it, the post can be written from the candidate with the card photo.
+2. **Jin building purchase (Times Now).** Member's private property and finances. Not posted.
+3. **Weverse community post (Japanese title only).** Content unknown. Not posted.
+4. **Jimin reputation rankings (allkpop, Laodong.vn).** Comparison with other artists. Not posted.

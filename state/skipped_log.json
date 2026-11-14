@@ -2498,5 +2498,55 @@
     "id": "tg-koreaworld111_57596",
     "reason": "filter: not about BTS",
     "run": "2026-11-14"
+  },
+  {
+    "id": "tg-koreaworld111_57595",
+    "reason": "MMA Album of the Year claim (aggregator repost): not verified by a second outlet via WebSearch and WebFetch; held, see notes_for_nazerke.md",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "tg-koreaworld111_57597",
+    "reason": "MMA Album of the Year (ARIRANG) claim, same story as 57595: not verified by two outlets; photo (MMA album card, all 7) available if confirmed; held",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMipwFBVV95cUxNTlRWNHFtb1ROZWlIVzFOU1lyNGwxUFhVOGxSZkJLUlRJRks2VWxHaGhiQWZjT0p4YU56Z1JtbGpfLXFoUmItR",
+    "reason": "Jin building purchase: member's private property and finances (rule 3)",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE1EcERqVjU1UlR0SEM0eWhES01uRFk5QnIwVEpISkI1dXRMNERNd3JWc0ZNZ0RNc21ZVXd6S2NQT0xSSXRHaUduS",
+    "reason": "Weverse community post: title only, content unreadable; cannot verify what it says",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiqwFBVV95cUxPLVppTVdTb1RJeGx0aUdxNmZaVDhVYUxudHhtSzEyTWFQR2RCWnJxYkJ4THFsSk5scHUzSFNneV9rZmV1Sl9JM",
+    "reason": "Jimin brand reputation ranking vs other boy group members: comparison with other artists (rule 3)",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiyAFBVV95cUxOUVRFdUdubFJrWmZHSmctaDhROGR2NjhhRGdsbnNqbmhjSHFnRlBGUnRqZGwwNlh5Y29TZ2ZKLWxNdU5CWkY4Y",
+    "reason": "Jimin reputation chart vs other boy group members: comparison with other artists (rule 3)",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikwFBVV95cUxQYmNXam8zQnlHMFNPSUV1S0VZMU1NcWFJcmdsdUxEdG1nWnJuOHVhQ0xnMm1PYVk2TlctZUd3aGppbHZHWjBaY",
+    "reason": "MMA Album of the Year claim (allkpop): not verified by a second outlet; held, see notes_for_nazerke.md",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9FRzRSaXFTU1pIU0RxQnNfZUViSjRITGFOMlE2azJpS0lPSmZfM1pGODZNaWJUTVdmV1BybW5oWHFWcU56VHVjQ",
+    "reason": "MMA Album of the Year claim (StarNews, absent from ceremony): not verified by a second outlet; held",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi5gFBVV95cUxONlUxdTJWT0h1LUl0TWtUdDdOU1JPRS1zR1N1LXpoakFWNjgxaVFIRGdJenJpdkstN3dkYU5Gamd0aWZ3YS1ke",
+    "reason": "Melon Day 1 winners list (Times Now): Daesang claim not verified by a second outlet; held",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMihAFBVV95cUxNeTZfLVJ4R2d2Um4wMG1IX2w4TVNpbWkwbjJHaXVrcVJBNFlJcTFIakFOLVQxMDJVb1ltbW1xRXRWN1pEMk9aa",
+    "reason": "Vietnam.vn MMA absent / awards item: same unverified Album of the Year story; held",
+    "run": "2026-11-14"
   }
 ]

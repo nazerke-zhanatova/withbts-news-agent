@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "id": "tg-koreaworld111_57595",
+    "platform": "telegram",
+    "handle": "@koreaworld111",
+    "tier": "trusted_fanbase",
+    "role": "aggregator",
+    "url": "https://t.me/koreaworld111/57595",
+    "text": "BTS взяли дэсан за Альбом года на ММА!",
+    "timestamp": "2026-11-14T12:30:42+00:00",
+    "videos": [],
+    "media": []
+  },
+  {
+    "id": "tg-koreaworld111_57597",
+    "platform": "telegram",
+    "handle": "@koreaworld111",
+    "tier": "trusted_fanbase",
+    "role": "aggregator",
+    "url": "https://t.me/koreaworld111/57597",
+    "text": "BTS взяли дэсан за Альбом года на ММА!",
+    "timestamp": "2026-11-14T12:43:10+00:00",
+    "videos": [],
+    "media": [
+      "media/tg-koreaworld111_57597_0.jpg"
+    ]
+  },
+  {
+    "id": "rss-Google_News_EN-CBMipwFBVV95cUxNTlRWNHFtb1ROZWlIVzFOU1lyNGwxUFhVOGxSZkJLUlRJRks2VWxHaGhiQWZjT0p4YU56Z1JtbGpfLXFoUmItR",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlRWNHFtb1ROZWlIVzFOU1lyNGwxUFhVOGxSZkJLUlRJRks2VWxHaGhiQWZjT0p4YU56Z1JtbGpfLXFoUmItRkpuSkdvT1FUNWRxaTlOcGRPQkFycHZjalFNWm1SSHhNdFNRcnBzY21HSV9KNTV6bVd6aFREbHJEaGttTGN0dlA1S0MtWnZaM0NsNFowNUwtMEhGYUFVb0duY3EyV1NzNA?oc=5",
+    "text": "Why Did BTS' Jin Rename His ₩9.6 Billion Seoul Building 'Jini'? Fans Have a Theory - International Business Times, Singapore Edition\n\nWhy Did BTS' Jin Rename His ₩9.6 Billion Seoul Building 'Jini'? Fans Have a Theory &nbsp;&nbsp; International Business Times, Singapore Edition",
+    "timestamp": "2026-11-14T05:40:36+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE1EcERqVjU1UlR0SEM0eWhES01uRFk5QnIwVEpISkI1dXRMNERNd3JWc0ZNZ0RNc21ZVXd6S2NQT0xSSXRHaUduS",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EcERqVjU1UlR0SEM0eWhES01uRFk5QnIwVEpISkI1dXRMNERNd3JWc0ZNZ0RNc21ZVXd6S2NQT0xSSXRHaUduSkxuME1sSFJRLUhTaWcyVUFqbTlnWVNv?oc=5",
+    "text": "BTS社区帖子 - I rewrote the English translat - Weverse\n\nBTS社区帖子 - I rewrote the English translat &nbsp;&nbsp; Weverse",
+    "timestamp": "2026-11-14T06:23:46+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiqwFBVV95cUxPLVppTVdTb1RJeGx0aUdxNmZaVDhVYUxudHhtSzEyTWFQR2RCWnJxYkJ4THFsSk5scHUzSFNneV9rZmV1Sl9JM",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVppTVdTb1RJeGx0aUdxNmZaVDhVYUxudHhtSzEyTWFQR2RCWnJxYkJ4THFsSk5scHUzSFNneV9rZmV1Sl9JMWJlbld6Q3k1VEFaX0Nqck10Tkc0ZTkyelZrZ3kzblJWUGxtaGI3YTY4SzJvOWZVSzdVT01YODRRVVBiTFRFc3k2OXE3SXVHV0UyTlJ4aVpNTk5FTjJPR0M5WUQxZ1drU0dnWlU?oc=5",
+    "text": "BTS’s Jimin tops November boy group member brand reputation rankings - allkpop\n\nBTS’s Jimin tops November boy group member brand reputation rankings &nbsp;&nbsp; allkpop",
+    "timestamp": "2026-11-14T07:52:07+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiyAFBVV95cUxOUVRFdUdubFJrWmZHSmctaDhROGR2NjhhRGdsbnNqbmhjSHFnRlBGUnRqZGwwNlh5Y29TZ2ZKLWxNdU5CWkY4Y",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUVRFdUdubFJrWmZHSmctaDhROGR2NjhhRGdsbnNqbmhjSHFnRlBGUnRqZGwwNlh5Y29TZ2ZKLWxNdU5CWkY4YUo4MS1qb0FhcTlET19BUkZLcGR2eUhjeERqMWVfbTNUemtSNVc0UG55NFlVR1lkczd5ZlU3dGQyWGkwdENSWDVoTXRNSzlJMFplbGxFSzEzYlozWFJadGZJU2ptNzFNMU81WkhIZ1ZmbnVMS2xiS3preHloemVxNmc4a0NuRlIzaA?oc=5",
+    "text": "Jimin of BTS leads the reputation chart for male group members in November - Laodong.vn\n\nJimin of BTS leads the reputation chart for male group members in November &nbsp;&nbsp; Laodong.vn",
+    "timestamp": "2026-11-14T10:44:09+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikwFBVV95cUxQYmNXam8zQnlHMFNPSUV1S0VZMU1NcWFJcmdsdUxEdG1nWnJuOHVhQ0xnMm1PYVk2TlctZUd3aGppbHZHWjBaY",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYmNXam8zQnlHMFNPSUV1S0VZMU1NcWFJcmdsdUxEdG1nWnJuOHVhQ0xnMm1PYVk2TlctZUd3aGppbHZHWjBaYzl5ZFpvUWNLWGxycUVBdmMyWEZsaFdFS24tSldFcFljeTFOWHNWUmJjNUFPaWoxQjFmQ2stWENJazc0dGFjNjE4Q1VudHJ1Qzl3bDA?oc=5",
+    "text": "BTS wins Album of the Year for “ARIRANG” at MMA2026 - allkpop\n\nBTS wins Album of the Year for “ARIRANG” at MMA2026 &nbsp;&nbsp; allkpop",
+    "timestamp": "2026-11-14T13:07:19+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9FRzRSaXFTU1pIU0RxQnNfZUViSjRITGFOMlE2azJpS0lPSmZfM1pGODZNaWJUTVdmV1BybW5oWHFWcU56VHVjQ",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FRzRSaXFTU1pIU0RxQnNfZUViSjRITGFOMlE2azJpS0lPSmZfM1pGODZNaWJUTVdmV1BybW5oWHFWcU56VHVjQ0pPLUFQRGg1d3hTRkZMV0NiME5nd3BQT3gwLS15d1hmaUhmVUVtbkFWeDUzVXY0aw?oc=5",
+    "text": "BTS Wins 'Album of the Year' at 'MMA 2026'.. Absent from Ceremony - 스타뉴스\n\nBTS Wins 'Album of the Year' at 'MMA 2026'.. Absent from Ceremony &nbsp;&nbsp; 스타뉴스",
+    "timestamp": "2026-11-14T13:09:42+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi5gFBVV95cUxONlUxdTJWT0h1LUl0TWtUdDdOU1JPRS1zR1N1LXpoakFWNjgxaVFIRGdJenJpdkstN3dkYU5Gamd0aWZ3YS1ke",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONlUxdTJWT0h1LUl0TWtUdDdOU1JPRS1zR1N1LXpoakFWNjgxaVFIRGdJenJpdkstN3dkYU5Gamd0aWZ3YS1keks3YlVKajRZWllqUGttQnhRaXBqLUYwaVlJN2c0aXhhV3RySy1aZ0toaEd2YkNWSGlXeHp6MDh1NlVlWG5oS2s4YXdDM3M5dUpMTjhsZTdGSllpN2VFcFhGNGo5d1ZZdUhCLURfYV9iTFFaSENfTjZ1YmxoMkRNODZKYlRhSG5UNkRQYkczQXZjYVcwa3ZJVXNZSzRqcW0zNFZSWndUd9IB6wFBVV95cUxQSmtwV3F3ekt3YVBzQkloOTdMcDhhSXRTdFRaU1ktTDBvUFZILXNqdElpRU9FM0VSRExyNzFXSUM5eGRJR1JibzNuMWo2YkJjMDBLOFFUaThrLVBzdWNkX0VsbF94UkVVQ1pXODFDMnJienhtWWJkM2VVeGt4NjNXMEJiLVhuSko2UDFCT3JKemVlWml2SE5zR2JfWThQblctOGRxMGxSZmZfcUhHOU5faVdUVlNMMmNCUWFfelc5QjNmQXA5LWdRdDlwUHQzSnNza0dKOWYwQ2k2Znl0ZzRTVEFuRWYtVC1VQ1Nr?oc=5",
+    "text": "Melon Music Awards 2026 Day 1 Winners List: BTS, aespa Bag Daesang; ATEEZ Win Big - Times Now\n\nMelon Music Awards 2026 Day 1 Winners List: BTS, aespa Bag Daesang; ATEEZ Win Big &nbsp;&nbsp; Times Now",
+    "timestamp": "2026-11-14T14:31:34+00:00",
+    "media": []
+  },
+  {
+    "id": "rss-Google_News_EN-CBMihAFBVV95cUxNeTZfLVJ4R2d2Um4wMG1IX2w4TVNpbWkwbjJHaXVrcVJBNFlJcTFIakFOLVQxMDJVb1ltbW1xRXRWN1pEMk9aa",
+    "platform": "rss",
+    "handle": "Google News EN",
+    "tier": "news_media",
+    "role": "original",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTZfLVJ4R2d2Um4wMG1IX2w4TVNpbWkwbjJHaXVrcVJBNFlJcTFIakFOLVQxMDJVb1ltbW1xRXRWN1pEMk9aanV5SW9IeUNwZ2VYYkJwbjJPZ2E3MGM4OVc0Vm1vTlRCbUtqUGdGNlZySHh2a011UHZrNXo0N1FmN3k2LVo?oc=5",
+    "text": "BTS will be absent from MMA 2026 but will still win a plethora of awards. - Vietnam.vn\n\nBTS will be absent from MMA 2026 but will still win a plethora of awards. &nbsp;&nbsp; Vietnam.vn",
+    "timestamp": "2026-11-14T15:24:27+00:00",
+    "media": []
+  }
+]
