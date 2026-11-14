@@ -491,5 +491,25 @@
       "instagram": "18108090587301627",
       "threads": "18291467029289819"
     }
+  },
+  {
+    "id": "tg-koreaworld111_57593",
+    "time": "2026-11-14T16:23+05:00",
+    "headline": "BTS MMA 2026-да екі марапат алды",
+    "category": "award",
+    "source_urls": [
+      "https://x.com/melon/status/2121534902034415873",
+      "https://t.me/koreaworld111/57593"
+    ],
+    "credits": [
+      "melon",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19422",
+      "instagram": "18089859062301134",
+      "threads": "18509887192098264"
+    }
   }
 ]
