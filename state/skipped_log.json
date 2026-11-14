@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57321",
-    "reason": "Namjoon Instagram stories link with emojis only, no verifiable news; personal content",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57320",
     "reason": "MMA 2026 Global Top10 nomination claim not confirmed by search; sources give conflicting vote dates; see notes_for_nazerke.md",
     "run": "2026-11-04"
@@ -2497,6 +2492,11 @@
   {
     "id": "rss-Google_News_EN-CBMiW0FVX3lxTFAtRUV0eTluODFGekdFaTQ4OVh2bHpfUDZrSnliV1FITWg5X0lQSkY4eUlJRVVRT2JfcHJDcl9tZ2RIcHZ6TDFLYUswY1FiZE4ycjJOUkpRUVlhcFk",
     "reason": "Weverse community post, title only with no readable content; cannot verify, not posted",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMingFBVV95cUxPQlpCa3g4d0g5NEVKaUgxSzJJZmtTQzhhdVlBZVpMX0ZHNG42Sk5ESFpaZl9BM1NiaDlCTzduRnNqVm5pblhWY",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-14"
   }
 ]
