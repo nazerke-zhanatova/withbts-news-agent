@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57322",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiW0FVX3lxTE1lX2xhS2xMRFdJa3lFSElPYnp6QmdORTNFRTNnMjBYczd3LVltQmRXMl9VTEpmaTdNUmp5bThXeFotYmpub0J1U",
     "reason": "filter: same story already looked at",
     "run": "2026-11-04"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-koreaworld111_57597",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE91YldoY1dLX2hZa01ZLWJTeTNKcmdtcmhhX1ZTUHhFbWo0NlliSkhybVpfbFhJZXYzSHBYQnNnTVNxUGJzLXZrS",
     "reason": "filter: same story already looked at",
     "run": "2026-11-14"
   }
