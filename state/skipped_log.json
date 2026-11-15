@@ -2498,5 +2498,45 @@
     "id": "tg-btsnewsru0_83346",
     "reason": "filter: same story already looked at",
     "run": "2026-11-15"
+  },
+  {
+    "id": "tg-koreaworld111_57603",
+    "reason": "MMA 2026 Best Male Group: already covered by posted tg-koreaworld111_57593 (two MMA awards, 14 Nov)",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-koreaworld111_57604",
+    "reason": "Duplicate of tg-koreaworld111_57603 (same MMA Best Male Group item)",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMinAFBVV95cUxQWWE0b2FUbkVGWi1CT0FzZ01OZS1yUUJ2VkNQX3ZFYjAyV2w3azhzNDFYVmZfQm4zVUJSV1I1SW1yMTVYd1BCe",
+    "reason": "Speculation about a couple tattoo linking a member with another artist: personal life and rumor (rule 3)",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE9zSXFjZHB1aGx1bWpWcHlWTm9NWk55LVZEVC1TSXNSOFlraXd0M214UHNid0FmR0dtdFVOaHBwZFI5VlBBZWJvT",
+    "reason": "Weverse community post headline about 'stop sabotaging' (fan-war style); no readable text, negativity (rule 3)",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE51bk1kZTJyRjJpQ2xBTTZWendkd0tzWUZuVzhhckpxZzBCVjc4bHBRTUNSc0FHRXdKTzN1WHhqUWZQeU10VmJYM",
+    "reason": "Jin plaque for 1 billion Spotify streams: the milestone was reported in August by several outlets, but the plaque ceremony is only in Starnews; not verified by a second outlet",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMid0FVX3lxTE1NQUo4MnpmR1BEYzdBeXdZaGVJeVZLcFJyd0xWWkdxT2hEbmdXSFl0X2hWYnBYTFMtS3QtWUlTcE82LV95M2JMN",
+    "reason": "'World's cutest person' ranking with a selfie (Starnews headline only): ranking/comparison, single outlet, not verified",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiiAFBVV95cUxPc01VYm9tRzVXVnJUYTF0cnlmaFhfVENleXZuVjRnbjJ1OWkzMExKdFgxX0w4bC1KeEV6Z2R5LWRZb2U3bHB0V",
+    "reason": "Best Producer at MMA 2026 for Arirang (Chosunbiz): WebSearch found no confirmation of the result; not posted, retry if confirmed",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiUEFVX3lxTE5naWlwdnRTd1VmRGZqUFhrb2o4dS03clZhOE1rcEp2VkY1UWtndm9Lcm91VjdBSlh2ekJxTjZmdTh6SmJYZ3ZQQ",
+    "reason": "Same Best Producer MMA 2026 story (Maeil Business): not confirmed by search; not posted, retry if confirmed",
+    "run": "2026-11-15"
   }
 ]
