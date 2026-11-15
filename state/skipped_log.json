@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57338",
-    "reason": "Duplicate of tg-koreaworld111_57331 (same Jin Instagram post); covered by the queued post",
-    "run": "2026-11-05"
-  },
-  {
     "id": "tg-koreaworld111_57261",
     "reason": "Jin and SUGA Incheon arrival livestream: arrival already posted (bts-return-incheon-1103)",
     "run": "2026-11-05"
@@ -2497,6 +2492,11 @@
   {
     "id": "rss-Google_News_EN-CBMiUEFVX3lxTE5naWlwdnRTd1VmRGZqUFhrb2o4dS03clZhOE1rcEp2VkY1UWtndm9Lcm91VjdBSlh2ekJxTjZmdTh6SmJYZ3ZQQ",
     "reason": "Same Best Producer MMA 2026 story (Maeil Business): not confirmed by search; not posted, retry if confirmed",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-koreaworld111_57617",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-15"
   }
 ]
