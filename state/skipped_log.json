@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57214",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-btsnewsru0_82901",
     "reason": "filter: same story already looked at",
     "run": "2026-11-04"
@@ -2497,6 +2492,11 @@
   {
     "id": "rss-Google_News_EN-CBMiXEFVX3lxTE03SjZxdGJJVnI5LVFjN3pnNWV1bjVtRFdiU0pjZHhRU2tKV1lCdUtBOXZhOGlhLXFMa2RtcTY5dmNKS0dGS0ZGU",
     "reason": "Weverse community post with title only ('a day well spent as ARMY'), content unreadable",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiiAJBVV95cUxNUWktczlSRjd0dGFibkNVbGFRY2NVTFpfVXpHRG9OSkFGVkQ1S0N1TjVNczBkU0pSZkNGWG9zcnNXMVd3QzdsM",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-15"
   }
 ]
