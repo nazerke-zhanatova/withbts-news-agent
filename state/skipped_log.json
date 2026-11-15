@@ -2498,5 +2498,55 @@
     "id": "tg-btsnewsru0_83355",
     "reason": "Record tallies (79 Daesang, Best Producer, MMA quote) only from fan channel; not verified by a second source, left out",
     "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83359",
+    "reason": "Members' MMA 2026 thank-you speech: reaction to the MMA awards already posted (digest-tg-koreaworld111_57605); no new news",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83360",
+    "reason": "Nicole (ARIRANG executive producer) Best Producer at MMA 2026: only this fan channel; WebSearch found no 2026 Best Producer result, so not verified",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83362",
+    "reason": "Kids' Choice Awards 2026 three wins: already posted as tg-koreaworld111_57599",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83366",
+    "reason": "V's Weverse thanks for the MMA 2026 awards: reaction to news already posted (digest-tg-koreaworld111_57605); no new news",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83368",
+    "reason": "V Weverse chat with a fan about food: personal, no news",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83369",
+    "reason": "V Weverse reply to a fan asking for a year-end stage: speculation, no confirmed event",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83370",
+    "reason": "V Weverse fan chat (Japanese fans, 'murasaki' remark): no news event, chit-chat only",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83372",
+    "reason": "RM Instagram story thanks for the MMA 2026 awards: reaction to news already posted (digest-tg-koreaworld111_57605); no new news",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83373",
+    "reason": "V Weverse chat with a fan about food and pizza: personal, no news",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83374",
+    "reason": "j-hope Weverse thanks for the MMA 2026 awards: reaction to news already posted (digest-tg-koreaworld111_57605); no new news",
+    "run": "2026-11-15"
   }
 ]
