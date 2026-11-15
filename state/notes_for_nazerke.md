@@ -229,3 +229,13 @@ Held or skipped in this run:
 1. **Queued: MMA 2026 Album of the Year for ARIRANG (candidate rss-Google_News_EN-CBMikwFB..., allkpop headline).** Confirmed this time. Soompi's Day 1 winners article (read in full, dated 14 Nov, Gocheok Sky Dome) lists "Album of the Year: BTS, ARIRANG". Soompi is the second outlet I read; allkpop and StarNews headlines are in the candidates but their bodies could not be read. The melon-channel photo card with the album title and seven members (tg-koreaworld111_57597, media/tg-koreaworld111_57597_0.jpg, "올해의 앨범" card, image_credit melon) is used as the cover. It has not been used before. Please check the post before approving if you want a second body source.
 2. **Not posted, same as the earlier runs:** Jin building (private property), Jimin rankings (comparison), aespa couple-tattoo story (personal life), Weverse community post (content unreadable).
 3. **Note on "MMA":** MMA here is the Melon Music Awards (Soompi: "Melon Music Awards 2026"), not MAMA. The earlier searches that returned MAMA results were wrong for this story.
+
+## 2026-11-15 run (10 candidates): no posts queued
+
+1. **Jin Weverse thanks ARMY for a new award (tg-koreaworld111_57598).** Official member post (screenshot dated 11.15 07:23 KST). Held for the photo rule: the only image is the screenshot itself, and no Jin-only photo from a permitted source was found. The award name is not in the candidate, so it cannot be named. If you send a photo of Jin from MMA 2026 or Weverse, this can go out.
+2. **Kids' Choice Awards 2026 wins (tg-koreaworld111_57599: Favorite Music Group, Album ARIRANG, Song SWIM).** Only the fan repost. WebSearch found the nominations (Khan, Soompi, Herald) but no winners list. Please check Nickelodeon's own account or site: if it posts the wins, the post can go out with the three cards (all seven members).
+3. **Jin "Don't Say You Love Me" 1 billion Spotify streams (StarNews plaque item).** The milestone itself is confirmed (Khan, Laodong; reached 18 Aug 2026). The plaque ceremony appears only in StarNews, so not posted.
+4. **Jungkook "world's cutest" ranking and selfie (StarNews).** No 2026 poll and no selfie found. Not posted.
+5. **Best Producer for ARIRANG (Chosunbiz and Maeil items).** Names conflict (Kim Hyun Jung vs Kim Hyeon-jeong), no MMA 2026 Best Producer result was found, and it is a staff award rather than member news. Not posted.
+6. **Three Weverse community posts (title only: GEFFEN "stop sabotaging" x2, "a day well spent as ARMY").** Content unreadable. The sabotage titles look like a conflict topic, so not used.
+7. **MMA 2026 shoutout video (Times Now).** Headline only. The MMA wins are already covered by the posted melon and Soompi posts.
