@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57212",
-    "reason": "CazeTV promo post, no concrete news (aggregator, vague)",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57217",
     "reason": "j-hope Instagram post (Sao Paulo): caption does not name who is pictured, photo not verifiable; held, see notes",
     "run": "2026-11-04"
@@ -2497,6 +2492,11 @@
   {
     "id": "rss-Google_News_EN-CBMi1wFBVV95cUxNbnJ3TG01b0VZclJ1NjZyR3BFWFdmTVRnMWU1aFg0MnRPNVdpNm9SbzFLcDBINFBpbTNxYUtzOXFDS3FDVVRMd",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-koreaworld111_57602",
+    "reason": "filter: not about BTS",
     "run": "2026-11-15"
   }
 ]
