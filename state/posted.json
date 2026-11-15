@@ -570,5 +570,29 @@
       "instagram": "18018809567977838",
       "threads": "18126218581937556"
     }
+  },
+  {
+    "id": "digest-tg-koreaworld111_57605",
+    "time": "2026-11-15T22:25+05:00",
+    "headline": "BTS MMA 2026-да алты марапат алды",
+    "category": "award",
+    "source_urls": [
+      "https://t.me/koreaworld111/57605",
+      "https://t.me/koreaworld111/57607",
+      "https://t.me/btsnewsru0/83348",
+      "https://t.me/koreaworld111/57609",
+      "https://t.me/koreaworld111/57610"
+    ],
+    "credits": [
+      "koreaworld111",
+      "btsnewsru0",
+      "melon"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19428",
+      "instagram": "18122143489975203",
+      "threads": "18174067627461310"
+    }
   }
 ]
