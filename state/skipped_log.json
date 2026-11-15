@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_82875",
-    "reason": "V Instagram stories update: only a story title, no content to verify",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57237",
     "reason": "J-hope and V Instagram story links only, no content to verify",
     "run": "2026-11-04"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "rss-Google_News_EN-CBMiyAFBVV95cUxOUVRFdUdubFJrWmZHSmctaDhROGR2NjhhRGdsbnNqbmhjSHFnRlBGUnRqZGwwNlh5Y29TZ2ZKLWxNdU5CWkY4Y",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE4yMWZyN2EyNHRzdnVHWU9EaVg1THpuOUllcE9YQzgtV0Z4WHF4aFZmcHc4Ul9PN01adXl3eXRVYmFDRnFfN01NN",
     "reason": "filter: same story already looked at",
     "run": "2026-11-15"
   }
