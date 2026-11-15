@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_82914",
-    "reason": "Jin and Yoongi return to Korea: already posted (bts-return-incheon-1103)",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-btsnewsru0_82875",
     "reason": "V Instagram stories update: only a story title, no content to verify",
     "run": "2026-11-04"
@@ -2498,5 +2493,10 @@
     "id": "rss-Google_News_EN-CBMihAFBVV95cUxNeTZfLVJ4R2d2Um4wMG1IX2w4TVNpbWkwbjJHaXVrcVJBNFlJcTFIakFOLVQxMDJVb1ltbW1xRXRWN1pEMk9aa",
     "reason": "filter: same story already looked at",
     "run": "2026-11-14"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiyAFBVV95cUxOUVRFdUdubFJrWmZHSmctaDhROGR2NjhhRGdsbnNqbmhjSHFnRlBGUnRqZGwwNlh5Y29TZ2ZKLWxNdU5CWkY4Y",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-15"
   }
 ]
