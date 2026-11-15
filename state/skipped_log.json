@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_82901",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
-    "id": "tg-btsnewsru0_82903",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-04"
-  },
-  {
     "id": "tg-koreaworld111_57217",
     "reason": "filter: same story already looked at",
     "run": "2026-11-04"
@@ -2496,6 +2486,16 @@
   },
   {
     "id": "rss-Google_News_EN-CBMiiAJBVV95cUxNUWktczlSRjd0dGFibkNVbGFRY2NVTFpfVXpHRG9OSkFGVkQ1S0N1TjVNczBkU0pSZkNGWG9zcnNXMVd3QzdsM",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMivgFBVV95cUxNelJhLThiYWFfdlA5N2R0ajFOVUVfMDh6d1NpaGhqdjBIZ0tMcy1nbFJKM3FxSldTNzRBRkxqbGNtWVdKRU1NN",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiyAFBVV95cUxQbUNaZjlubVJnX0s5bzZEaHNCMXRwT0lJcmdvM29YM0w1Z0p1cmYxeEpMOGRfOWxGSXcxQnlWQ2UwNmh2ZjlKN",
     "reason": "filter: same story already looked at",
     "run": "2026-11-15"
   }
