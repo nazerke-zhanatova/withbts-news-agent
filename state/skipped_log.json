@@ -2498,5 +2498,20 @@
     "id": "tg-koreaworld111_57617",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-15"
+  },
+  {
+    "id": "tg-koreaworld111_57608",
+    "reason": "RM Instagram story repost with only a thank-you line; no news content",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-koreaworld111_57611",
+    "reason": "V Weverse live-broadcast plan with no substantive news; trivial moment video only",
+    "run": "2026-11-15"
+  },
+  {
+    "id": "tg-btsnewsru0_83355",
+    "reason": "Record tallies (79 Daesang, Best Producer, MMA quote) only from fan channel; not verified by a second source, left out",
+    "run": "2026-11-15"
   }
 ]
