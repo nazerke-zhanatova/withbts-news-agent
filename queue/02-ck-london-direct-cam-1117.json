@@ -1,0 +1,70 @@
+{
+  "id": "ck-london-direct-cam-1117",
+  "category": "news",
+  "source_tier": "trusted_fanbase",
+  "publish_after": "2026-11-16T20:00:00+00:00",
+  "source_urls": [
+    "https://t.me/Crazy_Koreans/495025",
+    "https://t.me/Crazy_Koreans/495026",
+    "https://t.me/Crazy_Koreans/495027",
+    "https://t.me/Crazy_Koreans/495028",
+    "https://t.me/Crazy_Koreans/495029",
+    "https://t.me/Crazy_Koreans/495030",
+    "https://t.me/Crazy_Koreans/495031"
+  ],
+  "credits": [
+    "Weverse",
+    "Crazy_Koreans",
+    "alkznn"
+  ],
+  "image": "media/web_ck-london-direct-cam-1117_collage.jpg",
+  "image_url": null,
+  "image_credit": "Weverse",
+  "photo_members": [
+    "all"
+  ],
+  "carousel": [
+    "media/web_ck-london-direct-cam-1117_f0.jpg",
+    "media/web_ck-london-direct-cam-1117_f1.jpg",
+    "media/web_ck-london-direct-cam-1117_f2.jpg",
+    "media/web_ck-london-direct-cam-1117_f3.jpg",
+    "media/web_ck-london-direct-cam-1117_f4.jpg",
+    "media/web_ck-london-direct-cam-1117_f5.jpg",
+    "media/web_ck-london-direct-cam-1117_f6.jpg"
+  ],
+  "carousel_urls": [],
+  "card": {
+    "tag": "WEVERSE",
+    "headline": "«2.0» Direct CAM: Лондон",
+    "subline": "BTS WORLD TOUR «ARIRANG» IN LONDON, әр мүшенің тизері"
+  },
+  "telegram": "Лондон концертінің «2.0» Direct CAM тизерлері шықты! 🎥\n\nWeverse-те BTS WORLD TOUR «ARIRANG» IN LONDON концертінен «2.0» әнінің Direct CAM превью-тизерлері жарияланды. Әр мүше үшін жеке нұсқа бар: RM, Jin, SUGA, j-hope, Jimin, V және Jung Kook 💜\n\nWeverse: «Лондондағы стадионды толтырған құштарлық пен эмоцияны қайта сезініңіз».\n\nARMY, сіз алдымен кімнің Direct CAM-ын көресіз?",
+  "instagram": "Лондон концертінің «2.0» Direct CAM тизерлері шықты! 🎥\n\nWeverse-те BTS WORLD TOUR «ARIRANG» IN LONDON концертінен «2.0» әнінің Direct CAM превью-тизерлері жарияланды. Әр мүше үшін жеке нұсқа бар: RM, Jin, SUGA, j-hope, Jimin, V және Jung Kook 💜\n\nWeverse: «Лондондағы стадионды толтырған құштарлық пен эмоцияны қайта сезініңіз».\n\nARMY, сіз алдымен кімнің Direct CAM-ын көресіз?",
+  "threads": "Лондон концертінен «2.0» Direct CAM тизерлері Weverse-те шықты 🎥 Әр мүшенің жеке нұсқасы бар. ARMY, алдымен кімнің Direct CAM-ын көресіз?",
+  "x": "Лондон концертінен «2.0» Direct CAM тизерлері Weverse-те шықты 🎥 Әр мүшенің жеке нұсқасы бар. ARMY, алдымен кімнің Direct CAM-ын көресіз?",
+  "only_platforms": [
+    "telegram",
+    "instagram",
+    "threads"
+  ],
+  "tg_photos_from": [
+    "https://t.me/Crazy_Koreans/495025",
+    "https://t.me/Crazy_Koreans/495026",
+    "https://t.me/Crazy_Koreans/495027",
+    "https://t.me/Crazy_Koreans/495028",
+    "https://t.me/Crazy_Koreans/495029",
+    "https://t.me/Crazy_Koreans/495030",
+    "https://t.me/Crazy_Koreans/495031"
+  ],
+  "cover_collage": true,
+  "card_file": "media/card_ck-london-direct-cam-1117.jpg",
+  "carousel_files": [
+    "media/slide_ck-london-direct-cam-1117_0.jpg",
+    "media/slide_ck-london-direct-cam-1117_1.jpg",
+    "media/slide_ck-london-direct-cam-1117_2.jpg",
+    "media/slide_ck-london-direct-cam-1117_3.jpg",
+    "media/slide_ck-london-direct-cam-1117_4.jpg",
+    "media/slide_ck-london-direct-cam-1117_5.jpg",
+    "media/slide_ck-london-direct-cam-1117_6.jpg"
+  ]
+}
