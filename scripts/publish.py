@@ -390,6 +390,8 @@ def post_x(text, card, cfg, slides=None):
 
 PUBLISHERS = {"telegram": post_telegram, "instagram": post_instagram, "threads": post_threads, "x": post_x}
 VIDEO_PUBLISHERS = {"telegram": video_telegram, "instagram": video_instagram, "threads": video_threads}
+SCHED_GAP = 300         # seconds between two posts Nazerke scheduled by hand (state/scheduled)
+LAST_SCHED = [0.0]
 META_GAP = 130          # seconds between two Instagram (or two Threads) posts in one run
 LAST_META = {}
 
@@ -415,7 +417,10 @@ def main():
         files = sorted(pending.glob("*.json"))
         log(f"Publishing {len(files)} approved posts to: {', '.join(all_platforms)}")
     else:
-        files = sorted(QUEUE.glob("*.json"))[:limit]
+        queued = sorted(QUEUE.glob("*.json"))
+        # posts Nazerke scheduled by hand do not count against the per-run limit
+        sched = [q for q in queued if "publish_after" in (load_json(q, {}) or {})]
+        files = [q for q in queued if q not in sched][:limit] + sched
     if not files:
         log("Nothing to publish.")
     for f in files:
@@ -454,6 +459,12 @@ def main():
                       "Nothing was published. Open Claude and say \"ready, go\" to publish it, or ignore it.")
             continue
 
+        if post.get("publish_after") and not dry:
+            wait = SCHED_GAP - (time.time() - LAST_SCHED[0])
+            if LAST_SCHED[0] and wait > 0:
+                log(f"Waiting {int(wait)} s before the next scheduled post")
+                time.sleep(wait)
+            LAST_SCHED[0] = time.time()
         results = {}
         has_photo = bool(post.get("image"))
         for p in platforms:
