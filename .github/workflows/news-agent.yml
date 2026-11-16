@@ -14,7 +14,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 180
     # Account keys are given only to the steps that need them (collect and publish),
     # never to the Claude step that writes the texts.
     steps:
