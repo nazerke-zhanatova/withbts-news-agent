@@ -2498,5 +2498,50 @@
     "id": "tg-koreaworld111_57629",
     "reason": "filter: not about BTS",
     "run": "2026-11-16"
+  },
+  {
+    "id": "tg-btsnewsru0_83375",
+    "reason": "V Weverse live-broadcast teaser about phone battery and eating: personal chit-chat, no news",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-btsnewsru0_83383",
+    "reason": "Continuation of the V Weverse letter (tg-btsnewsru0_83377); covered by queue/tg-btsnewsru0_83377.json, not a separate post",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-btsnewsru0_83384",
+    "reason": "V Weverse reply to one fan (chit-chat about reading comments, going to sleep): personal, no news",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-btsnewsru0_83395",
+    "reason": "Jung Kook Instagram stories update with no caption text, photos only: content unclear, no news to write",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-btsnewsru0_83397",
+    "reason": "Hoseok and Jung Kook Instagram stories about the MMA 2026 wins: already covered by posted MMA award digest (digest-tg-koreaworld111_57605, 2026-11-15); repeat",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMisgFBVV95cUxONTI0YjM0c3hpZmpZYVp6bDBYM0pqME1Ya2ZGTThWUHdoU0lDbGZGaVQ5XzRySVhueEVoRWJaSGhZX2lnTnZET",
+    "reason": "Stanford Namjooning course (The Peninsula): same news as rm-stanford-namjooning-course, already posted 2026-11-08; repeat",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiiAFBVV95cUxNTGphTHJ0QkVRTWpvMkRSNGpSWVdCREY0eU9ZcTBoVnNVbEJaZVVJalRzT09KTFlnRzM1UWJBdldtU1pacDBxQ",
+    "reason": "Jin joke about a silkworm-pupae reward post (Chosunbiz only, one outlet): light joke, not news; needs two outlets",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiaEFVX3lxTFBNSVkycHV3YU1LdzExZWFjNFMwTWtQS0hFZ3hxaWMwMkZSZXRYVGxVRmlWZEFMZzhVcGMzc0ozaXQtdUlFSi1lT",
+    "reason": "Jin reaction to a 'Pudelegi' staff meme (The Korea Daily only): meme and joke, not news; single outlet",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi_gFBVV95cUxPSmpkWUFZNmlySDdrOEdSTFFVbjFfN2s2UlpSV2x6akVsbjJ3QVFFam5wd19KNk50MlkxalpTNmdGdGdrdnhSM",
+    "reason": "Times Now V OT7 year-end shows story: same news as tg-btsnewsru0_83377 (Korea Times confirms it), merged into that post; credits not repeated",
+    "run": "2026-11-16"
   }
 ]
