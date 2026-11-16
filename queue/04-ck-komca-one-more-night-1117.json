@@ -13,7 +13,7 @@
     "blogsocial1",
     "spring_yuliya"
   ],
-  "image": "media/web_ck-komca-one-more-night-1117_1.jpg",
+  "image": "media/web_ck-komca-one-more-night-1117_crop.jpg",
   "image_url": null,
   "image_credit": "blogsocial1",
   "photo_members": [
@@ -42,11 +42,5 @@
   "card_file": "media/card_ck-komca-one-more-night-1117.jpg",
   "carousel_files": [
     "media/slide_ck-komca-one-more-night-1117_0.jpg"
-  ],
-  "image_crop": [
-    0,
-    0,
-    640,
-    585
   ]
 }
