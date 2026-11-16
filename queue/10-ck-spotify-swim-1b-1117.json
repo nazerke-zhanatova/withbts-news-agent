@@ -16,18 +16,16 @@
     "bangtan7_stream",
     "mniani"
   ],
-  "image": "media/web_ck-spotify-swim-1b-1117_f1.jpg",
+  "image": "media/web_ck-spotify-swim-1b-1117_0.jpg",
   "image_url": null,
   "image_credit": "Crazy_Koreans",
   "photo_members": [
     "all"
   ],
   "carousel": [
-    "media/web_ck-spotify-swim-1b-1117_0.jpg"
+    "media/web_ck-spotify-swim-1b-1117_f1.jpg"
   ],
-  "carousel_urls": [
-    "https://cdn4.telesco.pe/file/lbnv_Q9Ac49ger2VQyaQHYFSFg5AG41kB-zEQhxfC_kjMNOu--24mMsHh-bvrNvoQm3DVL9T1-nnxIPfiiviSTCZbp9yec8Da3vrEy4W36JlVxRTkvTr-ZoYmuPT6aFqmpZBWHeGF9v7ii_ZDydxyPPcs-yfhaamb0ECPWnD372q-WqKADEXBxyA1u74rNQmM1vwcZzTq1xbh9W3YC65UgpGzQLiaavMRCwIX-t2ipBBVF6JFeQxdCbZWshGj8D698obIiUBSrBImJDZgxWwyjDlkTRP4RadBmamKnD95Ts2B0WX5_vzBLh6h4KK3IIxUwiowqmqx4_4Qx45gPmvXQ.jpg"
-  ],
+  "carousel_urls": [],
   "card": {
     "tag": "РЕКОРД",
     "headline": "SWIM: 1 миллиард тыңдалым",
@@ -41,10 +39,6 @@
     "telegram",
     "instagram",
     "threads"
-  ],
-  "tg_photos_from": [
-    "https://t.me/Crazy_Koreans/495166",
-    "https://t.me/Crazy_Koreans/495086"
   ],
   "card_file": "media/card_ck-spotify-swim-1b-1117.jpg",
   "carousel_files": [
