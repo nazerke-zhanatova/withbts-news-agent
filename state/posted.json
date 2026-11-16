@@ -594,5 +594,28 @@
       "instagram": "18122143489975203",
       "threads": "18174067627461310"
     }
+  },
+  {
+    "id": "tg-btsnewsru0_83377",
+    "time": "2026-11-16T16:27+05:00",
+    "headline": "V ARMY-ге алғыс хатын жазды",
+    "category": "news",
+    "source_urls": [
+      "https://www.koreatimes.co.kr/entertainment/k-pop/20261116/dont-say-weve-grown-distant-bts-v-explains-year-end-awards-absence",
+      "https://t.me/btsnewsru0/83377",
+      "https://t.me/btsnewsru0/83383"
+    ],
+    "credits": [
+      "V Weverse",
+      "btsnewsru0",
+      "The Korea Times",
+      "Xportsnews"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19429",
+      "instagram": "18129612770483066",
+      "threads": "17988948579090816"
+    }
   }
 ]
