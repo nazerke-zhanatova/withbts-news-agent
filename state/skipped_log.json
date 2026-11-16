@@ -1,60 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiiAFBVV95cUxNTlhROFVmWEVVemFzMDByOGxDYVdVUlRJWHhjbng5dk80Yzl1Z1VnaUhqX0R1WTBfdWVzM3lBbk1RNDU2SXlwU",
-    "reason": "Jin visiting an escape room with TXT Beomgyu: private outing framed as a 'date' in coverage; no official source; not posted",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMijgFBVV95cUxNVlBEdURSRHpfZG9WN21ldEVHQjFOMXlXdFBPSmM0WHhMQ3J5c1cydS14MEk1VUctUFhhRHpyNUQ1a3o2SVVBW",
-    "reason": "Same Jin escape room story (Chosunbiz); private outing, not posted",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTFA5VEJLNHc1M1M1bDRheGlJdm1iWUp6TE9yei1HdFZILTVxMTc2SjEtVWhmRDUzMXQ4QXV4cnRaSVhaaE9NU3d5d",
-    "reason": "Same Jin escape room story (The Korea Daily, 'date' framing); private outing, not posted",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiqwFBVV95cUxNSHJnRF94Zm1QRFRZa0VJcWs5T3RoYS1nemhLcEJSb1VzbDFpdWlqT1Q3R3pYUHVueWxKeW4zMHVONEJjanBvb",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMipAFBVV95cUxNMHQ0YWE1SGR5ZFFnZXJzV3c5OFV4VkU2Y3FBT0xTZXRWVzhOM0VmUHpET2FIQTdobEdtTzhuUHFUeFRjXzVBR",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiswFBVV95cUxNQm9oeW0zeXRlbXRyb1FVZ1Jtc3R5MEtaVktTMmxLWDlNcnF1MkhSZVhKMkMxTDZtem45Sy1Sc0xWYlVSaWhrVFk2aFhaNjZ2M3lwalZEVE5MLUtIMzZ5QTRKMHpqR3MxaThVdUs3dEVHaHM5bWt5bmNaZDFiRjdrUURKcVQzRl9Ucy1oQnhrTE9NRGhIY2MyLURhcU9UMUlNaExWcVBWX0JHMTdZLXBzVU91aw",
-    "reason": "BTS 'SWIM' copyright suit dropped (allkpop): legal news, no official statement (rule 15); already skipped 2026-11-05",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiY0FVX3lxTE9Lb01md1FJSTdEQWlMZzl1NDEwSi0tTkMweGluUUxQR1pFRWprUHpjeG00bXNWM2toZ2RkZ191X2NuWWJoekxlVkpOQTVxQ3NKclpaQzkyTmZsUUJ4ZnZQYXFGOA",
-    "reason": "BTS 'SWIM' lawsuit (The Korea Daily): legal news, no official statement (rule 15); already skipped 2026-11-05",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMivgFBVV95cUxQbXFKYnhhdXhHc3pUbTZnYUh1dXhZbmZGczJ5a3JXcHVYZmZfbmdUZGxCU05hdHVJcVFzQnl6ODU0NzZhbUJuMEgtRkZSRFlENlF1TkpManZ0cGZfQ1Rxc2xVZ1JtQU1ocWlRRjhfVFlSRXktQWJCODc0QnBtZ0x3M21USmhsY2hzdVN2TVFwWTlJWEtPR3hCSDF1MzFqQlE1Vm5SY091cW9fR1pDbFVoWHlDR1ZCYktzRWhYQnBR",
-    "reason": "BTS 'SWIM' lawsuit (International Business Times): legal news, no official statement (rule 15); already skipped 2026-11-05",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiywFBVV95cUxOSGZjMHNra1BwZ0RGYXlDSFI2dFBlNnhIaV90YXkxaTVYOGN6dXFUME5abV9QSTB1cXh4M05OV2R2b3g1X3hfY2lZS1hlM0hXTTM2bkJWZTFKeVE2eDFjSnF3N2RaaV9kZXpBWUJVdkhqTjYzZTM1YXZ3SVFVNnZfM2Z0X1prU1ZYdFRGa1puV1RHX1dabXUxRlZXd2VJaGRFUWpoemxqX1VLOUEyY1BoamY5UmI0c3Zuckh1ZzRQdGsxaV9BWFpxX25VY9IB0AFBVV95cUxQVWJhMTk2OHNVM3lFVXRjWkM4UHZDVUtVQlRSSC1GTzBwMDhvajM4YlRXVUNCNzQ2N051SXFPWEtRVlhud1VET2ZoQU9IM015eFVCOU1NMENjczZGUnhvOFZSb3N5dEpnZ2RLd0hwWThscEw0RF9Pa01aRW01bVdpY1ROYVBXa3ROQXRUQWgxYkhXY0hjYy1qSXNBM1Mtam5EMVpmdXlQS3lya0dwMzZuZVZMZnRPSHZqNklRX3JlNm9TSjF0SW4tOVNNYXc5MENB",
-    "reason": "BTS 'SWIM' lawsuit (WION): legal news, no official statement (rule 15); already skipped 2026-11-05",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiqAFBVV95cUxQeWJzbzZMSk1lTXkycUVwZ2VEN3JlZUtUbk5zWHZPX2E4Y2F5cEJSNExWNG1WSVZOenJ5R3N6U2pVOEFnbDFLa3pvaDF6VlRoUnY0ZFVudWRrYWpfSkYzaU5NeEw2S3R1UU80ODV2cU0zeGp6N2xpQ2hucTh4Z3RnRGhFd2pxcHZOLVprUHFXdVI5Rm9FTnk0dDJvV1pzZEhNREtvWXM5NF8",
-    "reason": "BTS 'SWIM' lawsuit (Female First): legal news, no official statement (rule 15); already skipped 2026-11-05",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi0wFBVV95cUxOVGQ1RWQ0cWdwTmF2OUxHWTJiSWxNd2FpbTVEUzdqSnVSYS1GMXRQaWtacTYtVWlySEd5VWYxTXA1MC1FRkxKUW5CWFQ1MlhSSmpfbTZnSlJhVzVMcU5oWVQxWXAwUXZMbmIweW5WZENFOURJVV9YelJjMGR4YU9jMG43V1VYVlpPUDhENDNSR0I2WDZMejh6SURvM19sUU5BeWwzX3JsTTJjbDVNcldrS2VmRk9LNUozejVIRmgtLXdlUWEtOHFNOUdPQVZzRmFqTVBn",
-    "reason": "BTS 'SWIM' lawsuit (Music Business Worldwide): legal news, no official statement (rule 15); already skipped 2026-11-05",
-    "run": "2026-11-06"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiXEFVX3lxTE1zZ2xKUGU0LU5za2VJM3RBLVE4WjFQeDU4QjRvZEdjSFE1dDZtRFE0X1NCUzBGakxJaV9YRm10OFJtcTNWazJwUEM1WnpCTjFHaklkMDlzV0hOWHpr",
     "reason": "ARIRANG Kaohsiung/Jakarta live viewing trailer (YouTube): same event as post rss-bts-live-viewing-kaohsiung-jakarta (2026-11-03); no verified new detail, no official trailer found for this event",
     "run": "2026-11-06"
@@ -2497,6 +2442,61 @@
   {
     "id": "rss-Google_News_EN-CBMiX0FVX3lxTE9LT0s1ci1CRWlTRnR3OHRXWEZobWIwOW1zbV9WV05rRlNFc1ZmTi1RUmU0N0tCb3NWVUtJeEhSWFdNaGE5RUtuV",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495330",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495338",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495339",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495347",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495348",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495349",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495350",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495351",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495352",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495353",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495354",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-16"
   }
 ]
