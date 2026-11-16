@@ -18,17 +18,11 @@
     "belovedeuphoria",
     "annjkkk"
   ],
-  "image": "media/web_ck-jk-calvin-klein-1117_f0.jpg",
   "image_url": null,
-  "image_credit": "Andrew Rothschild",
+  "image_credit": "About You",
   "photo_members": [
     "Jung Kook"
   ],
-  "carousel": [
-    "media/web_ck-jk-calvin-klein-1117_f1.jpg",
-    "media/web_ck-jk-calvin-klein-1117_f2.jpg"
-  ],
-  "carousel_urls": [],
   "card": {
     "tag": "CALVIN KLEIN",
     "headline": "Jung Kook × Calvin Klein",
@@ -43,14 +37,5 @@
     "instagram",
     "threads"
   ],
-  "tg_photos_from": [
-    "https://t.me/Crazy_Koreans/495057",
-    "https://t.me/Crazy_Koreans/495219",
-    "https://t.me/Crazy_Koreans/495235"
-  ],
-  "card_file": "media/card_ck-jk-calvin-klein-1117.jpg",
-  "carousel_files": [
-    "media/slide_ck-jk-calvin-klein-1117_0.jpg",
-    "media/slide_ck-jk-calvin-klein-1117_1.jpg"
-  ]
+  "tg_video_from": "https://t.me/Crazy_Koreans/495219"
 }
