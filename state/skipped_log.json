@@ -1,30 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE1zZ2xKUGU0LU5za2VJM3RBLVE4WjFQeDU4QjRvZEdjSFE1dDZtRFE0X1NCUzBGakxJaV9YRm10OFJtcTNWazJwUEM1WnpCTjFHaklkMDlzV0hOWHpr",
-    "reason": "ARIRANG Kaohsiung/Jakarta live viewing trailer (YouTube): same event as post rss-bts-live-viewing-kaohsiung-jakarta (2026-11-03); no verified new detail, no official trailer found for this event",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi2wFBVV95cUxNek1PSlZPR2owc0wzQkNpMVJQak03bDF3XzJWdFFYalBFdTdXT0MtS3lHUFdOcHpUbnUxOEV1ZDJLZ1JYSHYzYzJNWThXcm5ETzBnM3dvakNJYW9FOTlCTHB1NEItVzA2RmxNN3l3TTNORWRjbkxIX2tfcXdMNDlQenBiM0ctWjNxNVhBSWtZXzVWSEt3d1ZXdWpxMjQzalZSV3RPNHJuYVpzcHdPZDVBV19xYmphT2l3LS04MzFyd0tvRVZTeHdlbzR2WExsS29WMzRPVW9YdTcxRjQ",
-    "reason": "ARIRANG Kaohsiung/Jakarta cinema dates (BroadwayWorld, Nov 21 and Dec 29): same news as post rss-bts-live-viewing-kaohsiung-jakarta (2026-11-03); no new detail",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi_AFBVV95cUxOMUw4c0ZoOXd4b01LMkdjbjVJeGhHU1AzWnNGcHVMcWppeTBMMllVOG1EelU4dWhGUTEyUTZBV2tybkZBMTVXd3VxTmV6d1lrMndPOUxKcTVxUUtiSmRkclJ3ZjF2MDA3VnFBdWdaVUo2X3NFZXRBN1IzVDVhY21SOHYxa2ZLVkhPR0o3LWRWaFRldlhLdUUzQkZaUlR2YVZ1dWMwZ0ZmWmYxLW0yM1l3SXVuSkZKcFUyc0liVmVnbUlwWEZQREwzQy1KdTh0Z0EwOFhOS2xIWW5pUUVsM0RFVFBOU0tmSnlOdVdjUVd1T2pTXzVmT21iMEdUc0fSAYICQVVfeXFMTlVIMjlpMWFZTlFEMTNBRjBGOTl4a2JuTEUxaW5obUpvdVUxWUxfSGhOMFJtRmVRNEZ3aElrVUxYejRaRVFGUTJHN3B2RF9DYkY2Y3NyTlQyZmFpczhReHhxSXJFd1VpRFFaV29VbzY4Mkt2WmhVeFUwOUMyalRTeVNtdU5mRlhOQXUzTWFjZmRBRDZEektoUDVwbjNvWjc5djVVY0NmMzhtS2dmVzJDeFdGUm9PRms5dVlhX003UFAxWnRQelpJNU9VQWhfbEhlSzBQVnRZTWwwTlBUQnZQOXdWNTRab1ZmT3lpTGsxVTVTOW1IRkhtZkVKUkw1YkJOQ0VR",
-    "reason": "ARIRANG Kaohsiung/Jakarta teaser (Times Now): same event as post rss-bts-live-viewing-kaohsiung-jakarta (2026-11-03); no verified new detail, no official teaser found for this event",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMifkFVX3lxTE9rdGNTWGdEOFIxTkhud3k2TUs2am5XQ0ctOWRFWWdjd3JlRGZhY1k5d3FuWHlKU1BCc2N2Wl9WRUNfQV9SMmpfNDZueS0zeTFOY2tqaURGRDNILVpsN1YzMmFTaEVmeHRicW9CQUotWGoyM3BxdWdFa3VaMmlwdw",
-    "reason": "Jungkook 'unrecognizable visuals' (Koreaboo): appearance commentary from a non-listed blog, no official source (rules 1 and 3)",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "tg-btsnewsru0_82990",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-06"
-  },
-  {
     "id": "tg-btsnewsru0_83024",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-06"
@@ -2496,6 +2471,31 @@
   },
   {
     "id": "tg-Crazy_Koreans_495354",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495357",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495358",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495362",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495364",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495365",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-16"
   }
