@@ -390,7 +390,7 @@ def post_x(text, card, cfg, slides=None):
 
 PUBLISHERS = {"telegram": post_telegram, "instagram": post_instagram, "threads": post_threads, "x": post_x}
 VIDEO_PUBLISHERS = {"telegram": video_telegram, "instagram": video_instagram, "threads": video_threads}
-SCHED_GAP = 300         # seconds between two posts Nazerke scheduled by hand (state/scheduled)
+SCHED_GAP = 60         # seconds between two posts Nazerke scheduled by hand (state/scheduled)
 LAST_SCHED = [0.0]
 META_GAP = 130          # seconds between two Instagram (or two Threads) posts in one run
 LAST_META = {}
