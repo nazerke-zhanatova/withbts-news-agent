@@ -484,6 +484,11 @@ def fetch_remote_photos(post):
         got = download_photo(post["image_url"], MEDIA / f"web_{pid}_cover.jpg", domains)
         if got:
             post["image"] = f"media/{got.name}"
+    # "image_crop": [left, top, right, bottom] cuts the cover photo (e.g. to remove text on a fan graphic)
+    if post.get("image_crop") and post.get("image") and (ROOT / post["image"]).exists():
+        out = MEDIA / f"web_{pid}_crop.jpg"
+        Image.open(ROOT / post["image"]).convert("RGB").crop(tuple(post.pop("image_crop"))).save(out, "JPEG", quality=95)
+        post["image"] = f"media/{out.name}"
     # No fallback photo: the same photo must never be used twice (Nazerke's rule).
     if post.get("video_url") and not (post.get("video_file") and (ROOT / post["video_file"]).exists()):
         got = download_video(post["video_url"], MEDIA / f"video_{pid}.mp4", domains)
@@ -495,7 +500,7 @@ def fetch_remote_photos(post):
             post["image"] = f"media/{fr.name}"
     carousel = list(post.get("carousel") or [])
     for n, url in enumerate((post.get("carousel_urls") or [])[:9]):
-        if f"media/web_{pid}_{n}.jpg" in carousel and (MEDIA / f"web_{pid}_{n}.jpg").exists():
+        if f"media/web_{pid}_{n}.jpg" in carousel + [post.get("image")] and (MEDIA / f"web_{pid}_{n}.jpg").exists():
             continue  # already downloaded (card is being rendered again)
         got = download_photo(url, MEDIA / f"web_{pid}_{n}.jpg", domains)
         if got:
