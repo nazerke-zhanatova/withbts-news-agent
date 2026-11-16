@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE0zR0JRbW14NDktQkVhclRuQVlwM1ZlQnNVeXluSm94d0NuNmExTEt4RmdGb1lVa2ZQMERVZ3NtMG94Y2hJNUY2b",
-    "reason": "Jin MyOnePick app ranking (Starnews only): fan-vote app ranking, low news value, single outlet",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE1GdE1FektkS0lmT1dhQjVKVXhYYm1lNkJBazg3cDdLUzQxdlhRWHFYOWF5M1lWQkYydWVwVkdMSkc3WmkwOERJQ",
-    "reason": "Throwback 'Dynamite' press conference clip (SBS): old content, not news",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiZkFVX3lxTE1vSGdKTW5xcXN6MjJtMlNUbkM0Y0QwakVqWjN5NTl1d045MzI3UTJGYlA2Z1JLeVZ3dUlEV2c5MFhxSlJvZWJWZ",
-    "reason": "Throwback 'Dynamite' press conference clip (SBS): old content, not news",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMisgFBVV95cUxOcFZWeVdUTDNBc0hxQkJFOTZFdEU1aFdSOGZVUUJkRUJqQUdEYzh5Z21HTkpEeGFiTUlKaWl4NWJnX3RmOUpwQ",
-    "reason": "Tour extension and 2027 projects (Philstar): HYBE plans, investor-style reporting; already covered in hybe-tour-2027-repost",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "tg-koreaworld111_57365",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiakFVX3lxTFBfTUZQTzVuc0lEMGZiclo1Qjd6WXA5SnNaV0dVN09sZTdlUEZQOXhucVhzWXpqN3draUpBSnAyZE1NdDJNVkhJN",
-    "reason": "Old throwback (j-hope Dynamite press conference, SBS), not new news",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi7gFBVV95cUxPOXQ1T3FhekZBTUpwNERTdE11d2JLd3RpRlpWaFI4aVVqN1diM2J1WmZqRlpqYW9COU5zX2RLckFqcHFMa3hFT",
-    "reason": "Jungkook GOLDEN Spotify record: candidate says 155th week, but Starnews (29 Oct) and search give 154 weeks; figure unverified and no photo with a caption naming Jungkook; held",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiV0FVX3lxTE9PeWFHTU1xWS12c3VnRllRa09BaDBHRUtSbVZNXzd1MjA0aXoxMEFSXzlBMFFvTFFrRWtpNnU1UWNNdEFUX0F4R",
-    "reason": "Same Jungkook Spotify record story (Korea Herald); same unverified week count and no permitted photo; held",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi2AFBVV95cUxPYkZOd1A2SlpoV2hLOGJmSmIzd3BuMWd0NnU5dGNreG1jM1FkMVh6LXhSMEVKdUJxOXNlYTIxYnhCdndmYjVrM",
-    "reason": "Kaohsiung/Jakarta ARIRANG tickets: cinema live viewing already posted (rss-bts-live-viewing-kaohsiung-jakarta); ticket scarcity is not an official ticket notice",
-    "run": "2026-11-05"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMijgFBVV95cUxPb2hPMmhtZ0RUQndjRldQTEpLUXNoUkRvYVFJN3YwbUg2TVh0SjUxUkk4dktETTk1SHo0WDUzcllrVXA1ZWt0c",
-    "reason": "Legal news (BTS plagiarism lawsuits concluded): rule 15 needs an official statement; none read; no post",
-    "run": "2026-11-05"
-  },
-  {
     "id": "rss-Google_News_EN-CBMisgFBVV95cUxOZXdnU1FOMC1PN21KYkl2M1haV3ZhWVIxQVE4ZnlmUmdrR0JKcDRCUk55ZHFZLWdSdWRmTVZDUHY3OEtoMldyN",
     "reason": "Legal news ('Swim' copyright suit dropped, Korea Times): rule 15, no official statement; no post",
     "run": "2026-11-05"
