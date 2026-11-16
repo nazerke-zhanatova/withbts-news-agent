@@ -458,8 +458,8 @@ def fetch_remote_photos(post):
     if post.get("tg_video_from") and not post.get("video_url"):
         imgs, vids = telegram_media(post["tg_video_from"])
         if vids:
-            post["video_url"] = vids[0]
-        if imgs and not post.get("image_url") and not post.get("image"):
+            post["video_url"] = vids[0]  # the card photo is then taken from the video itself (Telegram's thumbnail is tiny)
+        elif imgs and not post.get("image_url") and not post.get("image"):
             post["image_url"] = imgs[0]
     if post.get("tg_photos_from") and not post.get("carousel"):
         s0 = settings()
@@ -505,9 +505,38 @@ def fetch_remote_photos(post):
         out = make_collage(post["carousel"], MEDIA / f"web_{pid}_collage.jpg")
         post["image"] = f"media/{out.name}"
         log(f"  cover collage made from {len(post['carousel'])} photos")
+    if not (post.get("image") and (ROOT / post["image"]).exists()) and post.get("carousel"):
+        post["image"] = post["carousel"].pop(0)  # no cover given: the first photo becomes the cover
+        log("  first carousel photo used as the cover")
+
+
+def release_scheduled():
+    """Posts Nazerke scheduled by hand wait in state/scheduled/ with "publish_after" (ISO time with offset).
+    At most one due post moves into the queue per run, so they go out one by one, not all at once."""
+    import shutil
+    from datetime import datetime, timezone
+    sched = ROOT / "state" / "scheduled"
+    if not sched.exists():
+        return
+    QUEUE.mkdir(exist_ok=True)
+    if len(list(QUEUE.glob("*.json"))) >= int(settings().get("max_posts_per_run", 3)):
+        return
+    now = datetime.now(timezone.utc)
+    for f in sorted(sched.glob("*.json")):
+        post = load_json(f, None) or {}
+        try:
+            due = datetime.fromisoformat(post.get("publish_after") or "2000-01-01T00:00:00+00:00")
+        except ValueError:
+            due = now
+        if due <= now:
+            shutil.move(str(f), str(QUEUE / f.name))
+            log(f"Scheduled post released into the queue: {f.name}")
+            return
 
 
 def main(paths):
+    if not paths:
+        release_scheduled()
     files = [Path(p) for p in paths] or sorted(QUEUE.glob("*.json"))
     MEDIA.mkdir(exist_ok=True)
     for f in files:
