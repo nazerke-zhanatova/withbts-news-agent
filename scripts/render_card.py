@@ -512,15 +512,13 @@ def fetch_remote_photos(post):
 
 def release_scheduled():
     """Posts Nazerke scheduled by hand wait in state/scheduled/ with "publish_after" (ISO time with offset).
-    At most one due post moves into the queue per run, so they go out one by one, not all at once."""
+    Every due post moves into the queue; publish.py then posts them SCHED_GAP seconds apart."""
     import shutil
     from datetime import datetime, timezone
     sched = ROOT / "state" / "scheduled"
     if not sched.exists():
         return
     QUEUE.mkdir(exist_ok=True)
-    if len(list(QUEUE.glob("*.json"))) >= int(settings().get("max_posts_per_run", 3)):
-        return
     now = datetime.now(timezone.utc)
     for f in sorted(sched.glob("*.json")):
         post = load_json(f, None) or {}
@@ -531,7 +529,6 @@ def release_scheduled():
         if due <= now:
             shutil.move(str(f), str(QUEUE / f.name))
             log(f"Scheduled post released into the queue: {f.name}")
-            return
 
 
 def main(paths):
