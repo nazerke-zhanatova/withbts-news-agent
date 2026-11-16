@@ -28,6 +28,7 @@ Stage names stay in Latin letters. Real names in Kazakh only if the source uses 
 
 | English | Kazakh |
 |---|---|
+| member, BTS member (Nazerke, 17 Nov 2026) | мембер, BTS мембер (мемберлер, мемберлермен, мембердің). Never мүше, мүшесі, мүшелер |
 | comeback | камбэк |
 | album | альбом |
 | single | сингл |
