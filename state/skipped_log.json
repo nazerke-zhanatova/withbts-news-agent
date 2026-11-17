@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMipAFBVV95cUxNMW1xT0h6dzhMN05IRExldFpVb2c3eWtsaXhScmRrbDd4QWdIRDZmdGZpSlhYcmhTRWUzQlZoMDlLaEJuelpxQ",
-    "reason": "ARIRANG Italy FIMI platinum: confirmed by Daily Sports and STARNEWS (Nov 4), but no usable all-members photo: source photos are on domains not in photo_domains, and members in the STARNEWS photo cannot be confirmed. Retry if a photo turns up",
-    "run": "2026-11-06"
-  },
-  {
     "id": "rss-Google_News_EN-CBMijAJBVV95cUxOUXNJOTVTY2tQOWFWY25fS0s1X2F6aXRlWDNHa3JvMTdkODdOTW96M05YdXVPY0VhQ0FYZV8wYS1GcHFwWjduM",
     "reason": "Duplicate: Kaohsiung and Jakarta live viewing already posted (rss-bts-live-viewing-kaohsiung-jakarta, 2026-11-03)",
     "run": "2026-11-06"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_495519",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495523",
+    "reason": "filter: not about BTS",
     "run": "2026-11-17"
   }
 ]
