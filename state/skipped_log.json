@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57379",
-    "reason": "Brand reputation ranking (#1 among male groups for November 2026) reported only by the fan channel; no second outlet found, and the November 2026 ranking itself was not found in search; no post",
-    "run": "2026-11-07"
-  },
-  {
     "id": "tg-koreaworld111_57381",
     "reason": "MAMA 2026 second-round voting instructions: already posted as mama-2026-vote-round2, repeat",
     "run": "2026-11-07"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_495606",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495608",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-17"
   }
