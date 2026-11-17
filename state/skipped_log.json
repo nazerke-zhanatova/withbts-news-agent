@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiO0FVX3lxTE9KTTN6T3dBZ2tMTUJZOV9jZ0lZN21TVjljc3F3dXhIenJzdHRMTG5kQUg0amFpVHlXTmtR",
-    "reason": "Duplicate of the height gossip item (Howl.Link copy); gossip, not news",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiYEFVX3lxTFA4b1owcE5QeG5zOVB2YWR0YnR4dnc3R05ZOHVORk9vVXMwMTZSRVdidnZRQ1pvMm9ic3E0dk1pSXVLMl9mbXpTdW03Y0I2NXJpRlJzb2lCYm5FNFpPdkpzWg",
-    "reason": "Weverse Jimin post: headline text only, post content unreadable and no matching Weverse post found by WebSearch; cannot verify",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5Wd3FaNTN3U19wNFM0cWJhdWpDNFZOUnlmYzJBUEVLVUVhMDhremljRDZlZU5lMXV5QnRXVEpCcDFKSm1pZFFZd",
-    "reason": "Jin 'Brazil AMA' headline (Starnews only): single outlet, WebSearch found no matching event; not verified",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMid0FVX3lxTE5hYjZ0X2Z1RXRfcVZkUGh4am8zYnkyaEhiY0s1ZHd0em9LTmVObUpHdjNGNlQwSldlTzRnVG9VbnNfZ2RkV1pwe",
-    "reason": "Jung Kook Graff campaign: same news as digest-tg-btsnewsru0_82934 already posted 2026-11-05",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5EYndydFVIdVQxZDlWdW5CVkE2NnZaWUV6cVI2bU5BWTNBZ1dHTzRCSnZ0dFIweVc2Zjd3bmNTUmtkRUNKcGlTTjh4MGh4WUhrUGpBcmlQRnpBMHNHYVIwVGgtaFhrQUd1b0ZveTNWV09Fd1dNX09JdQ",
-    "reason": "Jimin 'K-pop King 8th year': only one outlet; WebSearch found no 2026 'K-pop King' result, only dance/other polls; not verified",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiiwFBVV95cUxQSElnNC1YTWtFUUM1b1p3VEVkeE9YbldvLWVtWU0wRWhNYzUzQnBXSFJZeXlUeTI3dDZYY3NNdjdHcFNwV0QyR",
-    "reason": "Dating rumor (Jin and TXT's Beomgyu date): personal life, rule 3",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE11a1NZcjl5aWltV1RrYWxpbmR5b2RQUUgwWnl1TUcwYzJfdVppRkpNaEY5Rm9HQzBRVDdXZzB3c2U3SXhWc1BnTE42MEs0QlhmUjdVdFdRVzRFdFczcXF5Yi1rVmYtQkhFQUxreEdsdjV6cFB2cV9WaA",
-    "reason": "Chart/ranking list placing BTS against ATEEZ and CORTIS: comparison with other artists, rule 3",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "tg-koreaworld111_57378",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE9iQWhNRktUcG52bFZqd3NMb2VqTzlrR3dobldsT0tyNFh6MjEzbVZnVGtXYXhSVFYzVnd5UVdDX2pYTDgtVVZfb",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE5NcGstcFlVUFdUMXIteG81SlQ4OFlpYnRSYlgtWWJkTkY0VWRXRk82OTBjdkFIQ1RBMVo3TWxiUVhoN1BhY2s4c",
-    "reason": "Weverse community post headline only ('As we begin the countdown'); post text unreadable and no second outlet describes it, so the news cannot be verified",
-    "run": "2026-11-07"
-  },
-  {
     "id": "rss-Google_News_EN-CBMizwFBVV95cUxQQkpsRzRKcUhYcmZlVi10REJUVW5ibEM3UzE1VXQ3ZUd6aEY3T3VNcENLVjhKSVJVMmdqamNST2dQTGRqVlFiU",
     "reason": "Legal news (SWIM copyright suit): headline claims the songwriters dropped the suit, but searches show only the label was dropped while the case is pending; rule 15 needs an official statement, none read; no post",
     "run": "2026-11-07"
