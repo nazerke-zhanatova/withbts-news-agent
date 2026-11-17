@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMizwFBVV95cUxQQkpsRzRKcUhYcmZlVi10REJUVW5ibEM3UzE1VXQ3ZUd6aEY3T3VNcENLVjhKSVJVMmdqamNST2dQTGRqVlFiU",
-    "reason": "Legal news (SWIM copyright suit): headline claims the songwriters dropped the suit, but searches show only the label was dropped while the case is pending; rule 15 needs an official statement, none read; no post",
-    "run": "2026-11-07"
-  },
-  {
     "id": "rss-Google_News_EN-CBMitAFBVV95cUxPWTNmWHVGRVRzUnJiQVZsc2tHWFNSYVc1dGpqMkU1d204TXl0dkhTZXFZOExrX0toUmxTOTM5d1Z2U2RRaTVsR",
     "reason": "Jimin 'King of K-pop' eighth year (King Choice): two searches found no 2026 King of K-pop result, claim unverified; no post",
     "run": "2026-11-07"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_495558",
     "reason": "channel admin recruitment, not news",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-koreaworld111_57666",
+    "reason": "filter: not about BTS",
     "run": "2026-11-17"
   }
 ]
