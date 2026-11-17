@@ -239,3 +239,16 @@ Held or skipped in this run:
 5. **Best Producer for ARIRANG (Chosunbiz and Maeil items).** Names conflict (Kim Hyun Jung vs Kim Hyeon-jeong), no MMA 2026 Best Producer result was found, and it is a staff award rather than member news. Not posted.
 6. **Three Weverse community posts (title only: GEFFEN "stop sabotaging" x2, "a day well spent as ARMY").** Content unreadable. The sabotage titles look like a conflict topic, so not used.
 7. **MMA 2026 shoutout video (Times Now).** Headline only. The MMA wins are already covered by the posted melon and Soompi posts.
+
+## 2026-11-17 run (10 candidates): one post queued
+
+Queued: `queue/tg-Crazy_Koreans_495512.json`. BTS THE CITY ARIRANG Singapore, the held item from several earlier runs. Confirmed now by the BigHit Music repost (in the candidate) and the Weverse notice 40721 (found by WebSearch, with Korea JoongAng Daily, Khan, Time Out and Live Nation results). Concert dates 17, 19, 20 and 22 December at the Singapore National Stadium. No concert times are given in the sources, so none are written. The photo is the candidate's group photo of seven members in suits (tg-Crazy_Koreans_495512_0.jpg, image_credit Crazy_Koreans, photo_members all). Please confirm the photo before approving: its owner and date are not stated in the candidate.
+
+Held or skipped in this run:
+1. **Spotify 200M streams list (tg-koreaworld111_57633).** Trusted fanbase aggregator. Not posted as a digest because the only candidate photo is a BTS FESTA 2026 group photo that I could not check for closed eyes, and the cover rule forbids that. Please send an approved all-7 photo if you want this digest.
+2. **Billboard Global Excl. US chart, SWIM #10 (tg-Crazy_Koreans_495506).** The candidate's image is the Billboard chart graphic (dated 21 Nov). WebSearch found no coverage of that chart, so it is held: no second outlet and no member photo.
+3. **Spotify charts, ARIRANG #2 (tg-Crazy_Koreans_495513).** Only a chart graphic, no member photo. Held.
+4. **Weverse merch pre-order, ISLAND IN THE SEOM (tg-Crazy_Koreans_495508).** Only a Russian fan-channel copy with times in Moscow time. WebSearch found no official notice. Its candidate image is the Weverse logo, so there is no member photo. Not posted. Please check the Weverse notice directly if you want it.
+5. **Kaohsiung merch pickup (tg-Crazy_Koreans_495509).** Same as item 4, logistics only. Not posted.
+6. **Airport departure livestreams (tg-koreaworld111_57634, tg-Crazy_Koreans_495504, tg-Crazy_Koreans_495510).** Travel coverage of flights to Taiwan and Kaohsiung. Skipped under rule 3 (private flights).
+7. **HYBMRCH x Weverse Shop repost (tg-Crazy_Koreans_495503).** No readable details in the candidate. Skipped.
