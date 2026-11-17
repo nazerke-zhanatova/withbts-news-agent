@@ -1,20 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9FMXRkZGo2b3J6RXU3SE5NUmZVaGJsVHZPNHNNanV5RExjY19oQklzcUJtLUhXMXU5dTFQUE5EeV9CY0FLWm1xZ",
-    "reason": "Jungkook 'Two Faces' holiday photoshoot (K-EYES): single headline, WebSearch could not confirm the shoot or a second outlet; no permitted photo",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMikwFBVV95cUxPVm5iVm1FQ18yZF91OTJtVGwxWnQ1VWRwUzVNdERMRkM5eF96SG40N3JUSVgtS1VxMXBhbHIxUFZTdmFMQVFtb",
-    "reason": "Negativity: hate aimed at a member after a photo with another idol (Koreaboo); gossip, not news",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiuAFBVV95cUxPMHlPaWM1bE5tQ0NIVE9IbFVYLXVqQnZLdE9pQWpVanJpRDJ4LXZfS1BBM3ZiVVRqSk45Y01wdnpmRzVDY2luU",
-    "reason": "Kaohsiung/Jakarta cinema screenings: same news as rss-bts-live-viewing-kaohsiung-jakarta, already posted 2026-11-03",
-    "run": "2026-11-07"
-  },
-  {
     "id": "rss-Google_News_EN-CBMikgFBVV95cUxQNjFMME9EdzBrdjRxY0hneUs5UjlacXJudklXSzRqMlBpOEpCa3RabG15YnNaWDF4bWticFg3cWhxc2xMRnN0Y",
     "reason": "Gossip: member's height debated after a photo with another idol; comparison with other artists, not news",
     "run": "2026-11-07"
@@ -2496,6 +2481,21 @@
   },
   {
     "id": "tg-koreaworld111_57646",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495585",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495586",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495587",
     "reason": "filter: not about BTS",
     "run": "2026-11-17"
   }
