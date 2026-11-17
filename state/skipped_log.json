@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83057",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-06"
-  },
-  {
     "id": "tg-btsnewsru0_83063",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-06"
@@ -2498,5 +2493,10 @@
     "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5wUmptT3g0ZDMzaDhrOGZKQXMycVAxT0R3bmE5N3hlZkg0bGdkRFZVM18zZk81bk0tbG1jbUdDM2QwU0Q4ZmtlS",
     "reason": "filter: same story already looked at",
     "run": "2026-11-16"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495507",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-17"
   }
 ]
