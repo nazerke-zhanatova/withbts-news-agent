@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57372",
-    "reason": "Same Calvin Klein news as tg-btsnewsru0_83075; photos duplicate the carousel set",
-    "run": "2026-11-06"
-  },
-  {
     "id": "tg-koreaworld111_57371",
     "reason": "SWIM stage cam (iHeartRadio, Sept 2026): Weverse link confirmed but no direct video address, and no photo showing identifiable members that passes the photo rules",
     "run": "2026-11-06"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_495513",
     "reason": "aggregator: Spotify chart graphic (ARIRANG #2 Top Albums Global). Held for digest: no member photo in the candidate and no all-7 photo verified",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495515",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-17"
   }
 ]
