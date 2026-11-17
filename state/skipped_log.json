@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMitAFBVV95cUxPWTNmWHVGRVRzUnJiQVZsc2tHWFNSYVc1dGpqMkU1d204TXl0dkhTZXFZOExrX0toUmxTOTM5d1Z2U2RRaTVsR",
-    "reason": "Jimin 'King of K-pop' eighth year (King Choice): two searches found no 2026 King of K-pop result, claim unverified; no post",
-    "run": "2026-11-07"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiZEFVX3lxTE9jWDJ3WF9UcEwwY2JDNjVoX0NrOW9BSUVoeTBvUVhfMXNWR2VOSG85eFVQYmx4MTU5XzZxU00wekNBeU5ERFh2T0FEVmNyMzVOdk5VRnY2QlVTVXhaZlV3bkxkV3Q",
     "reason": "Tide Newsroom headline: no connection between Tide and BTS found in search, source unclear; no post",
     "run": "2026-11-07"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-koreaworld111_57666",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-btsnewsru0_83410",
     "reason": "filter: not about BTS",
     "run": "2026-11-17"
   }
