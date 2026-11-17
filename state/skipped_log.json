@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9CU0ZhWENRZ1JDU19SZWdZSlo4LXQ2YnNpbTY1V1JkY3pWaWJQVklYRTBZenAta1QzMjNsajNlYVQ4QllvV0dEeTRsVVFGOC1WU2RSV3NMVHlZTHhEWVRoQkM4d0ZZWUFneUVZalppRF9KQUlReV9DbA",
-    "reason": "Headline only (Star News ranking '1st Rescene, 2nd BTS, 3rd Im Young-woong'), no context to verify or write from",
-    "run": "2026-11-06"
-  },
-  {
     "id": "rss-Google_News_EN-CBMid0FVX3lxTFBwQkJ3dG4xOHQyX0VpM0xfOHl3NUVnSW5HVXFUU3BySE1KTjlEdFNWT01VZkIwNDMzMFEyWHJYNE9RaDdMYlBnU",
     "reason": "Jin spending time with Beomgyu (private outing): personal life, not posted",
     "run": "2026-11-06"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_495545",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-koreaworld111_57638",
     "reason": "filter: not about BTS",
     "run": "2026-11-17"
   }
