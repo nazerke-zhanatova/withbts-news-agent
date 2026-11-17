@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMid0FVX3lxTFBwQkJ3dG4xOHQyX0VpM0xfOHl3NUVnSW5HVXFUU3BySE1KTjlEdFNWT01VZkIwNDMzMFEyWHJYNE9RaDdMYlBnU",
-    "reason": "Jin spending time with Beomgyu (private outing): personal life, not posted",
-    "run": "2026-11-06"
-  },
-  {
     "id": "rss-Google_News_EN-CBMipAFBVV95cUxNMW1xT0h6dzhMN05IRExldFpVb2c3eWtsaXhScmRrbDd4QWdIRDZmdGZpSlhYcmhTRWUzQlZoMDlLaEJuelpxQ",
     "reason": "filter: same story already looked at",
     "run": "2026-11-06"
@@ -2497,6 +2492,61 @@
   {
     "id": "tg-koreaworld111_57638",
     "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495555",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495514",
+    "reason": "Business news: HYBE strategic partnership with CAA (rule 3); aggregator copy of a Billboard report",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495516",
+    "reason": "Private outing: Taehyung at a restaurant, shared by the restaurant owner's personal account (rule 3); not official or trusted news",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-koreaworld111_57635",
+    "reason": "Fan predictions for MAMA 2026, not news; repeats the MAMA vote item already posted",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495520",
+    "reason": "Passing remark by TXT on MTV about possible future collaboration with BTS: speculation, not BTS news",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495521",
+    "reason": "j-hope story with a brand/artist tag and no caption or source link; meaning unclear and unverifiable (rule 2)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-koreaworld111_57637",
+    "reason": "j-hope Instagram story linked via a fan account (uarmyhope), no text; account and content not verifiable",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495524",
+    "reason": "Graff Tokyo event outfit coverage: same Graff event already posted as jk-vogue-korea-graff-tokyo (2026-11-11); outfit styling adds no new fact",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495526",
+    "reason": "Kaohsiung airport purple decoration and photo zone: fan-channel only; WebSearch found no second outlet; held (rule 1)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495532",
+    "reason": "Kaohsiung purple airship: fan-channel only; WebSearch found no confirmation from any second outlet (rule 1)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495536",
+    "reason": "Kaohsiung city purple lighting: fan-channel repost of a travel blogger's video; no second outlet found; city-purple detail partly covered by ck-kaohsiung-guide-1117",
     "run": "2026-11-17"
   }
 ]
