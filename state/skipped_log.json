@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMi7gFBVV95cUxQNmVYc3NFaDNJYWg1WU9TMk1lNTlQVjhVOFlEbHhJd1UxbmtINHlKVnVSd1RMWDhvc19zZXFqRnJYblZGVDhjR",
-    "reason": "Jungkook 'ring' TVC (Times Now): could not confirm with a second outlet; no matching campaign found",
-    "run": "2026-11-06"
-  },
-  {
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE9CU0ZhWENRZ1JDU19SZWdZSlo4LXQ2YnNpbTY1V1JkY3pWaWJQVklYRTBZenAta1QzMjNsajNlYVQ4QllvV0dEeTRsVVFGOC1WU2RSV3NMVHlZTHhEWVRoQkM4d0ZZWUFneUVZalppRF9KQUlReV9DbA",
     "reason": "Headline only (Star News ranking '1st Rescene, 2nd BTS, 3rd Im Young-woong'), no context to verify or write from",
     "run": "2026-11-06"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_495539",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495545",
+    "reason": "filter: not about BTS",
     "run": "2026-11-17"
   }
 ]
