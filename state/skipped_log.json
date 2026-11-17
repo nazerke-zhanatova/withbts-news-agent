@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_495591",
     "reason": "filter: not about BTS",
     "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495538",
+    "reason": "aggregator: J-Hope sneaker/game brand collab; only photo is a brand ad graphic (no member photo); single relay source",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495540",
+    "reason": "crew travel and staff arrival details: private schedule, not member news",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495546",
+    "reason": "candid restaurant visit (private place), single relay of lifestyle media",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495547",
+    "reason": "channel promotion (MAX), not news",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495548",
+    "reason": "charity concert not BIGHIT/HYBE event; tickets via non-official center account and agency, no official source (rule 16)",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495552",
+    "reason": "V photo-booth post with a non-member actor, private hangout; caption platform unclear",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495553",
+    "reason": "repost of the same private photo-booth post; personal hangout, no new news",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495556",
+    "reason": "Jung Kook private meal and seat location (personal life), single relay source",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495557",
+    "reason": "duplicate of tg-Crazy_Koreans_495556",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495558",
+    "reason": "channel admin recruitment, not news",
+    "run": "2026-11-17"
   }
 ]
