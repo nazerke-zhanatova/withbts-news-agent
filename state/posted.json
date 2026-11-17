@@ -967,5 +967,26 @@
       "instagram": "17957366463275377",
       "threads": "17888096970512554"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_495512",
+    "time": "2026-11-17T10:29+05:00",
+    "headline": "BTS THE CITY ARIRANG: Сингапур желтоқсанда",
+    "category": "concert",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/495512",
+      "https://weverse.io/bts/notice/40721"
+    ],
+    "credits": [
+      "bts.bighitofficial",
+      "Crazy_Koreans",
+      "weverse"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19486",
+      "instagram": "18114824339335640",
+      "threads": "17960166267081883"
+    }
   }
 ]
