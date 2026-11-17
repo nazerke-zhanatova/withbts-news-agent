@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMikgFBVV95cUxQNjFMME9EdzBrdjRxY0hneUs5UjlacXJudklXSzRqMlBpOEpCa3RabG15YnNaWDF4bWticFg3cWhxc2xMRnN0Y",
-    "reason": "Gossip: member's height debated after a photo with another idol; comparison with other artists, not news",
-    "run": "2026-11-07"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiO0FVX3lxTE9KTTN6T3dBZ2tMTUJZOV9jZ0lZN21TVjljc3F3dXhIenJzdHRMTG5kQUg0amFpVHlXTmtR",
     "reason": "Duplicate of the height gossip item (Howl.Link copy); gossip, not news",
     "run": "2026-11-07"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_495587",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495591",
     "reason": "filter: not about BTS",
     "run": "2026-11-17"
   }
