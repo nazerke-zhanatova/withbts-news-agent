@@ -1,13 +1,5 @@
 [
   {
-    "path": "media/tg-btsnewsru0_83215_7.jpg",
-    "credit": "btsnewsru0",
-    "tier": "trusted_fanbase",
-    "source_url": "https://t.me/btsnewsru0/83215",
-    "text": "",
-    "timestamp": "2026-11-11T06:53:53+00:00"
-  },
-  {
     "path": "media/tg-btsnewsru0_83215_8.jpg",
     "credit": "btsnewsru0",
     "tier": "trusted_fanbase",
@@ -2398,5 +2390,13 @@
     "source_url": "https://t.me/koreaworld111/57635",
     "text": "BTS — Прогнозы MAMA 2026\n🏆\n#1. Артист года\n#1. Альбом года\n#1. Песня года\n#1. Лучшая мужская группа\n#1. Лучшее вокальное исполнение\n#1. Лучшая песня Top10",
     "timestamp": "2026-11-17T05:54:56+00:00"
+  },
+  {
+    "path": "media/tg-koreaworld111_57636_0.jpg",
+    "credit": "koreaworld111",
+    "tier": "trusted_fanbase",
+    "source_url": "https://t.me/koreaworld111/57636",
+    "text": "20 ноября около 12.00 по мск стартует живое голосование Выбор фанатов в приложении Mnet на МАМА Awards. Будьте готовы.",
+    "timestamp": "2026-11-17T06:00:32+00:00"
   }
 ]

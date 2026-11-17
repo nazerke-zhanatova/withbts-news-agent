@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57371",
-    "reason": "SWIM stage cam (iHeartRadio, Sept 2026): Weverse link confirmed but no direct video address, and no photo showing identifiable members that passes the photo rules",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "tg-koreaworld111_57376",
-    "reason": "Text only 'PARADISE CITY x TAEHYUNG'; no event or detail found in search, unclear news",
-    "run": "2026-11-06"
-  },
-  {
     "id": "rss-Google_News_EN-CBMipAFBVV95cUxNMW1xT0h6dzhMN05IRExldFpVb2c3eWtsaXhScmRrbDd4QWdIRDZmdGZpSlhYcmhTRWUzQlZoMDlLaEJuelpxQ",
     "reason": "ARIRANG Italy FIMI platinum: confirmed by Daily Sports and STARNEWS (Nov 4), but no usable all-members photo: source photos are on domains not in photo_domains, and members in the STARNEWS photo cannot be confirmed. Retry if a photo turns up",
     "run": "2026-11-06"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_495515",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-koreaworld111_57636",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495519",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-17"
   }
 ]
