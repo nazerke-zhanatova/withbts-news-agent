@@ -1,20 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMi8gFBVV95cUxOZzJxV1NXX1hPTHl3VFI2dE45TGhsN0lRVFk4LUlJdUJKTWVTanVxNHdpVjJZeGtsWFREWm9FZEp3aFFNeHVqc",
-    "reason": "Calcutta ARMY fan screening at PVR INOX: single outlet (t2ONLINE); WebSearch found no second source or fan event listing",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMifkFVX3lxTFA2RVlIQXU2dmh0ZWJ3VHZYRTVSWW1POFVTQ2JrYWtIMWJseWZEZUlyRTdLdVZpd2dfZ2k5amFtM0x0VXhCR3hUS",
-    "reason": "Legal news (Swim copyright lawsuit dropped): rule 15 needs an official statement, none read",
-    "run": "2026-11-06"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiogFBVV95cUxQVURfaGtsNUl2WmZ2VHNBZXFVTzFfTjZfSDhPVklLZzJOTnpyNm9DZjZvOTAyY3k2ZEZfNmVDSXQ5TV91dXd5M",
-    "reason": "HYBE Q3 earnings (business, rule 3)",
-    "run": "2026-11-06"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiqgFBVV95cUxOMkh0WG1vbVZHRV9RU2VycG9BNkdCOFVTSU5UeDhscGFZYnpId3pSVmJTNVRueVRIbEhnbWJyNHAyek96endGN",
     "reason": "MAMA 2026 nominations/vote: already posted as mama-2026-vote-round2; headline-only, no new detail",
     "run": "2026-11-06"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-Crazy_Koreans_495536",
     "reason": "Kaohsiung city purple lighting: fan-channel repost of a travel blogger's video; no second outlet found; city-purple detail partly covered by ck-kaohsiung-guide-1117",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495561",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495562",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495570",
+    "reason": "filter: not about BTS",
     "run": "2026-11-17"
   }
 ]
