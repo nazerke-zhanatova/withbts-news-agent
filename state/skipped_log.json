@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiqgFBVV95cUxOMkh0WG1vbVZHRV9RU2VycG9BNkdCOFVTSU5UeDhscGFZYnpId3pSVmJTNVRueVRIbEhnbWJyNHAyek96endGN",
-    "reason": "MAMA 2026 nominations/vote: already posted as mama-2026-vote-round2; headline-only, no new detail",
-    "run": "2026-11-06"
-  },
-  {
     "id": "rss-Google_News_EN-CBMieEFVX3lxTE9FMXRkZGo2b3J6RXU3SE5NUmZVaGJsVHZPNHNNanV5RExjY19oQklzcUJtLUhXMXU5dTFQUE5EeV9CY0FLWm1xZ",
     "reason": "Jungkook 'Two Faces' holiday photoshoot (K-EYES): single headline, WebSearch could not confirm the shoot or a second outlet; no permitted photo",
     "run": "2026-11-06"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_495570",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-koreaworld111_57646",
     "reason": "filter: not about BTS",
     "run": "2026-11-17"
   }
