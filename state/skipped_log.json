@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiZEFVX3lxTE9jWDJ3WF9UcEwwY2JDNjVoX0NrOW9BSUVoeTBvUVhfMXNWR2VOSG85eFVQYmx4MTU5XzZxU00wekNBeU5ERFh2T0FEVmNyMzVOdk5VRnY2QlVTVXhaZlV3bkxkV3Q",
-    "reason": "Tide Newsroom headline: no connection between Tide and BTS found in search, source unclear; no post",
-    "run": "2026-11-07"
-  },
-  {
     "id": "tg-koreaworld111_57379",
     "reason": "Brand reputation ranking (#1 among male groups for November 2026) reported only by the fan channel; no second outlet found, and the November 2026 ranking itself was not found in search; no post",
     "run": "2026-11-07"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-btsnewsru0_83410",
     "reason": "filter: not about BTS",
+    "run": "2026-11-17"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495606",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-17"
   }
 ]
