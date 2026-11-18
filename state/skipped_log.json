@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiWkFVX3lxTE5QY0ZVd1FmUWI2M0hNNUwwQ0luN1ppcC0zb3BhZ3lldGhlNFlQZjFDdUxJa3FxNi1SRHdiaHZzQloyVmJGLXlLZ",
-    "reason": "Duplicate of the London spot preview item (Spanish-language headline of the same Weverse post)",
-    "run": "2026-11-07"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiXEFVX3lxTE9QbDdKMDlJdWhncGJwVjFTa0VSUlNuZlNqdDZaWlVESGk2YjIwR2JrTmh2NHZZVzZReElUVHlXSjdwTjczc0Z6V",
     "reason": "Fan community post (Jimin album received), same fan post as another candidate; no official content",
     "run": "2026-11-07"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_495610",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495615",
     "reason": "filter: not about BTS",
     "run": "2026-11-18"
   }
