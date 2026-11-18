@@ -18,13 +18,21 @@
     "Crazy_Koreans",
     "valipa"
   ],
-  "image": null,
+  "image": "media/web_bts-kaohsiung-arrival-1118_collage.jpg",
   "image_url": null,
   "image_credit": "Dispatch, News1",
   "photo_members": [
     "all"
   ],
-  "carousel": [],
+  "carousel": [
+    "media/web_bts-kaohsiung-arrival-1118_0.jpg",
+    "media/web_bts-kaohsiung-arrival-1118_1.jpg",
+    "media/web_bts-kaohsiung-arrival-1118_2.jpg",
+    "media/web_bts-kaohsiung-arrival-1118_3.jpg",
+    "media/web_bts-kaohsiung-arrival-1118_4.jpg",
+    "media/web_bts-kaohsiung-arrival-1118_5.jpg",
+    "media/web_bts-kaohsiung-arrival-1118_6.jpg"
+  ],
   "tg_photos_from": [
     "https://t.me/Crazy_Koreans/495762?single",
     "https://t.me/Crazy_Koreans/495760?single",
@@ -48,5 +56,24 @@
     "telegram",
     "instagram",
     "threads"
+  ],
+  "carousel_urls": [
+    "https://cdn4.telesco.pe/file/KV8GnXdXAxfauKhGqW_5-VgPsSL5wh_T2tVw9owwyRZXTOGVzU5p-UHGaX4vGw_io8EsN8jGsJPWBOk2dXomsPM7kKWaAUA2JU-F7047YElQ5mZcFRbXFVEKu6uukC7SX2VKcGZgCyg_CKFWE1x9kVxtL-QXVOVX-6RfMoyczO2iXGLaRZusUVp2psZ1E7t-kv8A5xceuFtOrWUC4aZv9pHRejiMB0VPiniqLA5YivR_DkyNad48nPPQUTt2KVKWtwTKevTFpsauQmLhpV_FecKgQClko5QEDv0n29OIouCEBryYrGfHU8lQr7N5LJH39wpzdMlNkQ1LFAIePbP_WA.jpg",
+    "https://cdn4.telesco.pe/file/jkl8nLdiTwEbPUCs6RJTG-mJc_7ud-cBpXt4lTLJiy1cYvByOQciGWWBqSPhKQ-CUSqlSQFTuv6CdzfCEqjBNt06nIrvQK14uSVdVBv8EZwBdXgHbcG4LqZPPzA90FL6nrio8dkONlOyncM3Re5OVwdQUWgWJ5W8XVylkJw7U6sBBbhJMeuPlFl3rjXRQUW3RtV8lN8h_6Ops-VQRCDt2DgRP09M5KUyhlGgWEj2yOnxwWqoMxmVEr6x2ez-Ko9XNsaQdJ-fjuRy6J7FiAMtcFDvOmw67dkEpvjCqYrDkbuElbAafBAMhzEmjPPyXwSwJmy-mKtxK3oatjtSlCNmKw.jpg",
+    "https://cdn4.telesco.pe/file/ixNkVX6e-Pbo212vRUP6FOyEq1F1CTlPJ3s4gbY1OK6ox_j8HvSkiSAIi3YaRcPnFy2XX1LSADOf9E4b6h_1TGgrJa4o5CcB7rs5KtB7rgOw60BBw-QMFoBlP4ERutLrmIW9VnbAspmJLVhguAafNqBWZvE1PMkqTU0yA9fol6Tm6UVFTJgVFtrYqwI7odEFSG7VnLSXeBlcqC9Ma9AvT1fD7xhMwhFbxSHBau_fHAhoANpJ94BHeXxvnAJjLCFx_uHPsT7EiDu3yd6W5MNgH2uaPifOu3pHJmvCl-dt5uuf0dFe9yRkn4WHroWQokyDdlE0_Rxni0XSggANAlUKYQ.jpg",
+    "https://cdn4.telesco.pe/file/mFUBLJN44zDLGdud41YsPuQBdWwcpd_70wMQ7tvjL0n8Ip-T2pMmEGJ-iJ7R1CGfuKcQNepGqNpguNzqnS7UIy37pMNEWPOwU1_4Eq7mbD0ozk4cnQx-6i5f2sbfQ4XCnZcIO9TEfCglxiu6Zkg1euISxBdTAsRrC5T6EQrQpX0XbQcWrq0lHiBC1OgOWvrRVl2quVU_6gXeRqhyyvzfmGkvwTVI3DERvqORO17S0nkkb57DmesdT2DnmQ0Y2F04vBG9safnYz7ZgdfZv1C0F5mQiEYIMlMw38Zic1MGG3XX8EWX6e3iDmFJe0Z1d76F20pShibhTtDF-pm6AotqQQ.jpg",
+    "https://cdn4.telesco.pe/file/EHXFNbaMwWnpl6hQa5bvNeyRg15WjIRG9RxOg1_l5KpUCGHDIvCN8gSHyGxPzq0i7gMJ4phB9x7_BiqmYoKfS4UzI6xTBFVx4lNgVL8IJlKsTMqPouqx21eLQE7BUuP36PaFftUBDFccdys4oTEC95P46yB8ZKJVUvhtWI2HUM_lNrsbC3BKKbbs0I9a5tQ6R03Zp8qbutJ6NLjvHkXt-wknbHbs0gBLsYpZQjakrlGsOLmdSrB-yf3Ez3zd6rVrz5u7j6ZclhKICQiHmmzRBg_f-ujb5MlxpkECynC7-kC50eaC1H1FYY43bAoV22Ck0DzvFX_zDTz4qxzt6Ddf3g.jpg",
+    "https://cdn4.telesco.pe/file/K82v1cSI7rGzAH63NYCPuKzAJJsC-KZl2xV_qwO6lwZgxHOVh0Fhm3ViJqBJEJjyfWZoAG3P7XrwP_b7JwZUKkuiopDUWqUsRFph3l3sWT5hLdtEJfaiYxW87HoTu8S5yWJ7dE9EN-lS84GAyR-gB8Yy9P5mrjkpjgu6kKsW6LmuC68w3YJ9K3sV7QdFfwj__jYUZl5TkaC5Fhtih_iF_jxB_40j0sygnzGjvkD8WIT2GuF_8gDlCEQHbo5NLj7EM1yPCyUSx2aPl28vIEq8mDpu9pydSoobQg4Wbt_YkWqjOTi1G_NU9FBQa6_UwjXh4dA_h5VIud04AQmvUmV9Mw.jpg",
+    "https://cdn4.telesco.pe/file/Ywh2aDmyBKYjTTGMmqEoJ_mTq52wKk8SMucnXhxExJfeLlE7TKS091WXGotMaKfS8JM51h9hGycGM7Bj7GhcXR5FiT9i4spcV-R2Q9IcopPSKgHxo470eCDiTRKQevQcNCeuJLQKhlZLkuOZlpoCAH30lCxF82_nFEAdc6D7qXP2H65aWzN6TdcjKFtupJF0tqXOqopkwfWh96bm0L0oAzIsl1K5mENFF_LEwJIlOxGODyE-yeOXooxTKl1wN3G-e9FxPXU4CLGESaM1KkOJursSUrVq0-bK6ryxX1isjmLWtZml9kpZD-JN-CwcmfAMYU_BycVQOGo0DAiZl6JPUQ.jpg"
+  ],
+  "card_file": "media/card_bts-kaohsiung-arrival-1118.jpg",
+  "carousel_files": [
+    "media/slide_bts-kaohsiung-arrival-1118_0.jpg",
+    "media/slide_bts-kaohsiung-arrival-1118_1.jpg",
+    "media/slide_bts-kaohsiung-arrival-1118_2.jpg",
+    "media/slide_bts-kaohsiung-arrival-1118_3.jpg",
+    "media/slide_bts-kaohsiung-arrival-1118_4.jpg",
+    "media/slide_bts-kaohsiung-arrival-1118_5.jpg",
+    "media/slide_bts-kaohsiung-arrival-1118_6.jpg"
   ]
 }

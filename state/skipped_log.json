@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83140",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-08"
-  },
-  {
-    "id": "tg-btsnewsru0_83141",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-08"
-  },
-  {
-    "id": "tg-btsnewsru0_83125",
-    "reason": "Fan meme-style bait post, no news (aggregator)",
-    "run": "2026-11-08"
-  },
-  {
     "id": "tg-koreaworld111_57442",
     "reason": "MAMA 2026 second-round vote: already posted as mama-2026-vote-round2; only the closing date is new and it comes from a repost, not verified",
     "run": "2026-11-08"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-Crazy_Koreans_495733",
     "reason": "Airport photos of V with fan-site cameras: private travel, no news (rule 3); aggregator",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495800",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495809",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495814",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-18"
   }
 ]
