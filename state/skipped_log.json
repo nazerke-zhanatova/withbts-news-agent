@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83142",
-    "reason": "Fan-made Q&A joke format (drama recommendation banter), no news (aggregator)",
-    "run": "2026-11-08"
-  },
-  {
-    "id": "tg-btsnewsru0_83143",
-    "reason": "Fan-made Q&A joke format (Cypher banter), no news (aggregator)",
-    "run": "2026-11-08"
-  },
-  {
-    "id": "tg-btsnewsru0_83144",
-    "reason": "Fan-made Q&A joke format, meme-style bait, no news (aggregator)",
-    "run": "2026-11-08"
-  },
-  {
-    "id": "tg-btsnewsru0_83145",
-    "reason": "Fan-made Q&A joke format (volleyball banter), no news (aggregator)",
-    "run": "2026-11-08"
-  },
-  {
-    "id": "tg-btsnewsru0_83146",
-    "reason": "Fan-made Q&A joke format (shopping banter), no news (aggregator)",
-    "run": "2026-11-08"
-  },
-  {
-    "id": "tg-koreaworld111_57444",
-    "reason": "Graff x Jung Kook campaign behind-the-scenes photos: same campaign already posted (digest-tg-btsnewsru0_82934, 2026-11-05); caption adds no new fact, brand post relayed by fanbase, not a new event",
-    "run": "2026-11-08"
-  },
-  {
-    "id": "tg-koreaworld111_57448",
-    "reason": "London ARIRANG stadium clip: the London shows were 6-7 July 2026 (WebSearch: Tottenham Hotspur Stadium), so this is old footage, not new news; aggregator with one item left after drops",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-koreaworld111_57449",
-    "reason": "MAMA 2026 round-2 vote instructions: already posted as mama-2026-vote-round2; repeat",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMitAFBVV95cUxPcUtVTWg5NXJTNlJjQl9WYXpwUFgwdUNBdXpIWE5xZERLMmxQR2VuaGFuVnoxYjlTMGxmcElta19CWTJ1SDRkU",
-    "reason": "V Diwali Hindi greeting: a personal reply to fans on Weverse, same kind as the 2026-11-08 Weverse chat batch judged not news; WebSearch found no Diwali message",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMinAFBVV95cUxPUGI0TWVuQ3RsTkZyZzMtMzZEcVF3U1hiT1JteFozQm9RNWNJYVJ5RDF0ekJMLVhWZ0Y4aW5yYU4wc3NwbVRoe",
-    "reason": "SWIM copyright lawsuit dropped: legal news, no official statement (rule 15); repeat of earlier skip",
-    "run": "2026-11-09"
-  },
-  {
     "id": "rss-Google_News_EN-CBMi6wFBVV95cUxPU0RXaTBiZ0E1RXJWOE5jNDJrZkRoTXRZaUtFQTgzTmRxc2haejVXQXVnUFNxdExyQ0ZldVRNZ2REclhPekdQV",
     "reason": "V Diwali greeting (Times Now headline): same as the Weverse reply batch; personal fan reply, not an announcement; no second-source confirmation found",
     "run": "2026-11-09"
