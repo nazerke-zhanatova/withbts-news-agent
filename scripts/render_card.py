@@ -380,7 +380,8 @@ def telegram_media(url):
     """Photos, video still frames and video links of one public Telegram post (t.me/<channel>/<id>)."""
     import requests
     try:
-        r = requests.get(url.split("?")[0] + "?embed=1&mode=tme", timeout=30,
+        # "?single" picks one photo of an album (t.me/<channel>/<photo id>?single)
+        r = requests.get(url.split("?")[0] + "?embed=1&mode=tme" + ("&single=1" if "single" in url else ""), timeout=30,
                          headers={"User-Agent": "Mozilla/5.0 withBTS.kz news agent"})
         r.raise_for_status()
     except Exception as e:  # noqa: BLE001
