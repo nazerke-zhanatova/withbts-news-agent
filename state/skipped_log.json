@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57451",
-    "reason": "DICON D'FESTA x BTS: only links and a like/repost/comment call; no news content to write from",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-koreaworld111_57455",
-    "reason": "ARIA Awards 'Most Popular International Artist' vote: fan hashtag voting only, no official nominee list found (same unverified item as the 2026-11-05 skip); not posted",
-    "run": "2026-11-09"
-  },
-  {
     "id": "tg-koreaworld111_57448",
     "reason": "filter: same story already looked at",
     "run": "2026-11-09"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_495781",
     "reason": "RM Instagram post with new hair (Billboard report): same RM post held in earlier runs as unconfirmed on RM's official account; held, see notes",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495776",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495780",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-18"
   }
 ]
