@@ -252,3 +252,9 @@ Held or skipped in this run:
 5. **Kaohsiung merch pickup (tg-Crazy_Koreans_495509).** Same as item 4, logistics only. Not posted.
 6. **Airport departure livestreams (tg-koreaworld111_57634, tg-Crazy_Koreans_495504, tg-Crazy_Koreans_495510).** Travel coverage of flights to Taiwan and Kaohsiung. Skipped under rule 3 (private flights).
 7. **HYBMRCH x Weverse Shop repost (tg-Crazy_Koreans_495503).** No readable details in the candidate. Skipped.
+
+## 2026-11-18 run (10 candidates): no posts queued
+
+1. **RM Instagram carousel, caption "Hello.." (tg-Crazy_Koreans_495572, koreaworld111 copy tg-koreaworld111_57655, plus RM Stories repost tg-Crazy_Koreans_495581). Held.** The fan channels say it is a member post with 9 photos. Fetching the Instagram link (instagram.com/p/Df2Hs0NoMPg) shows it under the account `rkive`, a fan archive account, labelled "Photo by RM". I could not confirm it is on RM's own account, and one search found no coverage of the 17 Nov post. A member's own post needs the member's account, so it is held. Please open RM's official Instagram and check that the post is there. If it is, a short post can go out with the RM-only frames (leaf walk, glasses selfie, cap selfie, black-and-white portrait). Frames with other people (the studio with two older women), the back view, the letter and the lamp were left out. The cover needs an open-eyed frame.
+2. **Calvin Klein 60-second challenge and holiday campaign (tg-Crazy_Koreans_495560, 495563, 495564, 495567, 495571, tg-koreaworld111_57640).** Same campaign as ck-jk-calvin-klein-1117, posted earlier today. The 60-second challenge and the holiday clip were already covered there, so these are repeats with no new fact. Not posted.
+3. **Gaoxiong stadium sound check (tg-Crazy_Koreans_495559).** A fan's observation with no official source. Not posted.
