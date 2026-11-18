@@ -75,5 +75,6 @@
     "media/slide_bts-kaohsiung-arrival-1118_4.jpg",
     "media/slide_bts-kaohsiung-arrival-1118_5.jpg",
     "media/slide_bts-kaohsiung-arrival-1118_6.jpg"
-  ]
+  ],
+  "rejected_reason": "source tier not allowed: trusted_media"
 }
