@@ -1,20 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMisAFBVV95cUxQMDFucXplc2h5X0hoQXZ1QlpuQUNwOGVFMDl2bU1ZM0VBVnd6N3VMcnJ5YnJiLXVURG1lZklJNXlOSXVHNVk1c",
-    "reason": "Jimin 'Kpop King' poll claim: WebSearch finds conflicting counts across polls (8 vs 7 years), fan-vote ranking not verified; not posted",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE9FdEVkN2RkLXNQb0RZazdNUEVURjQ3dXZHM2o1UlpDdTB5VnVEenpjNkRxR2dna3ZYVU5VTklHLXpJUW9lS1FZN",
-    "reason": "Weverse fan community post about receiving Jimin's album: author is a fan, personal content, no official announcement",
-    "run": "2026-11-07"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMinAFBVV95cUxQaGJNVGVpYlIxUHV2emJOYkxTWkxqbDdqUzJoVW5pSmlqVWhQRUE2c2V4UFpGSWx4SU9QclFmLURYSzZha2NnV",
-    "reason": "MyDramaList item about a drama (100 Days of Deception) with Park Jinyoung (GOT7); no BTS link found by WebSearch",
-    "run": "2026-11-07"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiUkFVX3lxTE9uZy1fVGE4M25pVi11MWRWOGYyamxZV2tILTRqeFVUOFhOVUVSaHJ3MmdwQlI3N3p2VkZQNlZGa3NDM3RrMHlZT",
     "reason": "Weverse London spot preview: headline only, WebSearch found no verified content or video for this preview; not posted",
     "run": "2026-11-07"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-Crazy_Koreans_495581",
     "reason": "RM Stories repost of the same held RM post, no separate news",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495572",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495581",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495583",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-18"
   }
 ]
