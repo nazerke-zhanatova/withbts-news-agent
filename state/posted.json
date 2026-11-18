@@ -1014,5 +1014,24 @@
       "instagram": "18079339010756091",
       "threads": "18152460355529296"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_495776",
+    "time": "2026-11-19T03:20+05:00",
+    "headline": "BTS Melon-да қазан айының бірінші орнында",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/495776"
+    ],
+    "credits": [
+      "melon",
+      "Crazy_Koreans"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "ERROR: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=60)",
+      "instagram": "18026859446717103",
+      "threads": "ERROR: container failed: {'error': {'message': 'An unexpected error has occurred. Please retry your request later.', 'type': 'OAuthException', 'is_transient': True, 'code': 2, 'fbtrace_id': 'A6DoiKOOezNus5xAhuOTA7I'}}"
+    }
   }
 ]
