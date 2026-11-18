@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMi6wFBVV95cUxPU0RXaTBiZ0E1RXJWOE5jNDJrZkRoTXRZaUtFQTgzTmRxc2haejVXQXVnUFNxdExyQ0ZldVRNZ2REclhPekdQV",
-    "reason": "V Diwali greeting (Times Now headline): same as the Weverse reply batch; personal fan reply, not an announcement; no second-source confirmation found",
-    "run": "2026-11-09"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiXEFVX3lxTE13SU9vWEhDbDUyNDcyVWRUMFJ1Q3Y0OGViRngwNU9KRW44WEJtcW55SWhIbk5kTDdUbWNLbWJBY2xDS0RVczBVd",
     "reason": "Weverse community post with a title only ('As we begin the countdown'); no content readable, WebSearch found no confirming November 2026 announcement",
     "run": "2026-11-09"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_495769",
     "reason": "Second part of the same Stanford course interview: repeat of rm-stanford-namjooning-course",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-koreaworld111_57687",
+    "reason": "filter: not about BTS",
     "run": "2026-11-18"
   }
 ]
