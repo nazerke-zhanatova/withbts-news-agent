@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMikgFBVV95cUxOVkUzRGFQdjJmY2RRMEVBM3d2N0tWekVVQVFPWHVBUFZMalhQenpvU2k0ek5tLXJCZVUyX1RvVFNGdkFROVRuX",
-    "reason": "Claim 'best-selling K-pop album in history' not confirmed: searches show Arirang is BTS's best first-week album but Seventeen's records rank higher; single outlet (Music Mundial)",
-    "run": "2026-11-08"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9GLVl0aWZqazRJdjlKWFNLN1pLeW5XUmpUeUhhbkp1MW5mVWNDanVIVDQ4cjlqNW16LU5MNUcwYVVjUzVoeWlPa",
-    "reason": "Gulf News 'Jin deserves a Grammy for white shirt performance': article not found by search, no second outlet, opinion quote; not posted",
-    "run": "2026-11-08"
-  },
-  {
     "id": "tg-koreaworld111_57441",
     "reason": "filter: not about BTS",
     "run": "2026-11-08"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_495602",
     "reason": "Philippine Airlines merch draw / giveaway: giveaway not BTS news (rule 17), no member news",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495611",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495642",
+    "reason": "filter: not about BTS",
     "run": "2026-11-18"
   }
 ]
