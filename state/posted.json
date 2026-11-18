@@ -988,5 +988,31 @@
       "instagram": "18114824339335640",
       "threads": "17960166267081883"
     }
+  },
+  {
+    "id": "bts-kaohsiung-arrival-1118",
+    "time": "2026-11-18T21:15+05:00",
+    "headline": "BTS Тайваньға жетті",
+    "category": "news",
+    "source_urls": [
+      "https://news.tvbs.com.tw/entertainment/jk-pop/4052530",
+      "https://www.nownews.com/news/6893351",
+      "https://news.cts.com.tw/cts/entertain/202611/202611183102638.html",
+      "https://t.me/Crazy_Koreans/495782"
+    ],
+    "credits": [
+      "TVBS",
+      "NOWnews",
+      "CTS",
+      "Dispatch",
+      "Crazy_Koreans",
+      "valipa"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19487",
+      "instagram": "18079339010756091",
+      "threads": "18152460355529296"
+    }
   }
 ]
