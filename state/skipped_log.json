@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83138",
-    "reason": "Fan-made Q&A joke/trivia format, no news (aggregator)",
-    "run": "2026-11-08"
-  },
-  {
     "id": "tg-btsnewsru0_83139",
     "reason": "Fan-made Q&A joke format (Hogwarts banter), no news (aggregator)",
     "run": "2026-11-08"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_495840",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495842",
     "reason": "filter: same story already looked at",
     "run": "2026-11-18"
   }
