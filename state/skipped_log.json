@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57430",
-    "reason": "V's replies in Weverse fan-post chat (personal chit-chat with fans, not news); aggregator digest not worth it",
-    "run": "2026-11-08"
-  },
-  {
     "id": "tg-koreaworld111_57431",
     "reason": "V's replies in Weverse fan-post chat (personal chit-chat with fans, not news); aggregator digest not worth it",
     "run": "2026-11-08"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-koreaworld111_57675",
     "reason": "Same Jimin story repost as Crazy_Koreans_495709: private travel signal (rule 3), no news",
+    "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495771",
+    "reason": "filter: not about BTS",
     "run": "2026-11-18"
   }
 ]
