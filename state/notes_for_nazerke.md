@@ -283,3 +283,12 @@ Same batch as the 18 Nov runs, re-checked. Nothing could be posted under the pho
 4. **Kaohsiung stadium decorations and merch sale (tg-Crazy_Koreans_495787).** Only stadium photos, no members. Group news needs an all-7 photo, so not posted. The concerts start 19 Nov, so a post would be late in any case.
 5. **Stanford professor interview (tg-Crazy_Koreans_495770).** Translated interview with no original outlet or link. Not posted.
 6. **Fashion comments and repeats (495775, 495778, 495796).** The Hoseok and Jimin airport looks are fashion remarks. The Gimpo airport fansite photos are covered by bts-kaohsiung-arrival-1118.
+
+## 2026-11-19 run (new batch, 10 candidates, Crazy_Koreans and koreaworld111 copies): no posts queued
+
+1. **Kaohsiung concerts, 19, 21, 22 Nov (tg-Crazy_Koreans_495844). Not posted.** The dates match the tour listings. The "55,000 per show" figure and the "first foreign act to headline three shows in a row" claim were not found in any source I could open. Sold-out status comes from one secondary report only. No BIGHIT MUSIC or HYBE notice was found (rule 16), and there is no all-7 photo from a permitted source. If you can confirm the official notice, a post can go out once a photo is supplied.
+2. **RM Instagram stories (tg-koreaworld111_57678). Not posted.** The candidate has no caption or readable text, and the Instagram link needs login. Please check RM's official account if you want a post.
+3. **Singapore VisitSingapore video (tg-Crazy_Koreans_495805). Not posted.** Same programme as the already posted tg-Crazy_Koreans_495512. No new member news.
+4. **Jin airport greeting and all-seven airport photos (tg-Crazy_Koreans_495807, 495833).** Covered by bts-kaohsiung-arrival-1118. The photos are fan-taken, not from a permitted source.
+5. **Private night-market outing (tg-Crazy_Koreans_495815). Not posted** (rule 3, private places and personal time). The channel itself asks fans not to share it.
+6. **Ads and promos (495806, 495813, 495847, koreaworld111_57680).** Channel promotion, recruitment, a paid calendar ad and an engagement poll. Not news.

@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57475",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-btsnewsru0_83169",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-09"
-  },
-  {
     "id": "tg-koreaworld111_57451",
     "reason": "DICON D'FESTA x BTS: text contains only links, no readable news detail",
     "run": "2026-11-09"
@@ -2497,6 +2487,66 @@
   {
     "id": "tg-Crazy_Koreans_495796",
     "reason": "Gimpo airport fansite photos of the Taiwan departure: already covered by bts-kaohsiung-arrival-1118, and fansite photos are not a permitted photo source",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495884",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495885",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495844",
+    "reason": "Kaohsiung 19/21/22 Nov concerts: 55,000 per show and 'first foreign act' claims are not confirmed by any source (WebSearch); sold-out status only from one secondary report; no official BIGHIT/HYBE notice read; no all-7 photo from a permitted source (rules 2, 5, 16)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495805",
+    "reason": "VisitSingapore tourism video on the Singapore BTS THE CITY ARIRANG programme: same news as the already posted tg-Crazy_Koreans_495512 (rule 8); no new member news",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495806",
+    "reason": "Channel promotion (MAX messenger link), not news",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495807",
+    "reason": "Jin greeting Taiwan fans at Kaohsiung airport: covered by bts-kaohsiung-arrival-1118; fansite photos, not a permitted photo source (rule 5)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495813",
+    "reason": "Channel admin recruitment post, not news",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495815",
+    "reason": "Members' private night-market outing in Kaohsiung: private places and personal time (rule 3); channel itself asks fans not to share it",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495833",
+    "reason": "Airport group photos from fan photographers (cr alkznn, annjkkk): covered by bts-kaohsiung-arrival-1118; fan photos are not a permitted source (rule 5)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495847",
+    "reason": "Paid advertisement (#Реклама) for a KOSMI calendar pre-order",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57678",
+    "reason": "RM Instagram stories repost with no caption or readable content in the candidate; stories cannot be verified without login (rule 3, rule 4)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57680",
+    "reason": "Engagement poll for an ARIH product (like/repost/comment bait) and promotional content, not news (rule 12b)",
     "run": "2026-11-19"
   }
 ]
