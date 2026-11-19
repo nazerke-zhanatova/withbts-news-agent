@@ -41,7 +41,10 @@ for p in MEDIA.glob("*"):
         continue
     first_seen = index.setdefault(p.name, now)
     if now - first_seen > 7 * 24 * 3600:
-        p.unlink()
+        try:  # a cleanup problem must never stop the state from being saved (that caused repeat posts)
+            p.unlink()
+        except OSError:
+            continue
         index.pop(p.name, None)
 index = {k: v for k, v in index.items() if (MEDIA / k).exists()}
 save_json(STATE / "media_index.json", index)
