@@ -1033,5 +1033,27 @@
       "instagram": "18026859446717103",
       "threads": "ERROR: container failed: {'error': {'message': 'An unexpected error has occurred. Please retry your request later.', 'type': 'OAuthException', 'is_transient': True, 'code': 2, 'fbtrace_id': 'A6DoiKOOezNus5xAhuOTA7I'}}"
     }
+  },
+  {
+    "id": "kaohsiung-purple-city-1119",
+    "time": "2026-11-19T15:24+05:00",
+    "headline": "Гаосюн күлгін түске боялды",
+    "category": "news",
+    "source_urls": [
+      "https://www.instagram.com/p/Df4KF1AnWRk/",
+      "https://t.me/Crazy_Koreans/495895"
+    ],
+    "credits": [
+      "kaohsiung_tong",
+      "Sports Seoul",
+      "Crazy_Koreans",
+      "valipa"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19496",
+      "instagram": "18110219882214388",
+      "threads": "18441495133177910"
+    }
   }
 ]
