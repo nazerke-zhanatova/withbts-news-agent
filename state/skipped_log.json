@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMi2wFBVV95cUxPcGR0RGxOOVc3RGNaZmI5OXZ3YlBWR2NKaU90MWNPZHplOGpLam9ubzFxU0R2LWU3YkN5Q1NWUnpXX1lPZ2FFW",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-10"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiuAFBVV95cUxOYzNzcUxuRnZ3a0hwTEgwZi01dGEwdVcyWEY2M2RINDB2YmdKakFsNVNiRVBxRFUtU3U3NkIxUnpFYzFtNXk3d",
     "reason": "filter: same story already looked at",
     "run": "2026-11-10"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_495905",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495906",
     "reason": "filter: not about BTS",
     "run": "2026-11-19"
   }
