@@ -1,25 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57508",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "tg-koreaworld111_57492",
-    "reason": "Harper's Bazaar Korea V quote reel: same V magazine shoot already posted (digest-tg-btsnewsru0_83158, 2026-11-09), no new news",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "tg-koreaworld111_57513",
-    "reason": "MMA 2026 Global TOP10 vote (BTS nominee confirmed by Soompi); no verifiable photo of all 7 members with credit (candidate media is a voting how-to graphic); vote deadline 13 Nov not confirmed, so left out; time-sensitive, ceremony 14-15 Nov",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "tg-koreaworld111_57514",
-    "reason": "Calvin Klein holiday teaser reel: same Jung Kook Calvin Klein campaign already posted (tg-btsnewsru0_83075, 2026-11-06), no new facts in text",
-    "run": "2026-11-10"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiYkFVX3lxTE8zZkNFX0RHY1lOUi1MSFpXNnhuVTNWWk9GMlRVN24xNlZYME42N0EwMjFwWnBRdEVMM3RTYWNOeFBaSGx2Q2RmM",
     "reason": "Calvin Klein holiday looks, same campaign as already posted tg-btsnewsru0_83075 and tg-koreaworld111_57514",
     "run": "2026-11-10"
@@ -2497,6 +2477,26 @@
   {
     "id": "tg-Crazy_Koreans_495909",
     "reason": "fan clip of NORMAL, content unclear, fan-made, no official source",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495995",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496007",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57698",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57699",
+    "reason": "filter: not about BTS",
     "run": "2026-11-19"
   }
 ]
