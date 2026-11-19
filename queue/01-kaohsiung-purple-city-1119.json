@@ -41,5 +41,17 @@
     "telegram",
     "instagram",
     "threads"
+  ],
+  "card_file": "media/card_kaohsiung-purple-city-1119.jpg",
+  "carousel_files": [
+    "media/slide_kaohsiung-purple-city-1119_0.jpg",
+    "media/slide_kaohsiung-purple-city-1119_1.jpg",
+    "media/slide_kaohsiung-purple-city-1119_2.jpg",
+    "media/slide_kaohsiung-purple-city-1119_3.jpg",
+    "media/slide_kaohsiung-purple-city-1119_4.jpg",
+    "media/slide_kaohsiung-purple-city-1119_5.jpg",
+    "media/slide_kaohsiung-purple-city-1119_6.jpg",
+    "media/slide_kaohsiung-purple-city-1119_7.jpg",
+    "media/slide_kaohsiung-purple-city-1119_8.jpg"
   ]
 }
