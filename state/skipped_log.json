@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMi_AFBVV95cUxNdlhjUHhzOWQ4ZFpDZHRPcXF2aVZKSERkdFhUQzh1SE9vNllKRFRXN1lNSkdnU1A2TkFhV29VaDQ1eXBZamRib",
-    "reason": "Singapore Tourism Board Visa partner item: same Singapore programme as the held item; no photo verified; see notes_for_nazerke.md",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE1NTlVFYlZiSUMwS2RrOURwcU9RTVZfaHhYMExXbW9Tc1JXcXpPb1NraDR1U0dPaEdPTXRPWXZvNks2RlBTenlvU",
-    "reason": "Weverse community post (#to_jungkook) with truncated text; content and birthday context unclear",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE1DQ0FMeThVeWtvTUE1NGlfVmFtVzFjRk41VlNHTWhfVHVKNGtzaGQwTHUxUFZYSjB5Y0gyUXVYcEJNNW1idXNkU",
-    "reason": "Weverse fan letter headline only, no content or event detail",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE4weE1FQXNqbWc0a2JkRlduelkxSm10bXdQMG40NWFFZ054eVk0Vm5lMTdONlpqWDNpTk80MEFyNGkwVzQwMUJWU",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5kb0IzRUVwWmxaVVFIN2I0ZWwySUphLUZQcFJfenpKaG1YV2o1dkpjclFKWlI5YXpLVGxaMnI1eFloS1pvTmVFN",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "tg-koreaworld111_57491",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiugFBVV95cUxNZ2d3NXVOUE1wbFRfakJaSG1qZFJveDhHLVg2ZnpXNmMyanV2SHJ3ZlhrbDNLWW95SUtJT1VtSE4tX2lzVDB6Q",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMisgFBVV95cUxNUnp6V1Q5Zy1ZWGdDck8weG5Hbl9aQXczam9Uc293U21VdVNkMW1pa0JtT0pQYUZWY25OVWg1VXBjTjEzN2l6Q",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "tg-koreaworld111_57493",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "tg-koreaworld111_57503",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-10"
-  },
-  {
     "id": "tg-koreaworld111_57508",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-10"
