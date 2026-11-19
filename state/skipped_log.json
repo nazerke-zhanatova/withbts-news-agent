@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE5LSUhSWmh6a0t6WUNhbmF4REtZLU40d1c5c0U3YmhqTERaRXlkTV9EN0VSczZROEw2MkhJdUV3QjJqRTBqOVd1Y",
-    "reason": "Weverse image headline only, no content or event detail",
-    "run": "2026-11-10"
-  },
-  {
     "id": "rss-Google_News_EN-CBMi_AFBVV95cUxNdlhjUHhzOWQ4ZFpDZHRPcXF2aVZKSERkdFhUQzh1SE9vNllKRFRXN1lNSkdnU1A2TkFhV29VaDQ1eXBZamRib",
     "reason": "Singapore Tourism Board Visa partner item: same Singapore programme as the held item; no photo verified; see notes_for_nazerke.md",
     "run": "2026-11-10"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_495975",
     "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495895",
+    "reason": "filter: link already used in a post",
     "run": "2026-11-19"
   }
 ]
