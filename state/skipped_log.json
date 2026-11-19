@@ -1,30 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMitwFBVV95cUxPN2E0dFZqSnF0ODZvelN1QjY2cTl6XzhkdFpmUGFOY0hud3RMZ3NIcXZJTkxwRkdmRVhlWVV2dDJmRkNXSUpwQ",
-    "reason": "BTS The City Arirang Singapore (Korea JoongAng Daily): same held news, see notes_for_nazerke.md; no all-7 photo from a permitted source",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMilgFBVV95cUxNb3prQkpZaWJfd1N1b3hNU1dqWVNYM1gwTHJZX2V0ODJwczZqZ3cySy1CZnF3bGs2YlR6RnVfRFFvTnZrNlJST",
-    "reason": "Stanford RM course: already posted as rm-stanford-namjooning-course (2026-11-08); repeat",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMipAFBVV95cUxPMjR4TmxnbEdYZTJ3V0IxYURHcWV0UDhuU3pZSFJ0ekdnWjREQW9lQ0puZkJ1SXVpSm5rWFdsbVo2RDhnMmoxX",
-    "reason": "Jimin military return: private schedule (rule 3) and military service news without an official statement (rule 15); not posted",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiwwJBVV95cUxOYnhSVVNVLTVpcDBFbUo0RkY2aEhoRXd2eDc2QzI5RVFfQ2t4cmNQZXFWclQ2TnNoVjBTMjROanBXcjVxQzU2M",
-    "reason": "Spam/piracy listing ('free full movie download'), no BTS news",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMisAFBVV95cUxQMDg3Yk9VTS1PSld2UUpfRURHeTRjNG02cTBSbl9COFNVcThVRDN6V3ZidFVwMWJfOGdFZUxlSjc5c0hUMDhoQ",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-11"
-  },
-  {
     "id": "rss-Google_News_EN-CBMikwFBVV95cUxONEp0ekdIMUZTMnhKR05PM1phQzB6dGxLck9yN0J6cEZnSFBSUjZQdmlMLWlvTFZxSnNkbkRTM1Y3a3BiM3ZVN",
     "reason": "filter: same story already looked at",
     "run": "2026-11-11"
@@ -2497,6 +2472,31 @@
   {
     "id": "tg-Crazy_Koreans_496031",
     "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496032",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496036",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496037",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496041",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496042",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-19"
   }
 ]
