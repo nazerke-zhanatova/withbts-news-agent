@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE9WRGo5UG1aWmxsRWowLWJBRW0wbEpjcHBvdVQ5dHRfQ1g5RTM5bE9OeWswZ2hvbTZTZEpPcnktejF5bEJzcmpPN",
-    "reason": "Fan-authored Weverse community post title, not an official or member announcement; no verifiable news",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMijwFBVV95cUxQNDV6a2Q4Q29DSnQxRWJ3WHBFclVINnc5YngyMWVfMEJfQlY0VUZlVXZXR2c1S2ZiMWNDcThXNzZSUmV2Z1VhQ",
-    "reason": "Melbourne third-show announcement dates from June 2026 (ticketnews, Asiae); not new, and no official BIGHIT/HYBE or ticket page read this run",
-    "run": "2026-11-11"
-  },
-  {
     "id": "rss-Google_News_EN-CBMic0FVX3lxTE9wbUhoVkV1SnZ4MEExQVJic19xMGZNbGtlTHM4SVVBSm9JbVdzTVVfUkIxSW54ZDJnMFM3UGh1TVBDU1RRX2M1U",
     "reason": "Repeat: RM Stanford course already posted (rm-stanford-namjooning-course, 2026-11-08)",
     "run": "2026-11-11"
@@ -2497,6 +2487,61 @@
   {
     "id": "tg-Crazy_Koreans_496057",
     "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496060",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496061",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57706",
+    "reason": "Yoongi Instagram story with only a sick-face emoji and no text: possible health hint, no official statement (rules 3 and 15); not posted",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-btsnewsru0_83464",
+    "reason": "Yoongi Instagram story with only a sick-face emoji: same health-hint story, no official statement (rules 3 and 15); not posted",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-btsnewsru0_83461",
+    "reason": "j-hope Instagram story with no readable content, only a Summer emoji caption: nothing to report",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496029",
+    "reason": "RUN BTS camera moment: fan impression, not news",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496030",
+    "reason": "RUN BTS fan chatter asking for photos: not news",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496033",
+    "reason": "Concert fan impression (Jin vest, ARMY ocean): not news",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-btsnewsru0_83438",
+    "reason": "Merged into queue/digest-tg-koreaworld111_57690.json (same j-hope TikTok, one item)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57707",
+    "reason": "Merged into queue/digest-tg-koreaworld111_57690.json (MAMA fan-vote live start, aggregator item in digest)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-btsnewsru0_83451",
+    "reason": "Merged into queue/digest-tg-koreaworld111_57690.json (Kaohsiung soundcheck, aggregator item in digest)",
     "run": "2026-11-19"
   }
 ]
