@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMivAFBVV95cUxQMUd4MEVrZGJLV0hGam1sczFadkQzOGQtTXAxaEFpT1dEa0F2SW56MW9jZlNNLVp1aF9KTXR6blB1YzRpRnB0ajQwYXdvX0VSVEZ1R0hPc25rT0I1bjlRTnFXeXk3ajBNVE5YMUtINVVoMEJSUks4OE5GRVRhbEMtMGpCWHNWS1NIbHZMaE80d2t5QzIwZ3l1X0YxUzZ2dzllRzJyRXZLUlFQNTJjT2dFaEhyc2hlNnE2VUoxcw",
-    "reason": "Duplicate: Stanford 'Namjooning' course, already posted as rm-stanford-namjooning-course",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiWkFVX3lxTE52UzhOU1RXeXRyR1MzdjVDeGRuVnBjd2VvdkN1MFlaazFGLUd6eE1HRi1ISmxWYUxGLWhOVkwybUdyREJWREZXTHY0MEUxUUlWdi1sTHRkRWJpQQ",
-    "reason": "Weverse 'Multimedia de BTS [PREVIEW]': title only, no readable content; WebSearch found no matching item",
-    "run": "2026-11-09"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiwAFBVV95cUxOMF9QeTVTRUZKZFJaMlpoUzM1eV9KdWd3eThoVjRnUThKeXdvYlcwbndSbkRCd0ZQMzhuOGpzSkdLaWxzd3ZBd05hZmxucFlPNk1xYWpkaUhaR3Y4NGZ5MzktREJROUxtaEJPX1N5OHBJWm9LUW40cXgtMW8zYlBweENmZXlpbVRDdks0X2l4RzZtZWVfY0FqcWxBYUNQZThuQmdtcmNZUzBIcjliT3FOaDB6WGtjWjFCd2xrUGx6OVXSAdABQVVfeXFMTnhoaEo1WG5SWGdwZUx5cUJtQW40VHhLd1k3dEdwMUFtRWY1bjNoN3VLY0c3NlI4U2txSkZHSW9sNVlINEkzMXBuRXNYZkdEUHZtb1hlTFRjeGtSNG80LTBCYXNUN0tZdlJJQno0bnBaWlV0dWZsNTJveWg0bFI5VURMVUF4cWNYMmVNakVCN1BrUW1aeVkwQ21TLU1IR19fZkdTR3M2RFo2dkIteHM5bV9KMVRreWZBcEw3WVJreTFrMGZKNTRxUFhtR0xiS1pNSQ",
     "reason": "Duplicate: Stanford 'Namjooning' course, already posted as rm-stanford-namjooning-course",
     "run": "2026-11-09"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_495891",
     "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495893",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495894",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-19"
   }
 ]
