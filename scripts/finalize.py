@@ -37,7 +37,7 @@ from common import MEDIA
 index = load_json(STATE / "media_index.json", {})
 now = time.time()
 for p in MEDIA.glob("*"):
-    if p.name == ".gitkeep":
+    if p.name == ".gitkeep" or p.is_dir():  # folders of uploaded photos (media/v1112/...) are kept
         continue
     first_seen = index.setdefault(p.name, now)
     if now - first_seen > 7 * 24 * 3600:
