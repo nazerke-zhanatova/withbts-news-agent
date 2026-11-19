@@ -1,110 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMic0FVX3lxTE9wbUhoVkV1SnZ4MEExQVJic19xMGZNbGtlTHM4SVVBSm9JbVdzTVVfUkIxSW54ZDJnMFM3UGh1TVBDU1RRX2M1U",
-    "reason": "Repeat: RM Stanford course already posted (rm-stanford-namjooning-course, 2026-11-08)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMinAFBVV95cUxPbmlHR01lZXJtb0w2Vl9QYXl5RlpVMzNRb2tpc0kxenRrQTRuTXVKUElkNU93U1NBZlNjTlJxTjhpdF9JdGdHO",
-    "reason": "Apple Music 2026 best-songs claim: second outlet not confirmed by WebSearch (English and Korean searches found no Apple Music list); no verified all-7 photo; held",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMijgFBVV95cUxQa2E5bDFzZDBZY0pBR1Uxd1BYTm50ZWFqMHEzY19IeEpYNG1RdEVHLS1HV3JuREVQV0JSQjhrckZRelVfczNwc",
-    "reason": "Same Apple Music best-songs claim as the held item; second outlet not confirmed; no verified all-7 photo; held",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE8yaDZzVUtXOUtmZnphZGlaUUJkX0VmN0pwQTJTVlV0bHRQUXBUMDlsQnFPRWkwc29aMDhVdDNYZzZEazlmVUtmW",
-    "reason": "Same Apple Music best-songs claim as the held item; second outlet not confirmed; no verified all-7 photo; held",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5uYUh0dlVrbnlrSmJmUDVzM3pyTWhzLVBCRFlIZWRYV3dZS3VvVk4zR2FCMWRIQUdTTXEtZE8zaXdpWC1xdmR4V",
-    "reason": "Fan-vote weekly ranking (MyOnePick) reported by one outlet; ranking-type item, low news value",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-koreaworld111_57523",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-koreaworld111_57526",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-btsnewsru0_83215",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-btsnewsru0_83227",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMijAFBVV95cUxPc29yX1luQXF0RDFwUkVUUWs5TERNaTlvalA0bVRSNHFubTBrRUtEcUxTNFhyZXl6c2hnOHVZVmZqaFF1ZURNQ",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-btsnewsru0_83244",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-btsnewsru0_83258",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-koreaworld111_57537",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiygFBVV95cUxQYVRPeDZ0SXVfb1dLVkktbE9Yc3FsalhMSVFLMUZIamZqZ0JfRmdnMkYxZ09SQ1pDZ3RaemZGSVdTSmxTbVRsdTFMMVBlVG9KdVFlVEZZbHJmVTE5OGpWaVV2dFZnc21UQ2hYVV9HNXZ1cDNzaHMyblc0S2tSS1BHQVdhS1huVlFOR2dxWkJlWjliampsdHNKNE1hSzAxb1V4Z05HaWJfY1FvVHVkLVl2WGUyRTh4dVJXQmtDV2I2MkRMSE9UVWpCLW1R",
-    "reason": "V 'jealous of ARMY conversations' remark: only one radio outlet (K-Jewel 99.3 FM), WebSearch found no corroboration; minor remark, not posted",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-koreaworld111_57536",
-    "reason": "Apple Music 'SWIM best song of 2026' claim: WebSearch found no Apple Music 2026 best-songs list and no second outlet (same claim held in earlier run); Billboard chart and tour items are not new. Held, see notes_for_nazerke.md",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-btsnewsru0_83225",
-    "reason": "V Instagram caption-only remark via aggregator: no link to the original post, trivial content, photo not verified as V-only",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-btsnewsru0_83237",
-    "reason": "V Instagram caption-only remark via aggregator: no link to the original post, trivial content, photo not verified as V-only",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-koreaworld111_57524",
-    "reason": "Merged into queue/tg-btsnewsru0_83268.json (same GRAFF Tokyo event, one post)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-koreaworld111_57525",
-    "reason": "Merged into queue/tg-btsnewsru0_83268.json (same GRAFF Jungkook news, one post)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-btsnewsru0_83243",
-    "reason": "Merged into queue/tg-btsnewsru0_83268.json (Vogue Japan report of the same GRAFF Tokyo event)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "tg-btsnewsru0_83254",
-    "reason": "Merged into queue/tg-koreaworld111_57530.json (same Vogue Korea December cover)",
-    "run": "2026-11-11"
-  },
-  {
     "id": "tg-btsnewsru0_83225",
     "reason": "filter: same story already looked at",
     "run": "2026-11-11"
@@ -2542,6 +2437,66 @@
   {
     "id": "tg-btsnewsru0_83451",
     "reason": "Merged into queue/digest-tg-koreaworld111_57690.json (Kaohsiung soundcheck, aggregator item in digest)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496065",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496068",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496069",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496072",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496074",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496075",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496076",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496077",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496078",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496079",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496081",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496083",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-19"
   }
 ]
