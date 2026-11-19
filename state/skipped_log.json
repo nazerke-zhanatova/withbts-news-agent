@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMijgFBVV95cUxNYWpUcE1MVDFFZFA3V3RCSWszcHFzbUxVczNHSWNFVGo2RGl0c3lTM3UxUTE4RExuY081dnJzanpXdVBmTWJ1enE3WmNxMTJ4bzY4V2NfNGVGNkU5ZTRGY2F2Ujd1ZXRZcVJZd0FsX1BTWTZraS13amRBa1RzdmJNazJzeVdQekI5RkdMY1dR",
-    "reason": "Duplicate: SUGA and Samsung Lions win, already posted as tg-btsnewsru0_83150",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMizAFBVV95cUxNaXVPZ3J3RWNFQXVHTjBCS0cwZ1RMLXRYZ2tNNFR1cWw4c21KRUw0dWRtdUg1QWtjeXpOYmpRdGN4blhKNDhqbUtQb18teFlnY2xRM2pKRVRQSko2bjktZFZYaDM5ZTlVX2xSMUlUVGZRclFvc1N3OTlkV2lPUmZhdFFjMGdBU0p5X0FSRGF1cDgzS3lwMjRodG5JTnNjMlFucXJMbklUTUNxeHUwNVA1MDhVZDYtTlNtYnFfRlFPQ2tRMXpGRlRMOU5WYmfSAdIBQVVfeXFMTUJWbFpXM1FqT3UwbUtNV3dqaXloX1VoWVdodmJBNk4wZm1jelQxYWI0ZHNOUlBuU3JVWDl1VWVZdEFhUUttWWVvclVUenpGNkFGNzVXTFFLS3FzRExhdW1fLUhYcDVIQUFhRzN4REZWN3A0STM2OXBlWGQ4STEtVWtPX0w1aGpsdXAwZExsa1JnX3U5TkstUlgtU2gxam1kdE5wTlprWGhXNVlQb1MydklvNnJLelZKa0JkVWpIZk1EU0Rtb1hKRGNoRGNIUkcxT2pR",
-    "reason": "Duplicate: Stanford 'Namjooning' course, already posted as rm-stanford-namjooning-course",
-    "run": "2026-11-09"
-  },
-  {
     "id": "rss-Google_News_EN-CBMivAFBVV95cUxQMUd4MEVrZGJLV0hGam1sczFadkQzOGQtTXAxaEFpT1dEa0F2SW56MW9jZlNNLVp1aF9KTXR6blB1YzRpRnB0ajQwYXdvX0VSVEZ1R0hPc25rT0I1bjlRTnFXeXk3ajBNVE5YMUtINVVoMEJSUks4OE5GRVRhbEMtMGpCWHNWS1NIbHZMaE80d2t5QzIwZ3l1X0YxUzZ2dzllRzJyRXZLUlFQNTJjT2dFaEhyc2hlNnE2VUoxcw",
     "reason": "Duplicate: Stanford 'Namjooning' course, already posted as rm-stanford-namjooning-course",
     "run": "2026-11-09"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-koreaworld111_57680",
     "reason": "Engagement poll for an ARIH product (like/repost/comment bait) and promotional content, not news (rule 12b)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495890",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495891",
+    "reason": "filter: not about BTS",
     "run": "2026-11-19"
   }
 ]
