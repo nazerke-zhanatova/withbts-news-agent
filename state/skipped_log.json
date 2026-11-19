@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMivAFBVV95cUxQcFI3Y1lzd2Z2NDRURzd5YUI2eF9MQnZuTEd2NnZBTWM4d3BscmRqTEpxVEtNUHpsMXBXMzM5NGlvZ1F3dm5kS",
-    "reason": "Jungkook military exemption debate: speculation and social media debate, sensitive (rule 3 and 15), no official statement",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE9ZN3JmQ0JMVDFPZmc2YWdQcGd5TjU5UlJ5REJnalJLRlZNakdibHlRQ0xMRGJScjVkWjdyX2xjRnduQ1QtOFdHd",
-    "reason": "Fan post on Weverse community (#my_favorite_face_of_Jimin), fan-authored, no news",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiywFBVV95cUxORGk1YkZaNmdDZVotNUdUTk05TEtrLVRzellFUjJmODY4UWhxVV9KcURtaTR3SGJXbEZXbUREaGVPN0lSaHlJT",
-    "reason": "V Diwali greeting: personal Weverse reply, no announcement; already skipped on 2026-11-09",
-    "run": "2026-11-10"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE4yRzJoSUJobXNLcWw5MHhHU0MyVUxCSzdZa3VSd2JRSWZJUXBhSUNXR1N0TGkyQkQ2MWE4MDFSVTlvNjV3ejdyd",
-    "reason": "Fan post on Weverse community (ARMY-made song), fan-authored, no official news",
-    "run": "2026-11-10"
-  },
-  {
     "id": "rss-Google_News_EN-CBMi2wFBVV95cUxPcGR0RGxOOVc3RGNaZmI5OXZ3YlBWR2NKaU90MWNPZHplOGpLam9ubzFxU0R2LWU3YkN5Q1NWUnpXX1lPZ2FFW",
     "reason": "filter: same story already looked at",
     "run": "2026-11-10"
@@ -2497,6 +2477,26 @@
   {
     "id": "tg-Crazy_Koreans_495883",
     "reason": "Fan greeting video and text for the concert day; no news, no verifiable fact",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57689",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495902",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495904",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495905",
+    "reason": "filter: not about BTS",
     "run": "2026-11-19"
   }
 ]
