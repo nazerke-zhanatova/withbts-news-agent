@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMikwFBVV95cUxONEp0ekdIMUZTMnhKR05PM1phQzB6dGxLck9yN0J6cEZnSFBSUjZQdmlMLWlvTFZxSnNkbkRTM1Y3a3BiM3ZVN",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiwwJBVV95cUxNdjZHTlYtTHBPUzhMRXV0bWlnRHZ3cno2MlRZcVFodENjU1d3X1ptV1pQTEVWVVl1THV6ajFscU4xdktCRzJBM",
-    "reason": "Spam listing (fake 'full movie online' text), not BTS news",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiuAFBVV95cUxQbFVmYWRZS05IR0ZJV1RQNDNIREFmdEwxemhkMFl2VU5QMWU2R21XeG0yelJXbUdpVXE4WnlLTEYwVEFqY2hTW",
-    "reason": "Repeat: RM Stanford Namjooning course already posted (rm-stanford-namjooning-course, 2026-11-08)",
-    "run": "2026-11-11"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMitAJBVV95cUxNdWdxNlJYOFNsNVJRam93NmJSVmVrMmNRVjJpS3pIQ212Sm1YQzJkU2pZeXlrX0h1eklkdEFBYkhXb2ZHQmM2N",
-    "reason": "Minor interview remark (favourite anime) from one outlet (Times of India); no second outlet, low news value",
-    "run": "2026-11-11"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiYEFVX3lxTE9WRGo5UG1aWmxsRWowLWJBRW0wbEpjcHBvdVQ5dHRfQ1g5RTM5bE9OeWswZ2hvbTZTZEpPcnktejF5bEJzcmpPN",
     "reason": "Fan-authored Weverse community post title, not an official or member announcement; no verifiable news",
     "run": "2026-11-11"
@@ -2497,6 +2477,26 @@
   {
     "id": "tg-Crazy_Koreans_496042",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496048",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496053",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496054",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496057",
+    "reason": "filter: not about BTS",
     "run": "2026-11-19"
   }
 ]
