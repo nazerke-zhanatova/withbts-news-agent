@@ -1128,5 +1128,23 @@
       "instagram": "18086422304711385",
       "threads": "18203720569380967"
     }
+  },
+  {
+    "id": "kaohsiung-day1-official-photos-1120",
+    "time": "2026-11-20T01:53+05:00",
+    "headline": "Гаосюн концертінен алғашқы фотолар",
+    "category": "concert",
+    "source_urls": [
+      "https://x.com/bts_bighit"
+    ],
+    "credits": [
+      "BIGHIT MUSIC"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19519",
+      "instagram": "18131856211885569",
+      "threads": "18384408283233579"
+    }
   }
 ]
