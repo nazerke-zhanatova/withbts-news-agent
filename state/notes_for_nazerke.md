@@ -292,3 +292,18 @@ Same batch as the 18 Nov runs, re-checked. Nothing could be posted under the pho
 4. **Jin airport greeting and all-seven airport photos (tg-Crazy_Koreans_495807, 495833).** Covered by bts-kaohsiung-arrival-1118. The photos are fan-taken, not from a permitted source.
 5. **Private night-market outing (tg-Crazy_Koreans_495815). Not posted** (rule 3, private places and personal time). The channel itself asks fans not to share it.
 6. **Ads and promos (495806, 495813, 495847, koreaworld111_57680).** Channel promotion, recruitment, a paid calendar ad and an engagement poll. Not news.
+
+## 2026-11-19 run (Kaohsiung Day-1 batch, 10 candidates): 1 digest queued
+
+Queued: `queue/digest-tg-Crazy_Koreans_496185.json` (ДАЙДЖЕСТ, Kaohsiung Day-1 concert photos). Crazy_Koreans is an aggregator, so the two items are grouped into one digest per rule 12. Items: Jung Kook photos (tg-Crazy_Koreans_496185) and Jimin photos (tg-Crazy_Koreans_496196). The cover is `media/tg-Crazy_Koreans_496185_0.jpg` (Jung Kook, eyes open, watermark RYONZZC, image_credit ryon_zzc). The Jimin frames carry the watermark "Asia Residence", which is credited. Please check before approving:
+1. The fan photos are the only source. The Jimin photo text says "first photos from fansites"; no official or news photo was found. The Jung Kook frames are identified from the caption and the visual (glasses, tattooed arm), not from a named caption.
+2. The post is photo-led with little news text. If you prefer, hold it.
+
+Held or skipped in this run:
+1. **Namjoon's final concert speech (tg-Crazy_Koreans_496182).** The speech is translated from a fan post. The only still is a 320 px frame with a man in glasses, and the picture itself does not name RM, so it could not be used. A post can go out with a clear official or fan photo of RM with eyes open.
+2. **All seven members' speeches (tg-Crazy_Koreans_496183).** Group news needs an all-7 photo; none from a permitted source.
+3. **Fan clip of Taehyung and Jung Kook (tg-Crazy_Koreans_496193).** Fan-filmed, not verified.
+4. **Health remark on a member (tg-Crazy_Koreans_496202).** Not posted (sensitive). Check the source before any post that mentions it.
+5. **j-hope and Suga fan photos (tg-Crazy_Koreans_496200, 496204).** Identity and eyes not verified this run.
+6. **Elle Taiwan and Vogue Taiwan reels (tg-koreaworld111_57710, 57713).** Concert reaction pieces; no identifiable member in the candidate media.
+7. **Concert speech from Kaohsiung, "purple city" thanks.** The posted kaohsiung-purple-city-1119 covers the city decorations; not repeated.

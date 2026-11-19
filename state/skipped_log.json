@@ -2498,5 +2498,45 @@
     "id": "tg-koreaworld111_57715",
     "reason": "filter: not about BTS",
     "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496182",
+    "reason": "No usable photo: only a 320px still, RM not confirmed by the picture itself (caption names the speaker only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496183",
+    "reason": "Group news (all seven speeches) needs an all-7 photo from a permitted source; candidate image is a crowd shot with no identifiable member",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496193",
+    "reason": "Fan-filmed concert clip; still frames not verified for member identity, no official or brand video",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496200",
+    "reason": "Fan photos of j-hope not verified for identity and eyes; not enough for a post within the digest limit",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496202",
+    "reason": "Concert wrap-up mentions a member's health (sensitive, rule 3 and 15); not posted",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496204",
+    "reason": "Fan photos of Suga, identity and eyes not verified; not posted this run",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57710",
+    "reason": "Elle Taiwan reel repost about crowd reaction; no identifiable member photo in candidate media",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57713",
+    "reason": "Vogue Taiwan reel repost about concert reaction; no identifiable member photo in candidate media",
+    "run": "2026-11-19"
   }
 ]
