@@ -1103,5 +1103,30 @@
       "instagram": "18057096392813148",
       "threads": "18111026974957227"
     }
+  },
+  {
+    "id": "digest-tg-Crazy_Koreans_496185",
+    "time": "2026-11-20T01:38+05:00",
+    "headline": "Гаосюн концертінен алғашқы фотолар",
+    "category": "concert",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/496185",
+      "https://t.me/Crazy_Koreans/496196"
+    ],
+    "credits": [
+      "Crazy_Koreans",
+      "ryon_zzc",
+      "alkznn",
+      "annjkkk",
+      "im1jxk",
+      "bts_dumpling",
+      "Asia Residence"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19513",
+      "instagram": "18086422304711385",
+      "threads": "18203720569380967"
+    }
   }
 ]
