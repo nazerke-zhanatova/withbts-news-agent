@@ -1,40 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiWkFVX3lxTFBza1g3Z1prRVJpY3U0UzhmQ1htbTRhZ2tkdFNsXzNpNG9ySk9FbE1DR2pjRTdzTFZDMzN3NGFwMG5jaEU3TzhzM",
-    "reason": "Weverse media preview in Spanish: headline only, no readable article; content unknown",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE1RelNaeUl1WlFPbTFMcHpxSUFpdzhwaTFmVk5SajRQVEgzaEJadDRucDI5cDFRTkdiNVdYdG1rYlJjMzdKbjNQe",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiUkFVX3lxTFA0c0oxRUtwdDF6Z3otSlc5a29yNGpJRnl5ZUIwX29UWno0SkxzclJZbVR0UmllMVBBN0JraFRuMlotMm4wX25BT",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiUkFVX3lxTE5lU0U4SnRrc0FmYVBqSXAyTkhNR0UyY0FMa3B1bC1YLVk4WkNwNmJnSWVhcWozME4wOXNHRTBXaWo0YzFJX2RFN",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiWkFVX3lxTFBBRzA4TTVNUzNqeFQ5cTkzbWtabzdqNDBQb0JWajNlMzhZVkpOUUlfeXpSMXdtX2VmMlJ4cjlEZVFZZEZCekZTb",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiWkFVX3lxTFBSUFJJbElYamdlT0ktMHV0NGJzVTVzLTdfRDFOUjVuSTNTUXFzWkl0OFUxSVdJZi1GaWRDOGRZM3FYN1F3UUdvd",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5GYVBCaTJLZjZBLWRqYkdZVTB4dGdrMTlTNEZYWmtsNTlQZkI3NHlMQVBLMzNEQTBKRmVHMWNCSkM3RzZRd2p2e",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-12"
-  },
-  {
     "id": "tg-koreaworld111_57571",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-12"
@@ -2497,6 +2462,41 @@
   {
     "id": "tg-Crazy_Koreans_496134",
     "reason": "Health remark about a member plus comparison between members (negativity, rule 3)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496170",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496171",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496173",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496184",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57708",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496188",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496191",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-19"
   }
 ]
