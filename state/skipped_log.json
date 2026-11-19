@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57572",
-    "reason": "Repeat: V Weverse post with 9 photos is the same post as v-weverse-photos-1112 already published (same 9 photos in used_photos); caption is only a weather remark",
-    "run": "2026-11-12"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiXkFVX3lxTE8temFfMDIxdzlnUGhjR0lSbzM1dzU1OW9DQWk5ZFQ1TUMyUGwwei0wMmF2WVJyczQwR2V2U0NnUGpDRmNLV0h1Z",
     "reason": "Fake romance scam involving Jimin's name (Latination): fraud story built on a dating fantasy, personal life and scam content, not BTS news",
     "run": "2026-11-12"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_496211",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496213",
     "reason": "filter: not about BTS",
     "run": "2026-11-19"
   }
