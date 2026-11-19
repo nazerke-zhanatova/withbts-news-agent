@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_495780",
     "reason": "filter: same story already looked at",
     "run": "2026-11-18"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495770",
+    "reason": "Stanford professor interview translation: no original outlet or link given, and the course itself was already posted (rm-stanford-namjooning-course)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495773",
+    "reason": "Billboard chart update (ARIRANG #63, SWIM #2): single fan-channel source, and no all-7 or official member photo from a permitted source (rule 5)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495775",
+    "reason": "Jung Hoseok airport outfit comment: fashion remark on a private travel look, not news",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495777",
+    "reason": "ARIA Awards 2026 win (confirmed by the award's own account): held, no official all-7 photo available; candidate image is an abstract graphic",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495778",
+    "reason": "Jimin airport outfit comment: fashion remark on a private travel look, not news",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495779",
+    "reason": "Duplicate of the ARIA Awards item tg-Crazy_Koreans_495777 (truncated copy)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57677",
+    "reason": "Duplicate of the ARIA Awards item tg-Crazy_Koreans_495777 (short copy); held on the photo rule",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495781",
+    "reason": "RM Instagram post (Billboard report): still held, not confirmed on RM's official account (see notes 2026-11-18 and 2026-11-19)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495787",
+    "reason": "Kaohsiung stadium decorations and merch sale: stadium photos only, no all-7 member photo from a permitted source (rule 5)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_495796",
+    "reason": "Gimpo airport fansite photos of the Taiwan departure: already covered by bts-kaohsiung-arrival-1118, and fansite photos are not a permitted photo source",
+    "run": "2026-11-19"
   }
 ]
