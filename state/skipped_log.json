@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMimgFBVV95cUxPRHByckpGZTlIZkZXSHhFTUE0M2NkelhReGIwYWhMUmZiQ3dOTGNzUDVXMno5aENya2xwTHFxT1ZoWm5YNnR4d",
-    "reason": "Grammy boycott (NPR copy): real and confirmed by several outlets, but the news dates from 30 July 2026, not new; the story is a category dispute with reasons unstated, so not posted",
-    "run": "2026-11-12"
-  },
-  {
     "id": "rss-Google_News_EN-CBMizAFBVV95cUxQN2FlaWF2dHR2Y1J0dzNsU0FqbnMxcXNyeGFxZFp6MVpQblQyWVZ1cEdrWWhseGVXdVUzUHRiblBGOU5lZVpFW",
     "reason": "BTS THE CITY ARIRANG Singapore (That Eric Alper copy, single blog source): same held Singapore news, no all-7 photo from a permitted source; see notes_for_nazerke.md",
     "run": "2026-11-12"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_496196",
     "reason": "filter: link already used in a post",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496283",
+    "reason": "filter: not about BTS",
     "run": "2026-11-19"
   }
 ]
