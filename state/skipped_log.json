@@ -1,60 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5sUVA3X1M1Z2tqX2hxQ3BjdzFlVTNjTVJMRXlYQXBGN0R1TTMyR0xxR2V1YjNNQlY2c2NPN1AycWpaYmd0U1hFc",
-    "reason": "Jin KDOL ranking (Starnews): minor chart item, no second outlet found, no photo of Jin from a permitted source",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "tg-btsnewsru0_83278",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "tg-koreaworld111_57547",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5McjAwSzA0U0d1aHlQd2NWZU9WODJkcHBWVkJhRnYySTk4RFBDakprT3pKUTRTek5ubzlZZ2pPUzdLcWJxT3ZXd",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "tg-koreaworld111_57548",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "tg-koreaworld111_57549",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "tg-koreaworld111_57550",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "tg-koreaworld111_57560",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "tg-koreaworld111_57570",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "tg-btsnewsru0_83288",
-    "reason": "repeat: GRAFF 65th Tokyo exhibition with Jung Kook already posted as jk-vogue-korea-graff-tokyo on 2026-11-11; Russian aggregator, no new fact",
-    "run": "2026-11-12"
-  },
-  {
-    "id": "tg-btsnewsru0_83298",
-    "reason": "repeat: Jung Kook GRAFF interviews, same story as jk-vogue-korea-graff-tokyo already posted; Russian aggregator",
-    "run": "2026-11-12"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiUkFVX3lxTFBtSDBJbGV4QTM0RUx2ZjVhZjFnSE9rbDRtTV9HaXZqWi1zbURJek9SSllaMFV3WkNjYVJjWldCSk9PSHRSOS0ya",
     "reason": "Weverse BTS Media '2.0' preview: headline only, title truncated, no readable article; WebSearch could not verify content",
     "run": "2026-11-12"
@@ -2497,6 +2442,96 @@
   {
     "id": "tg-Crazy_Koreans_496149",
     "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496151",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496155",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496159",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496161",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496162",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496163",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496164",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496166",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496167",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496168",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496169",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57706",
+    "reason": "Member story with a sick-face emoji: health news, only official statements allowed (rule 15)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-btsnewsru0_83464",
+    "reason": "Member story with a sick-face emoji: health news, only official statements allowed (rule 15)",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496122",
+    "reason": "Fan behaviour only (fans singing Arirang), no news about the members",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496123",
+    "reason": "Unofficial fansite videos of members with no described event; cannot verify content, no official source",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496126",
+    "reason": "Fan crowd outside the stadium, no news about the members",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496129",
+    "reason": "Meme post, not news",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496134",
+    "reason": "Health remark about a member plus comparison between members (negativity, rule 3)",
     "run": "2026-11-19"
   }
 ]
