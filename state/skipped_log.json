@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57451",
-    "reason": "DICON D'FESTA x BTS: text contains only links, no readable news detail",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-koreaworld111_57479",
-    "reason": "MMA 2026 Global TOP10 vote: 13 Nov deadline not confirmed by search (reports give other voting dates); held, not in digest",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-koreaworld111_57480",
-    "reason": "Jung Kook Instagram story: link only, content not readable, personal social content",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-btsnewsru0_83162",
-    "reason": "V reply to a fan on Weverse: personal exchange, no news",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-btsnewsru0_83164",
-    "reason": "V reply to a fan on Weverse: personal exchange, no news",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-btsnewsru0_83165",
-    "reason": "V started a Weverse live: announcement of a personal live stream, low news value, covered by 83166 decision",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-btsnewsru0_83166",
-    "reason": "V Weverse live while eating dinner: private daily-life content, skipped under rule 3",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "tg-btsnewsru0_83179",
-    "reason": "Calvin Klein holiday campaign with Jung Kook: no second source found (searches show spring and fall denim campaigns only); held",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE55SVh5cXBUREVoUWtVMFdodW1ibE5Dc3N4Ym9VSFBMUFJ6T1dlZ2FHS2NJdkp6dFVmRWw1Z196RkFweUNuUmhuanlOR2lpc2FkekRxLTFEUzdrUzdBZ2ROTQ",
-    "reason": "Weverse post 'rest well Bangtan': personal message, no news event (same as earlier skip)",
-    "run": "2026-11-09"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMinAFBVV95cUxOa095RHVnbDNJbHVQMVZlSXJ4SmhmS3dENGozM0VJdXl6Wkt3cDRqb2J2MGZRUXdST3ZrRHFYMHJjVFFUVzZPRFpPaWZMZEpISjZRdnp0YmZFV1Z5Rll2VDMxRWxDZDlwQnpYZFRQbGhKcjYyb3Z0YkxYMlk4bGd3SklObnF3clc0bk9DLW4xcG9XYXA5QjhnSEVuN0bSAZwBQVVfeXFMTmtPeUR1Z2wzSWx1UDFWZUlyeEpoZkt3RDRqMzNFSXV5elpLd3A0am9idjBmUVF3Uk92a0RxWDByY1RRVFc2T0RaT2lmTGRKSEo2UXZ6dGJmRVdWeUZZdlQzMUVsQ2Q5cEJ6WGRUUGxoSnI2Mm92dGJMWDJZOGxnd0pJTm5xd3JXNG5PQy1uMXBvV2FwOUI4Z0hFbjdG",
-    "reason": "Duplicate: SUGA and Samsung Lions win, already posted as tg-btsnewsru0_83150",
-    "run": "2026-11-09"
-  },
-  {
     "id": "rss-Google_News_EN-CBMijgFBVV95cUxNYWpUcE1MVDFFZFA3V3RCSWszcHFzbUxVczNHSWNFVGo2RGl0c3lTM3UxUTE4RExuY081dnJzanpXdVBmTWJ1enE3WmNxMTJ4bzY4V2NfNGVGNkU5ZTRGY2F2Ujd1ZXRZcVJZd0FsX1BTWTZraS13amRBa1RzdmJNazJzeVdQekI5RkdMY1dR",
     "reason": "Duplicate: SUGA and Samsung Lions win, already posted as tg-btsnewsru0_83150",
     "run": "2026-11-09"
