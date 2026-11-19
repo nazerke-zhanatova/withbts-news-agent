@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiXkFVX3lxTE8temFfMDIxdzlnUGhjR0lSbzM1dzU1OW9DQWk5ZFQ1TUMyUGwwei0wMmF2WVJyczQwR2V2U0NnUGpDRmNLV0h1Z",
-    "reason": "Fake romance scam involving Jimin's name (Latination): fraud story built on a dating fantasy, personal life and scam content, not BTS news",
-    "run": "2026-11-12"
-  },
-  {
     "id": "rss-Google_News_EN-CBMisgFBVV95cUxNTkhwNF9mOXp3UmFjS2xzRWdvWGpEaG9WSEpxTk5XUldwa3lQRmNqR0ZjY0NVanhfSVFMNnF4c2ZEWEN5d191d",
     "reason": "Repeat: Stanford Namjooning course already posted (rm-stanford-namjooning-course, 2026-11-08)",
     "run": "2026-11-12"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_496213",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-19"
+  },
+  {
+    "id": "tg-koreaworld111_57715",
     "reason": "filter: not about BTS",
     "run": "2026-11-19"
   }
