@@ -33,5 +33,10 @@
     "telegram",
     "instagram",
     "threads"
+  ],
+  "card_file": "media/card_kaohsiung-day1-official-photos-1120.jpg",
+  "carousel_files": [
+    "media/slide_kaohsiung-day1-official-photos-1120_0.jpg",
+    "media/slide_kaohsiung-day1-official-photos-1120_1.jpg"
   ]
 }
