@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83343",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-13"
-  },
-  {
-    "id": "tg-koreaworld111_57588",
-    "reason": "MMA 2026 Global TOP10 vote (BTS nominee confirmed by Soompi, voting closes 13 Nov): no permitted photo of all seven members found (candidate graphic has no members, WebSearch found no official all-7 photo); held, see notes_for_nazerke.md",
-    "run": "2026-11-13"
-  },
-  {
-    "id": "tg-btsnewsru0_83299",
-    "reason": "Jin Weverse thanks message: photo is a military-uniform group picture (rule 15, military service needs official statement); reserve-duty explainer is not news about the member; dropped",
-    "run": "2026-11-13"
-  },
-  {
     "id": "tg-btsnewsru0_83301",
     "reason": "Jung Kook reply to Jin Weverse post: only a short comment; the photo shows Jin, j-hope and Jimin in military uniform (rule 15), cannot use",
     "run": "2026-11-13"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-Crazy_Koreans_496248",
     "reason": "Fan gush about SUGA's smile at the concert, no news event",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496304",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496311",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496318",
+    "reason": "filter: not about BTS",
     "run": "2026-11-20"
   }
 ]
