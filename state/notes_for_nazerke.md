@@ -307,3 +307,9 @@ Held or skipped in this run:
 5. **j-hope and Suga fan photos (tg-Crazy_Koreans_496200, 496204).** Identity and eyes not verified this run.
 6. **Elle Taiwan and Vogue Taiwan reels (tg-koreaworld111_57710, 57713).** Concert reaction pieces; no identifiable member in the candidate media.
 7. **Concert speech from Kaohsiung, "purple city" thanks.** The posted kaohsiung-purple-city-1119 covers the city decorations; not repeated.
+
+## 2026-11-20 run (10 candidates, all Crazy_Koreans aggregator items from the Day-1 concert): no posts queued
+
+1. **Fansite photos and fan commentary (tg-Crazy_Koreans_496224 to 496248, 9 items).** Fan gush about members' looks, Jung Kook, Jimin, Jin and SUGA, plus fansite photos of the Day-1 concert. The concert news is already posted (digest-tg-Crazy_Koreans_496185 and kaohsiung-day1-official-photos-1120), so nothing is new. The aggregator digest rule (12) leaves no news items.
+2. **Taehyung beret, ORDER OF KEBURIA / GEORGE KEBURIA (tg-Crazy_Koreans_496243).** Fan fashion commentary. WebSearch found no brand, outlet or photo confirming it. Not posted.
+3. **Taehyung Asia-leg fancam (tg-Crazy_Koreans_496236).** Fan-filmed clip, not an official or trusted video. Not posted.

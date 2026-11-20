@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_496222",
     "reason": "Fan photo commentary about a member's personal appearance, no news event; not posted",
     "run": "2026-11-19"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496224",
+    "reason": "Fansite photos of Kaohsiung Day-1 concert: same concert news already posted (digest-tg-Crazy_Koreans_496185, kaohsiung-day1-official-photos-1120); repeat, no new fact",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496230",
+    "reason": "Fan gush about Jung Kook and fansite photos, no news event",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496233",
+    "reason": "Fan gush about Jimin's expression in fansite photos, no news event",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496236",
+    "reason": "Fancam clip of Taehyung at Day-1 concert: fan-recorded, not official, and the Asia-leg start is already covered by official posts; commentary only",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496237",
+    "reason": "Fan commentary on a member's pose in fansite photos, no news event",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496239",
+    "reason": "Fan description of a concert moment (Arirang fan chant), no new news; concert already covered",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496241",
+    "reason": "Fan gush about a member's voice in fansite photos, no news event",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496243",
+    "reason": "Fashion spotting (beret from ORDER OF KEBURIA / GEORGE KEBURIA) from fan channel opinion only; WebSearch found no brand or outlet confirmation; not verified by two reliable sources",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496245",
+    "reason": "Fan gush about Jin's hairstyle in fansite photos, no news event",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496248",
+    "reason": "Fan gush about SUGA's smile at the concert, no news event",
+    "run": "2026-11-20"
   }
 ]
