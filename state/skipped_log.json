@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiqwFBVV95cUxPLVppTVdTb1RJeGx0aUdxNmZaVDhVYUxudHhtSzEyTWFQR2RCWnJxYkJ4THFsSk5scHUzSFNneV9rZmV1Sl9JM",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-14"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMikwFBVV95cUxQYmNXam8zQnlHMFNPSUV1S0VZMU1NcWFJcmdsdUxEdG1nWnJuOHVhQ0xnMm1PYVk2TlctZUd3aGppbHZHWjBaY",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-14"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9FRzRSaXFTU1pIU0RxQnNfZUViSjRITGFOMlE2azJpS0lPSmZfM1pGODZNaWJUTVdmV1BybW5oWHFWcU56VHVjQ",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-14"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi5gFBVV95cUxONlUxdTJWT0h1LUl0TWtUdDdOU1JPRS1zR1N1LXpoakFWNjgxaVFIRGdJenJpdkstN3dkYU5Gamd0aWZ3YS1ke",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-14"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMihAFBVV95cUxNeTZfLVJ4R2d2Um4wMG1IX2w4TVNpbWkwbjJHaXVrcVJBNFlJcTFIakFOLVQxMDJVb1ltbW1xRXRWN1pEMk9aa",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-14"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiyAFBVV95cUxOUVRFdUdubFJrWmZHSmctaDhROGR2NjhhRGdsbnNqbmhjSHFnRlBGUnRqZGwwNlh5Y29TZ2ZKLWxNdU5CWkY4Y",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE4yMWZyN2EyNHRzdnVHWU9EaVg1THpuOUllcE9YQzgtV0Z4WHF4aFZmcHc4Ul9PN01adXl3eXRVYmFDRnFfN01NN",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi1wFBVV95cUxNbnJ3TG01b0VZclJ1NjZyR3BFWFdmTVRnMWU1aFg0MnRPNVdpNm9SbzFLcDBINFBpbTNxYUtzOXFDS3FDVVRMd",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "tg-koreaworld111_57602",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "tg-koreaworld111_57598",
-    "reason": "Jin Weverse thanks ARMY for a new award; official member post, but no usable photo of Jin (only a screenshot of the post; no Jin-only photo in the last 7 days or from search). Held for photo rule",
-    "run": "2026-11-15"
-  },
-  {
     "id": "tg-koreaworld111_57599",
     "reason": "Kids Choice Awards 2026 wins: only fan repost; search confirms nominations only, winners not found in 2 outlets; held",
     "run": "2026-11-15"
