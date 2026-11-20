@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57599",
-    "reason": "Kids Choice Awards 2026 wins: only fan repost; search confirms nominations only, winners not found in 2 outlets; held",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiiAJBVV95cUxNUWktczlSRjd0dGFibkNVbGFRY2NVTFpfVXpHRG9OSkFGVkQ1S0N1TjVNczBkU0pSZkNGWG9zcnNXMVd3QzdsM",
-    "reason": "MMA 2026 shoutout video: headline only, no body; MMA wins already covered by posted melon/Soompi posts",
-    "run": "2026-11-15"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiXEFVX3lxTE9zSXFjZHB1aGx1bWpWcHlWTm9NWk55LVZEVC1TSXNSOFlraXd0M214UHNid0FmR0dtdFVOaHBwZFI5VlBBZWJvT",
     "reason": "Weverse community post with title only, content unreadable; title refers to a sabotage/negative topic",
     "run": "2026-11-15"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-koreaworld111_57740",
     "reason": "Screenshot of an Instagram story showing a dog, no caption text, no member in the photo; content of the member's post cannot be verified",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496481",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-koreaworld111_57748",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-20"
   }
 ]
