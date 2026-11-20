@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMigwFBVV95cUxPaVVIWE5QV1g2QTBYZThCVmo3X0lvaTdPMW9pU290ZlZEWGZ3X1VfZjdyZUhXOVhXRnVPRGJFZ2x0ck92alZiS",
-    "reason": "Jin, J-Hope and Jimin in reserve-duty uniform (Sports Seoul): military service news without an official statement (rule 15); photo shows military uniform, cannot use",
-    "run": "2026-11-13"
-  },
-  {
     "id": "rss-Google_News_EN-CBMi_gFBVV95cUxPWHFKRnZIRndZc1RwSk9JWHNMTHl0Z2JxQnRsZURpSUpmTUxPQVMzQ1dwRWpLRHNyNHR3TlFvVkh1T0loc3pLS2NrXy1lX2NHVFZJN1JVYUtUa1JlRmdtQVV5WlpZXzZsXzVTOEIxRDZ4NUtoQjgwcVBpbC1GVlozb3VMa3VvYkt1QmJ3M0tQZnhBdlM0TlFIY0k3c3ZZemxUNXJCMEhMWGRtZFM0QUFEYnV1OXdiLWkzN2RzYWVLV1VJZ1JoSmMydHhCV2F2X2Y4ZU9SVk41c1otS3BwS2JZTEw3d2ZpbDFOMXlzM0s3eXlMdFhGalBydnJBQUF5QQ",
     "reason": "BTS The City Arirang Singapore marketing piece (Alvinology): single outlet, mall promotion; same held Singapore news, no all-7 photo from a permitted source",
     "run": "2026-11-13"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_496346",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496364",
+    "reason": "filter: not about BTS",
     "run": "2026-11-20"
   }
 ]
