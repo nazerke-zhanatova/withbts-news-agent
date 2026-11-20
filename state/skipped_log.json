@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMihAFBVV95cUxNeTZfLVJ4R2d2Um4wMG1IX2w4TVNpbWkwbjJHaXVrcVJBNFlJcTFIakFOLVQxMDJVb1ltbW1xRXRWN1pEMk9aa",
-    "reason": "Vietnam.vn MMA absent / awards item: same unverified Album of the Year story; held",
-    "run": "2026-11-14"
-  },
-  {
     "id": "tg-koreaworld111_57595",
     "reason": "filter: same story already looked at",
     "run": "2026-11-14"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_496448",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496450",
+    "reason": "filter: not about BTS",
     "run": "2026-11-20"
   }
 ]
