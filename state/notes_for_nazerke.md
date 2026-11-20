@@ -321,3 +321,10 @@ Held or skipped in this run:
 3. **Fan bus and birthday donation drive for V (496278).** Fan fundraising, not BTS news. Not posted.
 4. **Stanford Namjooning course (496282).** Repeat of rm-stanford-namjooning-course (2026-11-08).
 5. **Jimin styling Hobi's outfits (496284).** Unverified fan joke. Not posted.
+
+## 2026-11-20 run (10 candidates, Crazy_Koreans and koreaworld111 items 496344 to 496365 and 57725): no posts queued
+
+1. **MAMA 2026 live-vote reminder (tg-koreaworld111_57725), time-sensitive, held.** The fan channel says the ceremony is on 20 Nov at 14:00 Almaty time, with live Fan's Choice voting in the Mnet+ app about 10 to 15 minutes after the broadcast starts. WebSearch found the Round 2 vote closed on 8 Nov and that live votes count toward the Fan's Choice of the Year grand prize, but found no source for the live-vote details or for BTS attending. The only candidate image is the MAMA logo card with no members, and no all-7 photo from a permitted source was found. If you send an official all-7 photo (or confirm one), a short post can still go out today before the broadcast.
+2. **Aggregator schedule (tg-Crazy_Koreans_496355).** The fan channel's list of dates (Bangkok, Kuala Lumpur, Singapore, Jakarta, Melbourne, Sydney, Hong Kong, Manila, Golden Disc, Asia Artist Awards, birthdays) is not checked against official notices, so no post. Several items are already posted (Singapore, Harper's Bazaar V cover).
+3. **Stationhead "BE 6 years" (tg-Crazy_Koreans_496363).** Anniversary video from Stationhead; the candidate has no readable text and no member photo. Not posted.
+4. **Marie Claire Taiwan concert video (tg-Crazy_Koreans_496365).** Relayed by a fan channel; the magazine's account is not confirmed and the clip shows the concert, not a member-related brand work. Not posted.

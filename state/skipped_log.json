@@ -2498,5 +2498,55 @@
     "id": "tg-koreaworld111_57738",
     "reason": "filter: not about BTS",
     "run": "2026-11-20"
+  },
+  {
+    "id": "tg-koreaworld111_57725",
+    "reason": "MAMA 2026 live-vote reminder (ceremony 20 Nov, 14:00 Almaty): time-sensitive, but the only candidate image is the MAMA logo card with no members and no all-7 permitted photo found by WebSearch; held for photo rule, see notes_for_nazerke.md",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496344",
+    "reason": "fan-filmed concert clips of Taehyung from Kaohsiung Day-1 with fan commentary; not official or trusted news, concert already covered",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496347",
+    "reason": "fan photos from the Gaoxiong concert with fan commentary; no official source, concert already covered by posted Day-1 items",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496350",
+    "reason": "fan POV concert videos with fan commentary; fan-filmed clips, not official or trusted video",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496355",
+    "reason": "aggregator schedule: tour and event dates compiled by a fan channel, not checked against official notices (rule 16); overlapping items already posted (Singapore, Harper's Bazaar cover)",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496356",
+    "reason": "aggregator daily recap: concert news already posted (Day-1 digests); surprise setlist and KOMCA item not verifiable from the candidate, no all-7 photo; not a digest",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496357",
+    "reason": "duplicate of tg-Crazy_Koreans_496356",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496358",
+    "reason": "fan birthday celebration at the concert: personal fan story, not BTS news",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496363",
+    "reason": "Stationhead 'BE 6 years' update: video only with no readable content, no member photo; anniversary not verified from a permitted source",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496365",
+    "reason": "Marie Claire Taiwan concert video relayed by fan channel: magazine account not confirmed, no member photo, not a member-related brand work (rule 1, rule 5c)",
+    "run": "2026-11-20"
   }
 ]
