@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_496318",
     "reason": "filter: not about BTS",
     "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496250",
+    "reason": "Day-1 concert fan photos of Jin and Jung Kook; same concert already covered by posted digest-tg-Crazy_Koreans_496185 and kaohsiung-day1-official-photos-1120; photos only, no new news",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496252",
+    "reason": "Fan-made video compilation (part 1 of 3) of member stories from the Day-1 show; no caption naming which member posted what, content unclear, cannot state facts",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496259",
+    "reason": "Part 2 of the same fan-made story compilation; content unclear, cannot state facts",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496266",
+    "reason": "Part 3 of the same fan-made story compilation; content unclear, cannot state facts",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496274",
+    "reason": "V concert photos from fansites, same Day-1 concert already covered by posted concert digests; photos only, no new news",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496278",
+    "reason": "Fan-organised bus and donation drive for V's birthday; not BTS news, money collection with an unclear link (rules 3 and 16)",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496279",
+    "reason": "Fan remark and concert clip about Jung Kook whistling; trivial moment, no official or news source",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496280",
+    "reason": "Fan-filmed stage moment (V selfie with a fan) from the Day-1 show; trivial moment, no official source, concert already covered",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496282",
+    "reason": "Stanford Namjooning course: repeat of rm-stanford-namjooning-course, already posted 2026-11-08",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496284",
+    "reason": "Jimin styling Hobi's outfits: unverified fan joke with no source for the claim; gossip-style, not news",
+    "run": "2026-11-20"
   }
 ]

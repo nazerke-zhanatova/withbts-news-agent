@@ -313,3 +313,11 @@ Held or skipped in this run:
 1. **Fansite photos and fan commentary (tg-Crazy_Koreans_496224 to 496248, 9 items).** Fan gush about members' looks, Jung Kook, Jimin, Jin and SUGA, plus fansite photos of the Day-1 concert. The concert news is already posted (digest-tg-Crazy_Koreans_496185 and kaohsiung-day1-official-photos-1120), so nothing is new. The aggregator digest rule (12) leaves no news items.
 2. **Taehyung beret, ORDER OF KEBURIA / GEORGE KEBURIA (tg-Crazy_Koreans_496243).** Fan fashion commentary. WebSearch found no brand, outlet or photo confirming it. Not posted.
 3. **Taehyung Asia-leg fancam (tg-Crazy_Koreans_496236).** Fan-filmed clip, not an official or trusted video. Not posted.
+
+## 2026-11-20 run (second batch, 20 candidates, all Crazy_Koreans aggregator items, 496250 to 496284): no posts queued
+
+1. **Day-1 concert fan photos and moments (496250, 496274, 496279, 496280).** The concert is already covered by digest-tg-Crazy_Koreans_496185 and kaohsiung-day1-official-photos-1120. These are fan photos and stage moments with no official source, so they were not made into a digest.
+2. **Member story compilation, three parts (496252, 496259, 496266).** A fan-made video of member stories with no caption saying who posted what. Not posted.
+3. **Fan bus and birthday donation drive for V (496278).** Fan fundraising, not BTS news. Not posted.
+4. **Stanford Namjooning course (496282).** Repeat of rm-stanford-namjooning-course (2026-11-08).
+5. **Jimin styling Hobi's outfits (496284).** Unverified fan joke. Not posted.
