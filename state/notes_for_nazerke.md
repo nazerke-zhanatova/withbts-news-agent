@@ -335,3 +335,10 @@ Held or skipped in this run:
 2. **Billboard Japan 10 billion claim is single-source.** The digest's lead item is relayed by Crazy_Koreans from a StarNews article it says BIGHIT MUSIC reposted. WebSearch did not find this milestone (it found Billboard Japan's 1 billion for "Dynamite" in Aug 2026 and Spotify 10 billion for the year). Posted under the trusted_fanbase tier; please check the figure on Billboard Japan before it is shared further, and fix by hand if wrong.
 3. **MAMA 2026 times** come from the Mnet Plus live-streaming timetable graphic (red carpet 15:30 KST, show 18:00 KST = 11:30 and 14:00 Almaty). The MAMA item in the run above did not claim BTS performs; WebSearch found no BTS Day 1 performance report.
 4. **Not posted:** RM curly-hair fan joke (496372), Weverse Shop Black Friday promo (496379), MAMA 2020 throwback that mentions a shoulder surgery (496382), a rice wine brand award (496384), Kaohsiung Day 1 photos already covered (57726).
+
+## 2026-11-20 run (10 candidates: Crazy_Koreans 496399 to 496429, koreaworld111 57737 and 57740): no posts queued
+
+1. **Correction to the note above (digest-tg-Crazy_Koreans_496371).** That digest was never published: it is not in state/posted.json and no file exists in queue/. Its lead item, the Billboard Japan 10 billion streams claim, was not confirmed (WebSearch found Billboard reporting Mrs. GREEN APPLE as the first act at 10 billion, and no BTS Billboard Japan 10 billion source). Do not publish it. The same claim came back this run (koreaworld111 57737) and was skipped.
+2. **Kaohsiung city thanks and 87,600 attendance (496429).** Relayed only by a fan channel. WebSearch found no source for the figure or the thank-you. Not posted.
+3. **MAMA 2026 Day 1 timetable (496407).** The ceremony was 14:00 Almaty on 20 Nov, so the post would be late. The nominations list matches the earlier mama-2026-vote-round2 post.
+4. **Namjoon Instagram story (koreaworld111 57740).** The image is a dog with no caption and no member in it, so it could not be used as news.
