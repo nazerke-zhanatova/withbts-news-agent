@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMipgFBVV95cUxQLWw3MDhfTjRTYlp1aDVoT1c1VEN6WVk0Q05QQkhndjBJMm1HeDVDNEZQTjd4NjJLcW01a2JSeVd4bjZhTWM0QnRleHg4UGRvNFNGem1yeHhqT1ZobFR2Ymg1MXRXQ0h0WWFfMldGX2JjV01lU2FDWXFhdGlFbDBKR2I4aW9RcGUtdWZ5Qm5Oa056RzFGVkd2OEdBREpfTDlyaFhHQ2FR",
-    "reason": "Jin, j-hope, Jimin reserve training (Inquirer): military service news, no official statement; rule 15, not posted",
-    "run": "2026-11-13"
-  },
-  {
-    "id": "tg-koreaworld111_57590",
-    "reason": "Graff x Jung Kook Tokyo red carpet: same GRAFF Tokyo story as jk-vogue-korea-graff-tokyo (posted 2026-11-11); repeat, no new fact",
-    "run": "2026-11-14"
-  },
-  {
     "id": "tg-koreaworld111_57591",
     "reason": "Jung Kook Instagram stories: no caption or text, only two screenshots, stories expire; content unknown, not posted",
     "run": "2026-11-14"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_496303",
     "reason": "Fan joke with a fan-filmed photo of Jimin; fan content, not news",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496377",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496378",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-20"
   }
 ]
