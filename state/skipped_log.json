@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE9FRzRSaXFTU1pIU0RxQnNfZUViSjRITGFOMlE2azJpS0lPSmZfM1pGODZNaWJUTVdmV1BybW5oWHFWcU56VHVjQ",
-    "reason": "MMA Album of the Year claim (StarNews, absent from ceremony): not verified by a second outlet; held",
-    "run": "2026-11-14"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi5gFBVV95cUxONlUxdTJWT0h1LUl0TWtUdDdOU1JPRS1zR1N1LXpoakFWNjgxaVFIRGdJenJpdkstN3dkYU5Gamd0aWZ3YS1ke",
-    "reason": "Melon Day 1 winners list (Times Now): Daesang claim not verified by a second outlet; held",
-    "run": "2026-11-14"
-  },
-  {
     "id": "rss-Google_News_EN-CBMihAFBVV95cUxNeTZfLVJ4R2d2Um4wMG1IX2w4TVNpbWkwbjJHaXVrcVJBNFlJcTFIakFOLVQxMDJVb1ltbW1xRXRWN1pEMk9aa",
     "reason": "Vietnam.vn MMA absent / awards item: same unverified Album of the Year story; held",
     "run": "2026-11-14"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_496446",
     "reason": "filter: not about BTS",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-koreaworld111_57741",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496448",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-20"
   }
 ]
