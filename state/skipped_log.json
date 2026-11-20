@@ -1,20 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiYEFVX3lxTFBQYTZENmNfU1lCV3pFRnJfTGdMMFRqVXdTRXF6LVMyQlBVVGszclBOUWw2QldBanRiWlFSZUJoQ0xDSU4wR0cwZ",
-    "reason": "Weverse fan artwork community post (#My_favorite_FA), fan content, no member news",
-    "run": "2026-11-14"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMi2wFBVV95cUxOQnVERENCSW5nMFNjTnBDa2RhQjNhU3dpa2QyWkFhNEhLcEFUZjdBNGlJdkhVWlZuTDZBcVkwOXd1OFpHbldEe",
-    "reason": "Member's personal property purchase (Times Now, single outlet): private finances and private place, rule 3; not posted",
-    "run": "2026-11-14"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMid0FVX3lxTE5BSGlsTUNfbEx6SFJZLXFFSElocVlvV1RLRFJ2SUljYndmWVo0ejNrOVNHeTJpaHVHZldDTkRqMnlpQ0dCNEJub",
-    "reason": "Jin reserve training photos with J-Hope and Jimin (Starnews): military service, rule 15; Jin's Weverse post counts as official, but candidate has no media, the article photo names only 3 members (not V), so the all-4 photo rule cannot be met; held",
-    "run": "2026-11-14"
-  },
-  {
     "id": "rss-Google_News_EN-CBMid0FVX3lxTE91dEFScEJEVUNKWkhQMGtnUDF2Wl9VVGJ6VUxSajhVOHJkdTZrbEI4cHMwYm9wZjRDQy0yTVhyQWFDQjh0b18tU",
     "reason": "Jung Kook jewelry and Tokyo appearance (Starnews): value and details not verifiable from the candidate, GRAFF Tokyo story already posted; not posted",
     "run": "2026-11-14"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-Crazy_Koreans_496337",
     "reason": "Fan video of Jung Kook pinching Jin with meme-style commentary: fan edit and joke, not news",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496396",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496405",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-20"
+  },
+  {
+    "id": "tg-koreaworld111_57738",
+    "reason": "filter: not about BTS",
     "run": "2026-11-20"
   }
 ]
