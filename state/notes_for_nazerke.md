@@ -328,3 +328,10 @@ Held or skipped in this run:
 2. **Aggregator schedule (tg-Crazy_Koreans_496355).** The fan channel's list of dates (Bangkok, Kuala Lumpur, Singapore, Jakarta, Melbourne, Sydney, Hong Kong, Manila, Golden Disc, Asia Artist Awards, birthdays) is not checked against official notices, so no post. Several items are already posted (Singapore, Harper's Bazaar V cover).
 3. **Stationhead "BE 6 years" (tg-Crazy_Koreans_496363).** Anniversary video from Stationhead; the candidate has no readable text and no member photo. Not posted.
 4. **Marie Claire Taiwan concert video (tg-Crazy_Koreans_496365).** Relayed by a fan channel; the magazine's account is not confirmed and the clip shows the concert, not a member-related brand work. Not posted.
+
+## 2026-11-20 run (candidates tg-Crazy_Koreans_496371 to 496384, tg-koreaworld111_57726 and 57736): one digest queued
+
+1. **Digest queued: digest-tg-Crazy_Koreans_496371** (Billboard Japan 10 billion streams, MAMA 2026 Day 1 timetable, BE 6th anniversary, Jung Kook ear-monitor moment at Kaohsiung). Only fan-channel sources were available, all aggregator items, so they went into one digest.
+2. **Billboard Japan 10 billion claim is single-source.** The digest's lead item is relayed by Crazy_Koreans from a StarNews article it says BIGHIT MUSIC reposted. WebSearch did not find this milestone (it found Billboard Japan's 1 billion for "Dynamite" in Aug 2026 and Spotify 10 billion for the year). Posted under the trusted_fanbase tier; please check the figure on Billboard Japan before it is shared further, and fix by hand if wrong.
+3. **MAMA 2026 times** come from the Mnet Plus live-streaming timetable graphic (red carpet 15:30 KST, show 18:00 KST = 11:30 and 14:00 Almaty). The MAMA item in the run above did not claim BTS performs; WebSearch found no BTS Day 1 performance report.
+4. **Not posted:** RM curly-hair fan joke (496372), Weverse Shop Black Friday promo (496379), MAMA 2020 throwback that mentions a shoulder surgery (496382), a rice wine brand award (496384), Kaohsiung Day 1 photos already covered (57726).
