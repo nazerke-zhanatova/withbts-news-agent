@@ -1,30 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495503",
-    "reason": "unclear: repost of a HYBMRCH / Weverse Shop joint post with no readable details in the candidate",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495504",
-    "reason": "travel: airport departure livestream for the flight to Kaohsiung, private travel schedule (rule 3)",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495506",
-    "reason": "aggregator: Billboard Global Excl. US chart (SWIM #10). Held for digest: chart image has no member photo and no second outlet found for the Nov 21 chart",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495508",
-    "reason": "unverified: Weverse merch pre-order announcement; only a fan-channel copy with Moscow-time hours, no official notice found, no member photo (candidate image is the Weverse logo)",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495509",
-    "reason": "unverified: merch pickup in Kaohsiung, fan-channel copy only, no member photo (candidate image is the Weverse logo)",
-    "run": "2026-11-17"
-  },
-  {
     "id": "tg-Crazy_Koreans_495510",
     "reason": "travel: airport departure livestream, private travel schedule (rule 3)",
     "run": "2026-11-17"
@@ -2497,6 +2472,31 @@
   {
     "id": "tg-Crazy_Koreans_496596",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496606",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496607",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496608",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496609",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496610",
+    "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
 ]
