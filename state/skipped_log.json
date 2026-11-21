@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83435",
-    "reason": "Jimin and V comments on Jin's Weverse post: private member interaction (rule 3), aggregator only, no link to the original, WebSearch found no corroboration",
-    "run": "2026-11-18"
-  },
-  {
     "id": "tg-Crazy_Koreans_495763",
     "reason": "Sarah Kung mini-documentary announcement: third-party photographer project, not BTS member news; text truncated",
     "run": "2026-11-18"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-koreaworld111_57806",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496827",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
