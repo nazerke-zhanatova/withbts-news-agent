@@ -1,45 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495814",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495816",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495823",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495782",
-    "reason": "filter: link already used in a post",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495840",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495842",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495845",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495747",
-    "reason": "V at Gimpo airport: single member, photos from fansite photographers (cr 6north_v, _nuna_v), not media; airport exception needs media photos of all 7",
-    "run": "2026-11-18"
-  },
-  {
     "id": "tg-Crazy_Koreans_495753",
     "reason": "Jung Kook at Gimpo airport: single member; the Kaohsiung trip is already covered by bts-kaohsiung-arrival-1118; airport exception needs all 7",
     "run": "2026-11-18"
@@ -2496,6 +2456,46 @@
   },
   {
     "id": "tg-Crazy_Koreans_496792",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496795",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496799",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496800",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496802",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496804",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496805",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496806",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496810",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
