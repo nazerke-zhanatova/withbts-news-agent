@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83373",
-    "reason": "V Weverse chat with a fan about food and pizza: personal, no news",
-    "run": "2026-11-15"
-  },
-  {
     "id": "tg-btsnewsru0_83374",
     "reason": "j-hope Weverse thanks for the MMA 2026 awards: reaction to news already posted (digest-tg-koreaworld111_57605); no new news",
     "run": "2026-11-15"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_496503",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496528",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-21"
   }
 ]
