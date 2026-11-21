@@ -342,3 +342,10 @@ Held or skipped in this run:
 2. **Kaohsiung city thanks and 87,600 attendance (496429).** Relayed only by a fan channel. WebSearch found no source for the figure or the thank-you. Not posted.
 3. **MAMA 2026 Day 1 timetable (496407).** The ceremony was 14:00 Almaty on 20 Nov, so the post would be late. The nominations list matches the earlier mama-2026-vote-round2 post.
 4. **Namjoon Instagram story (koreaworld111 57740).** The image is a dog with no caption and no member in it, so it could not be used as news.
+
+## 2026-11-21 run (11 candidates: Crazy_Koreans 496444, 496447, 496452, 496455; btsnewsru0 83468, 83472, 83476, 83481; koreaworld111 57743, 57744): no posts queued
+
+1. **Kaohsiung setlist claims (83468 "DNA", 83472 "Answer: Love Myself").** Only fan-channel sources; WebSearch found no setlist report for the Kaohsiung shows naming either song. Not posted. If a setlist or official post confirms them, they can be posted then.
+2. **BigHit X photos captioned "26.11.2019 Kaohsiung" (83476).** The caption date conflicts with the 2026 tour, and WebSearch did not find the BIGHIT MUSIC X post. Not posted. Worth checking the original X post.
+3. **Jimin Dior jewelry graphic (496444).** Built on the @jimin_earrings fan account's graphic, not an official brand post. Not posted.
+4. **Kaohsiung schedule.** Starnews (19 Nov 2026) lists Kaohsiung shows on 19 Nov and 21 to 22 Nov. No 21 Nov material was in this batch.

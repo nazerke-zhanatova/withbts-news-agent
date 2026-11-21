@@ -2498,5 +2498,55 @@
     "id": "tg-koreaworld111_57748",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-20"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496444",
+    "reason": "Jewelry fashion graphic built from fan account @jimin_earrings (fan edit, not official); no news from a brand or member",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496447",
+    "reason": "MAMA stage of PSY and SUGA song by other groups: not BTS member activity, fan-channel only, WebSearch found no 2026 MAMA report of it",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83468",
+    "reason": "Kaohsiung DNA performance claim relayed only by fan channel; WebSearch found no setlist confirmation for the Kaohsiung shows; photos cannot identify a member",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83472",
+    "reason": "Kaohsiung Answer: Love Myself performance claim relayed only by fan channel; WebSearch found no setlist confirmation; photos cannot identify a member",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83476",
+    "reason": "BigHit X photos captioned 26.11.2019 Kaohsiung conflict with the 2026 tour date; BigHit X post not found by WebSearch; unverified (rule 2)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83481",
+    "reason": "Namjoon Instagram stories update: no caption, image shows a dog with no member; cannot be used as news",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57743",
+    "reason": "Jimin Instagram stories link with an emoji only; the image shows three people from behind, identity not confirmable (rule 5)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57744",
+    "reason": "J-hope repost of Jimin's stories with no content of its own; no news",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496452",
+    "reason": "Jimin left a single emoji comment under stories; no news value",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496455",
+    "reason": "Channel promo for the MAX messenger; not news",
+    "run": "2026-11-21"
   }
 ]
