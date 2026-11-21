@@ -1,40 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495353",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495354",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495357",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495358",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495362",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495364",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495365",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-16"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5wUmptT3g0ZDMzaDhrOGZKQXMycVAxT0R3bmE5N3hlZkg0bGdkRFZVM18zZk81bk0tbG1jbUdDM2QwU0Q4ZmtlS",
     "reason": "filter: same story already looked at",
     "run": "2026-11-16"
@@ -2497,6 +2462,41 @@
   {
     "id": "tg-koreaworld111_57774",
     "reason": "Jimin Weverse thank-you note (official member post) but the candidate photo is a handwritten note with no member pictured; no usable Jimin photo found and the post could not be confirmed by a second source",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496572",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496574",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496575",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496576",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496577",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496578",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496579",
+    "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
 ]
