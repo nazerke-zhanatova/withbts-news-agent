@@ -2498,5 +2498,50 @@
     "id": "tg-Crazy_Koreans_496846",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496794",
+    "reason": "Caption-only photo of three members with no event or news detail",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496796",
+    "reason": "Concert photos only; used as the photos of the SUGA post tg-Crazy_Koreans_496807 (one post for this news)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496803",
+    "reason": "Hobi concert speech from a fan channel; candidate photo does not clearly show the speaker, no verified photo of j-hope, not posted",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496808",
+    "reason": "Fan video clip of V singing at the concert: fancam-type content, not official or news media",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496809",
+    "reason": "RM concert speech from a fan channel; no verified photo of RM in candidate media, not posted",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496811",
+    "reason": "V concert speech from a fan channel; no verified photo of V in candidate media, not posted",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496812",
+    "reason": "Full fan recording of the concert encore song: fan recording, not official or news media",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496813",
+    "reason": "Jung Kook concert speech from a fan channel; candidate video frame is not a verified photo of him for a post, not posted",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496814",
+    "reason": "Jin concert speech from a fan channel; no verified photo of Jin in candidate media, not posted",
+    "run": "2026-11-21"
   }
 ]

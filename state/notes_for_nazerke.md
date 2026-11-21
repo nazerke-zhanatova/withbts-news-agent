@@ -379,3 +379,11 @@ Queued: `queue/tg-btsnewsru0_83532.json`. V and Park Bo-gum joint Instagram post
 ## 2026-11-21 run (re-run on the same candidate set): no posts queued
 
 Nothing new to post. Candidates 57783, 57784, 57786, 57787, 57794 and Crazy_Koreans 496788 and 496793 were logged as skipped. The MAMA Album of the Year and Best Collaboration claims (57781 to 57784) are still unconfirmed: a WebSearch returned no 2026 MAMA results at all, only Melon Music Awards 2026 coverage. The MAMA Artist of the Year and Best Male Group posts were not re-checked in this run. The "81 Daesang" vs "80th Daesang" count conflict is still open.
+
+## 2026-11-21 run (10 candidates, Crazy_Koreans 496794 to 496814, Kaohsiung day 2 concert): one post queued
+
+Queued: `queue/tg-Crazy_Koreans_496807.json`. SUGA's speech at the end of the second Kaohsiung concert (21 Nov), from the fan channel translation. Please check before approving:
+1. **Photo owner and member.** Cover is `media/tg-Crazy_Koreans_496796_0.jpg` (SUGA, watermark "MINSTERY"), with two more frames from the same set in the carousel. The source caption names SUGA and the outfit matches in all three frames, but please check the faces yourself: I did not verify them beyond the caption and the outfit.
+2. **Quote.** The line «Біз Гаосюнге алғаш рет келдік...» is a translation of a fan translation of the speech, not checked against the audio or an official source.
+
+**Not posted (speeches of other members):** Hobi (496803), RM (496809), V (496811), Jung Kook (496813) and Jin (496814). Each is a fan-translated speech. Their photos were not verified, so they were skipped; they could form one digest if verified photos are found. The other items (496794, 496808, 496812) are fan clips or captions.
