@@ -9,7 +9,7 @@
   "credits": [
     "BTS_bighit"
   ],
-  "image": null,
+  "image": "media/web_bts-81-daesang-thanks-1121_cover.jpg",
   "image_url": "https://pbs.twimg.com/media/HXpE90sbUAA5paB?format=jpg&name=orig",
   "image_credit": "BTS_bighit",
   "photo_members": [
@@ -30,5 +30,7 @@
     "telegram",
     "instagram",
     "threads"
-  ]
+  ],
+  "card_file": "media/card_bts-81-daesang-thanks-1121.jpg",
+  "carousel_files": []
 }
