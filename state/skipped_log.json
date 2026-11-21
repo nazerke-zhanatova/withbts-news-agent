@@ -1,25 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83383",
-    "reason": "Continuation of the V Weverse letter (tg-btsnewsru0_83377); covered by queue/tg-btsnewsru0_83377.json, not a separate post",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-btsnewsru0_83384",
-    "reason": "V Weverse reply to one fan (chit-chat about reading comments, going to sleep): personal, no news",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-btsnewsru0_83395",
-    "reason": "Jung Kook Instagram stories update with no caption text, photos only: content unclear, no news to write",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-btsnewsru0_83397",
-    "reason": "Hoseok and Jung Kook Instagram stories about the MMA 2026 wins: already covered by posted MMA award digest (digest-tg-koreaworld111_57605, 2026-11-15); repeat",
-    "run": "2026-11-16"
-  },
-  {
     "id": "rss-Google_News_EN-CBMisgFBVV95cUxONTI0YjM0c3hpZmpZYVp6bDBYM0pqME1Ya2ZGTThWUHdoU0lDbGZGaVQ5XzRySVhueEVoRWJaSGhZX2lnTnZET",
     "reason": "Stanford Namjooning course (The Peninsula): same news as rm-stanford-namjooning-course, already posted 2026-11-08; repeat",
     "run": "2026-11-16"
@@ -2497,6 +2477,26 @@
   {
     "id": "tg-Crazy_Koreans_496482",
     "reason": "meme, no news",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496482",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496483",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57759",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496509",
+    "reason": "filter: link already used in a post",
     "run": "2026-11-21"
   }
 ]
