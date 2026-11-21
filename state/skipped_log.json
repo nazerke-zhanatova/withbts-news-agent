@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495805",
-    "reason": "VisitSingapore tourism video on the Singapore BTS THE CITY ARIRANG programme: same news as the already posted tg-Crazy_Koreans_495512 (rule 8); no new member news",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495806",
-    "reason": "Channel promotion (MAX messenger link), not news",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495807",
-    "reason": "Jin greeting Taiwan fans at Kaohsiung airport: covered by bts-kaohsiung-arrival-1118; fansite photos, not a permitted photo source (rule 5)",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_495813",
     "reason": "Channel admin recruitment post, not news",
     "run": "2026-11-19"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-Crazy_Koreans_496816",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496849",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496853",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496856",
+    "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
 ]
