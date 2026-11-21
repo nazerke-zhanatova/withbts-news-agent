@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495778",
-    "reason": "Jimin airport outfit commentary: fan fashion comment on a private travel look, not news",
-    "run": "2026-11-18"
-  },
-  {
     "id": "tg-Crazy_Koreans_495780",
     "reason": "BIGHIT Kaohsiung lightstick guide link: already posted as ck-kaohsiung-guide-1117 (state/archive)",
     "run": "2026-11-18"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_496839",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496846",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
