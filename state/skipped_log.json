@@ -1,75 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57675",
-    "reason": "Same Jimin story repost as Crazy_Koreans_495709: private travel signal (rule 3), no news",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495771",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495711",
-    "reason": "j-hope travel stories (flight to Kaohsiung): private flight/schedule (rule 3); aggregator, no news",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-koreaworld111_57676",
-    "reason": "Same j-hope travel stories repost (flight to Kaohsiung): private flight/schedule (rule 3)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495713",
-    "reason": "V airport fashion photos at Gimpo: paparazzi-style airport content, private travel (rule 3); no news",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495718",
-    "reason": "Airport paparazzi clip of Suga getting out of a car: private travel, no news (rule 3)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495720",
-    "reason": "Airport press photos at Gimpo: private travel, no news (rule 3); fan commentary only",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495730",
-    "reason": "Jimin's Weverse reply to Jin about looking tired after travel: personal chit-chat, private travel context (rule 3), no news",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495731",
-    "reason": "Members' departure from Gimpo business terminal to Kaohsiung: private flight/schedule (rule 3), not posted; the concert itself is already covered by earlier tour posts",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495732",
-    "reason": "Herald Muse Korea video of members' airport appearance: no concrete news, private travel content (rule 3)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-btsnewsru0_83421",
-    "reason": "BTS flight from Korea to Taiwan (Kaohsiung): private flight/schedule (rule 3); concert news already covered by earlier tour posts",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495733",
-    "reason": "Airport photos of V with fan-site cameras: private travel, no news (rule 3); aggregator",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495800",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495809",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
     "id": "tg-Crazy_Koreans_495814",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-18"
@@ -2496,6 +2426,76 @@
   },
   {
     "id": "tg-Crazy_Koreans_496773",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496774",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496777",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496778",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496779",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496780",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496783",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496784",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496785",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496786",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496787",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496789",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496790",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496791",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496792",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
