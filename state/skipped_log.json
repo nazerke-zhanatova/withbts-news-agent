@@ -1,40 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495615",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495628",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-koreaworld111_57655",
-    "reason": "RM Instagram post Df2Hs0NoMPg: same held post as tg-Crazy_Koreans_495581; the link goes to fan archive account rkive, not RM's official account; awaiting Nazerke's check (see notes_for_nazerke.md)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-koreaworld111_57665",
-    "reason": "aggregator: Billboard Global Excl. US 31-week top-10 claim not confirmed by WebSearch (latest reports found are from Aug-Sep 2026); same chart story held earlier as tg-Crazy_Koreans_495506; no all-7 photo",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495588",
-    "reason": "RM Instagram post text (Pak Saengwan letter): same held RM post as tg-koreaworld111_57655; no separate news",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495589",
-    "reason": "book identified by fan channel on RM's held Instagram post; not confirmed by any official or second source; same held post",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495592",
-    "reason": "Kim Yun-shin profile and exhibition dates from fan channel only; no second outlet found; same held RM Instagram post",
-    "run": "2026-11-18"
-  },
-  {
     "id": "tg-Crazy_Koreans_495594",
     "reason": "Getty Images 'The Moment' Jungkook series: fan repost with no link; WebSearch found no trace of the series; not verified (rule 1)",
     "run": "2026-11-18"
@@ -2496,6 +2461,41 @@
   },
   {
     "id": "tg-Crazy_Koreans_496739",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496741",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496742",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496744",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496745",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496747",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496748",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496749",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
