@@ -1210,5 +1210,24 @@
       "instagram": "17875949385640130",
       "threads": "18415478248093712"
     }
+  },
+  {
+    "id": "tg-btsnewsru0_83520",
+    "time": "2026-11-21T18:39+05:00",
+    "headline": "Jung Kook Гаосюндегі бос уақытын бөлісті",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/btsnewsru0/83520"
+    ],
+    "credits": [
+      "btsnewsru0",
+      "Jung Kook Instagram"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19526",
+      "instagram": "17986009770129080",
+      "threads": "18049529231827587"
+    }
   }
 ]
