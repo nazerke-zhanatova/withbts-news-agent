@@ -1,40 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495587",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495591",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495538",
-    "reason": "aggregator: J-Hope sneaker/game brand collab; only photo is a brand ad graphic (no member photo); single relay source",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495540",
-    "reason": "crew travel and staff arrival details: private schedule, not member news",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495546",
-    "reason": "candid restaurant visit (private place), single relay of lifestyle media",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495547",
-    "reason": "channel promotion (MAX), not news",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495548",
-    "reason": "charity concert not BIGHIT/HYBE event; tickets via non-official center account and agency, no official source (rule 16)",
-    "run": "2026-11-17"
-  },
-  {
     "id": "tg-Crazy_Koreans_495552",
     "reason": "V photo-booth post with a non-member actor, private hangout; caption platform unclear",
     "run": "2026-11-17"
@@ -2497,6 +2462,41 @@
   {
     "id": "tg-koreaworld111_57775",
     "reason": "Jimin Weverse post shares a personal friend code; no news value beyond game chatter",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83518",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83520",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57775",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496671",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496673",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496677",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496679",
+    "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
 ]
