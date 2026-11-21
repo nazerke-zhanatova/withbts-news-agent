@@ -363,3 +363,15 @@ Queued: `queue/tg-btsnewsru0_83520.json`. Jung Kook shared a short Instagram vid
 **Not posted, needs a decision:** Jimin Weverse letter (btsnewsru0/83534, 83536), 20 Nov, thanking ARMY for MAMA and about Arirang. The text is clear, but no usable Jimin photo was found in the candidate media or a web search. If you find an official Jimin photo, it can be posted.
 
 **Check:** the earlier post bts-81-daesang-thanks-1121 says "81 Daesang", while btsnewsru0/83531 says "80th Daesang" and "eighth Artist of the Year Daesang". Neither count was verified against a second source.
+
+## 2026-11-21 run (later batch: btsnewsru0 83495 to 83536 re-checked, koreaworld111 57780 to 57782): one post queued
+
+Queued: `queue/tg-btsnewsru0_83532.json`. V and Park Bo-gum joint Instagram post, with Jung Kook's reshare (btsnewsru0/83532). This reverses the earlier skip of 83532 ("non-member in photo"). Korea Times (18 Nov 2026) covers V's post with a photo captioned "V and Park Bo-gum / Captured from V's social media". The cover is that photo, credited to "V Instagram", with `photo_members` set to V only. Please check before approving:
+1. **Eyes and photo owner.** The cover and carousel are news-media captures, not checked for open eyes. The owner is V's own account as captured by Korea Times.
+2. **Jung Kook's reshare** comes only from the fan channel (trusted_fanbase). It is not in the Korea Times article.
+
+**Not posted:**
+1. **Jimin Weverse letter (83534, 83536)**: still no usable Jimin photo. The Starnews article on 16 Nov has three unidentified images. A search found no official Jimin photo from MAMA 2026.
+2. **MAMA Best Collaboration, j-hope and SPAGHETTI (57781)**: not in the Soompi MAMA 2026 winners list, and no second source found.
+3. **Album of the Year, ARIRANG, "MAMA" (57782)**: the Soompi MAMA list has no Album of the Year. The ARIRANG Album of the Year that search finds is from the Melon Music Awards (14 Nov, Gocheok Sky Dome). Possibly the same mix-up as the MAMA/MMA note above. Do not post until the MAMA result is confirmed.
+4. **Jung Kook's Instagram story (57780)**: only a shared Spotify card, no caption or member context.
