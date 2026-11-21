@@ -1,10 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE43US1LYnZqSHlURC1PdDlxOWZEZEVXcl83cVBtRzU2SkFkM3ptRlJKZDdZZ0R4ZmM1Vm1DS0FEZTJiZDNPcGtSW",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-16"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiX0FVX3lxTE9LT0s1ci1CRWlTRnR3OHRXWEZobWIwOW1zbV9WV05rRlNFc1ZmTi1RUmU0N0tCb3NWVUtJeEhSWFdNaGE5RUtuV",
     "reason": "filter: same story already looked at",
     "run": "2026-11-16"
@@ -2497,6 +2492,61 @@
   {
     "id": "tg-Crazy_Koreans_496565",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496568",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57769",
+    "reason": "repeat: MAMA Daesang and Best Male Group already posted (digest-tg-Crazy_Koreans_496463, tg-Crazy_Koreans_496509); Bonsang not confirmed by a second source",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57772",
+    "reason": "member's own Instagram reel, but no usable photo of Jung Kook (video still is black) and no second source found for the Kaohsiung reel",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57773",
+    "reason": "member's Instagram stories filmed on a phone, low news value; still frame shows no member; stories expire",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496533",
+    "reason": "repost of the same Jung Kook stories as tg-koreaworld111_57773 (duplicate)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496535",
+    "reason": "empty repost: Jung Kook reposted Taehyung's post with a one-word comment",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496536",
+    "reason": "BE anniversary interview quote (Jin); original interview source not identified, no second outlet found",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496537",
+    "reason": "fan edit (BOYNEXTDOOR TikTok edit) reposted by Jung Kook; fan edits are not posted",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496539",
+    "reason": "BE anniversary interview quote (Jimin); original interview source not identified, no second outlet found",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496540",
+    "reason": "crowd and fan-spot behaviour around a member's bench in a tour city; points at a private place, not news",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57774",
+    "reason": "Jimin Weverse thank-you note (official member post) but the candidate photo is a handwritten note with no member pictured; no usable Jimin photo found and the post could not be confirmed by a second source",
     "run": "2026-11-21"
   }
 ]
