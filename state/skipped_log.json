@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495642",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495685",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495689",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
     "id": "tg-btsnewsru0_83411",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-18"
