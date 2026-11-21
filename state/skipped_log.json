@@ -2498,5 +2498,50 @@
     "id": "tg-Crazy_Koreans_496528",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496465",
+    "reason": "repeat: MAMA Artist of the Year already posted (digest-tg-Crazy_Koreans_496463)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496483",
+    "reason": "repeat: MAMA Artist of the Year video and tour stats, already covered; stats not new",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496505",
+    "reason": "covered by queue/tg-Crazy_Koreans_496509 (same Best Male Group news; photo used as carousel)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57769",
+    "reason": "covered by queue/tg-Crazy_Koreans_496509 (same MAMA awards news)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496506",
+    "reason": "repeat: HYBE cinema live broadcast already posted (rss-bts-live-viewing-kaohsiung-jakarta)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57759",
+    "reason": "repeat: same j-hope Instagram post already in digest-tg-Crazy_Koreans_496463; caption only 'day off'",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496511",
+    "reason": "fashion commentary on Taehyung's scarf, not news",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496513",
+    "reason": "unverified record claims (80 daesangs, 8 Artist of the Year wins); no second source read",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496482",
+    "reason": "meme, no news",
+    "run": "2026-11-21"
   }
 ]

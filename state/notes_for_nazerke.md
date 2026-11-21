@@ -349,3 +349,9 @@ Held or skipped in this run:
 2. **BigHit X photos captioned "26.11.2019 Kaohsiung" (83476).** The caption date conflicts with the 2026 tour, and WebSearch did not find the BIGHIT MUSIC X post. Not posted. Worth checking the original X post.
 3. **Jimin Dior jewelry graphic (496444).** Built on the @jimin_earrings fan account's graphic, not an official brand post. Not posted.
 4. **Kaohsiung schedule.** Starnews (19 Nov 2026) lists Kaohsiung shows on 19 Nov and 21 to 22 Nov. No 21 Nov material was in this batch.
+
+## 2026-11-21 run (10 candidates, Crazy_Koreans 496465 to 496513, btsnewsru0 and koreaworld111 MAMA items): one post queued
+
+Queued: `queue/tg-Crazy_Koreans_496509.json`. MAMA 2026 Best Male Group and Fans' Choice Male Top 10 (new award, not in the posted Artist of the Year digest). Sources: Soompi winners list (read in full, 20 Nov, Kyocera Dome) and a Billboard winners article (search snippet). Please check before approving:
+1. **Photo.** Cover is `media/tg-Crazy_Koreans_496509_0.jpg`: seven members on a couch, eyes open. It carries a small "BTS" watermark, so the owner is not certain; credited to Crazy_Koreans. Carousel is `tg-Crazy_Koreans_496505_0.jpg` (seven members, black and white). Please confirm the owner of the cover photo.
+2. **MAMA vs Melon.** The posted Melon (MMA) posts are a different ceremony (Gocheok Sky Dome, 14 and 15 Nov). The MAMA ceremony (Kyocera Dome, 20 Nov) gave Artist of the Year, Best Male Group and Top 10 to BTS.3. **Not posted:** tg-Crazy_Koreans_496513 claims 80 daesangs and 8 Artist of the Year wins as a record. No second source was read for these counts.
