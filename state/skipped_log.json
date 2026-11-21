@@ -1,20 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE1aenZFdDBTdGFWZGJDd2pBR3JlNHVwSTVXWmtvMm9fOXA5eDJEY01Ha1QtUEY1eG1sWENUUkxjN2t5Y0xnWlpvS",
-    "reason": "'BTS Weverse Fan Letter' headline only, same as the other fan letter item; likely the V letter already posted as tg-btsnewsru0_83377; no duplicate post",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE5TU1NwZnE0TEIzRG10ZEJXZklVMjZxWFB2Y0wwbEZQRG1lZWlHa1VIOFBrelFfWEh6cDNTWmtGLWtDdzlPV1ppY",
-    "reason": "Jimin 'recognized by Mexico' feature (StarNews only): no award or recognition found by WebSearch, single outlet; not verified",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE1UWjNtVDZzcXh5amhNeWRHWmZLMlV5UnVYOFgxZ3V6NmJQRG9oWElIOFpraHJUT3dzUTI4LV9LRnpxNFpsNUFJc",
-    "reason": "Kids' Choice Awards honor for BTS: already posted as tg-koreaworld111_57599 (2026-11-15)",
-    "run": "2026-11-16"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiV0FVX3lxTE1TTnR2MmdUWThISzlNYXBZVW5wWk5TczhfWXZoX1RYOWRtakJ3RnN5TlhkZHI5QU85TEg1TUJTaFRRbVRMdnNEd",
     "reason": "Melon Music Awards 2026 grand prizes (Korea Herald): already covered by tg-koreaworld111_57593 and digest-tg-koreaworld111_57605 (2026-11-14/15)",
     "run": "2026-11-16"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-btsnewsru0_83485",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83497",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83507",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83523",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-21"
   }
 ]
