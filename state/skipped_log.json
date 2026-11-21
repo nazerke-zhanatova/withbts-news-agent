@@ -1,40 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495552",
-    "reason": "V photo-booth post with a non-member actor, private hangout; caption platform unclear",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495553",
-    "reason": "repost of the same private photo-booth post; personal hangout, no new news",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495556",
-    "reason": "Jung Kook private meal and seat location (personal life), single relay source",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495557",
-    "reason": "duplicate of tg-Crazy_Koreans_495556",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495558",
-    "reason": "channel admin recruitment, not news",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-koreaworld111_57666",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-btsnewsru0_83410",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-17"
-  },
-  {
     "id": "tg-Crazy_Koreans_495606",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-17"
@@ -2497,6 +2462,41 @@
   {
     "id": "tg-Crazy_Koreans_496679",
     "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496683",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57785",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496690",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496693",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496702",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57788",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496704",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-21"
   }
 ]
