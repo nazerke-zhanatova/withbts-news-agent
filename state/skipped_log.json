@@ -1,25 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495753",
-    "reason": "Jung Kook at Gimpo airport: single member; the Kaohsiung trip is already covered by bts-kaohsiung-arrival-1118; airport exception needs all 7",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495759",
-    "reason": "ARIA Awards 2026 nomination item: the ceremony aired 5pm AEDT Nov 18 (11:00 Almaty), so 'today at 09:00 MSK' is stale; WebSearch found no ARIA 2026 results; no official source",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-btsnewsru0_83431",
-    "reason": "j-hope Instagram story 'Off to Kaohsiung': single-member travel post on the same Kaohsiung trip already posted as bts-kaohsiung-arrival-1118; airport exception needs all 7 photos. Held for Nazerke's decision",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-btsnewsru0_83433",
-    "reason": "Jimin Instagram story text 'I'll come and go': no news event, translation unclear, aggregator only",
-    "run": "2026-11-18"
-  },
-  {
     "id": "tg-btsnewsru0_83435",
     "reason": "Jimin and V comments on Jin's Weverse post: private member interaction (rule 3), aggregator only, no link to the original, WebSearch found no corroboration",
     "run": "2026-11-18"
@@ -2496,6 +2476,26 @@
   },
   {
     "id": "tg-Crazy_Koreans_496810",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57795",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496820",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57800",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57806",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
