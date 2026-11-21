@@ -1,15 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMi_gFBVV95cUxPSmpkWUFZNmlySDdrOEdSTFFVbjFfN2s2UlpSV2x6akVsbjJ3QVFFam5wd19KNk50MlkxalpTNmdGdGdrdnhSM",
-    "reason": "Times Now V OT7 year-end shows story: same news as tg-btsnewsru0_83377 (Korea Times confirms it), merged into that post; credits not repeated",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-koreaworld111_57632",
-    "reason": "Six MMA 2026 wins plus ARMY thank-you (bts.bighitofficial IG story via fan channel): already covered by digest-tg-koreaworld111_57605 (2026-11-15); the thank-you is covered by tg-koreaworld111_57598",
-    "run": "2026-11-16"
-  },
-  {
     "id": "rss-Google_News_EN-CBMiX0FVX3lxTE1QeHZ5dlBjWVNZZzFYRTRLd0lWNEVVc0FmQ0F0R3NJcDBlMmQ4eEtvZHhGa0NTUTM3Q3dtLVR6enR0eGdhQU5OQ",
     "reason": "'BTS Weverse Fan Letter' headline only (Google News, 15 Nov UTC = 16 Nov KST): likely the V letter already posted as tg-btsnewsru0_83377; not verified separately, no duplicate post",
     "run": "2026-11-16"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_496547",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496548",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496549",
+    "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
 ]
