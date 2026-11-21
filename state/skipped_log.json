@@ -1,20 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMisgFBVV95cUxONTI0YjM0c3hpZmpZYVp6bDBYM0pqME1Ya2ZGTThWUHdoU0lDbGZGaVQ5XzRySVhueEVoRWJaSGhZX2lnTnZET",
-    "reason": "Stanford Namjooning course (The Peninsula): same news as rm-stanford-namjooning-course, already posted 2026-11-08; repeat",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiiAFBVV95cUxNTGphTHJ0QkVRTWpvMkRSNGpSWVdCREY0eU9ZcTBoVnNVbEJaZVVJalRzT09KTFlnRzM1UWJBdldtU1pacDBxQ",
-    "reason": "Jin joke about a silkworm-pupae reward post (Chosunbiz only, one outlet): light joke, not news; needs two outlets",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiaEFVX3lxTFBNSVkycHV3YU1LdzExZWFjNFMwTWtQS0hFZ3hxaWMwMkZSZXRYVGxVRmlWZEFMZzhVcGMzc0ozaXQtdUlFSi1lT",
-    "reason": "Jin reaction to a 'Pudelegi' staff meme (The Korea Daily only): meme and joke, not news; single outlet",
-    "run": "2026-11-16"
-  },
-  {
     "id": "rss-Google_News_EN-CBMi_gFBVV95cUxPSmpkWUFZNmlySDdrOEdSTFFVbjFfN2s2UlpSV2x6akVsbjJ3QVFFam5wd19KNk50MlkxalpTNmdGdGdrdnhSM",
     "reason": "Times Now V OT7 year-end shows story: same news as tg-btsnewsru0_83377 (Korea Times confirms it), merged into that post; credits not repeated",
     "run": "2026-11-16"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-Crazy_Koreans_496509",
     "reason": "filter: link already used in a post",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496543",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496546",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496547",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-21"
   }
 ]
