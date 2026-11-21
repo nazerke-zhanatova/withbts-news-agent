@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495777",
-    "reason": "ARIA Awards 2026 Most Popular International Artist: confirmed by aria.com.au and several outlets, but no photo of all seven members from a permitted source; held, see notes",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495779",
-    "reason": "Same ARIA Awards news as tg-Crazy_Koreans_495777 (duplicate, merged into that held item); photo is an unrelated ceremony still",
-    "run": "2026-11-18"
-  },
-  {
     "id": "tg-Crazy_Koreans_495778",
     "reason": "Jimin airport outfit commentary: fan fashion comment on a private travel look, not news",
     "run": "2026-11-18"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_496793",
     "reason": "Fan comment with a fan-edit clip: not news, no official or news-media source",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496833",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496839",
+    "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
 ]
