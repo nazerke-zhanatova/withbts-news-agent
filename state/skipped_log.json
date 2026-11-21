@@ -1,50 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83374",
-    "reason": "j-hope Weverse thanks for the MMA 2026 awards: reaction to news already posted (digest-tg-koreaworld111_57605); no new news",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "tg-koreaworld111_57612",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "tg-koreaworld111_57616",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-koreaworld111_57618",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-koreaworld111_57627",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-koreaworld111_57628",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-btsnewsru0_83385",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-koreaworld111_57629",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-btsnewsru0_83375",
-    "reason": "V Weverse live-broadcast teaser about phone battery and eating: personal chit-chat, no news",
-    "run": "2026-11-16"
-  },
-  {
     "id": "tg-btsnewsru0_83383",
     "reason": "Continuation of the V Weverse letter (tg-btsnewsru0_83377); covered by queue/tg-btsnewsru0_83377.json, not a separate post",
     "run": "2026-11-16"

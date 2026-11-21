@@ -1170,5 +1170,27 @@
       "instagram": "18085416305721382",
       "threads": "18121472855091690"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_496509",
+    "time": "2026-11-21T12:39+05:00",
+    "headline": "MAMA 2026: BTS — Best Male Group",
+    "category": "award",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/496509",
+      "https://www.soompi.com/article/1889291wpp/winners-of-2026-mama-awards-chapter-1",
+      "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/"
+    ],
+    "credits": [
+      "Crazy_Koreans",
+      "Soompi",
+      "Billboard"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19523",
+      "instagram": "18673663561050835",
+      "threads": "18143620201617845"
+    }
   }
 ]
