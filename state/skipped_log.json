@@ -1,40 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495523",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495539",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495545",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-koreaworld111_57638",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495555",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495514",
-    "reason": "Business news: HYBE strategic partnership with CAA (rule 3); aggregator copy of a Billboard report",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495516",
-    "reason": "Private outing: Taehyung at a restaurant, shared by the restaurant owner's personal account (rule 3); not official or trusted news",
-    "run": "2026-11-17"
-  },
-  {
     "id": "tg-koreaworld111_57635",
     "reason": "Fan predictions for MAMA 2026, not news; repeats the MAMA vote item already posted",
     "run": "2026-11-17"
@@ -2496,6 +2461,41 @@
   },
   {
     "id": "tg-Crazy_Koreans_496619",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496628",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496631",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496636",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496643",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496647",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496648",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496649",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
