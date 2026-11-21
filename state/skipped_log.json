@@ -1,25 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiX0FVX3lxTE5wUmptT3g0ZDMzaDhrOGZKQXMycVAxT0R3bmE5N3hlZkg0bGdkRFZVM18zZk81bk0tbG1jbUdDM2QwU0Q4ZmtlS",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-16"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495507",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-koreaworld111_57633",
-    "reason": "aggregator: Spotify 200M list. Held for digest: no all-7 photo verifiable (candidate photo has no caption; face-level eye check not possible), so the digest is held for approval",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-koreaworld111_57634",
-    "reason": "travel: airport departure livestream for the flight to Taiwan, private travel schedule (rule 3)",
-    "run": "2026-11-17"
-  },
-  {
     "id": "tg-Crazy_Koreans_495503",
     "reason": "unclear: repost of a HYBMRCH / Weverse Shop joint post with no readable details in the candidate",
     "run": "2026-11-17"
@@ -2497,6 +2477,26 @@
   {
     "id": "tg-Crazy_Koreans_496579",
     "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496587",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496592",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496595",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496596",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-21"
   }
 ]
