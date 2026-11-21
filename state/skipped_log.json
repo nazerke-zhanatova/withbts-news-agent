@@ -1,70 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83411",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495737",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495760",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495764",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-btsnewsru0_83401",
-    "reason": "Namjoon Instagram post (translated caption) promoting artist Pak Seong-gwan's India-inspired works: WebSearch found no RM or India exhibition link, only one aggregator relay, and the photos do not show a verifiable member; not posted",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-koreaworld111_57668",
-    "reason": "Members at the airport leaving for Taiwan: private travel/flight content (rule 3); tour dates already covered",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495667",
-    "reason": "Airport photo of Jimin with fan caption, no news (private travel, rule 3)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495670",
-    "reason": "Airport photo of Jimin with fan caption, no news (private travel, rule 3)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495674",
-    "reason": "Airport photos of SUGA with fan commentary, no news (private travel, rule 3)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495684",
-    "reason": "Daily Fashion News relay about members flying to Kaohsiung: travel/flight content (rule 3); tour already covered; no second source",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495698",
-    "reason": "Fan commentary on V airport photos, no news (private travel, rule 3)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495702",
-    "reason": "Fan commentary on Jimin airport photos, no news (private travel, rule 3)",
-    "run": "2026-11-18"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495709",
-    "reason": "Jimin Instagram story ('I'll be back' with a Korean caption about going out): private travel signal (rule 3), no news; same story as koreaworld111_57675",
-    "run": "2026-11-18"
-  },
-  {
     "id": "tg-koreaworld111_57675",
     "reason": "Same Jimin story repost as Crazy_Koreans_495709: private travel signal (rule 3), no news",
     "run": "2026-11-18"
@@ -2497,6 +2432,71 @@
   {
     "id": "tg-koreaworld111_57782",
     "reason": "Album of the Year Daesang for ARIRANG 'at MAMA 2026' not in the Soompi MAMA winners list; reports of ARIRANG Album of the Year are for the Melon Music Awards (14 Nov), so the ceremony is likely mixed up; unverified",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83495",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83517",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83524",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83532",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83534",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83536",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57780",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496764",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496766",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496767",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496769",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496770",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496773",
+    "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
 ]
