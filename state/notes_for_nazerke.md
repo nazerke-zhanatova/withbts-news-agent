@@ -355,3 +355,11 @@ Held or skipped in this run:
 Queued: `queue/tg-Crazy_Koreans_496509.json`. MAMA 2026 Best Male Group and Fans' Choice Male Top 10 (new award, not in the posted Artist of the Year digest). Sources: Soompi winners list (read in full, 20 Nov, Kyocera Dome) and a Billboard winners article (search snippet). Please check before approving:
 1. **Photo.** Cover is `media/tg-Crazy_Koreans_496509_0.jpg`: seven members on a couch, eyes open. It carries a small "BTS" watermark, so the owner is not certain; credited to Crazy_Koreans. Carousel is `tg-Crazy_Koreans_496505_0.jpg` (seven members, black and white). Please confirm the owner of the cover photo.
 2. **MAMA vs Melon.** The posted Melon (MMA) posts are a different ceremony (Gocheok Sky Dome, 14 and 15 Nov). The MAMA ceremony (Kyocera Dome, 20 Nov) gave Artist of the Year, Best Male Group and Top 10 to BTS.3. **Not posted:** tg-Crazy_Koreans_496513 claims 80 daesangs and 8 Artist of the Year wins as a record. No second source was read for these counts.
+
+## 2026-11-21 run (9 candidates, btsnewsru0 and koreaworld111 MAMA and Weverse items): one post queued
+
+Queued: `queue/tg-btsnewsru0_83520.json`. Jung Kook shared a short Instagram video from Kaohsiung (telegram post btsnewsru0/83520). Photo is a frame of Jung Kook from that video (`media/tg-btsnewsru0_83520_1.jpg`), credited to Jung Kook Instagram. Please check the video is his own post.
+
+**Not posted, needs a decision:** Jimin Weverse letter (btsnewsru0/83534, 83536), 20 Nov, thanking ARMY for MAMA and about Arirang. The text is clear, but no usable Jimin photo was found in the candidate media or a web search. If you find an official Jimin photo, it can be posted.
+
+**Check:** the earlier post bts-81-daesang-thanks-1121 says "81 Daesang", while btsnewsru0/83531 says "80th Daesang" and "eighth Artist of the Year Daesang". Neither count was verified against a second source.

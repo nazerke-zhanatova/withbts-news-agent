@@ -1,30 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57635",
-    "reason": "Fan predictions for MAMA 2026, not news; repeats the MAMA vote item already posted",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495520",
-    "reason": "Passing remark by TXT on MTV about possible future collaboration with BTS: speculation, not BTS news",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495521",
-    "reason": "j-hope story with a brand/artist tag and no caption or source link; meaning unclear and unverifiable (rule 2)",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-koreaworld111_57637",
-    "reason": "j-hope Instagram story linked via a fan account (uarmyhope), no text; account and content not verifiable",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495524",
-    "reason": "Graff Tokyo event outfit coverage: same Graff event already posted as jk-vogue-korea-graff-tokyo (2026-11-11); outfit styling adds no new fact",
-    "run": "2026-11-17"
-  },
-  {
     "id": "tg-Crazy_Koreans_495526",
     "reason": "Kaohsiung airport purple decoration and photo zone: fan-channel only; WebSearch found no second outlet; held (rule 1)",
     "run": "2026-11-17"
@@ -2497,6 +2472,76 @@
   {
     "id": "tg-Crazy_Koreans_496649",
     "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496651",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496653",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496658",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496666",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496667",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83495",
+    "reason": "Jimin Weverse caption is vague ('beautiful day'); photo is a beach shot with no identifiable member",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83517",
+    "reason": "Jin's trivial comment on Jimin's Weverse post; no news",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83518",
+    "reason": "personal: birthday wish to a non-member (private life)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83524",
+    "reason": "already posted: MAMA 2026 Artist of the Year, Best Male Group, Fans' Choice Top 10",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83531",
+    "reason": "already posted: MAMA Daesang win (record count conflicts with posted 81 Daesang; see notes)",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83532",
+    "reason": "non-member (Pak Bogum) in photo; cannot confirm who is pictured; no news value",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83534",
+    "reason": "Jimin Weverse letter (MAMA): good news but no usable photo of Jimin (only handwritten card and text screenshot); needs manual photo",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-btsnewsru0_83536",
+    "reason": "continuation of Jimin Weverse letter (83534); same photo problem",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-koreaworld111_57775",
+    "reason": "Jimin Weverse post shares a personal friend code; no news value beyond game chatter",
     "run": "2026-11-21"
   }
 ]
