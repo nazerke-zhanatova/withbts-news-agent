@@ -1,55 +1,5 @@
 [
   {
-    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE9zSXFjZHB1aGx1bWpWcHlWTm9NWk55LVZEVC1TSXNSOFlraXd0M214UHNid0FmR0dtdFVOaHBwZFI5VlBBZWJvT",
-    "reason": "Weverse community post with title only, content unreadable; title refers to a sabotage/negative topic",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMieEFVX3lxTE51bk1kZTJyRjJpQ2xBTTZWendkd0tzWUZuVzhhckpxZzBCVjc4bHBRTUNSc0FHRXdKTzN1WHhqUWZQeU10VmJYM",
-    "reason": "Jin Spotify plaque: 1B-stream milestone reported Aug 2026 (Khan, Laodong); plaque detail only from StarNews, no second outlet",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMid0FVX3lxTE1NQUo4MnpmR1BEYzdBeXdZaGVJeVZLcFJyd0xWWkdxT2hEbmdXSFl0X2hWYnBYTFMtS3QtWUlTcE82LV95M2JMN",
-    "reason": "Jungkook cutest-person ranking and selfie: single outlet, no reliable 2026 poll found",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiiAFBVV95cUxPc01VYm9tRzVXVnJUYTF0cnlmaFhfVENleXZuVjRnbjJ1OWkzMExKdFgxX0w4bC1KeEV6Z2R5LWRZb2U3bHB0V",
-    "reason": "Staff Best Producer award: not member news; conflicting names across items and no MMA 2026 Best Producer result found",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiUEFVX3lxTE5naWlwdnRTd1VmRGZqUFhrb2o4dS03clZhOE1rcEp2VkY1UWtndm9Lcm91VjdBSlh2ekJxTjZmdTh6SmJYZ3ZQQ",
-    "reason": "Same staff Best Producer story as another item; not member news, not confirmed",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiYEFVX3lxTE9mZTIwdVUyaHFCWHlTNC02VjNaVDdBakVSTUd0MUJuV2hVWWZ2dmRnbFpvWEp1QTkxTFBmd1BxZGRxNTRYcF9Cc",
-    "reason": "Weverse community post with title only, content unreadable, sabotage topic",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE03SjZxdGJJVnI5LVFjN3pnNWV1bjVtRFdiU0pjZHhRU2tKV1lCdUtBOXZhOGlhLXFMa2RtcTY5dmNKS0dGS0ZGU",
-    "reason": "Weverse community post with title only ('a day well spent as ARMY'), content unreadable",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiiAJBVV95cUxNUWktczlSRjd0dGFibkNVbGFRY2NVTFpfVXpHRG9OSkFGVkQ1S0N1TjVNczBkU0pSZkNGWG9zcnNXMVd3QzdsM",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMivgFBVV95cUxNelJhLThiYWFfdlA5N2R0ajFOVUVfMDh6d1NpaGhqdjBIZ0tMcy1nbFJKM3FxSldTNzRBRkxqbGNtWVdKRU1NN",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-15"
-  },
-  {
-    "id": "rss-Google_News_EN-CBMiyAFBVV95cUxQbUNaZjlubVJnX0s5bzZEaHNCMXRwT0lJcmdvM29YM0w1Z0p1cmYxeEpMOGRfOWxGSXcxQnlWQ2UwNmh2ZjlKN",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-15"
-  },
-  {
     "id": "tg-btsnewsru0_83346",
     "reason": "filter: same story already looked at",
     "run": "2026-11-15"
