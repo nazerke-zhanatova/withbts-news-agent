@@ -1,30 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495510",
-    "reason": "travel: airport departure livestream, private travel schedule (rule 3)",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495513",
-    "reason": "aggregator: Spotify chart graphic (ARIRANG #2 Top Albums Global). Held for digest: no member photo in the candidate and no all-7 photo verified",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495515",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-koreaworld111_57636",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-17"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495519",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-17"
-  },
-  {
     "id": "tg-Crazy_Koreans_495523",
     "reason": "filter: not about BTS",
     "run": "2026-11-17"
@@ -2496,6 +2471,31 @@
   },
   {
     "id": "tg-Crazy_Koreans_496610",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496613",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496614",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496615",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496616",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496619",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
   }
