@@ -1192,5 +1192,23 @@
       "instagram": "18673663561050835",
       "threads": "18143620201617845"
     }
+  },
+  {
+    "id": "bts-81-daesang-thanks-1121",
+    "time": "2026-11-21T15:30+05:00",
+    "headline": "81 Daesang үшін ARMY-ге рахмет",
+    "category": "news",
+    "source_urls": [
+      "https://x.com/BTS_bighit"
+    ],
+    "credits": [
+      "BTS_bighit"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19525",
+      "instagram": "17875949385640130",
+      "threads": "18415478248093712"
+    }
   }
 ]
