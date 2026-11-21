@@ -375,3 +375,7 @@ Queued: `queue/tg-btsnewsru0_83532.json`. V and Park Bo-gum joint Instagram post
 2. **MAMA Best Collaboration, j-hope and SPAGHETTI (57781)**: not in the Soompi MAMA 2026 winners list, and no second source found.
 3. **Album of the Year, ARIRANG, "MAMA" (57782)**: the Soompi MAMA list has no Album of the Year. The ARIRANG Album of the Year that search finds is from the Melon Music Awards (14 Nov, Gocheok Sky Dome). Possibly the same mix-up as the MAMA/MMA note above. Do not post until the MAMA result is confirmed.
 4. **Jung Kook's Instagram story (57780)**: only a shared Spotify card, no caption or member context.
+
+## 2026-11-21 run (re-run on the same candidate set): no posts queued
+
+Nothing new to post. Candidates 57783, 57784, 57786, 57787, 57794 and Crazy_Koreans 496788 and 496793 were logged as skipped. The MAMA Album of the Year and Best Collaboration claims (57781 to 57784) are still unconfirmed: a WebSearch returned no 2026 MAMA results at all, only Melon Music Awards 2026 coverage. The MAMA Artist of the Year and Best Male Group posts were not re-checked in this run. The "81 Daesang" vs "80th Daesang" count conflict is still open.
