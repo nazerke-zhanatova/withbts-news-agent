@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495860",
-    "reason": "Fan-made fashion listicle part 2 (scarf styling), not news; no official or verified source",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495870",
-    "reason": "ARIH Vietnam food brand promo using member visuals: campaign terms, product and dates unclear, only an aggregator repost; no official BTS partnership confirmed",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495877",
-    "reason": "Nex Playground BTS x Starri: partnership real (Nex/HYBE, June 2026) but the candidate's 'available now' claim is unconfirmed; sources say release later in 2026 with no date; media is a game screenshot with no member photo of all 7. Held",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_495878",
     "reason": "EXA FM (Mexico) Facebook tribute to Jimin: opinion/praise piece, no event or new fact; original is a radio station post, not a reliable news outlet",
     "run": "2026-11-19"
@@ -2496,6 +2481,21 @@
   },
   {
     "id": "tg-Crazy_Koreans_496874",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496875",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496876",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496877",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
   }
