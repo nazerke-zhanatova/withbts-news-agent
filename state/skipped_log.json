@@ -1,25 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495897",
-    "reason": "podcast quotes from Steve Aoki, not verified by a second outlet; includes unchecked chart claim",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495900",
-    "reason": "fan photo of ARMY entering stadium, no news about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495907",
-    "reason": "emotional commentary on fans, no news",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495908",
-    "reason": "fan clip of NORMAL, content unclear, fan-made, no official source",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_495909",
     "reason": "fan clip of NORMAL, content unclear, fan-made, no official source",
     "run": "2026-11-19"
@@ -2496,6 +2476,26 @@
   },
   {
     "id": "tg-Crazy_Koreans_496930",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496941",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496942",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496944",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496950",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-22"
   }
