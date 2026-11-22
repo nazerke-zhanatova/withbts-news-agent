@@ -1,35 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83467",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496024",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496025",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496026",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496028",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496031",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496032",
     "reason": "filter: not about BTS",
     "run": "2026-11-19"
@@ -2497,6 +2467,36 @@
   {
     "id": "tg-Crazy_Koreans_496955",
     "reason": "repeat: teaser of tg-Crazy_Koreans_496954",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497041",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497042",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497043",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497046",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497047",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497048",
+    "reason": "filter: not about BTS",
     "run": "2026-11-22"
   }
 ]
