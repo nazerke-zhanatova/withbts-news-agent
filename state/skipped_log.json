@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496079",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496081",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496083",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-19"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-btsnewsru0_83592",
     "reason": "chatter, no news value; no verifiable photo",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83603",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497321",
+    "reason": "filter: not about BTS",
     "run": "2026-11-22"
   }
 ]
