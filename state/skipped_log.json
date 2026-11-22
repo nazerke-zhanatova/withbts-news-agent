@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_496877",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496834",
+    "reason": "Fan-relayed anecdote about a member's private golf outing with his parents at a private venue (rule 3); single fan channel, no official or news source",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496835",
+    "reason": "Short fan reaction line with a fan-made video, no news event; no official or news source",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496836",
+    "reason": "Member banter from a fan-relayed backstage chat (phone battery), not news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496837",
+    "reason": "Empty fan joke with a fan-made video, no news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496838",
+    "reason": "Member banter from a fan-relayed chat, not news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496840",
+    "reason": "Fans reading ARMY comments: fan content, no news event",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496841",
+    "reason": "Fan-taken Kaohsiung Day-2 concert photos with fan praise text; no official or news source for the photos, no new news event (same concert already covered by official posts, rule 8)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496844",
+    "reason": "Member banter from a fan-relayed chat with a fan-made video, not news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496845",
+    "reason": "Member banter from a fan-relayed chat, not news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496847",
+    "reason": "Fan joke/POV post, not news",
+    "run": "2026-11-22"
   }
 ]
