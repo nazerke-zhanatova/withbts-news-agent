@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495896",
-    "reason": "mayor's request about not following members privately; private movements (rule 3)",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_495897",
     "reason": "podcast quotes from Steve Aoki, not verified by a second outlet; includes unchecked chart claim",
     "run": "2026-11-19"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_496929",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496930",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-22"
   }
