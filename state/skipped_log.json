@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495909",
-    "reason": "fan clip of NORMAL, content unclear, fan-made, no official source",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495995",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496007",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-koreaworld111_57698",
     "reason": "filter: same story already looked at",
     "run": "2026-11-19"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-Crazy_Koreans_496950",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83538",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83549",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83559",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-22"
   }
 ]
