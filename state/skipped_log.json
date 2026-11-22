@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_497414",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83613",
+    "reason": "chit-chat transcript of a member live, no news; joke about a member's money",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83617",
+    "reason": "chit-chat about ID photos and old photos, personal, no news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83619",
+    "reason": "thank-you speech after awards; already covered by bts-81-daesang-thanks-1121",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83620",
+    "reason": "chit-chat from a live, only a passing mention of tomorrow's concert, no news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83621",
+    "reason": "comparison with another group and criticism of a member (rule 3)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83623",
+    "reason": "summary of member live translations, no new news; photos unidentified",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83626",
+    "reason": "live goodbye already covered by tg-Crazy_Koreans_496865 (Jimin Weverse live); rest is chatter",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83631",
+    "reason": "end-of-live chatter about members' private plans (shower, sleep), no news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-koreaworld111_57824",
+    "reason": "J-hope story relayed by fan channel only; story not verifiable, photo shows no identifiable member, no official or news source",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83632",
+    "reason": "sound-check setlist from fan channel only, no official or news confirmation; fan photos unidentified and watermarked",
+    "run": "2026-11-22"
   }
 ]

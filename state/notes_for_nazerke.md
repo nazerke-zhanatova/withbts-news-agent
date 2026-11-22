@@ -394,3 +394,10 @@ No post this run. All 10 candidates are from one aggregator (btsnewsru0) and wer
 1. **MAMA award claims (tg-btsnewsru0_83578, 83583).** The aggregator says BTS won 5 MAMA 2026 awards, including Album of the Year (Daesang) for ARIRANG, and J-hope won with LE SSERAFIM. WebSearch finds ARIRANG's Album of the Year Daesang at the **Melon Music Awards (MMA 2026)**, not MAMA, so the source may have mixed up the two ceremonies. No search confirmed the MAMA results or a J-hope "SPAGHETTI" collaboration award. Please check the official MAMA site before any MAMA post.
 2. **Kaohsiung day 2 items (83562 "Sea" live, 83569 "Boy In Luv" encore, 83548 soundcheck).** Single aggregator source, no search confirmation, and the candidate photos are unidentified screenshots, so no all-7 photo could be verified. Please check the setlist and find an official photo if you want a post.
 3. **tg-btsnewsru0_83589** (golf with parents) is personal and family content, so it was dropped under rule 3.
+
+## 2026-11-22 run (10 candidates: btsnewsru0 83613 to 83632, koreaworld111 57824): no posts queued
+
+1. **Kaohsiung day-3 sound check (tg-btsnewsru0_83632, tg-koreaworld111_57824).** Only fan channels report the sound check and the three-song list. WebSearch found no news coverage of the day-3 sound check. The fan photos show no identifiable member and carry watermarks, so no photo met rule 5. The J-hope Instagram story link needs login. If an official sound-check post or an all-7 or J-hope photo from a permitted source appears, a short post can go out.
+2. **Jimin Weverse live goodbye (tg-btsnewsru0_83626).** Already covered by tg-Crazy_Koreans_496865 (posted 22 Nov, 12:39 Almaty). The rest of the live is chatter, so not posted.
+3. **Awards thank-you speech (tg-btsnewsru0_83619).** Covered by bts-81-daesang-thanks-1121. The speech is a replay, so no new fact.
+4. **Live chatter and comparisons (83613, 83617, 83620, 83621, 83631).** No news. 83621 also compares members with another group and criticises a member, so it was dropped under rule 3.
