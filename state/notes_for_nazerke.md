@@ -387,3 +387,10 @@ Queued: `queue/tg-Crazy_Koreans_496807.json`. SUGA's speech at the end of the se
 2. **Quote.** The line «Біз Гаосюнге алғаш рет келдік...» is a translation of a fan translation of the speech, not checked against the audio or an official source.
 
 **Not posted (speeches of other members):** Hobi (496803), RM (496809), V (496811), Jung Kook (496813) and Jin (496814). Each is a fan-translated speech. Their photos were not verified, so they were skipped; they could form one digest if verified photos are found. The other items (496794, 496808, 496812) are fan clips or captions.
+
+## 2026-11-22 run (10 candidates, btsnewsru0 aggregator, Kaohsiung day 2): nothing queued
+
+No post this run. All 10 candidates are from one aggregator (btsnewsru0) and were logged as skipped in `state/skipped_log.json`. Reasons:
+1. **MAMA award claims (tg-btsnewsru0_83578, 83583).** The aggregator says BTS won 5 MAMA 2026 awards, including Album of the Year (Daesang) for ARIRANG, and J-hope won with LE SSERAFIM. WebSearch finds ARIRANG's Album of the Year Daesang at the **Melon Music Awards (MMA 2026)**, not MAMA, so the source may have mixed up the two ceremonies. No search confirmed the MAMA results or a J-hope "SPAGHETTI" collaboration award. Please check the official MAMA site before any MAMA post.
+2. **Kaohsiung day 2 items (83562 "Sea" live, 83569 "Boy In Luv" encore, 83548 soundcheck).** Single aggregator source, no search confirmation, and the candidate photos are unidentified screenshots, so no all-7 photo could be verified. Please check the setlist and find an official photo if you want a post.
+3. **tg-btsnewsru0_83589** (golf with parents) is personal and family content, so it was dropped under rule 3.

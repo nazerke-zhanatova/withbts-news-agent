@@ -2498,5 +2498,55 @@
     "id": "tg-btsnewsru0_83622",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83548",
+    "reason": "soundcheck setlist only; low value, no verifiable all-7 photo",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83562",
+    "reason": "Sea live at Kaohsiung: single aggregator, not confirmed by search; no verifiable group photo (media are unidentified screenshots)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83569",
+    "reason": "Boy In Luv encore: single aggregator, not confirmed; only single-member photo available",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83578",
+    "reason": "MAMA 2026 award claims unconfirmed; search finds Album of the Year Daesang for ARIRANG at Melon Music Awards, not MAMA; no verifiable photo",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83583",
+    "reason": "J-hope SPAGHETTI MAMA award claim not confirmed by search; mostly repeats MAMA news; no verifiable photo",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83584",
+    "reason": "V Weverse food replies: trivial, no verifiable photo",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83586",
+    "reason": "Weverse live chatter with 5 of 7 members; trivial, no verifiable photo",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83587",
+    "reason": "Weverse live chatter, no news value; no verifiable photo",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83589",
+    "reason": "personal/family content (golf with parents), CLAUDE.md rule 3",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83592",
+    "reason": "chatter, no news value; no verifiable photo",
+    "run": "2026-11-22"
   }
 ]
