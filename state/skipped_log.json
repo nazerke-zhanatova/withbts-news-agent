@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_496859",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496812",
+    "reason": "Fan-filmed full recording of the encore song, no official source; unofficial recording (fan edit)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496815",
+    "reason": "Surprise-song list for Kaohsiung 21 Nov not confirmed by 2 reliable outlets (WebSearch found nothing for that night)",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496818",
+    "reason": "Member final speeches: candidate has only member names, no speech text to translate; no second source found",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496821",
+    "reason": "Fan opinion text about a member, no news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496823",
+    "reason": "V started a Weverse live with only a greeting; no news content, login-only link, nothing to verify beyond the live itself",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496824",
+    "reason": "Fan opinion text about a member, no news",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-koreaworld111_57810",
+    "reason": "Bare Weverse live link with no text or confirmed content; login-only",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496830",
+    "reason": "Candid chat from a member's live stream including training schedule (private schedule, rule 3); low news value",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496831",
+    "reason": "Candid chat quote from a member's live stream, low news value; no official text",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496832",
+    "reason": "Candid joking exchange from a live stream, no news value",
+    "run": "2026-11-22"
   }
 ]
