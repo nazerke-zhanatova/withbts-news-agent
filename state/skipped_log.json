@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496053",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496054",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496057",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496060",
     "reason": "filter: not about BTS",
     "run": "2026-11-19"
@@ -2496,6 +2481,21 @@
   },
   {
     "id": "tg-btsnewsru0_83591",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83593",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83598",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83601",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
   }
