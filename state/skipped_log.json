@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496161",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496162",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496163",
     "reason": "filter: not about BTS",
     "run": "2026-11-19"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-btsnewsru0_83632",
     "reason": "sound-check setlist from fan channel only, no official or news confirmation; fan photos unidentified and watermarked",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497418",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-koreaworld111_57858",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-22"
   }
 ]
