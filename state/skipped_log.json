@@ -1,50 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57691",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495957",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495958",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495965",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495975",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495895",
-    "reason": "filter: link already used in a post",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495887",
-    "reason": "VIP gift set is a ticket perk from a fan channel only (rule 16), no official confirmation; photo shows merch only",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495888",
-    "reason": "claimed Nintendo post about a BTS level in Rayman Legends Retold could not be verified by search; fan repost only",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_495889",
-    "reason": "fan rehearsal report with no usable photo of members (only venue image); no official confirmation",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_495892",
     "reason": "KOMCA song registration, low importance; no unused photo of the 5 credited members found",
     "run": "2026-11-19"
