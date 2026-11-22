@@ -1,45 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496060",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496061",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-koreaworld111_57706",
-    "reason": "Yoongi Instagram story with only a sick-face emoji and no text: possible health hint, no official statement (rules 3 and 15); not posted",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-btsnewsru0_83464",
-    "reason": "Yoongi Instagram story with only a sick-face emoji: same health-hint story, no official statement (rules 3 and 15); not posted",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-btsnewsru0_83461",
-    "reason": "j-hope Instagram story with no readable content, only a Summer emoji caption: nothing to report",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496029",
-    "reason": "RUN BTS camera moment: fan impression, not news",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496030",
-    "reason": "RUN BTS fan chatter asking for photos: not news",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496033",
-    "reason": "Concert fan impression (Jin vest, ARMY ocean): not news",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-btsnewsru0_83438",
     "reason": "Merged into queue/digest-tg-koreaworld111_57690.json (same j-hope TikTok, one item)",
     "run": "2026-11-19"
@@ -2496,6 +2456,46 @@
   },
   {
     "id": "tg-btsnewsru0_83601",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-koreaworld111_57817",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83608",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83610",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83611",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83612",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83614",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83615",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
+  },
+  {
+    "id": "tg-btsnewsru0_83616",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
   }
