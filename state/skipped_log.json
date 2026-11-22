@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_495813",
-    "reason": "Channel admin recruitment post, not news",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_495815",
     "reason": "Members' private night-market outing in Kaohsiung: private places and personal time (rule 3); channel itself asks fans not to share it",
     "run": "2026-11-19"
@@ -2498,5 +2493,10 @@
     "id": "tg-Crazy_Koreans_496856",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
+  },
+  {
+    "id": "tg-Crazy_Koreans_496859",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-22"
   }
 ]
