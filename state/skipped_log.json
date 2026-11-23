@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496193",
-    "reason": "Fan-filmed concert clip; still frames not verified for member identity, no official or brand video",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496200",
     "reason": "Fan photos of j-hope not verified for identity and eyes; not enough for a post within the digest limit",
     "run": "2026-11-19"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_497506",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497507",
     "reason": "filter: not about BTS",
     "run": "2026-11-23"
   }
