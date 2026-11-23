@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496163",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496164",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496166",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496167",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496168",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496169",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-koreaworld111_57706",
-    "reason": "Member story with a sick-face emoji: health news, only official statements allowed (rule 15)",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-btsnewsru0_83464",
-    "reason": "Member story with a sick-face emoji: health news, only official statements allowed (rule 15)",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496122",
-    "reason": "Fan behaviour only (fans singing Arirang), no news about the members",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496123",
-    "reason": "Unofficial fansite videos of members with no described event; cannot verify content, no official source",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496126",
     "reason": "Fan crowd outside the stadium, no news about the members",
     "run": "2026-11-19"
