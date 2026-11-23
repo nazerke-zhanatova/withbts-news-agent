@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496134",
-    "reason": "Health remark about a member plus comparison between members (negativity, rule 3)",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496170",
     "reason": "filter: not about BTS",
     "run": "2026-11-19"
@@ -2497,6 +2492,61 @@
   {
     "id": "tg-Crazy_Koreans_497473",
     "reason": "filter: not about BTS",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497479",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-koreaworld111_57857",
+    "reason": "unverified: one aggregator line with YouTube live link about BTS returning to Korea from Incheon; WebSearch found no second outlet for a 22 Nov arrival (rule 1)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497419",
+    "reason": "member Stories clip reposted by fan channel with no caption or date; content cannot be verified, no facts to write from",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497415",
+    "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497421",
+    "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497425",
+    "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497434",
+    "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497437",
+    "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497439",
+    "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497441",
+    "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497443",
+    "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
     "run": "2026-11-23"
   }
 ]
