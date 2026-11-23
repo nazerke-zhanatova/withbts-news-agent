@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496126",
-    "reason": "Fan crowd outside the stadium, no news about the members",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496129",
-    "reason": "Meme post, not news",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496134",
     "reason": "Health remark about a member plus comparison between members (negativity, rule 3)",
     "run": "2026-11-19"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_497393",
     "reason": "V story shows private travel (night scooter ride, helmets, private location), rule 3",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497462",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497473",
+    "reason": "filter: not about BTS",
     "run": "2026-11-23"
   }
 ]
