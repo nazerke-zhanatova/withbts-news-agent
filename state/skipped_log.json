@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496278",
-    "reason": "Fan-organised bus and donation drive for V's birthday; not BTS news, money collection with an unclear link (rules 3 and 16)",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496279",
-    "reason": "Fan remark and concert clip about Jung Kook whistling; trivial moment, no official or news source",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-Crazy_Koreans_496280",
     "reason": "Fan-filmed stage moment (V selfie with a fan) from the Day-1 show; trivial moment, no official source, concert already covered",
     "run": "2026-11-20"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_497509",
     "reason": "rule 3: airport moment during private travel, not news",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497570",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497578",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-23"
   }
 ]
