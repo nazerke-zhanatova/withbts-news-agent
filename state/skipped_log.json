@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496241",
-    "reason": "Fan gush about a member's voice in fansite photos, no news event",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496243",
-    "reason": "Fashion spotting (beret from ORDER OF KEBURIA / GEORGE KEBURIA) from fan channel opinion only; WebSearch found no brand or outlet confirmation; not verified by two reliable sources",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-Crazy_Koreans_496245",
     "reason": "Fan gush about Jin's hairstyle in fansite photos, no news event",
     "run": "2026-11-20"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_497490",
     "reason": "fan photo of Jin with personal commentary, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497537",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497546",
+    "reason": "filter: not about BTS",
     "run": "2026-11-23"
   }
 ]
