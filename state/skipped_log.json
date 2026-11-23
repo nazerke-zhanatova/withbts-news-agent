@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496313",
-    "reason": "Fan gallery commentary on V's outfit: no news event, fan opinion only",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-Crazy_Koreans_496316",
     "reason": "Fashion item (trousers brand) noted by a fan: brand not confirmed by an official source or two outlets; fan commentary",
     "run": "2026-11-20"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_497676",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497683",
     "reason": "filter: not about BTS",
     "run": "2026-11-23"
   }
