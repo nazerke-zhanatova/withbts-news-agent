@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_497546",
     "reason": "filter: not about BTS",
     "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497492",
+    "reason": "aggregator item: fan joke/comment, no news",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497493",
+    "reason": "aggregator item: fan opinion/meme, no news",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497495",
+    "reason": "aggregator item: speculation about a member, no news",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497497",
+    "reason": "aggregator item: fan opinion/meme, no news",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497499",
+    "reason": "rule 3: return home to Korea after tour city, private travel, not a concert-city arrival",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497502",
+    "reason": "rule 3: private airport moment after travel, not news",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497503",
+    "reason": "rule 3: airport incident during private travel, unofficial fan report",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497504",
+    "reason": "rule 3: airport photos of members returning home, private travel",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497508",
+    "reason": "aggregator item: fan opinion about airport footage, no news",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497509",
+    "reason": "rule 3: airport moment during private travel, not news",
+    "run": "2026-11-23"
   }
 ]
