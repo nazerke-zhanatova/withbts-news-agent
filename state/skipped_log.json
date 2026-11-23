@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496200",
-    "reason": "Fan photos of j-hope not verified for identity and eyes; not enough for a post within the digest limit",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496202",
-    "reason": "Concert wrap-up mentions a member's health (sensitive, rule 3 and 15); not posted",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496204",
-    "reason": "Fan photos of Suga, identity and eyes not verified; not posted this run",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-koreaworld111_57710",
-    "reason": "Elle Taiwan reel repost about crowd reaction; no identifiable member photo in candidate media",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-koreaworld111_57713",
-    "reason": "Vogue Taiwan reel repost about concert reaction; no identifiable member photo in candidate media",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496185",
-    "reason": "filter: link already used in a post",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496196",
-    "reason": "filter: link already used in a post",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496283",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496209",
-    "reason": "Fansite concert photo of Jin with several mics, no news event; same concert photo set already covered by posted digests",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496214",
-    "reason": "Fansite concert photos of V, no news event; photo set already covered by posted digests",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496217",
     "reason": "BTS official Kaohsiung Day-1 update with photos: same news as posted kaohsiung-day1-official-photos-1120 (BIGHIT MUSIC official photos); duplicate",
     "run": "2026-11-19"
