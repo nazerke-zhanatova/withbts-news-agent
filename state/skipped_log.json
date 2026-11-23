@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_497507",
     "reason": "filter: not about BTS",
     "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497444",
+    "reason": "fan photo with personal commentary, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497445",
+    "reason": "fan photo with personal commentary, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497451",
+    "reason": "fan photo with personal commentary, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497452",
+    "reason": "fan photo with personal commentary, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497454",
+    "reason": "fan photo with personal commentary, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497460",
+    "reason": "fan photo with personal commentary, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497463",
+    "reason": "fan photo with sentimental caption, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497466",
+    "reason": "fan photo with personal commentary, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497469",
+    "reason": "fan photo with personal commentary, no news; aggregator item (rule 12b)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497474",
+    "reason": "fan-sighting anecdote from fan aggregator only; reaction unclear; photo identity of Jimin not confirmed by caption (rules 2, 5)",
+    "run": "2026-11-23"
   }
 ]
