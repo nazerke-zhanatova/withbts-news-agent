@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496182",
-    "reason": "No usable photo: only a 320px still, RM not confirmed by the picture itself (caption names the speaker only)",
-    "run": "2026-11-19"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496183",
-    "reason": "Group news (all seven speeches) needs an all-7 photo from a permitted source; candidate image is a crowd shot with no identifiable member",
-    "run": "2026-11-19"
-  },
-  {
     "id": "tg-Crazy_Koreans_496193",
     "reason": "Fan-filmed concert clip; still frames not verified for member identity, no official or brand video",
     "run": "2026-11-19"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_497443",
     "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497501",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497506",
+    "reason": "filter: not about BTS",
     "run": "2026-11-23"
   }
 ]
