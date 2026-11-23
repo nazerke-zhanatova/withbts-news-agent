@@ -1,25 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496305",
-    "reason": "Fan-filmed ARMY formation in the stands at Kaohsiung: fan content, no official or news source; concert already covered by posted items",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496306",
-    "reason": "Personal joke about sick leave and a boss at a concert: meme, not news",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496307",
-    "reason": "Fan photos of V at Kaohsiung Day-1: fan photos only, no new news; concert already covered by digest-tg-Crazy_Koreans_496185 and kaohsiung-day1-official-photos-1120",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496309",
-    "reason": "Fashion item (shirt brand) identified by a fan at the concert: brand and item not confirmed by an official source or two outlets; fan commentary",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-Crazy_Koreans_496312",
     "reason": "Fan edit (j-hope Fake Love fancam): fan edits are not posted",
     "run": "2026-11-20"
@@ -2497,6 +2477,26 @@
   {
     "id": "tg-koreaworld111_57874",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497571",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497572",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497585",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-23"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497594",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-23"
   }
 ]
