@@ -1290,5 +1290,23 @@
       "instagram": "18050997596631688",
       "threads": "17891795010479373"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_497672",
+    "time": "2026-11-24T17:15+05:00",
+    "headline": "Бангкокта Jin-ге арналған жарнама тақтасы",
+    "category": "birthday",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/497672"
+    ],
+    "credits": [
+      "Crazy_Koreans"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19533",
+      "instagram": "17922867075464975",
+      "threads": "18105882431356406"
+    }
   }
 ]
