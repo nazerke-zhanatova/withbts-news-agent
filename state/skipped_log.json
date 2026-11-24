@@ -2498,5 +2498,20 @@
     "id": "tg-Crazy_Koreans_497697",
     "reason": "filter: same story already looked at",
     "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497731",
+    "reason": "fan caption with Kaohsiung Day-3 concert photos from a fan channel; photos not from an official or news source, no news event",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497750",
+    "reason": "weekly Spotify chart positions from a fan channel; no current chart confirmation found in search, chart stats not verified by 2 outlets",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497751",
+    "reason": "empty repost: Jung Kook comment on a dancer's noodle post, no news",
+    "run": "2026-11-24"
   }
 ]
