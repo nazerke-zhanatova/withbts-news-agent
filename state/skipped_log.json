@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496382",
-    "reason": "MAMA 2020 'ON' throwback: no new news; mentions a member's shoulder surgery recovery (health, rule 3/15)",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496384",
-    "reason": "Rice wine brand award (OnTheLAMP): alcohol brand, not BTS news",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-koreaworld111_57726",
     "reason": "Kaohsiung Day 1 soundcheck/concert photos and clips: same concert already covered by kaohsiung-day1-official-photos-1120 and digest-tg-Crazy_Koreans_496185 (rule 8)",
     "run": "2026-11-20"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_497749",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497631",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497633",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-24"
   }
 ]
