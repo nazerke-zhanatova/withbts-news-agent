@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57737",
-    "reason": "Billboard Japan 10 billion streams claim: single fan-channel relay, WebSearch found no Billboard Japan source; Billboard reports Mrs. GREEN APPLE as first act at 10 billion (conflicting), not posted",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-Crazy_Koreans_496399",
     "reason": "Fan gush about J-hope's blonde look plus Kaohsiung Day-1 photos already covered by posted digest (rule 8)",
     "run": "2026-11-20"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_497759",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497765",
     "reason": "filter: not about BTS",
     "run": "2026-11-24"
   }
