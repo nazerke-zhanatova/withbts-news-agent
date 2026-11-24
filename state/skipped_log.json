@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496379",
-    "reason": "Weverse Shop Black Friday sale promo relayed by a fan channel: commercial offer, discount details not confirmed by an official notice",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-Crazy_Koreans_496382",
     "reason": "MAMA 2020 'ON' throwback: no new news; mentions a member's shoulder surgery recovery (health, rule 3/15)",
     "run": "2026-11-20"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_497748",
     "reason": "filter: not about BTS",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497749",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-24"
   }
 ]
