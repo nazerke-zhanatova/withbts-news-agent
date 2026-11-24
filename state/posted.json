@@ -1308,5 +1308,24 @@
       "instagram": "17922867075464975",
       "threads": "18105882431356406"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_497758",
+    "time": "2026-11-25T02:45+05:00",
+    "headline": "ARIRANG турының мерчі: алдын ала тапсырыс",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/497758"
+    ],
+    "credits": [
+      "Crazy_Koreans",
+      "Weverse Shop"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19536",
+      "instagram": "18492448459128749",
+      "threads": "18130390960848701"
+    }
   }
 ]
