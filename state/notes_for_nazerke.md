@@ -401,3 +401,15 @@ No post this run. All 10 candidates are from one aggregator (btsnewsru0) and wer
 2. **Jimin Weverse live goodbye (tg-btsnewsru0_83626).** Already covered by tg-Crazy_Koreans_496865 (posted 22 Nov, 12:39 Almaty). The rest of the live is chatter, so not posted.
 3. **Awards thank-you speech (tg-btsnewsru0_83619).** Covered by bts-81-daesang-thanks-1121. The speech is a replay, so no new fact.
 4. **Live chatter and comparisons (83613, 83617, 83620, 83621, 83631).** No news. 83621 also compares members with another group and criticises a member, so it was dropped under rule 3.
+
+## 2026-11-24 run (10 candidates, Crazy_Koreans 497655 to 497697, koreaworld111 57875 to 57877): one post queued
+
+Queued: `queue/tg-Crazy_Koreans_497672.json`. Fan projects for Jin in Bangkok: a billboard near Rajamangala National Stadium, 23 Nov to 7 Dec, with «Happy Jin Day» and 12.04 on it. Concerts there are on 3, 5 and 6 Dec. Please check before approving:
+1. **Source.** Only the fan channel reports it (trusted_fanbase). WebSearch found no news coverage of this billboard.
+2. **Photos.** Cover and carousel are the billboard photos from the fan channel. They show Jin on the billboard, with his name in the text. The photos are unsigned, so the photographer is unknown.
+
+**Not posted:**
+- **ARIRANG achievements digest (497670).** The $771M gross and the "7th all-time" ranking do not match what I found. Billboard and Korean outlets reported the tour above $500M, and I found no source for $771M. The Circle, iTunes Taiwan and Spotify items are single-source. There is no member photo for the digest. If Nazerke wants it, check the Billboard Boxscore figures first.
+- **Liam Gallagher reply (497671).** No reply found in search.
+- **Kaohsiung city thank-you (497666).** Kaohsiung coverage is already posted, and the photos show city lights only.
+- **Taehyung Weverse replies (497697, koreaworld111 57875 to 57877).** Daily routine and private errands (rule 3). The Thailand comment (57875) has no verified photo of V for the cover.

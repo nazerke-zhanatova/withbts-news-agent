@@ -2498,5 +2498,50 @@
     "id": "tg-Crazy_Koreans_497765",
     "reason": "filter: not about BTS",
     "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497655",
+    "reason": "channel promo (MAX messenger), not news",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497666",
+    "reason": "Kaohsiung city thank-you message; Kaohsiung coverage already posted, photos show city lights only (no member photo)",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497670",
+    "reason": "digest candidate dropped: $771M tour gross and 7th-place ranking not confirmed (Billboard/Korea reports differ), other stats single-source, no member photo",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497671",
+    "reason": "Liam Gallagher reply to fan post not found in search; unverified claim",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497693",
+    "reason": "recruitment ad for fan-channel admins, not news",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497697",
+    "reason": "member's Weverse reply about his daily routine and private errands (rule 3)",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-koreaworld111_57875",
+    "reason": "member comment on a fan post about Thailand; minor, no verified member photo for the cover",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-koreaworld111_57876",
+    "reason": "member comment on a fan post about Indian films; no news",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-koreaworld111_57877",
+    "reason": "member comment about his day at home (private life, rule 3)",
+    "run": "2026-11-24"
   }
 ]
