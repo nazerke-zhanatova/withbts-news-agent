@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57771",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496457",
-    "reason": "Member story repost with no text or details; nothing to report",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496482",
-    "reason": "Meme post, no news",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496483",
     "reason": "Chart/award stats repost from fan channel, not checkable against 2 outlets; covered by the MAMA digest",
     "run": "2026-11-21"
