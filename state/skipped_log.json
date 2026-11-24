@@ -2498,5 +2498,50 @@
     "id": "tg-Crazy_Koreans_497751",
     "reason": "empty repost: Jung Kook comment on a dancer's noodle post, no news",
     "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497752",
+    "reason": "fan post about a fan's outfit and a member's reaction to it; not news, no official or news source",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497756",
+    "reason": "RRR film account reacting to an ARMY post about Naatu Naatu; single fan-channel source, not BTS news",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497757",
+    "reason": "Weverse Go app and THE CITY Singapore launch: real (Korea JoongAng Daily, Business Today, official Weverse post), but no verifiable photo: the only image is an unlabelled 7-member group shoot with no caption or credit naming who is pictured, and the JoongAng photos name no members. Held for the photo rule (rule 5)",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497762",
+    "reason": "military service: anonymous eyewitness accounts and rumours about V's reserve training, no official statement (rules 3, 15)",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497763",
+    "reason": "Jung Kook TikTok 35M followers: confirmed by StarNews Korea and Topstar News, but the only image is a profile screenshot, not a photo of him; no verifiable Jung Kook photo for the card (rule 5)",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497764",
+    "reason": "fan opinion praising a member's dancing, no news",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497772",
+    "reason": "Super Junior member's livestream anecdote about a gift from j-hope; single fan-channel source, no second outlet, and it includes a member's family (rule 3)",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497774",
+    "reason": "private life: a fan's account of a chance meeting with V at a driving test centre (rule 3)",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497776",
+    "reason": "paid advertisement (#Реклама) for English lessons from a fan account, not news",
+    "run": "2026-11-24"
   }
 ]

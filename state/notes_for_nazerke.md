@@ -413,3 +413,13 @@ Queued: `queue/tg-Crazy_Koreans_497672.json`. Fan projects for Jin in Bangkok: a
 - **Liam Gallagher reply (497671).** No reply found in search.
 - **Kaohsiung city thank-you (497666).** Kaohsiung coverage is already posted, and the photos show city lights only.
 - **Taehyung Weverse replies (497697, koreaworld111 57875 to 57877).** Daily routine and private errands (rule 3). The Thailand comment (57875) has no verified photo of V for the cover.
+
+## 2026-11-24 run (10 candidates, Crazy_Koreans 497752 to 497776): one post queued
+
+Queued: `queue/tg-Crazy_Koreans_497758.json`. Weverse Shop pre-order for BTS WORLD TOUR "ARIRANG" tour merch (stamp, jersey, zip-up hoodie, short-sleeve tee, South America version). Source is the Weverse Shop notice reposted by Crazy_Koreans. Times converted from the MSK times in the source: 24 Nov 07:00 to 1 Dec 14:00 Almaty. Please check before approving:
+1. **Official notice not found.** WebSearch did not return the 24 Nov notice (its latest results are from September). The repost is the only source.
+2. **Photo.** Cover is the Weverse Shop product image in the candidate (image_credit "Weverse Shop"). It shows merch, no members, so photo_members is empty.
+
+**Held: Weverse Go app and THE CITY Singapore (tg-Crazy_Koreans_497757).** The launch is confirmed (official Weverse X post, Korea JoongAng Daily, Business Today): the app goes free on the App Store and Google Play on 30 Nov, a day before the project starts 1 Dec. No times are given. The only candidate image is a 7-member group shoot with no caption or credit naming who is pictured, and the JoongAng photos are captioned without member names. Rule 5 needs certainty about who is pictured, so it was held. If you approve a photo of all seven with a credit, or send one, this post can go out.
+
+**Held: Jung Kook TikTok 35 million followers (tg-Crazy_Koreans_497763).** StarNews Korea (22 Nov) and Topstar News both report 35 million. The candidate image is a profile screenshot, not a photo of Jung Kook, and the StarNews photos have no captions naming him. Held for the photo rule.
