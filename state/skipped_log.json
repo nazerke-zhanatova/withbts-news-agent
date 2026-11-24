@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496355",
-    "reason": "aggregator schedule: tour and event dates compiled by a fan channel, not checked against official notices (rule 16); overlapping items already posted (Singapore, Harper's Bazaar cover)",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-Crazy_Koreans_496356",
     "reason": "aggregator daily recap: concert news already posted (Day-1 digests); surprise setlist and KOMCA item not verifiable from the candidate, no all-7 photo; not a digest",
     "run": "2026-11-20"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_497699",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497700",
     "reason": "filter: same story already looked at",
     "run": "2026-11-24"
   }
