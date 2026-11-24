@@ -1,40 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57726",
-    "reason": "Kaohsiung Day 1 soundcheck/concert photos and clips: same concert already covered by kaohsiung-day1-official-photos-1120 and digest-tg-Crazy_Koreans_496185 (rule 8)",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496454",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496456",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496459",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496460",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496461",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496462",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-koreaworld111_57745",
     "reason": "filter: not about BTS",
     "run": "2026-11-20"
@@ -2496,6 +2461,41 @@
   },
   {
     "id": "tg-Crazy_Koreans_497633",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497642",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497653",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497656",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497658",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497660",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497662",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497665",
     "reason": "filter: same story already looked at",
     "run": "2026-11-24"
   }
