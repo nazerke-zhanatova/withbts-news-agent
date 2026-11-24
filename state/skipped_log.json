@@ -1,50 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496356",
-    "reason": "aggregator daily recap: concert news already posted (Day-1 digests); surprise setlist and KOMCA item not verifiable from the candidate, no all-7 photo; not a digest",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496357",
-    "reason": "duplicate of tg-Crazy_Koreans_496356",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496358",
-    "reason": "fan birthday celebration at the concert: personal fan story, not BTS news",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496363",
-    "reason": "Stationhead 'BE 6 years' update: video only with no readable content, no member photo; anniversary not verified from a permitted source",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496365",
-    "reason": "Marie Claire Taiwan concert video relayed by fan channel: magazine account not confirmed, no member photo, not a member-related brand work (rule 1, rule 5c)",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496433",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496440",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-koreaworld111_57739",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-20"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496441",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-Crazy_Koreans_496443",
     "reason": "filter: not about BTS",
     "run": "2026-11-20"
@@ -2496,6 +2451,51 @@
   },
   {
     "id": "tg-Crazy_Koreans_497700",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497614",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497617",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497620",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497628",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497634",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497636",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497638",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497640",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497651",
     "reason": "filter: same story already looked at",
     "run": "2026-11-24"
   }
