@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496372",
-    "reason": "Fan humor post about RM's curly hair with soundcheck photos; no verifiable news, fan joke (rule 12b)",
-    "run": "2026-11-20"
-  },
-  {
     "id": "tg-Crazy_Koreans_496379",
     "reason": "Weverse Shop Black Friday sale promo relayed by a fan channel: commercial offer, discount details not confirmed by an official notice",
     "run": "2026-11-20"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_497741",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497748",
+    "reason": "filter: not about BTS",
     "run": "2026-11-24"
   }
 ]
