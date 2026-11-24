@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496494",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496503",
     "reason": "filter: same story already looked at",
     "run": "2026-11-21"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_497776",
     "reason": "paid advertisement (#Реклама) for English lessons from a fan account, not news",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497758",
+    "reason": "filter: link already used in a post",
     "run": "2026-11-24"
   }
 ]
