@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57744",
-    "reason": "J-hope repost of Jimin's stories with no content of its own; no news",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496452",
     "reason": "Jimin left a single emoji comment under stories; no news value",
     "run": "2026-11-21"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-koreaworld111_57879",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-24"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497773",
     "reason": "filter: same story already looked at",
     "run": "2026-11-24"
   }
