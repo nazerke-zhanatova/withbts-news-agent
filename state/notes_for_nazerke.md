@@ -318,6 +318,16 @@ Held or skipped in this run:
 
 1. **Day-1 concert fan photos and moments (496250, 496274, 496279, 496280).** The concert is already covered by digest-tg-Crazy_Koreans_496185 and kaohsiung-day1-official-photos-1120. These are fan photos and stage moments with no official source, so they were not made into a digest.
 2. **Member story compilation, three parts (496252, 496259, 496266).** A fan-made video of member stories with no caption saying who posted what. Not posted.
+
+## 2026-11-25 run (10 candidates): 1 post queued (tg-koreaworld111_57941, j-hope Instagram Gaosiung photos)
+
+Held or skipped in this run:
+1. **Billboard chart (tg-koreaworld111_57934, tg-Crazy_Koreans_497927).** The candidate gives Arirang #73 on Billboard 200 and SWIM #24 Global 200 from a "28 November" chart, which is after today's date. Search found Billboard 200 #63 and SWIM #23 Global 200 on the 18 Nov chart (Khan, Star News). Not posted.
+2. **Singapore THE CITY ARIRANG (tg-Crazy_Koreans_497927).** Already posted as tg-Crazy_Koreans_495512 (Weverse notice 40721). Only the chart part was new, and it is unverified.
+3. **BreakTudo Awards 2026 (tg-koreaworld111_57939, tg-Crazy_Koreans_497926).** No 2026 results found. 2025 coverage names other winners. Not posted.
+4. **NARMOR and LADOR Japan Jimin posts (tg-Crazy_Koreans_497928, 497923).** No source found for either brand post. The LADOR item is also a product sale. Not posted.
+5. **Stories link (tg-koreaworld111_57961).** Instagram stories from an unverified fan account. Not posted.
+6. **J-hope post, 9 photos.** Four food and street photos in the post were left out of the carousel. Only j-hope concert photos are used.
 3. **Fan bus and birthday donation drive for V (496278).** Fan fundraising, not BTS news. Not posted.
 4. **Stanford Namjooning course (496282).** Repeat of rm-stanford-namjooning-course (2026-11-08).
 5. **Jimin styling Hobi's outfits (496284).** Unverified fan joke. Not posted.

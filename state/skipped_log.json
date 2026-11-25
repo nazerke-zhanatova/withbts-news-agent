@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496731",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496735",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496736",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496737",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
@@ -2497,6 +2482,66 @@
   {
     "id": "tg-Crazy_Koreans_497994",
     "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497995",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497996",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-btsnewsru0_83680",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57951",
+    "reason": "duplicate: same j-hope Instagram post as tg-koreaworld111_57941, posted once",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57934",
+    "reason": "Billboard chart numbers conflict with found reports (Billboard 200 #63 and Global 200 #23 on the 18 Nov chart); candidate cites a 28 Nov chart not yet published; no member photo",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497927",
+    "reason": "Singapore THE CITY ARIRANG already posted (tg-Crazy_Koreans_495512, Weverse notice); chart part unverified, see tg-koreaworld111_57934",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57939",
+    "reason": "BreakTudo Awards 2026 winners not found in search; 2025 results name different winners",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497926",
+    "reason": "BreakTudo Awards 2026 winners not found in search (same as tg-koreaworld111_57939)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497928",
+    "reason": "NARMOR jewelry post with Jimin concert photos not found in search; brand post unverified",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497923",
+    "reason": "LADOR Japan Jimin photo and product sale not verified (no Nov 2026 source found; sales promo)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57938",
+    "reason": "Steve Aoki anniversary post: non-BTS artist account, no second outlet or BTS official source",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57961",
+    "reason": "Instagram stories link from an unverified fan account (uarmyhope); stories not viewable, not an official source",
     "run": "2026-11-25"
   }
 ]
