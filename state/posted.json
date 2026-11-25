@@ -1327,5 +1327,24 @@
       "instagram": "18492448459128749",
       "threads": "18130390960848701"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_497779",
+    "time": "2026-11-25T08:46+05:00",
+    "headline": "BTS Vogue Korea-ның 2026 үздік образдарында",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/497779"
+    ],
+    "credits": [
+      "Vogue Korea",
+      "Crazy_Koreans"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19537",
+      "instagram": "18117573317169180",
+      "threads": "17943294087393551"
+    }
   }
 ]
