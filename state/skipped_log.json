@@ -1,40 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496766",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496767",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496769",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496770",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496773",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496774",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496777",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496778",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
@@ -2497,6 +2462,41 @@
   {
     "id": "tg-Crazy_Koreans_497923",
     "reason": "Lador Japan ad with Jimin photo is a discount campaign (mega-wari coupons), commercial promo rather than news",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497927",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497928",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57965",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497942",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497969",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497991",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497997",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-25"
   }
 ]
