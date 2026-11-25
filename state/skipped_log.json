@@ -1,25 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496653",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496658",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496666",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496667",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-btsnewsru0_83495",
     "reason": "Jimin Weverse caption is vague ('beautiful day'); photo is a beach shot with no identifiable member",
     "run": "2026-11-21"
@@ -2496,6 +2476,26 @@
   },
   {
     "id": "tg-Crazy_Koreans_497964",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57969",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497965",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497966",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497967",
     "reason": "filter: not about BTS",
     "run": "2026-11-25"
   }
