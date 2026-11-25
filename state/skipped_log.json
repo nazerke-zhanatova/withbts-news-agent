@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83517",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-btsnewsru0_83524",
     "reason": "filter: same story already looked at",
     "run": "2026-11-21"
@@ -2496,6 +2491,11 @@
   },
   {
     "id": "tg-Crazy_Koreans_498006",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498013",
     "reason": "filter: same story already looked at",
     "run": "2026-11-25"
   }
