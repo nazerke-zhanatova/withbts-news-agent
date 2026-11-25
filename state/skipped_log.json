@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83495",
-    "reason": "Jimin Weverse caption is vague ('beautiful day'); photo is a beach shot with no identifiable member",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-btsnewsru0_83517",
-    "reason": "Jin's trivial comment on Jimin's Weverse post; no news",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-btsnewsru0_83518",
     "reason": "personal: birthday wish to a non-member (private life)",
     "run": "2026-11-21"
@@ -2496,6 +2486,16 @@
   },
   {
     "id": "tg-Crazy_Koreans_497967",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497970",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57971",
     "reason": "filter: not about BTS",
     "run": "2026-11-25"
   }
