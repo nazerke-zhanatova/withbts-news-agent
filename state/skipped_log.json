@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496596",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496606",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496607",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496608",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
@@ -2497,6 +2482,71 @@
   {
     "id": "tg-Crazy_Koreans_497917",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497919",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497924",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497925",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57890",
+    "reason": "Calvin Klein holiday shoot photos (Jung Kook) via fan repost: same campaign already covered by posted tg-btsnewsru0_83075 and ck-jk-calvin-klein-1117 (rule 8); no verified new detail",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57896",
+    "reason": "Gift-unwrapping clip from a Hypebeast-style repost: same Calvin Klein campaign, not new; original Instagram account not verified",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57906",
+    "reason": "YouTube campaign film link via fan channel: same Winter 2026 campaign as already posted items (rule 8); video owner not verified as official",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57907",
+    "reason": "Repost of the same Calvin Klein shoot as tg-koreaworld111_57890: duplicate (rule 8)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57908",
+    "reason": "TikTok clips of the Calvin Klein x Jung Kook campaign via fan channel: same campaign, not new; TikTok links not verified as official",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497838",
+    "reason": "Photographer's personal post of behind-the-scenes Jung Kook Calvin Klein shots: same campaign already posted; not an official or news-media source",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497845",
+    "reason": "Target 'Lyrics Inside' box-set claim not confirmed: WebSearch found no Target-exclusive box set; single fan-channel source (rule 1)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497849",
+    "reason": "Fan-channel multi-date schedule digest: ticket registration and several dates not confirmed by official sources or 2 outlets (rules 1, 16); Bangkok additional-ticket registration not found in search",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497850",
+    "reason": "Daily roundup: Calvin Klein item already covered, Weverse Go app not found in search (rule 1), rumour about a member's military reserve sighting (rule 3)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497851",
+    "reason": "Duplicate of tg-Crazy_Koreans_497850 roundup (rule 12a)",
     "run": "2026-11-25"
   }
 ]
