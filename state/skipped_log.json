@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83497",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-btsnewsru0_83507",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-btsnewsru0_83523",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496564",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-Crazy_Koreans_497779",
     "reason": "already posted: BTS Vogue Korea best-dressed news (tg-Crazy_Koreans_497779 in state/posted.json), rule 8",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497831",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497832",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497834",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-25"
   }
 ]
