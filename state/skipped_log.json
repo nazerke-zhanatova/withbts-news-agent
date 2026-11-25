@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_497848",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497811",
+    "reason": "promo for another channel (MAX app), no BTS news",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497812",
+    "reason": "old 2016 KCON performance clip, not new news",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-btsnewsru0_83670",
+    "reason": "Weverse fan reply, fan's own words about Thailand, no member news; rule 3 chat",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-btsnewsru0_83671",
+    "reason": "Weverse fan Q&A, personal chat, no news (rule 3)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-btsnewsru0_83672",
+    "reason": "Weverse reply about daily routine and driving licence, private (rule 3)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-btsnewsru0_83673",
+    "reason": "Weverse fan Q&A about favourite films, personal chat, no news (rule 3)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-btsnewsru0_83675",
+    "reason": "Weverse fan Q&A, no news (rule 3)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-btsnewsru0_83676",
+    "reason": "member's daily routine and private errands (rule 3)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497813",
+    "reason": "Samyan Mitrtown Bangkok venue event; only fan channel, no second outlet found, no member photo for cover (rule 5)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497814",
+    "reason": "Calvin Klein holiday campaign with Jung Kook already posted (6 and 17 Nov); unwrap video not confirmed by any outlet",
+    "run": "2026-11-25"
   }
 ]

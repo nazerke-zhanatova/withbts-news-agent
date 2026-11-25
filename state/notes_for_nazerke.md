@@ -425,3 +425,11 @@ Queued: `queue/tg-Crazy_Koreans_497758.json`. Weverse Shop pre-order for BTS WOR
 **Run 2026-11-25, held: Weverse Shop London gifts (tg-Crazy_Koreans_497777).** The London release itself was already posted on 9 Nov (tg-koreaworld111_57452). The repost adds a presale for the London edition with 7 exclusive photocards and an acrylic magnet (standard), 1 magnet (member version), until 30 Nov 23:59 KST (19:59 Almaty time on 30 Nov). I could not confirm this on the official pages: the Weverse notice 40740 search snippets show pre-order from 10 Nov, and the Weverse Shop page (notice 12584) did not show these terms. The cover photo may also match a photo already used on 9 Nov. Not posted. If you confirm the Weverse Shop notice, an update post can be made.
 
 **Held: Jung Kook TikTok 35 million followers (tg-Crazy_Koreans_497763).** StarNews Korea (22 Nov) and Topstar News both report 35 million. The candidate image is a profile screenshot, not a photo of Jung Kook, and the StarNews photos have no captions naming him. Held for the photo rule.
+
+## 2026-11-25 run (12 candidates, Crazy_Koreans 497811 to 497814, btsnewsru0 83670 to 83676): nothing queued
+
+Not posted:
+- **Samyan Mitrtown Bangkok purple lighting and Random Dance (tg-Crazy_Koreans_497813).** Only the fan channel reports it. WebSearch found no listing for a BTS event at Samyan Mitrtown on 2 Dec. It is a venue event, and the only photo is of the building, with no member. If an official or news source confirms it, a post can be made. Almaty time would be 16:00 (Bangkok 18:00 is UTC+7).
+- **Calvin Klein holiday campaign video "Unwrap the Icons" (tg-Crazy_Koreans_497814).** The holiday campaign with Jung Kook was already posted on 6 Nov (tg-btsnewsru0_83075) and 17 Nov (ck-jk-calvin-klein-1117). The gift-unwrapping video is quoted only through magazine reposts, and WebSearch found no outlet or Calvin Klein page for that video title. Not posted as the same news.
+- **Weverse replies and daily routine (btsnewsru0 83670 to 83676).** Fan Q&A and private daily errands (rule 3).
+- **MAX channel promo (497811) and 2016 KCON clip (497812).** Not news.
