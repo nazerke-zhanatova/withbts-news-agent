@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496482",
-    "reason": "meme, no news",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496482",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496483",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-koreaworld111_57759",
     "reason": "filter: same story already looked at",
     "run": "2026-11-21"
@@ -2497,6 +2482,21 @@
   {
     "id": "tg-koreaworld111_57884",
     "reason": "unofficial source: 'real photos' linked to an anonymous X account, not official",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497777",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497779",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57884",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-25"
   }
 ]
