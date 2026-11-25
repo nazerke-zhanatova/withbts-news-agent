@@ -1368,5 +1368,25 @@
       "instagram": "18127768636710902",
       "threads": "18476758987189313"
     }
+  },
+  {
+    "id": "tg-koreaworld111_57941",
+    "time": "2026-11-25T23:51+05:00",
+    "headline": "j-hope Гаосюн концертінен фотолар бөлісті",
+    "category": "live",
+    "source_urls": [
+      "https://www.instagram.com/p/DgJrbpxmldq/",
+      "https://t.me/koreaworld111/57941"
+    ],
+    "credits": [
+      "j-hope Instagram",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19542",
+      "instagram": "18117178460164930",
+      "threads": "18112876489917046"
+    }
   }
 ]
