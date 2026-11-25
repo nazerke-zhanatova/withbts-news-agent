@@ -2498,5 +2498,35 @@
     "id": "tg-Crazy_Koreans_498013",
     "reason": "filter: same story already looked at",
     "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497936",
+    "reason": "paid advertisement (#Реклама) for a dance tour, not BTS news",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497937",
+    "reason": "Billboard chart update dated 28 Nov 2026, after today's date; cannot be verified",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497942",
+    "reason": "V at Cartier end-of-year party: only a HYPEBEAST Korea repost found, no second reliable outlet; search found no 2026 Cartier party coverage",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57967",
+    "reason": "same V Cartier party story (HYPEBEAST Korea reel), not confirmed by a second outlet",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497944",
+    "reason": "Steve Aoki video post from non-BTS artist account, no second outlet; same story as tg-koreaworld111_57938",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497923",
+    "reason": "Lador Japan ad with Jimin photo is a discount campaign (mega-wari coupons), commercial promo rather than news",
+    "run": "2026-11-25"
   }
 ]
