@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83518",
-    "reason": "personal: birthday wish to a non-member (private life)",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-btsnewsru0_83524",
-    "reason": "already posted: MAMA 2026 Artist of the Year, Best Male Group, Fans' Choice Top 10",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-btsnewsru0_83531",
     "reason": "already posted: MAMA Daesang win (record count conflicts with posted 81 Daesang; see notes)",
     "run": "2026-11-21"
@@ -2497,6 +2487,61 @@
   {
     "id": "tg-koreaworld111_57971",
     "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497971",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497972",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497856",
+    "reason": "HYBE Merch Merry Go Round «Holiday» merch: fan repost only, WebSearch found no official listing; same as earlier skip of this merch (tg-koreaworld111_57833)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497863",
+    "reason": "same HYBE Merch Merry Go Round «Holiday» merch (part 2 of 497856); not verified",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57910",
+    "reason": "same HYBE Merch Merry Go Round «Holiday» merch (Weverse Shop, 27 Nov); not verified by official page or search",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57917",
+    "reason": "same HYBE Merch Merry Go Round «Holiday» merch repeat; not verified",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497878",
+    "reason": "same Vogue Korea Chanel «1957» photo news as queue/tg-Crazy_Koreans_497881 (merged into that post)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57924",
+    "reason": "same Vogue Korea Chanel «1957» photo news as queue/tg-Crazy_Koreans_497881 (merged into that post)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57934",
+    "reason": "Billboard Korea chart update (Swim, Arirang #73): no member photo, chart graphic only; chart position not confirmed by search",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57938",
+    "reason": "Steve Aoki anniversary post (non-official artist account): no 2026 post or second outlet found; no member photo",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57939",
+    "reason": "Break Tudo Awards 2026 result not found; 2025 coverage gives different winners (Global Artist Jungkook, International Hit Jin), so claim conflicts with reporting",
     "run": "2026-11-25"
   }
 ]

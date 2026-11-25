@@ -433,3 +433,15 @@ Not posted:
 - **Calvin Klein holiday campaign video "Unwrap the Icons" (tg-Crazy_Koreans_497814).** The holiday campaign with Jung Kook was already posted on 6 Nov (tg-btsnewsru0_83075) and 17 Nov (ck-jk-calvin-klein-1117). The gift-unwrapping video is quoted only through magazine reposts, and WebSearch found no outlet or Calvin Klein page for that video title. Not posted as the same news.
 - **Weverse replies and daily routine (btsnewsru0 83670 to 83676).** Fan Q&A and private daily errands (rule 3).
 - **MAX channel promo (497811) and 2016 KCON clip (497812).** Not news.
+
+## 2026-11-25 run (9 candidates, Crazy_Koreans 497856 to 497878 and koreaworld111 57910 to 57939): one post queued
+
+Queued: `queue/tg-Crazy_Koreans_497881.json`. Vogue Korea posted new Jung Kook photos from its December issue shoot for the Chanel Beauty «Les Exclusifs de Chanel 1957» campaign on its official site. The post is from the magazine's own account, so rule 1 counts it as confirmed. It is an update to the Vogue Korea news of 11 Nov (jk-vogue-korea-graff-tokyo) because the photos are new. Please check before approving:
+1. **Photos.** The cover (tg-Crazy_Koreans_497881_2) shows Jung Kook holding the 1957 bottle with eyes open. The carousel uses three close-ups (497881_6, _7, _8). Wide shots and frames with the face small or blurred were left out because the faces cannot be checked. Image credit is VogueKorea (watermark).
+2. **Almaty time.** No time is given in the post, so no time appears in the texts.
+
+Held or skipped in this run:
+- **HYBE Merch «Merry Go Round» Holiday merch (tg-Crazy_Koreans_497856, 497863, tg-koreaworld111_57910, 57917).** Fan repost only. WebSearch found no listing for this merch, so it is not posted. The same item was skipped before (tg-koreaworld111_57833). If the Weverse Shop notice is confirmed, a post can be made.
+- **Billboard Korea chart update (tg-koreaworld111_57934).** Chart numbers (Swim #1 Global K-Songs, Arirang #73 Billboard 200) not confirmed, and the only images are chart graphics with no members. Not posted.
+- **Steve Aoki anniversary post (tg-koreaworld111_57938).** Non-official artist account. The MIC Drop release date (24 Nov 2017) matches, but no 2026 post or second outlet was found. Not posted.
+- **Break Tudo Awards (tg-koreaworld111_57939).** The 2026 results were not found. 2025 coverage names different winners (Global Artist: Jung Kook; International Hit: Jin), which conflicts with the candidate. Not posted.
