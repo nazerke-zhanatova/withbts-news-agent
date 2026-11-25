@@ -2498,5 +2498,60 @@
     "id": "tg-koreaworld111_57884",
     "reason": "filter: same story already looked at",
     "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497778",
+    "reason": "fan-filmed fancam clip of a concert performance; fan video, not official or news media",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497780",
+    "reason": "fashion item (PDF Channel hat) from a fan channel only; WebSearch found no coverage of Jimin or the hat; no brand post, needs 2 outlets",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497781",
+    "reason": "fan-taken Jimin concert photos with praise text; no news event, fan content",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497790",
+    "reason": "member liked and commented on a non-member's post about a baby (private family content, rule 3); not news",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497791",
+    "reason": "fan-taken concert photos with fan commentary; no news event",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497795",
+    "reason": "fan-site photo roundup with fan commentary; no news event",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497805",
+    "reason": "fan-taken dance photos with fan commentary; no news event",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497808",
+    "reason": "countdown joke about the ARIRANG anniversary; not news, fan content with fan-made video",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497809",
+    "reason": "repeat of tg-Crazy_Koreans_497808 (same countdown joke, duplicate)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497810",
+    "reason": "repeat of tg-Crazy_Koreans_497808 (same countdown joke, duplicate)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497779",
+    "reason": "already posted: BTS Vogue Korea best-dressed news (tg-Crazy_Koreans_497779 in state/posted.json), rule 8",
+    "run": "2026-11-25"
   }
 ]
