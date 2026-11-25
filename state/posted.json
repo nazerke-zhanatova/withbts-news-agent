@@ -1388,5 +1388,26 @@
       "instagram": "18117178460164930",
       "threads": "18112876489917046"
     }
+  },
+  {
+    "id": "tg-koreaworld111_57965",
+    "time": "2026-11-26T03:18+05:00",
+    "headline": "BTS — Golden Disc Awards 2026 номинациясында",
+    "category": "award",
+    "source_urls": [
+      "https://x.com/_GoldenDisc/status/2125466349128589760",
+      "https://x.com/_GoldenDisc/status/2125464831289639394",
+      "https://t.me/koreaworld111/57965"
+    ],
+    "credits": [
+      "_GoldenDisc",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19546",
+      "instagram": "17974679571193529",
+      "threads": "18437332768150837"
+    }
   }
 ]
