@@ -1,35 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496755",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496756",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496757",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496758",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496759",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-koreaworld111_57780",
-    "reason": "Jung Kook Instagram story: candidate has only a link and a shared Spotify card (track 'Angel Bite'), no caption or context, and no member photo; low news value",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-koreaworld111_57781",
     "reason": "Best Collaboration win for j-hope and LE SSERAFIM (SPAGHETTI) at MAMA: not in the Soompi MAMA 2026 winners list, no second source found; candidate photo is a fan-made poster, not usable",
     "run": "2026-11-21"
@@ -2497,6 +2467,36 @@
   {
     "id": "tg-koreaworld111_57961",
     "reason": "Instagram stories link from an unverified fan account (uarmyhope); stories not viewable, not an official source",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57934",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57938",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57939",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57941",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57951",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57961",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-25"
   }
 ]
