@@ -1,45 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496673",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496677",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496679",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496683",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-koreaworld111_57785",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496690",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496693",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496702",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-koreaworld111_57788",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
@@ -2497,6 +2457,46 @@
   {
     "id": "tg-koreaworld111_57939",
     "reason": "Break Tudo Awards 2026 result not found; 2025 coverage gives different winners (Global Artist Jungkook, International Hit Jin), so claim conflicts with reporting",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497881",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57910",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57917",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-koreaworld111_57924",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497935",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497973",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497976",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497977",
+    "reason": "filter: not about BTS",
     "run": "2026-11-25"
   }
 ]
