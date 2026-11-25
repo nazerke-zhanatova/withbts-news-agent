@@ -1346,5 +1346,27 @@
       "instagram": "18117573317169180",
       "threads": "17943294087393551"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_497881",
+    "time": "2026-11-25T20:50+05:00",
+    "headline": "Jung Kook: Vogue Korea және Chanel «1957»",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/497881",
+      "https://t.me/Crazy_Koreans/497878",
+      "https://t.me/koreaworld111/57924"
+    ],
+    "credits": [
+      "VogueKorea",
+      "Crazy_Koreans",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19538",
+      "instagram": "18127768636710902",
+      "threads": "18476758987189313"
+    }
   }
 ]
