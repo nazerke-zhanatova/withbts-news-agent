@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496636",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496643",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496647",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-21"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_497851",
     "reason": "Duplicate of tg-Crazy_Koreans_497850 roundup (rule 12a)",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497941",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-25"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497943",
+    "reason": "filter: not about BTS",
     "run": "2026-11-25"
   }
 ]
