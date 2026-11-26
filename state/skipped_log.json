@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496856",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496859",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-Crazy_Koreans_496812",
     "reason": "Fan-filmed full recording of the encore song, no official source; unofficial recording (fan edit)",
     "run": "2026-11-22"
@@ -2496,6 +2486,16 @@
   },
   {
     "id": "tg-koreaworld111_57986",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498104",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498105",
     "reason": "filter: not about BTS",
     "run": "2026-11-26"
   }
