@@ -1409,5 +1409,55 @@
       "instagram": "17974679571193529",
       "threads": "18437332768150837"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_497945",
+    "time": "2026-11-26T09:49+05:00",
+    "headline": "BTS POP-UP: ARIRANG Бангкокта ашылды",
+    "category": "other",
+    "source_urls": [
+      "https://weverse.io/bts/notice/41031",
+      "https://t.me/Crazy_Koreans/497945"
+    ],
+    "credits": [
+      "Weverse",
+      "Crazy_Koreans",
+      "ByKpopmerch TH"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19548",
+      "instagram": "18136356320504362",
+      "threads": "18022181267951885"
+    }
+  },
+  {
+    "id": "tg-Crazy_Koreans_497993",
+    "time": "2026-11-26T09:52+05:00",
+    "headline": "V Cartier-дің жылдың соңғы кешінде",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/497993",
+      "https://t.me/Crazy_Koreans/497982",
+      "https://t.me/Crazy_Koreans/497975",
+      "https://t.me/Crazy_Koreans/497981",
+      "https://t.me/Crazy_Koreans/497968",
+      "https://t.me/btsnewsru0/83690"
+    ],
+    "credits": [
+      "Daily Fashion News",
+      "L'Officiel Hommes Korea",
+      "Marie Claire Korea",
+      "Fastpaper Magazine",
+      "W Korea",
+      "Crazy_Koreans",
+      "btsnewsru0"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19549",
+      "instagram": "17923822665244514",
+      "threads": "18102591854433152"
+    }
   }
 ]
