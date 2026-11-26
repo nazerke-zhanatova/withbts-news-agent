@@ -455,3 +455,15 @@ Held or skipped in this run:
 - **Billboard Korea chart update (tg-koreaworld111_57934).** Chart numbers (Swim #1 Global K-Songs, Arirang #73 Billboard 200) not confirmed, and the only images are chart graphics with no members. Not posted.
 - **Steve Aoki anniversary post (tg-koreaworld111_57938).** Non-official artist account. The MIC Drop release date (24 Nov 2017) matches, but no 2026 post or second outlet was found. Not posted.
 - **Break Tudo Awards (tg-koreaworld111_57939).** The 2026 results were not found. 2025 coverage names different winners (Global Artist: Jung Kook; International Hit: Jin), which conflicts with the candidate. Not posted.
+
+## 2026-11-26 run (12 candidates, Crazy_Koreans 497945 to 497993, btsnewsru0 83690 and 83700): two posts queued
+
+Queued: `queue/tg-Crazy_Koreans_497945.json`. BTS POP-UP: ARIRANG in Bangkok, 25 Nov to 13 Dec 2026, at Parc Paragon, MF and Siam Paragon. The official Weverse notice (weverse.io/bts/notice/41031) was read and matches the candidate. Hours 10:00 to 22:00 Bangkok time, which is 08:00 to 20:00 Almaty time. Please check before approving:
+1. **Photo has no member.** The cover is the candidate's own photo of the pop-up banner (ByKpopmerch TH, image_credit). It shows the venue and dates only, so photo_members is empty. Rule 5 asks for members in group news. If you want a member photo, send one and I will swap it.
+
+Queued: `queue/tg-Crazy_Koreans_497993.json`. V at the Cartier 2026 End of Year Party in Seoul on 25 Nov (Cartier Maison Cheongdam). Please check before approving:
+1. **Only magazine accounts report it.** My WebSearch found no news article about this party. The facts come from the accounts of Daily Fashion News, L'Officiel Hommes Korea, Marie Claire Korea, Fastpaper and W Korea (reposted by Crazy_Koreans and btsnewsru0). Under rule 1 these are magazine posts about their own coverage, so I treated them as confirmed. An earlier run skipped the same story with only one repost (497942, 57967), so this one is different only because of the number of magazines.
+2. **Photos.** Cover is the Daily Fashion News frame captioned "V, The Prince of Cartier" (eyes open). Carousel is two Fastpaper frames: 497981 is captioned with 김태형 (Kim Taehyung), and 497968 is named by the repost text. Frames from Marie Claire, L'Officiel and btsnewsru0 were not used because a face was blurred, cut off or unnamed.
+3. **Not used.** The Love Ring giveaway mention in the interview (rule 17) and the military reference in the W Korea interview (rule 15).
+
+Not posted: the HYBMRCH holiday merch repost (497946), the Dip Magazine caption that names "B" (497974), and the V fan Q&A (83700). See skipped_log.json.
