@@ -1,30 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496880",
-    "reason": "truncated duplicate of tg-Crazy_Koreans_496879 (rule 3)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496929",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496930",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496941",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496942",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-Crazy_Koreans_496944",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
@@ -2496,6 +2471,31 @@
   },
   {
     "id": "tg-koreaworld111_58007",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498123",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-koreaworld111_57999",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498133",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498135",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498142",
     "reason": "filter: same story already looked at",
     "run": "2026-11-26"
   }
