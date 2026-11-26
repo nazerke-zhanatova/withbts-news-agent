@@ -1459,5 +1459,26 @@
       "instagram": "17923822665244514",
       "threads": "18102591854433152"
     }
+  },
+  {
+    "id": "tg-koreaworld111_57977",
+    "time": "2026-11-26T12:49+05:00",
+    "headline": "Jung Kook Hublot-тың жаңа сағатын таныстырды",
+    "category": "news",
+    "source_urls": [
+      "https://www.instagram.com/p/DgKsdx1D6q2/",
+      "https://x.com/Hublot/status/2125590545720545362",
+      "https://t.me/koreaworld111/57977"
+    ],
+    "credits": [
+      "Hublot",
+      "koreaworld111"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19552",
+      "instagram": "18216930214364345",
+      "threads": "17918322033489283"
+    }
   }
 ]
