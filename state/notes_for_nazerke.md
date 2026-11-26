@@ -467,3 +467,16 @@ Queued: `queue/tg-Crazy_Koreans_497993.json`. V at the Cartier 2026 End of Year 
 3. **Not used.** The Love Ring giveaway mention in the interview (rule 17) and the military reference in the W Korea interview (rule 15).
 
 Not posted: the HYBMRCH holiday merch repost (497946), the Dip Magazine caption that names "B" (497974), and the V fan Q&A (83700). See skipped_log.json.
+
+## 2026-11-26 run (10 candidates, koreaworld111 57977 and Crazy_Koreans 497999 to 498030): one post queued
+
+Queued: `queue/tg-koreaworld111_57977.json`. Hublot names Jung Kook its global brand ambassador and announces a new Classic Fusion Tributo in yellow gold. The post is from Hublot's own account (Instagram and X links in the candidate), so rule 1 counts it as confirmed. Please check before approving:
+1. **Model name not found outside the candidate.** WebSearch found Hublot's ambassador announcement (Feb 2026) but no "Classic Fusion Tributo" listing. The post uses the name as Hublot posted it, so please check the Hublot Instagram/X post for the exact model name.
+2. **Photos.** Cover is the Hublot campaign frame (tg-koreaworld111_57977_1, eyes open, full face). Carousel is the second frame (57977_0). Both are named in the candidate text as Jung Kook's brand campaign; image_credit Hublot.
+
+Held or skipped in this run:
+- **Epiphany in K-POP: The Debut trailer (tg-Crazy_Koreans_498001).** The trailer is covered by several outlets (The Statesman, Soompi, Hype), but only K-POPIT, in what I could read, names Jin's "Epiphany" in it. Held for the photo: the candidate frame shows a member, but no caption names him, so it cannot be used. Send a Jin photo with a caption naming him (or the trailer clip) and it can go out.
+- **Code Kunst track with Jung Kook (tg-Crazy_Koreans_498017).** Rumor from a visitor to a listening session; the candidate itself says there is no official confirmation. Not posted.
+- **Cartier party, Taehyung (498002, 498007, 498023, 83700).** Same event as the V Cartier post already queued (tg-Crazy_Koreans_497993). Repeats, fansite photos.
+- **Bangkok purple decorations and Colgate ad with J-hope (498008).** Decorations only, no member photo from a permitted source. The Bangkok pop-up itself is already posted.
+- **Vogue Korea photos (498030).** Repeat of the Vogue Korea posts (11 and 25 Nov).

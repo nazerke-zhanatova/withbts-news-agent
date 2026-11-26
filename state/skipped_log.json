@@ -2498,5 +2498,50 @@
     "id": "tg-btsnewsru0_83740",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83700",
+    "reason": "repeat: V Cartier 2026 End of Year Party already posted (tg-Crazy_Koreans_497993)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498002",
+    "reason": "repeat: same Cartier party already posted; fansite photos not from a permitted source",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498007",
+    "reason": "repeat: same Cartier party already posted",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498023",
+    "reason": "repeat: Cartier party outfit details only; fansite photos, no new news",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498030",
+    "reason": "repeat: Vogue Korea December photos already covered (jk-vogue-korea-graff-tokyo, tg-koreaworld111_57530)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498008",
+    "reason": "Bangkok decorations and Colgate ad only; pop-up already posted; no member photo from permitted source",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498017",
+    "reason": "unconfirmed rumor from a listening-session visitor, no official or news confirmation",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498001",
+    "reason": "Epiphany in K-POP: The Debut trailer covered by several outlets, but only one names Jin's song in it, and the candidate photo has no caption naming Jin",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497999",
+    "reason": "channel promo (MAX messenger reminder), not news",
+    "run": "2026-11-26"
   }
 ]
