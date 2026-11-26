@@ -2498,5 +2498,50 @@
     "id": "tg-Crazy_Koreans_498156",
     "reason": "filter: same story already looked at",
     "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83711",
+    "reason": "duplicate: Cartier V event already posted (tg-Crazy_Koreans_497993); interview adds no new news",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83739",
+    "reason": "merged into tg-btsnewsru0_83731 (same Calvin Klein video, text version)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83750",
+    "reason": "duplicate: Vogue Korea / Chanel 1957 already posted (tg-Crazy_Koreans_497881)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83755",
+    "reason": "duplicate: Hublot watch already posted (tg-koreaworld111_57977)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83762",
+    "reason": "rumor: unconfirmed report from album listening attendees, no official statement",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83771",
+    "reason": "rumor: same unconfirmed PRANKSTER / Love Is Blind report, explainer only",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498073",
+    "reason": "schedule digest: mostly already posted; Merry Go Round Holiday merch date and extra Bangkok ticket registration not confirmed by any official source (rule 16)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498074",
+    "reason": "digest: items already posted or unconfirmed; remaining items lack photos or official confirmation",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498075",
+    "reason": "duplicate: pinned copy of the 25 Nov digest (tg-Crazy_Koreans_498074)",
+    "run": "2026-11-26"
   }
 ]
