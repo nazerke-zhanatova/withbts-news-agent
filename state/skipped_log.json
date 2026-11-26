@@ -1,50 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496885",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496887",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496896",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496861",
-    "reason": "members' private live chat about family, mobile data and bank balance (rule 3); not posted",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496862",
-    "reason": "selfie screenshot with a fan comment about the live; no news event",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496866",
-    "reason": "members' private chat about spending and bank account (rule 3); not posted",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496867",
-    "reason": "members' private chat about data usage and YouTube; no news event (rule 3)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496869",
-    "reason": "BTS_official Kaohsiung date line repost; Kaohsiung ARIRANG shows already covered by posted items (rule 8)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496873",
-    "reason": "Jimin's Weverse live end notice; same news as queue/tg-Crazy_Koreans_496865.json (merged)",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-Crazy_Koreans_496878",
     "reason": "casual chat between members in a live with a fan-relayed video; no news event, not an official or brand video (rule 5c)",
     "run": "2026-11-22"
