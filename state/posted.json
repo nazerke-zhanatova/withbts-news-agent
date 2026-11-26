@@ -1541,5 +1541,45 @@
       "instagram": "18147417412588802",
       "threads": "17957826006038652"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_498123",
+    "time": "2026-11-27T03:52+05:00",
+    "headline": "Jung Kook Bleu de Chanel науқанында",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/498123"
+    ],
+    "credits": [
+      "VogueKorea",
+      "Crazy_Koreans"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19557",
+      "instagram": "17915443185603922",
+      "threads": "18352595380251211"
+    }
+  },
+  {
+    "id": "tg-koreaworld111_57999",
+    "time": "2026-11-27T03:53+05:00",
+    "headline": "Jin Weverse-те сахнадағы фотосын бөлісті",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/koreaworld111/57999",
+      "https://t.me/Crazy_Koreans/498133"
+    ],
+    "credits": [
+      "Jin Weverse",
+      "koreaworld111",
+      "Crazy_Koreans"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19562",
+      "instagram": "17919138267503242",
+      "threads": "18022693865976211"
+    }
   }
 ]
