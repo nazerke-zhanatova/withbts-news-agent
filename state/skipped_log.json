@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496796",
-    "reason": "Concert photos only; used as the photos of the SUGA post tg-Crazy_Koreans_496807 (one post for this news)",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496803",
     "reason": "Hobi concert speech from a fan channel; candidate photo does not clearly show the speaker, no verified photo of j-hope, not posted",
     "run": "2026-11-21"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-koreaworld111_57977",
     "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498076",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-26"
   }
 ]
