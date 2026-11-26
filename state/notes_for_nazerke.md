@@ -480,3 +480,9 @@ Held or skipped in this run:
 - **Cartier party, Taehyung (498002, 498007, 498023, 83700).** Same event as the V Cartier post already queued (tg-Crazy_Koreans_497993). Repeats, fansite photos.
 - **Bangkok purple decorations and Colgate ad with J-hope (498008).** Decorations only, no member photo from a permitted source. The Bangkok pop-up itself is already posted.
 - **Vogue Korea photos (498030).** Repeat of the Vogue Korea posts (11 and 25 Nov).
+
+## 2026-11-26 run (re-run of the same 10 candidates): no posts published
+
+- **Draft left behind by mistake: `queue/tg-Crazy_Koreans_498030.json`.** I wrote it, then decided it was a repeat of `jk-vogue-korea-graff-tokyo` (posted 11 Nov) and marked it `"needs_approval": true` so it cannot publish. The shell refused to delete it. Please delete this file by hand. Nothing else was queued in this run.
+- Vogue Korea December cover is confirmed by vogue.co.kr (11 Nov 2026: six covers, Paris, bookstores 25 Nov). It was not posted again because the 11 Nov post already covered the same cover news.
+- Epiphany film trailer (498001): only one outlet names Jin's song in the trailer. Skipped.
