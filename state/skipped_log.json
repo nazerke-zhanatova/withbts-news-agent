@@ -1,25 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57806",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496827",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496828",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496829",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-koreaworld111_57783",
     "reason": "Album of the Year video for ARIRANG 'at MAMA 2026': same unverified claim as 57782 (WebSearch finds no 2026 MAMA Album of the Year; the ARIRANG win is at Melon Music Awards, 14 Nov); no second source",
     "run": "2026-11-21"
@@ -2497,6 +2477,26 @@
   {
     "id": "tg-btsnewsru0_83690",
     "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83701",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498072",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83721",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83740",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-26"
   }
 ]
