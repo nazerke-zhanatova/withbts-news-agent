@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496878",
-    "reason": "casual chat between members in a live with a fan-relayed video; no news event, not an official or brand video (rule 5c)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496879",
-    "reason": "members' private chat about family and private outings (rule 3); not posted",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-Crazy_Koreans_496880",
     "reason": "truncated duplicate of tg-Crazy_Koreans_496879 (rule 3)",
     "run": "2026-11-22"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_498106",
     "reason": "DF Entertainment (Argentina promoter) concert atmosphere video: original post not linked, no video in candidate, not verified (rules 1, 5c)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-koreaworld111_58001",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-koreaworld111_58007",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-26"
   }
 ]
