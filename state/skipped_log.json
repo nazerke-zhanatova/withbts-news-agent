@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496846",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496794",
-    "reason": "Caption-only photo of three members with no event or news detail",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496796",
     "reason": "Concert photos only; used as the photos of the SUGA post tg-Crazy_Koreans_496807 (one post for this news)",
     "run": "2026-11-21"
@@ -2497,6 +2487,16 @@
   {
     "id": "tg-Crazy_Koreans_497999",
     "reason": "channel promo (MAX messenger reminder), not news",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498007",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-koreaworld111_57977",
+    "reason": "filter: link already used in a post",
     "run": "2026-11-26"
   }
 ]
