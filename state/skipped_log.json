@@ -1,50 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496800",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496802",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496804",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496805",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496806",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496810",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-koreaworld111_57795",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496820",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-koreaworld111_57800",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-koreaworld111_57806",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
@@ -2497,6 +2452,51 @@
   {
     "id": "tg-btsnewsru0_83700",
     "reason": "V fan Q&A (shooting anecdote, favourite Cartier pieces); same event, no new news, personal anecdote",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497945",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497946",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497968",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497974",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497975",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497981",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497982",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_497993",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-btsnewsru0_83690",
+    "reason": "filter: link already used in a post",
     "run": "2026-11-26"
   }
 ]
