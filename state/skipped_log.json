@@ -1,46 +1,6 @@
 [
   {
     "id": "tg-Crazy_Koreans_496803",
-    "reason": "Hobi concert speech from a fan channel; candidate photo does not clearly show the speaker, no verified photo of j-hope, not posted",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496808",
-    "reason": "Fan video clip of V singing at the concert: fancam-type content, not official or news media",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496809",
-    "reason": "RM concert speech from a fan channel; no verified photo of RM in candidate media, not posted",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496811",
-    "reason": "V concert speech from a fan channel; no verified photo of V in candidate media, not posted",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496812",
-    "reason": "Full fan recording of the concert encore song: fan recording, not official or news media",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496813",
-    "reason": "Jung Kook concert speech from a fan channel; candidate video frame is not a verified photo of him for a post, not posted",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496814",
-    "reason": "Jin concert speech from a fan channel; no verified photo of Jin in candidate media, not posted",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496796",
-    "reason": "filter: link already used in a post",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496803",
     "reason": "filter: same story already looked at",
     "run": "2026-11-21"
   },
@@ -2497,6 +2457,46 @@
   {
     "id": "tg-Crazy_Koreans_498076",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498001",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498002",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498008",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498017",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498023",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498030",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498040",
+    "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498046",
+    "reason": "filter: link already used in a post",
     "run": "2026-11-26"
   }
 ]
