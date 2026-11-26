@@ -2498,5 +2498,50 @@
     "id": "tg-Crazy_Koreans_498164",
     "reason": "filter: same story already looked at",
     "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498077",
+    "reason": "old show quote (RM, SUGA, Jin context) recycled as a fan translation; no new news event, source show not confirmed by an official or 2 outlets",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498083",
+    "reason": "Kaohsiung attendance (290k visitors, 1.03M metro rides) from a fan aggregator; WebSearch found no second outlet confirming these figures (rule 1)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-koreaworld111_57981",
+    "reason": "RM Instagram stories shared as a link only; story content not in the candidate text and the photos do not clearly show who is pictured (rule 5)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-koreaworld111_57991",
+    "reason": "Jung Kook photos for Vogue Korea x Chanel beauty: same campaign already posted 25 Nov (tg-Crazy_Koreans_497881), no clearly new news (rule 8)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-koreaworld111_57997",
+    "reason": "duplicate: same bts.bighitofficial Love Is Blind announcement, covered by queue/tg-Crazy_Koreans_498101.json",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-koreaworld111_57998",
+    "reason": "duplicate: same bts.bighitofficial Love Is Blind announcement, covered by queue/tg-Crazy_Koreans_498101.json",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498102",
+    "reason": "duplicate: Golden Disc Awards 2026 nominations already posted (tg-koreaworld111_57965, 26 Nov), rule 8",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498103",
+    "reason": "duplicate: Golden Disc Awards 2026 nominations (truncated copy of 498102), already posted (rule 8)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498106",
+    "reason": "DF Entertainment (Argentina promoter) concert atmosphere video: original post not linked, no video in candidate, not verified (rules 1, 5c)",
+    "run": "2026-11-26"
   }
 ]
