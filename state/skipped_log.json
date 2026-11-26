@@ -1,40 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496803",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496807",
-    "reason": "filter: link already used in a post",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496809",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496811",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496813",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496814",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496816",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-21"
-  },
-  {
     "id": "tg-Crazy_Koreans_496849",
     "reason": "filter: not about BTS",
     "run": "2026-11-21"
@@ -2497,6 +2462,41 @@
   {
     "id": "tg-Crazy_Koreans_498046",
     "reason": "filter: link already used in a post",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498078",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498081",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498082",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498084",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498088",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498089",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498090",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-26"
   }
 ]
