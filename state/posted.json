@@ -1497,5 +1497,26 @@
       "Crazy_Koreans"
     ],
     "status": "waiting for approval"
+  },
+  {
+    "id": "tg-btsnewsru0_83731",
+    "time": "2026-11-26T21:50+05:00",
+    "headline": "Jung Kook Calvin Klein-дің мереке науқанында",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/btsnewsru0/83731",
+      "https://www.vogue.co.kr/2026/11/10/%ec%a0%95%ea%b5%ad%ec%9d%98-%ec%b7%a8%ed%96%a5%ec%9d%84-%eb%8b%b4%ec%9d%80-%ec%ba%98%eb%b9%88%ed%81%b4%eb%9d%bc%ec%9d%b8-2026-%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4-%ec%bb%ac%eb%a0%89%ec%85%98/"
+    ],
+    "credits": [
+      "btsnewsru0",
+      "Vogue Korea",
+      "Calvin Klein"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19554",
+      "instagram": "17991069665881399",
+      "threads": "18401874457204767"
+    }
   }
 ]
