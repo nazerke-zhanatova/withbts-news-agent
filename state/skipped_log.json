@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83607",
-    "reason": "Explainer of Teto/Egen slang from a livestream; no news event",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83609",
-    "reason": "Private chat about mobile data and Wi-Fi during travel; personal life (rule 3)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-koreaworld111_57835",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497376",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-koreaworld111_57836",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497382",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-koreaworld111_57847",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497414",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83613",
-    "reason": "chit-chat transcript of a member live, no news; joke about a member's money",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83617",
-    "reason": "chit-chat about ID photos and old photos, personal, no news",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-btsnewsru0_83619",
     "reason": "thank-you speech after awards; already covered by bts-81-daesang-thanks-1121",
     "run": "2026-11-22"
