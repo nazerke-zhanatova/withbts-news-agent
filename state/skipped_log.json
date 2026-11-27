@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_498279",
     "reason": "filter: same story already looked at",
     "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498280",
+    "reason": "Bangkok buildings lit purple for BTS: fan-channel report only, no official or second outlet; fan-made decoration, not a news event (rules 1, 12b)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498281",
+    "reason": "same Bangkok purple decoration report as tg-Crazy_Koreans_498280 (video repost), duplicate (rule 12a)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498282",
+    "reason": "fansite concert photo repost with praise caption, no news (rule 12b)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498286",
+    "reason": "Hublot Instagram-style story of Jung Kook with Classic Fusion Tributo: brand account, but the same Hublot campaign as tg-koreaworld111_57977 posted 26 Nov; no new detail confirmed (rule 8). Nazerke may want a follow-up if the Tributo is a new watch",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-koreaworld111_58025",
+    "reason": "Hublot behind-the-scenes shoot photos via fan channel link to an unverified Instagram post; owner not confirmed and same campaign as 57977 (rules 1, 8)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498290",
+    "reason": "channel promo (MAX messenger), not news",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498291",
+    "reason": "Merry Go Round holiday merch via Eyes Magazine repost: magazine is not the brand, no official Weverse Shop notice found, HIP is the only outlet (rules 1, 16); WebSearch in English and Korean found nothing",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498297",
+    "reason": "same Merry Go Round holiday merch report (HIP), part 1; single outlet, not verified (rule 1)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498304",
+    "reason": "same Merry Go Round holiday merch report (HIP), part 2 of 498297; single outlet, not verified (rule 1)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498313",
+    "reason": "Colgate Thailand j-hope ad countdown: brand account, but the campaign is from Jul/Aug 2026 and the countdown date is not stated; candidate photo shows the Colgate billboard without j-hope, no verified j-hope cover photo (rule 5)",
+    "run": "2026-11-27"
   }
 ]
