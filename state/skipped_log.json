@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-koreaworld111_57825",
-    "reason": "TikTok 35M milestone: only fan channel source, no second outlet found (latest reports ~34.9M), no usable member photo",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-koreaworld111_57827",
-    "reason": "Jimin Instagram Dior post: photos do not clearly show Jimin (faces hidden or absent), sneakers not confirmed by other outlets; rule 5 photo check failed",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-btsnewsru0_83652",
-    "reason": "Jimin Instagram update, same post as tg-koreaworld111_57827; no verified photo of Jimin, not posted",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-btsnewsru0_83647",
-    "reason": "j-hope story: fan-filmed sound check clip, members not identifiable, no caption or official source",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-btsnewsru0_83651",
-    "reason": "YouTube link to concert stream: not verified as official (rule 17), stream already over",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-koreaworld111_57833",
-    "reason": "HYBE Merch holiday drop: official X link not verifiable, no product details or member photo available",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-koreaworld111_57834",
-    "reason": "tour gross ranking: compares with other artists and is box-office business data, unclear source",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-koreaworld111_57840",
-    "reason": "Kaohsiung day 1 fan-shot photos credited to individual fan accounts; concert photos already posted",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497393",
-    "reason": "V story shows private travel (night scooter ride, helmets, private location), rule 3",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497462",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-23"
-  },
-  {
     "id": "tg-Crazy_Koreans_497473",
     "reason": "filter: not about BTS",
     "run": "2026-11-23"
