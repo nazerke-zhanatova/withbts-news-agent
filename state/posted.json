@@ -1581,5 +1581,25 @@
       "instagram": "17919138267503242",
       "threads": "18022693865976211"
     }
+  },
+  {
+    "id": "tg-Crazy_Koreans_498179",
+    "time": "2026-11-27T09:51+05:00",
+    "headline": "V young n sang киімдерінде",
+    "category": "news",
+    "source_urls": [
+      "https://t.me/Crazy_Koreans/498179",
+      "https://t.me/Crazy_Koreans/498187"
+    ],
+    "credits": [
+      "young n sang",
+      "Crazy_Koreans"
+    ],
+    "dry_run": false,
+    "results": {
+      "telegram": "19563",
+      "instagram": "18014789493005926",
+      "threads": "18023151185734868"
+    }
   }
 ]
