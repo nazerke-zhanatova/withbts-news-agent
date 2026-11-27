@@ -1,35 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83615",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83616",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83618",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83622",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83548",
-    "reason": "soundcheck setlist only; low value, no verifiable all-7 photo",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83562",
-    "reason": "Sea live at Kaohsiung: single aggregator, not confirmed by search; no verifiable group photo (media are unidentified screenshots)",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-btsnewsru0_83569",
     "reason": "Boy In Luv encore: single aggregator, not confirmed; only single-member photo available",
     "run": "2026-11-22"
