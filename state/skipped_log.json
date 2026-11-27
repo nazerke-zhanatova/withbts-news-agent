@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83612",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-btsnewsru0_83614",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_498203",
     "reason": "filter: same story already looked at",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498249",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-27"
   }
 ]
