@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_498312",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498246",
+    "reason": "Vogue Korea December interview Q&A repost with no link to the magazine original; Paris shoot detail unverified; cover story already waiting approval (tg-Crazy_Koreans_498030)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498247",
+    "reason": "Second part of the same Vogue Korea interview repost (fragrance and tour answers); same reason as 498246",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498248",
+    "reason": "Fan nostalgia post (2015 MMA stage memory) with a question to fans; no new news",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498250",
+    "reason": "Bangkok on-site merch pickup notice: could not match it to an official Weverse/HYBE notice in search (only the Bangkok pop-up notice 41031 found); pickup booth location not confirmed",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498251",
+    "reason": "Bangkok merch exchange and return rules; same unconfirmed notice as 498250",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498252",
+    "reason": "Light Stick Ver.4 Bangkok user guide: Ver.4 wireless-sync notices exist, but the Bangkok-specific guide was not found; batteries and sync rules not confirmed for this show",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498257",
+    "reason": "SUGA Instagram post from Kaohsiung (agustd, 9 photos, caption only KAOHSIUNG): photos were taken by SUGA and the subjects cannot be confirmed as SUGA, so no safe member photo for rule 5",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-koreaworld111_58015",
+    "reason": "Same SUGA Instagram post as tg-Crazy_Koreans_498257; same reason (subjects not confirmed)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498268",
+    "reason": "Hublot campaign images via Halcyon Magazine: same Jung Kook Hublot campaign already posted (tg-koreaworld111_57977), no new product, date or event",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498271",
+    "reason": "Starbucks Singapore teaser: no product name, price or details beyond a date; the still frame shows no BTS member or usable photo, and the Starbucks tie-in is not confirmed by search",
+    "run": "2026-11-27"
   }
 ]

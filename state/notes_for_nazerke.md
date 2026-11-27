@@ -494,3 +494,10 @@ Held or skipped in this run:
 - **Melon chart statistics (498112):** the MMA 2026 wins are confirmed, but the 59-day and 143-day figures are not. Skipped.
 - **Paper-ticket pickup at Bangkok (498170):** the organizer notice has not been confirmed from ThaiTicketMajor. If it is confirmed, it could go out as ticket info.
 - Skipped as not news or not permitted: the V bill story (498120, private), the Holiday merch shop ad (498130), the MAX channel promo (498163) and the venue transport notes (498173).
+
+## 2026-11-27 run (11 candidates: Crazy_Koreans 498246 to 498271, koreaworld111 58015): no posts queued
+
+- **Bangkok merch pickup and Light Stick Ver.4 guide (498250 to 498252):** the content reads like an official HYBE/Weverse notice, but the search did not find it. Worth a manual check on Weverse notices before posting. The Ver.4-only wireless sync is consistent with Weverse notice 33579.
+- **SUGA Instagram post from Kaohsiung (498257, koreaworld111 58015):** the post is agustd's, caption only "KAOHSIUNG", photos taken by SUGA. The subjects could not be confirmed, so no post. If you want it, check the photos by hand and decide which member is shown.
+- **Vogue Korea December interview (498246, 498247):** the Q&A is a repost without a link. The cover story (tg-Crazy_Koreans_498030) is still waiting approval, so this interview is best posted with it.
+- **Starbucks Singapore teaser (498271):** BTS THE CITY ARIRANG Singapore (1 to 31 Dec) is confirmed by Weverse notice 40721 and JoongAng Daily, but the Starbucks product is not. No post.
