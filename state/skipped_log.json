@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_497358",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497362",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497363",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83594",
-    "reason": "Livestream banter about MAMA awards and a snack chat; no new news, personal chatter",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83595",
-    "reason": "Livestream clip of members eating sweets; everyday private moment, no news event",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83596",
-    "reason": "Jung Kook's Chinese pronunciation joke in a livestream; banter, no official source",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83597",
-    "reason": "Jung Kook's Chinese pronunciation moment with fans in Kaohsiung; banter, not news, identity in still not certain",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83599",
-    "reason": "Livestream chat about phone battery, a game event and personal habits; private, no news",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83600",
-    "reason": "Livestream chat; claim that 'Sea' was performed at the concert not confirmed by WebSearch (no setlist found), rest is banter",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83602",
-    "reason": "AI-generated fake images of members and fan memes; negative and not news (rule 3)",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-btsnewsru0_83606",
     "reason": "Member-to-member personality comparison (Teto/Egen) from a livestream; comparisons and personal talk, not news",
     "run": "2026-11-22"
