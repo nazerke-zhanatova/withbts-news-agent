@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_498287",
     "reason": "filter: same story already looked at",
     "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498227",
+    "reason": "Vogue Korea Jung Kook interview as fan repost (text only, no link); could not find the interview on vogue.co.kr or in press; not verified. Candidate photo is unidentified. Post the cover item stays waiting for approval",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498245",
+    "reason": "Same Vogue Korea interview as 498227 (fan repost of the site text); brand site not verifiable via search, so no post yet",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83784",
+    "reason": "Jin Weverse height remark (190 cm); not found in any source, photo cannot be confirmed as Jin, low news value",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83785",
+    "reason": "Namjoon Instagram stories with 9 images and no caption text; content of the stories not known from the candidate, cannot write accurate text",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83805",
+    "reason": "Jin Instagram update with no caption text; photos not identifiable as Jin, content unknown",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83817",
+    "reason": "BigHit concert photos in Gaoxiong; the 290,000 attendance figure could not be confirmed (only previews found), photos not identified as concert-night images",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83821",
+    "reason": "Jung Kook on Code Kunst track LOVE IS BLIND: same news as the already posted Love Is Blind release post (tg-Crazy_Koreans_498101)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498229",
+    "reason": "Schedule digest from an aggregator; concert and event dates need official sources (rule 16), not verified this run",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498230",
+    "reason": "Aggregator daily digest: items already posted (Vogue, Golden Disc nominations, Love Is Blind), others unverified (290k Gaoxiong attendance, D'FESTA video message)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498231",
+    "reason": "Pinned copy of the 26 Nov daily digest; same items as tg-Crazy_Koreans_498230",
+    "run": "2026-11-27"
   }
 ]
