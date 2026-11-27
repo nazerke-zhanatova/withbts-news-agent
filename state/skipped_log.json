@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83578",
-    "reason": "MAMA 2026 award claims unconfirmed; search finds Album of the Year Daesang for ARIRANG at Melon Music Awards, not MAMA; no verifiable photo",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-btsnewsru0_83583",
     "reason": "J-hope SPAGHETTI MAMA award claim not confirmed by search; mostly repeats MAMA news; no verifiable photo",
     "run": "2026-11-22"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_498267",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498272",
+    "reason": "filter: not about BTS",
     "run": "2026-11-27"
   }
 ]
