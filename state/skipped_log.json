@@ -2498,5 +2498,50 @@
     "id": "tg-Crazy_Koreans_498238",
     "reason": "filter: same story already looked at",
     "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498177",
+    "reason": "Jungkook fire-rescue kits: only a Korean outlet via aggregator; WebSearch found only the 2025 donation coverage, no second reliable outlet for the 2026 news",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498178",
+    "reason": "Bangkok stage prep: no new official info; sold-out claim is not from an official ticket source (rule 16); concert dates not new",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498191",
+    "reason": "same young n sang Harper's Bazaar post as queue tg-Crazy_Koreans_498179; video and photos not separately needed; rest of photos non-member or unclear",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498195",
+    "reason": "same young n sang Harper's Bazaar post as queue tg-Crazy_Koreans_498179; photo set includes a non-member reference card, rest merged into the one post",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498187",
+    "reason": "same young n sang Harper's Bazaar post as queue tg-Crazy_Koreans_498179 (part 2 merged)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498200",
+    "reason": "Code Kunst story teaser for Love Is Blind; release already posted, no new official detail",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498201",
+    "reason": "Jung Kook 'let's go' story repost; promo for Love Is Blind already posted, no new news",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498203",
+    "reason": "Jung Kook story repost with edit; promo for Love Is Blind already posted, no new news",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-koreaworld111_58014",
+    "reason": "Jung Kook story repost; promo for Love Is Blind already posted, no new news",
+    "run": "2026-11-27"
   }
 ]
