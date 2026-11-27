@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_498272",
     "reason": "filter: not about BTS",
     "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498227",
+    "reason": "Vogue Korea interview fragments only in one fan translation; no Vogue Korea post or second outlet found (WebSearch); cover post already waiting for approval",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83782",
+    "reason": "Vogue Korea Chanel Bleu de Chanel photos already covered by posted tg-Crazy_Koreans_498123; only an extra quote, not a new fact",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83784",
+    "reason": "Jin Weverse remark with a photo of unclear identity; no caption or source link to verify the post",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83785",
+    "reason": "RM Instagram stories: candidate gives no caption or content; 9 photos not identified, so no fact-based text",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83805",
+    "reason": "Jin Instagram update: candidate gives no caption; concert photo member not identifiable with certainty",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83817",
+    "reason": "BigHit Kaohsiung concert photos: same news as already posted official Kaohsiung photo posts (kaohsiung-day1-official-photos-1120 and others); no new detail",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83821",
+    "reason": "Code Kunst album and Jung Kook guest vocal: only a user-edited wiki gives the album date; no official or second-outlet confirmation; story screenshot has no usable face photo",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498229",
+    "reason": "Fan-run schedule: concert and release dates (Bangkok 3/5/6 Dec etc.) only confirmed by secondary outlets, not official BIGHIT, Weverse or ticket site (rule 16)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498230",
+    "reason": "Digest of 26 Nov news: items already posted or not verifiable (D'FESTA video message for Tokyo not found in sources)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498231",
+    "reason": "Pinned repost of tg-Crazy_Koreans_498230; duplicate",
+    "run": "2026-11-27"
   }
 ]
