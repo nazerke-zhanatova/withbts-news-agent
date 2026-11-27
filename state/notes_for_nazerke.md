@@ -486,3 +486,11 @@ Held or skipped in this run:
 - **Draft left behind by mistake: `queue/tg-Crazy_Koreans_498030.json`.** I wrote it, then decided it was a repeat of `jk-vogue-korea-graff-tokyo` (posted 11 Nov) and marked it `"needs_approval": true` so it cannot publish. The shell refused to delete it. Please delete this file by hand. Nothing else was queued in this run.
 - Vogue Korea December cover is confirmed by vogue.co.kr (11 Nov 2026: six covers, Paris, bookstores 25 Nov). It was not posted again because the 11 Nov post already covered the same cover news.
 - Epiphany film trailer (498001): only one outlet names Jin's song in the trailer. Skipped.
+
+## 2026-11-27 run (10 candidates, all from Crazy_Koreans 498112 to 498173): no posts queued
+
+- **Bangkok ARIRANG concerts, 3, 5 and 6 December (498118): not posted, worth a manual look.** Search confirms the dates at Rajamangala National Stadium (Nation Thailand, Thairath, stereoboard, kpopofficial). No Kazakh post about the Bangkok concert dates was found in posted.json. The candidate's only picture is a stadium aerial, which is not a member photo, so rule 5 could not be met. A Bangkok concert post with a photo of all 7 would be a new post.
+- **Code Kunst "Prankstar" with Jung Kook (498159, 498160, 498162):** the Hankook Ilbo detail (album out 3 Dec, tracklist) was not confirmed by search. Love Is Blind itself is already posted (498101).
+- **Melon chart statistics (498112):** the MMA 2026 wins are confirmed, but the 59-day and 143-day figures are not. Skipped.
+- **Paper-ticket pickup at Bangkok (498170):** the organizer notice has not been confirmed from ThaiTicketMajor. If it is confirmed, it could go out as ticket info.
+- Skipped as not news or not permitted: the V bill story (498120, private), the Holiday merch shop ad (498130), the MAX channel promo (498163) and the venue transport notes (498173).

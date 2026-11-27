@@ -2498,5 +2498,55 @@
     "id": "tg-btsnewsru0_83772",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-26"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498112",
+    "reason": "Melon chart statistics repost; 59-day and 143-day figures and 'only BTS' claims not verified in search; comparison with other artists",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498118",
+    "reason": "Bangkok ARIRANG dates confirmed by search, but no permitted photo of all 7 (candidate video is a stadium aerial, not a member photo); see notes",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498120",
+    "reason": "private encounter at a restaurant reported by a former editor's stories; personal life (rule 3)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498130",
+    "reason": "paid advertisement by an unofficial merch shop (#Реклама); rule 17",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498159",
+    "reason": "Code Kunst Prankstar album detail from one outlet (Hankook Ilbo) plus fan channel; not confirmed in search; core Love Is Blind news already posted (498101)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498160",
+    "reason": "same Prankstar / Love Is Blind story as 498159; single outlet, not confirmed; album date and tracklist not verified",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498162",
+    "reason": "attendee's listening-event impressions, fan report, not official news; covered by existing Love Is Blind post",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498163",
+    "reason": "channel promotion (MAX messenger), not news",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498170",
+    "reason": "paper-ticket pickup and VIP rules from a fan repost; ticket info not confirmed by official ThaiTicketMajor or BIGHIT source in search (rule 16)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498173",
+    "reason": "venue transport and bag rules, logistics only; not news; unofficial fan repost",
+    "run": "2026-11-27"
   }
 ]
