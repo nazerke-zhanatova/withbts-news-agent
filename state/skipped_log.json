@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83569",
-    "reason": "Boy In Luv encore: single aggregator, not confirmed; only single-member photo available",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-btsnewsru0_83578",
     "reason": "MAMA 2026 award claims unconfirmed; search finds Album of the Year Daesang for ARIRANG at Melon Music Awards, not MAMA; no verifiable photo",
     "run": "2026-11-22"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_498219",
     "reason": "SFMOMA Thanksgiving post about RM x SFMOMA exhibition (open since Oct 2026); no new news, 'RM liked the post' is not news, candidate photos are gallery shots with no member (rule 5)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498267",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-27"
   }
 ]
