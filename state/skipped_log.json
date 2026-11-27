@@ -2498,5 +2498,35 @@
     "id": "tg-Crazy_Koreans_498253",
     "reason": "filter: not about BTS",
     "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498205",
+    "reason": "Code Kunst profile feature reposted from genius.korea; background article, not news; Love Is Blind release already posted",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498211",
+    "reason": "fansite photo dump from Kaohsiung Day-3, no news; photos from fan accounts, not official or news source",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498214",
+    "reason": "fansite photo dump from Kaohsiung Day-3, no news; photos from fan accounts, not official or news source",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498217",
+    "reason": "Love Is Blind spoiler speculation from a fan channel; rule 3 (speculation, leaks)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498218",
+    "reason": "recruitment ad for fan-channel admin team, not news",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498219",
+    "reason": "SFMOMA Thanksgiving post about RM x SFMOMA exhibition (open since Oct 2026); no new news, 'RM liked the post' is not news, candidate photos are gallery shots with no member (rule 5)",
+    "run": "2026-11-27"
   }
 ]
