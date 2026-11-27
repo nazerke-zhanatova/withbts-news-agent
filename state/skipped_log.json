@@ -1,25 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_496953",
-    "reason": "fan-channel tour schedule list, not checked against official BIGHIT MUSIC or tour notices; WebSearch found conflicting dates (Jakarta 29 Dec, Sydney, Melbourne extra show) and mixed time zones",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496954",
-    "reason": "daily recap: concert, MAMA Daesang and member news already posted; surprise-song setlist not confirmed by 2 outlets; member social updates too vague",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496955",
-    "reason": "repeat: teaser of tg-Crazy_Koreans_496954",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497041",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-Crazy_Koreans_497042",
     "reason": "filter: not about BTS",
     "run": "2026-11-22"
@@ -2497,6 +2477,26 @@
   {
     "id": "tg-Crazy_Koreans_498173",
     "reason": "venue transport and bag rules, logistics only; not news; unofficial fan repost",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83795",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-btsnewsru0_83807",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498232",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498233",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-27"
   }
 ]
