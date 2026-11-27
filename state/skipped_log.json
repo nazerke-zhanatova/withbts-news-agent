@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-btsnewsru0_83549",
-    "reason": "filter: no text (photo or video only)",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-btsnewsru0_83559",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497039",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496943",
-    "reason": "fan-filmed stage video (Agust D), no official or trusted source for the clip; fan video not allowed",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-koreaworld111_57815",
-    "reason": "Golden Disc voting guide from fan channel with unofficial telegra.ph link; 2 outlets found nothing on 2027 voting",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496945",
-    "reason": "news is about LE SSERAFIM (MAMA Best Collaboration), BTS only mentioned in passing",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496946",
-    "reason": "j-hope watch at Kaohsiung: fan channel only; WebSearch found no coverage of this watch at the concert, needs 2 reliable outlets",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496949",
-    "reason": "fan video with no described content; source unclear, no official or 2-outlet confirmation",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496951",
-    "reason": "fan-filmed concert clip of V (Taehyung) pouring water, not news from an official source",
-    "run": "2026-11-22"
-  },
-  {
-    "id": "tg-Crazy_Koreans_496952",
-    "reason": "banner joke about members' relationships: personal life (rule 3)",
-    "run": "2026-11-22"
-  },
-  {
     "id": "tg-Crazy_Koreans_496953",
     "reason": "fan-channel tour schedule list, not checked against official BIGHIT MUSIC or tour notices; WebSearch found conflicting dates (Jakarta 29 Dec, Sydney, Melbourne extra show) and mixed time zones",
     "run": "2026-11-22"
