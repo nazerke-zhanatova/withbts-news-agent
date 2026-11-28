@@ -1,55 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_497528",
-    "reason": "rule 3: airport photos of members returning home after tour city, private travel",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497532",
-    "reason": "aggregator item: fan opinion about member photo, no news",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497534",
-    "reason": "rule 3: airport photos of members returning home, private travel; fan comment",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497536",
-    "reason": "unverified fan-filmed backstage clip; no event context, no official or second source; low news value",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497556",
-    "reason": "fan-compiled schedule and merch date not confirmed by official source or search (rule 16); could not verify Merry Go Round holiday merch",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497557",
-    "reason": "daily digest: airport return is private travel; MAMA and Kaohsiung items already posted; surprise-song and speech details not verifiable from candidate text or search",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497558",
-    "reason": "duplicate pinned repost of 497557",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-koreaworld111_57859",
-    "reason": "rule 3: members returning home to Korea after tour city, private travel",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-koreaworld111_57866",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-koreaworld111_57869",
-    "reason": "filter: same story already looked at",
-    "run": "2026-11-23"
-  },
-  {
     "id": "tg-koreaworld111_57870",
     "reason": "filter: same story already looked at",
     "run": "2026-11-23"
