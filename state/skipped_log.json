@@ -2498,5 +2498,50 @@
     "id": "tg-Crazy_Koreans_498331",
     "reason": "filter: same story already looked at",
     "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498314",
+    "reason": "recruitment ad for the channel's admin team, not BTS news",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498315",
+    "reason": "fan-level story (author's children's book character inspired by Jimin); the only photo is a fan-made side-by-side graphic and the illustration is not a member photo, so no permitted photo (rule 5)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498322",
+    "reason": "empty fan sentiment repost, no news",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498323",
+    "reason": "tour schedule from aggregator: concert dates need an official source (rule 16); ibighit.com returned 403 and news searches disagree on Bangkok and Jakarta dates (3/5/6 vs 5/6, 26/27 vs 26/27/29)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498324",
+    "reason": "digest with unclear items (Yoongi 'masterpieces' has no detail); BT21 x RHINOSHIELD collab not found in search, brand tie-in with characters not members, no member photo",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498325",
+    "reason": "duplicate of tg-Crazy_Koreans_498324",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiywFBVV95cUxQalRrYkUyQ2Y3bDdEMFl0ek5NVWhxU2xsUllxUER4dUNDNENRN3BvZ003WElUQ044NjVsUTE3dm1ac0FBLWw5O",
+    "reason": "brand reputation ranking vs other idols (ranking comparison, not BTS news)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi1wFBVV95cUxPYUFSeVJmaGZGVDIxd3VEMVlhYThScy1mbzFDd1I1MHItQ05mM1pLZ0JFSFRXWVVwcjRFelJxWjJwMlhUZXJDd",
+    "reason": "romance speculation about Jung Kook and an actress in an MV (dating rumor, rule 3)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi0wFBVV95cUxOYW1FdVpBWE9NVlI3U0s1c2U3YV83RXZMV2dFV3NsWjJjMHZLSzdfaWhxeXg2Z0h2bS1zN0w5Q1RhcVc5TWh2S",
+    "reason": "Love Is Blind feat. Jung Kook already posted (tg-Crazy_Koreans_498101)",
+    "run": "2026-11-28"
   }
 ]
