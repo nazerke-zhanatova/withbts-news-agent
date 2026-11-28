@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_497473",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-23"
-  },
-  {
     "id": "tg-Crazy_Koreans_497479",
     "reason": "filter: not about BTS",
     "run": "2026-11-23"
@@ -2498,5 +2493,10 @@
     "id": "tg-Crazy_Koreans_498313",
     "reason": "Colgate Thailand j-hope ad countdown: brand account, but the campaign is from Jul/Aug 2026 and the countdown date is not stated; candidate photo shows the Colgate billboard without j-hope, no verified j-hope cover photo (rule 5)",
     "run": "2026-11-27"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498326",
+    "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-28"
   }
 ]
