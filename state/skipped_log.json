@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_498317",
     "reason": "filter: link already used in a post",
     "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498315",
+    "reason": "Jimin-inspired cat character in a children's book: only a fan aggregator repost plus the author's own account; no second reliable outlet found (rules 1, 2)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498322",
+    "reason": "fan reflection on a fan video with no news event; aggregator item (rule 12b)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498323",
+    "reason": "fan-compiled schedule digest: concert dates not confirmed by an official source (rule 16); WebSearch found conflicting Bangkok dates (3 vs 5-6 Dec); Love Is Blind release already posted",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498324",
+    "reason": "vague aggregator roundup: fashion photo items and an unspecified Suga post with no concrete facts; BT21 x RHINOSHIELD collab not found in WebSearch (rules 2, 12)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498325",
+    "reason": "repeat of tg-Crazy_Koreans_498324 roundup (rule 12a)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE1DTGd2LUpJRXJtcVc2ajM1TzN0QTVXajBUcTZkVWh0cVlpcFJjMnhFa1VlYmJXZ3h0WVM0MTVPblNXVU9feWVrc",
+    "reason": "Weverse community post headline only, no text, photo or member statement; fan community post, not verifiable (rules 1, 2)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMi9AFBVV95cUxOVUI4SGtvTUNZYnVvWEd6MldTZzBMR2pFTlZialcwQ083YlFzZ2lNQTd2NmZxTDRIRHpNejlnQjBfQVVyUV9ZS",
+    "reason": "casting speculation (Kim Yoo-jung in Love Is Blind) based on sightings; rumour (rule 3)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiXEFVX3lxTE54d1Fvbnk2R2JwWmJRdWRUcXlpZElxdGlVSXdyZ3hCTFlJN1djZVJlZnJadVhfaWVXTXh6YlFycVBfTnNrWnFqM",
+    "reason": "Weverse community post headline only, no content or photo; not verifiable (rules 1, 2)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiggFBVV95cUxOOHdvZkVSbkdVd3RIWHdTbmhxaXRaNDNCVzh5b0gxTE85R1dTeG5HQUdndWRGa19UTUd4OGdCOXE0VmNRT0tUN",
+    "reason": "Singapore concert-food promo roundup: commercial promotion, not BTS news (rule 3 / brand promo)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMinAFBVV95cUxQZ2lsREktMkdmWWZkSFU2aDVqM0wtSm82UGVLa1FacjBkVFluSXNVWWZGVHFNSlA4MEd1M1FMMG9YQS11VWlse",
+    "reason": "same Starbucks Singapore BTS THE CITY drink set as tg-Crazy_Koreans_498271, already in state/posted.json waiting for approval (rule 8)",
+    "run": "2026-11-28"
   }
 ]
