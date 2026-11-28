@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_497527",
-    "reason": "aggregator item: fan opinion/wish about photo, no news",
-    "run": "2026-11-23"
-  },
-  {
     "id": "tg-Crazy_Koreans_497528",
     "reason": "rule 3: airport photos of members returning home after tour city, private travel",
     "run": "2026-11-23"
@@ -2497,6 +2492,11 @@
   {
     "id": "rss-Google_News_EN-CBMif0FVX3lxTFA5WnEwWmowX2NFSzVNclhzY21PN0ZBNTlveVlCUnRIeW9sRHRuLVF2WlQ5M3E1cV9JWXdBSExzM0tMdXkySC1PSmpaUkhnZUhHUTRCZWoxUTYxcEZxbWpudU02bWFzSnZWbVg4U2VncFFFYjRvOUcyemJ0MnRzY00",
     "reason": "comparison meme (Hong Hye-gul likened to Jin); comparisons are not allowed news",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498366",
+    "reason": "filter: no text (photo or video only)",
     "run": "2026-11-28"
   }
 ]
