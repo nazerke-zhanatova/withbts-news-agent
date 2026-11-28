@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_497499",
-    "reason": "rule 3: return home to Korea after tour city, private travel, not a concert-city arrival",
-    "run": "2026-11-23"
-  },
-  {
     "id": "tg-Crazy_Koreans_497502",
     "reason": "rule 3: private airport moment after travel, not news",
     "run": "2026-11-23"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_498354",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498361",
+    "reason": "filter: not about BTS",
     "run": "2026-11-28"
   }
 ]
