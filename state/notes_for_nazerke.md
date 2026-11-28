@@ -509,3 +509,10 @@ Held or skipped in this run:
 3. **SUGA Kaohsiung photos (Complex headline, Google News item).** WebSearch found no SUGA-specific Kaohsiung photos or second outlet. Not posted.
 4. **Bangkok MRT LED tribute video (tg-Crazy_Koreans_498343), attributed to BMN Media.** WebSearch found no BMN Media post or report. Fan-channel relay only, not posted.
 5. **Calvin Klein engagement ranking (tg-Crazy_Koreans_498332, koreaworld111 58028).** Compares Jung Kook with 33 other celebrities (rule 3) and repeats the Calvin Klein posts already published. Skipped.
+
+## 2026-11-28 run (10 candidates, Crazy_Koreans 498362 to 498372 and Google News items): no posts queued
+
+1. **Jin in Taiwan (StarNews headline "JIN AURA LIGHTS UP TAIWAN", Google News item).** Only one outlet found, and WebSearch found no Jin performance in Taiwan on 27 Nov 2026. Held. If a second outlet or the BIGHIT MUSIC notice confirms the show, a post with a Jin-only photo can go out.
+2. **I Live Alone preview with Jung Kook (tg-Crazy_Koreans_498364, Code Kunst quote).** The episode date (4 Dec 2026) was not confirmed by search, and the candidate media is a still of an unidentified saxophone player. Not posted. Please check the MBC listing before any post.
+3. **Achievements digest (tg-Crazy_Koreans_498371).** Milestone list from one aggregator. Group news needs an all-7 photo, and none from a permitted source was found. Several items were already posted or are single-source. Not posted.
+4. **Singapore decorations (tg-Crazy_Koreans_498372).** Repeat of the Singapore THE CITY ARIRANG item already posted. The candidate photo is a cable car with no members.

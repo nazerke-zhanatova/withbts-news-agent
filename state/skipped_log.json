@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_498366",
     "reason": "filter: no text (photo or video only)",
     "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498362",
+    "reason": "channel promo for the MAX messenger, not news",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498363",
+    "reason": "BABYMONSTER member wearing a Jung Kook x Calvin Klein item at another group's soundcheck; not BTS member news, single fan relay",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498364",
+    "reason": "I Live Alone preview with Jung Kook: no broadcast date confirmed by search, only a fan relay of a producer quote, no member photo",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498365",
+    "reason": "LE SSERAFIM dance at another group's soundcheck, not BTS news",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498371",
+    "reason": "achievements digest held: group news needs an all-7 photo (none from a permitted source), several claims single-source, some items already posted",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498372",
+    "reason": "Singapore decorations: repeat of the posted BTS THE CITY ARIRANG Singapore item; candidate photo shows no members",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMipwFBVV95cUxNN3ZiTWozTGlpTkREYjZuUm5QRUdtLTZDSDludDRMOWNnMkNETGZhU0VYSHpzdk84Tm0ycFh2ZVJMM0VDS3dLL",
+    "reason": "Calvin Klein engagement vs other celebrities (comparison, rule 3); repeat of Calvin Klein campaign posts; single outlet",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMieEFVX3lxTE8tbm1BbWRQTS05TUhvM1dWLVZxY2xzTmxBNUx1dHlBREFXSVBaSVA1NTM0YWU4a3UySXpwR2J3YllhS0daLTczd",
+    "reason": "Jin Taiwan performance headline: no second outlet or schedule found, held",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMipgFBVV95cUxPbXlLdlg3UGZrZUYtYnNkUkNZSzk5UWc2TTMxY3EzMUQ4ckRwaXZCeWRJcGU2cE95dVQtNXo1bjRyc0N6eVpZb",
+    "reason": "celebrity book list mentioning RM, not BTS news",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMirgJBVV95cUxOV1RWVHhkR0RuZ2dEUnllZkFFbG1KOUVwNi1nLWpsV0oxaUFQNkttXzk1c1FPQ3h4SHFSdjFsbVJjdVNoQi1zS",
+    "reason": "Calvin Klein engagement ranking vs 33 other celebrities (comparison, rule 3)",
+    "run": "2026-11-28"
   }
 ]
