@@ -2498,5 +2498,55 @@
     "id": "tg-Crazy_Koreans_498361",
     "reason": "filter: not about BTS",
     "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498348",
+    "reason": "trend explainer (Lucky Turtle keychains) built around a member's story; no BTS news",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498350",
+    "reason": "Jin Taiwan concert recap: Weverse photo and Taiwan coverage already posted (koreaworld111_57999, bts-kaohsiung-arrival-1118); rest is restaurant and night-market trivia",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498351",
+    "reason": "fan theories about a spoiler in a live performance; Love Is Blind release already posted (tg-Crazy_Koreans_498101)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498352",
+    "reason": "Jung Kook reposted a camera-brand promo video; trivial, no news value",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498359",
+    "reason": "Jung Kook reposted an AI face-swap video of another actress; AI content, not news",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMikAFBVV95cUxQX1dDSTVIOFF6VnZySGZXc2xpelVlMjJ4Y1Z5S19SYlJTV2kwdFkyMGJmdlpIbllKNkU0VmM1NzRIaU1CdGtOS",
+    "reason": "Singapore attraction promo with SWIM; single outlet, no BTS tie-in confirmed by search",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiZ0FVX3lxTE5SeXdWaGhIaFVCZmJUdEpPZEM2WVhVOWRtVk96MEFnZ0lhWXB0SVJHaHNldkNkcTljZDJxUXdQeTFTZGRqVFlOa",
+    "reason": "Jung Kook Hublot photos: same news as already posted watch post (tg-koreaworld111_57977)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMijwJBVV95cUxNbzAwZ1kxVlNQU0VndDUtTVhfZkZfOUJGU3RxNzhIaEpQQ3JvM1lIbDJhcmkxM1N4TzJjZTN4M2I3Zk1fRENQV",
+    "reason": "claimed Los Angeles show with Taehyung on 27 Nov contradicts the tour (LA shows were in September); NewsBreak, unverified",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMiYkFVX3lxTE9maUlWdTI1cy1IY1dwOGRtNWxSNXFtVklnenpkTU5COFhnM1pjeWtRN0l3RURQM2EzeG95SlJ6enN4Z29BaERGc",
+    "reason": "travel-booking market data (Agoda), not BTS news",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "rss-Google_News_EN-CBMif0FVX3lxTFA5WnEwWmowX2NFSzVNclhzY21PN0ZBNTlveVlCUnRIeW9sRHRuLVF2WlQ5M3E1cV9JWXdBSExzM0tMdXkySC1PSmpaUkhnZUhHUTRCZWoxUTYxcEZxbWpudU02bWFzSnZWbVg4U2VncFFFYjRvOUcyemJ0MnRzY00",
+    "reason": "comparison meme (Hong Hye-gul likened to Jin); comparisons are not allowed news",
+    "run": "2026-11-28"
   }
 ]
