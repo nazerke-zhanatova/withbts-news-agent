@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_497469",
-    "reason": "fan photo with personal commentary, no news; aggregator item (rule 12b)",
-    "run": "2026-11-23"
-  },
-  {
     "id": "tg-Crazy_Koreans_497474",
     "reason": "fan-sighting anecdote from fan aggregator only; reaction unclear; photo identity of Jimin not confirmed by caption (rules 2, 5)",
     "run": "2026-11-23"
@@ -2497,6 +2492,11 @@
   {
     "id": "rss-Google_News_EN-CBMinAFBVV95cUxQZ2lsREktMkdmWWZkSFU2aDVqM0wtSm82UGVLa1FacjBkVFluSXNVWWZGVHFNSlA4MEd1M1FMMG9YQS11VWlse",
     "reason": "same Starbucks Singapore BTS THE CITY drink set as tg-Crazy_Koreans_498271, already in state/posted.json waiting for approval (rule 8)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498333",
+    "reason": "filter: not about BTS",
     "run": "2026-11-28"
   }
 ]
