@@ -1,15 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_497443",
-    "reason": "fan-photographer concert photo repost with opinion caption, no news (rule 12b empty repost)",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497501",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-23"
-  },
-  {
     "id": "tg-Crazy_Koreans_497506",
     "reason": "filter: not about BTS",
     "run": "2026-11-23"
@@ -2497,6 +2487,16 @@
   {
     "id": "rss-Google_News_EN-CBMi0wFBVV95cUxOYW1FdVpBWE9NVlI3U0s1c2U3YV83RXZMV2dFV3NsWjJjMHZLSzdfaWhxeXg2Z0h2bS1zN0w5Q1RhcVc5TWh2S",
     "reason": "Love Is Blind feat. Jung Kook already posted (tg-Crazy_Koreans_498101)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498314",
+    "reason": "filter: same story already looked at",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498317",
+    "reason": "filter: link already used in a post",
     "run": "2026-11-28"
   }
 ]
