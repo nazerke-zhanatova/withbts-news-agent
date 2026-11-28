@@ -1,20 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_497474",
-    "reason": "fan-sighting anecdote from fan aggregator only; reaction unclear; photo identity of Jimin not confirmed by caption (rules 2, 5)",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497475",
-    "reason": "recruitment ad for the fan channel's admin team, not news (rule 12b)",
-    "run": "2026-11-23"
-  },
-  {
-    "id": "tg-Crazy_Koreans_497476",
-    "reason": "fan-cam clip with fan caption, not official or trusted video (rule 5c, fan edits)",
-    "run": "2026-11-23"
-  },
-  {
     "id": "tg-Crazy_Koreans_497477",
     "reason": "fan opinion about Jimin's outfit and look, no news; aggregator item (rule 12b)",
     "run": "2026-11-23"
@@ -2496,6 +2481,21 @@
   },
   {
     "id": "tg-Crazy_Koreans_498333",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498338",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498339",
+    "reason": "filter: not about BTS",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498340",
     "reason": "filter: not about BTS",
     "run": "2026-11-28"
   }
