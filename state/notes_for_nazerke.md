@@ -501,3 +501,11 @@ Held or skipped in this run:
 - **SUGA Instagram post from Kaohsiung (498257, koreaworld111 58015):** the post is agustd's, caption only "KAOHSIUNG", photos taken by SUGA. The subjects could not be confirmed, so no post. If you want it, check the photos by hand and decide which member is shown.
 - **Vogue Korea December interview (498246, 498247):** the Q&A is a repost without a link. The cover story (tg-Crazy_Koreans_498030) is still waiting approval, so this interview is best posted with it.
 - **Starbucks Singapore teaser (498271):** BTS THE CITY ARIRANG Singapore (1 to 31 Dec) is confirmed by Weverse notice 40721 and JoongAng Daily, but the Starbucks product is not. No post.
+
+## 2026-11-28 run (10 candidates): no posts queued
+
+1. **V Harper's Bazaar Korea December interview (tg-Crazy_Koreans_498341, 498342).** The feature exists: harpersbazaar.co.kr/article/1913033 (teaser dated 12 Nov, V on the December cover, full text behind login). The Telegram excerpts are a fan-channel relay, and the exact interview text was not read. Held on the photo: the candidate photo (black-and-white, a man sitting by a hedge) has no caption naming V, so it cannot be used. If you can confirm the photo or approve a V photo with a caption, a short post can go out with the magazine credited.
+2. **RM Instagram stories (tg-koreaworld111_58030).** No caption, and the candidate photo is a hand holding a glass turtle with no member in it. Not posted.
+3. **SUGA Kaohsiung photos (Complex headline, Google News item).** WebSearch found no SUGA-specific Kaohsiung photos or second outlet. Not posted.
+4. **Bangkok MRT LED tribute video (tg-Crazy_Koreans_498343), attributed to BMN Media.** WebSearch found no BMN Media post or report. Fan-channel relay only, not posted.
+5. **Calvin Klein engagement ranking (tg-Crazy_Koreans_498332, koreaworld111 58028).** Compares Jung Kook with 33 other celebrities (rule 3) and repeats the Calvin Klein posts already published. Skipped.
