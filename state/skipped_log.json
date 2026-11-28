@@ -1,10 +1,5 @@
 [
   {
-    "id": "tg-Crazy_Koreans_497479",
-    "reason": "filter: not about BTS",
-    "run": "2026-11-23"
-  },
-  {
     "id": "tg-koreaworld111_57857",
     "reason": "unverified: one aggregator line with YouTube live link about BTS returning to Korea from Incheon; WebSearch found no second outlet for a 22 Nov arrival (rule 1)",
     "run": "2026-11-23"
@@ -2497,6 +2492,11 @@
   {
     "id": "tg-Crazy_Koreans_498326",
     "reason": "filter: no text (photo or video only)",
+    "run": "2026-11-28"
+  },
+  {
+    "id": "tg-Crazy_Koreans_498331",
+    "reason": "filter: same story already looked at",
     "run": "2026-11-28"
   }
 ]
